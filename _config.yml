@@ -1,5 +1,8 @@
-title: "DR. STAFFAN CANBACK"
+title: "Dr. Staffan Canback"
 description: "My publications and citations"
+
+remote_theme: pages-themes/cayman@v0.2.0
+
 
 url: "https://scanback.github.io"
 baseurl: "/docs"
@@ -7,6 +10,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-remote-theme
 # SC test
 # defaults:
 #   - scope:
