@@ -1,14 +1,18 @@
-title: "TELLUSANT, INC."
-description: "Published materials by Tellusant team members"
+title: "Dr. Staffan Canback"
+description: "Four Decades of Top Management Problem Solving Globally"
 
-url: "https://tellusant.github.io"
+remote_theme: pages-themes/slate@v0.2.0
+# remote_theme: pages-themes/slate@v0.2.0
+# remote_theme: pages-themes/cayman@v0.2.0
+
+url: "https://scanback.github.io"
 baseurl: "/docs"
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-remote-theme
+
 sitemap:
   path: /docs/sitemap.xml
-  # may add later: exclude_from_sitemap:  - /index.html
-
-      
