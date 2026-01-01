@@ -1,0 +1,35 @@
+---
+---
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en' }}">
+  <head>
+    {% include head.html %}
+    <link rel="icon" type="image/svg+xml" href="{{ '/assets/favicon-green.png' | relative_url }}">
+    <link rel="shortcut icon" href="{{ '/assets/favicon-green.svg' | relative_url }}">
+  </head>
+
+  <body>
+    {% include header.html %}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {% include footer.html %}
+   
+    <script>
+document.addEventListener("scroll", function () {
+  const header = document.querySelector(".site-header");
+  if (!header) return;
+
+  if (window.scrollY > 50) {
+    header.classList.add("shrink");
+  } else {
+    header.classList.remove("shrink");
+  }
+});
+</script>
+  </body>
+</html>
