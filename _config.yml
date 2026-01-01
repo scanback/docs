@@ -1,6 +1,7 @@
-title: "TELLUSANT, INC."
-description: "Published materials by Tellusant team members"
+title: "Dr. Staffan Canback"
+description: "Four Decades of Top Management Problem Solving Globally"
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 url: "https://tellusant.github.io"
 =======
@@ -9,11 +10,20 @@ remote_theme: pages-themes/slate@v0.2.0
 
 url: "https://scanback.github.io"
 >>>>>>> parent of 32c318a (Update _config.yml)
+=======
+remote_theme: pages-themes/slate@v0.2.0
+# remote_theme: pages-themes/slate@v0.2.0
+# remote_theme: pages-themes/cayman@v0.2.0
+
+url: "https://scanback.github.io"
+>>>>>>> a52c3790673ff7320c426cc04515534d2b8252e5
 baseurl: "/docs"
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+<<<<<<< HEAD
 <<<<<<< HEAD
 sitemap:
   path: /docs/sitemap.xml
@@ -29,3 +39,9 @@ sitemap:
 #     values:
 #       image: https://tellusant.github.io/docs/assets/social-card.png
 >>>>>>> parent of 32c318a (Update _config.yml)
+=======
+  - jekyll-remote-theme
+
+sitemap:
+  path: /docs/sitemap.xml
+>>>>>>> a52c3790673ff7320c426cc04515534d2b8252e5
