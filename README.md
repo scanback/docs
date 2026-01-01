@@ -1,8 +1,6 @@
-# Publications by Staffan Canback
-This repo contains various published materials by Staffan Canback, executive chairman of Tellusant, Inc.  
+# Website of Staffan Canback
+I decided to make my website as basic as possible using markdown language on static web pages. The purpose is to share my thoughts without any graphical embellishments.  
 
-Most of the materials are LinkedIn posts converted to Markdown files (.md).  
+This setup has the advantage of being easily crawed and indexed by search engines and soon by AI bots (which currently do not have their own search capabilities, but will soon).  
 
-This is to make the posts 1) have more longevity than LI posts; and 2) allow for search engine and AI indexing.  
-
-Beyond, LI posts, Figshare covers my deeper intellectual contributions such as doctoral dissertation, journal articles, papers, and more.  
+I have published papers, articles, posts and other for 40 years. I thus have an immense repository of materials that over time will be shared on the website.  
