@@ -1,14 +1,31 @@
 title: "TELLUSANT, INC."
 description: "Published materials by Tellusant team members"
 
+<<<<<<< HEAD
 url: "https://tellusant.github.io"
+=======
+remote_theme: pages-themes/slate@v0.2.0
+# remote_theme: pages-themes/cayman@v0.2.0
+
+url: "https://scanback.github.io"
+>>>>>>> parent of 32c318a (Update _config.yml)
 baseurl: "/docs"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+<<<<<<< HEAD
 sitemap:
   path: /docs/sitemap.xml
   # may add later: exclude_from_sitemap:  - /index.html
 
       
+=======
+  - jekyll-remote-theme
+# SC test
+# defaults:
+#   - scope:
+#       path: ""
+#     values:
+#       image: https://tellusant.github.io/docs/assets/social-card.png
+>>>>>>> parent of 32c318a (Update _config.yml)
