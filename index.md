@@ -1,3 +1,8 @@
+---
+title: "My Publications & Citations Repository"
+description: "This open access repository will contain my complete published works. It ranges from scientific papers to social media posts"
+image: /assets/social-card-think.png
+---
 # My Publications & Citations Repository
 
 This is being built gradually starting October 17, 2025
