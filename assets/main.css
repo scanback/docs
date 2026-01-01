@@ -1,0 +1,293 @@
+/* ---------------------------------------------------------
+   GLOBAL TYPOGRAPHY & BASE
+--------------------------------------------------------- */
+
+html {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+.site-title {
+  color: #0066cc !important;
+   text-decoration: none;
+  font-weight: 600;
+}
+
+/* Desktop layout: match body margin */
+.header-row-top,
+.header-row-bottom {
+  padding-left: 4rem;   /* matches .wrapper padding */
+  padding-right: 4rem;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+               "Helvetica Neue", Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.5; /* 1.6 */
+  background: #ffffff;  /* light gray background #f7f7f7*/
+  color: #333;
+}
+
+/* Make images never overflow */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Links */
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ---------------------------------------------------------
+   HEADER
+--------------------------------------------------------- */
+
+.site-header {
+  background: white;
+  border-bottom: 4px solid #ddd;
+  padding: 0.8rem 0;
+  position: sticky;   /* makes it stick */
+  top: 0;             /* stick to top */
+  z-index: 1000;      /* stay above content */
+  background: white;  /* ensure it doesn’t become transparent */
+}
+.header-inner {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.site-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.site-nav a {
+  margin-left: 1.5rem;
+  font-size: 1rem;
+  color: #333;
+}
+
+.site-nav a:hover {
+  text-decoration: underline;
+}
+
+/* ---------------------------------------------------------
+   PAGE CONTENT
+--------------------------------------------------------- */
+
+.page-content {
+  background: white;
+  padding: 1rem 0;
+}
+
+.wrapper {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+/* Testing image centering 12/19/2025
+.ctr {
+  text-align: center;
+}
+
+/* ---------------------------------------------------------
+   HEADINGS
+--------------------------------------------------------- */
+
+h1, h2, h3, h4, h5 {
+  font-weight: 600;
+  color: #222;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+}
+
+h1 { font-size: 2.2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.4rem; }
+h4 { font-size: 1.1rem; }
+
+h4 + h4 {
+  margin-top: 0.6rem;
+}
+
+h4 + p {
+  margin-top: 0rem   /* tighten space */
+}
+
+/* ---------------------------------------------------------
+   CODE BLOCKS & PRE
+--------------------------------------------------------- */
+
+code {
+  background: #eee;
+  padding: 3px 5px;
+  border-radius: 4px;
+  font-family: Menlo, Consolas, "Courier New", monospace;
+}
+
+pre {
+  background: #eee;
+  padding: 1rem;
+  border-radius: 6px;
+  overflow-x: auto;
+}
+
+/* ---------------------------------------------------------
+   FOOTER (if you decide to enable it)
+--------------------------------------------------------- */
+
+.site-footer {
+  padding: 1rem 0;
+  border-top: 4px solid #ddd;
+  background: white;
+  color: #777;
+   font-size: 75%;
+}
+
+/* ---------------------------------------------------------
+   RESPONSIVE
+--------------------------------------------------------- */
+
+@media (max-width: 600px) {
+  .header-inner {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .site-nav a {
+    margin-left: 0.8rem;
+    font-size: 0.95rem;
+  }
+}
+
+/* --- Header Search Box Styles --- */
+
+.header-search-form {
+  display: inline-block;
+  margin-left: 1rem;
+width: 90%;
+  max-width: 300px;
+  margin: 0 auto;     /* stays perfectly centered */   
+}
+
+.header-search-input {
+  padding: 4px 8px;
+  font-size: 0.95rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background: #fff;
+}
+
+/* Make the input look good inside the horizontal nav */
+.site-nav {
+  display: flex;
+  align-items: center;
+  gap: 1rem; /* spacing between links and search box */
+}
+
+.header-search-input:focus {
+  outline: none;
+  border-color: #888;
+}
+.site-header {
+  background: white;
+  padding: 0.8rem 0 1.2rem;
+  border-bottom: 1px solid #eee;
+}
+/* ---------------------------------------------------------
+   HEADER ON 2 ROWS
+--------------------------------------------------------- */
+/* Make header a column layout */
+.site-header {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 1rem 0;
+  background: white;
+  border-bottom: 1px solid #eee;
+}
+
+/* FORCE row 1 to be horizontal, spaced left/right */
+.header-row-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* row 2: center the search */
+.header-row-bottom {
+  display: flex;
+  justify-content: center;
+}
+
+/* search width */
+.header-search-form {
+  width: 100%;
+  max-width: 550px;
+}
+
+.header-search-input {
+  width: 100%;
+  padding: 0.6rem 0.8rem;
+  font-size: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+/* Smartphones: stack into three rows */
+@media (max-width: 600px) {
+
+  /* Header becomes a vertical layout */
+  .site-header {
+    gap: 0.4rem;
+    padding: 0.8rem 0 1.2rem;
+  }
+
+  /* Row 1: title centered */
+  .header-row-top {
+    flex-direction: column;
+    align-items: center;
+    gap: 0.3rem;
+  }
+
+  /* Title centered */
+  .site-title {
+    text-align: center;
+  }
+
+  /* Row 2: navigation centered on its own line */
+  .site-nav {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+
+  /* Row 3: search centered as its own line */
+  .header-row-bottom {
+    display: flex;
+    justify-content: center;
+  }
+
+  .header-search-form {
+    max-width: 320px;  /* smartphone-friendly width */
+    width: 100%;
+  }
+}
