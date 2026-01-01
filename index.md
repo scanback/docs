@@ -1,9 +1,9 @@
 ---
-title: "My Publications & Citations Repository"
+title: "My Personal Website"
 description: "This open access repository will contain my complete published works. It ranges from scientific papers to social media posts"
 image: /assets/social-card-think.png
 ---
-# My Publications & Citations Repository
+# My Personal Website
 
 This open access repository will contain my complete published works. It ranges from scientific papers to social media posts.  
 
