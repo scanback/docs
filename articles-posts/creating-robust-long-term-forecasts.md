@@ -1,7 +1,7 @@
 ---
 title: "Creating Robust Long-Term Forecasts: The Tellusant 7-Step Method"
 description: "This short document describes how sophisticated and careful our long-term predictive models are and allows readers to glean under the hood."
-image: /assets/social-card-pub.png
+image: /assets/social-card-think.png
 ---
 
 # Creating Robust Long-Term Forecasts: The Tellusant 7-Step Method
