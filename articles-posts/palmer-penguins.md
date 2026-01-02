@@ -15,7 +15,7 @@ image: /assets/social-card-penguins.png
   Artwork by @allison_horst
 </p>
 
-> *What an incredible journey. Penguins to AI strategy showcases how diverse data applications can be.*  
+> *What an incredible journey you take us on. Penguins to AI strategy showcases how diverse data applications can be.*  
 Marc Sartele
    
 Penguins are an unlikely influence on management science, but the Palmer Penguins Dataset has had a profound impact on machine learning and artificial intelligence, and by extension on emerging business practices.
