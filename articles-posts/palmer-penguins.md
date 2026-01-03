@@ -1,7 +1,7 @@
 ---
 title: "The Palmer Penguins and Their Role in Business"
 description: "Penguins are an unlikely influence on management science, but this dataset has had a profound impact on emerging business practices."
-image: /assets/social-card-penguins.png
+image: /assets/social-card-think.png
 ---
 # The Palmer Penguins and their Role in Business  
 *Dr. Staffan Canback, Tellusant*  
