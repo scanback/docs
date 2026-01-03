@@ -90,12 +90,7 @@ a:hover {
   text-decoration: underline;
 }
 
-.site-title {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  text-decoration: none;
-}
+/* ---Test of logo--- */
 
 .site-logo {
   height: 56px;          /* adjust as needed */
