@@ -98,13 +98,19 @@ a:hover {
 }
 
 .site-logo {
-  height: 28px;          /* adjust as needed */
+  height: 56px;          /* adjust as needed */
   width: auto;
 }
 
 .site-title-text {
   font-size: 1.25rem;    /* match your existing title size */
   font-weight: 600;
+}
+
+.header-row-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 /* ---------------------------------------------------------
