@@ -3,7 +3,7 @@ title: "The Palmer Penguins and Their Role in Business"
 description: "Penguins are an unlikely influence on management science, but this dataset has had a profound impact on emerging business practices."
 image: /assets/social-card-think.png
 ---
-# The Palmer Penguins and their Role in Business  
+# The Palmer Penguins and Their Role in Business  
 *Dr. Staffan Canback, Tellusant*  
 
 ---
@@ -35,7 +35,7 @@ The graph below shows that it could be done. It may look easy when you see the r
 <img src="assets/images/tellusant-palmer-penguins-kde.svg"  width="600" alt="Tellusant: Palmer penguins KDE">
 </p>
 
-This particular graph was created using kernel density estimation (KDE). For those interested, you can also create it in Excel using its new Python function together with a suitable library.
+This particular graph was created using kernel density estimation (KDE). Those interested  can also create it in Excel using its new Python function together with a suitable library.
 
 ## How Tellusant Uses These Methods
 
