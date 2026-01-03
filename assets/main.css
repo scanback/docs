@@ -117,7 +117,7 @@ blockquote {
   align-items: center;
 }
 
-/* ---Test of header fade--- */
+/* ---Header fade--- */
 
 .site-header {
   position: sticky;      /* or fixed if you prefer */
