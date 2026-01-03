@@ -35,7 +35,7 @@ The graph below shows that it could be done. It may look easy when you see the r
 <img src="assets/images/tellusant-palmer-penguins-kde.svg"  width="600" alt="Tellusant: Palmer penguins KDE">
 </p>
 
-This particular graph was created by me in ChatGPT. For those interested, you can also create it in Excel using its new Python function together with a suitable library.
+This particular graph was created using kernel density estimation (KDE). For those interested, you can also create it in Excel using its new Python function together with a suitable library.
 
 ## How Tellusant Uses These Methods
 
