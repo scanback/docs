@@ -117,6 +117,23 @@ blockquote {
   align-items: center;
 }
 
+/* ---Test of header fade--- */
+
+.site-header {
+  position: sticky;      /* or fixed if you prefer */
+  top: 0;
+  z-index: 1000;
+  transition:
+    opacity 0.25s ease,
+    transform 0.25s ease;
+}
+
+.site-header.is-hidden {
+  opacity: 0;
+  transform: translateY(-10px); /* subtle upward motion */
+  pointer-events: none;         /* prevents invisible clicks */
+}
+
 /* ---------------------------------------------------------
    PAGE CONTENT
 --------------------------------------------------------- */
