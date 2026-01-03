@@ -1,0 +1,21 @@
+name: IndexNow
+
+on:
+  push:
+    branches: ["main"]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Submit to IndexNow
+        run: |
+          curl -X POST "https://api.indexnow.org/indexnow" \
+          -H "Content-Type: application/json" \
+          -d '{
+            "host": "scanback.github.io",
+            "key": "39f6b43d72264f4fa6899655a42f2330",
+            "urlList": [
+              "https://scanback.github.io/docs/"
+            ]
+          }'
