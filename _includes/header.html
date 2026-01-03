@@ -1,6 +1,16 @@
 <header class="site-header">
 
   <!-- ROW 1 -->
+    <div class="header-row header-row-top">
+    <a class="site-title" href="{{ '/' | relative_url }}">
+      <img
+        src="{{ '/assets/images/favicon-green.svg' | relative_url }}"
+        alt="{{ site.title }} Scanback logo"
+        class="site-logo"
+      >
+      <span class="site-title-text">{{ site.title }}</span>
+    </a>
+      
   <div class="header-row header-row-top">
     <a class="site-title" href="{{ '/' | relative_url }}">
       {{ site.title }}
