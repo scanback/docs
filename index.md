@@ -17,6 +17,9 @@ I have hundreds of LinkedIn and Medium articles and posts that are lost because 
 #### [Academic Papers et Plus](papers/index.md)
 Find my academic papers and doctoral dissertation. They cover diseconpmies of scale / bureaucratic limits of firm size, the theory of why management consultants exist, global market analysis method, new perspectives on what strategy is, and more.
 
+#### [Quick Reads](quick-reads/index.md)
+I'm the main contributor to Tellusant Quick Reads. Find all of them here.
+
 #### [How My Work Is Cited Around the World](citations/index.md)
 I have hundred of academic, business, and media citations to my name.
 
