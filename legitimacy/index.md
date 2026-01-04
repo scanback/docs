@@ -1,7 +1,7 @@
 ## My Profile from Gemini 3.0
-Dr. Staffan Canback is an executive, management consultant and researcher best known for his work applying Transaction Cost Economics (TCE) to organizational structure, specifically focusing on the theoretical and empirical limits of how large a firm can grow (diseconomies of scale).
+Dr. Staffan Canback is an executive, management consultant and researcher best known for his work applying Transaction Cost Economics (TCE) to organizational structure, specifically focusing on the theoretical and empirical limits of how large a firm can grow (diseconomies of scale).  
 
-Here are the primary citations and publications associated with his work, which are frequently referenced in business and economic literature:
+Here are the primary citations and publications associated with his work, which are frequently referenced in business and economic literature:  
 
 ### Key Publications & Citations
 #### 1. On the Limits of Firm Size (Most Cited Work)
