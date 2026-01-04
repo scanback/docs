@@ -1,29 +1,94 @@
-name: IndexNow
+name: IndexNow (changed pages)
 
 on:
   push:
     branches: ["main"]
 
 jobs:
-  notify:
+  indexnow:
     runs-on: ubuntu-latest
     steps:
-      - name: Submit to IndexNow
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Submit changed pages to IndexNow
         shell: bash
+        env:
+          HOST: scanback.github.io
+          BASE_PATH: /docs
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
         run: |
+          set -euo pipefail
+
+          BEFORE="${{ github.event.before }}"
+          AFTER="${{ github.sha }}"
+
+          # If BEFORE is missing (rare), fall back to previous commit
+          if [ -z "${BEFORE}" ] || [ "${BEFORE}" = "0000000000000000000000000000000000000000" ]; then
+            BEFORE="$(git rev-parse HEAD^ || true)"
+          fi
+
+          CHANGED="$(git diff --name-status "$BEFORE" "$AFTER" || true)"
+          echo "Changed files:"
+          echo "$CHANGED"
+
+          urls=()
+
+          while IFS=$'\t' read -r status path; do
+            [ -z "${path:-}" ] && continue
+
+            # Only pages
+            case "$path" in
+              *.md|*.html) ;;
+              *) continue ;;
+            esac
+
+            # Ignore non-page sources / plumbing
+            case "$path" in
+              _includes/*|_layouts/*|_sass/*|assets/*|.github/*|README.md) continue ;;
+            esac
+
+            # Map file -> URL for your /page.html pattern
+            if [[ "$path" =~ (^|/)index\.(md|html)$ ]]; then
+              url="https://${HOST}${BASE_PATH}/"
+            elif [[ "$path" == *.md ]]; then
+              base="${path%.md}"
+              url="https://${HOST}${BASE_PATH}/${base}.html"
+            else
+              url="https://${HOST}${BASE_PATH}/${path}"
+            fi
+
+            urls+=("$url")
+          done < <(printf "%s\n" "$CHANGED")
+
+          if [ ${#urls[@]} -eq 0 ]; then
+            echo "No eligible changed pages to submit."
+            exit 0
+          fi
+
+          # De-dupe
+          mapfile -t uniq_urls < <(printf "%s\n" "${urls[@]}" | sort -u)
+
+          echo "Submitting URLs:"
+          printf "%s\n" "${uniq_urls[@]}"
+
+          # Build JSON payload
+          python3 - << 'PY' > payload.json
+          import json, os, sys
+          host = os.environ["HOST"]
+          key  = os.environ["INDEXNOW_KEY"]
+          urls = [line.strip() for line in sys.stdin if line.strip()]
+          print(json.dumps({"host": host, "key": key, "urlList": urls[:10000]}))
+          PY
+          <<< "$(printf "%s\n" "${uniq_urls[@]}")"
+
           code=$(curl -sS -o /dev/null -w "%{http_code}" \
             -X POST "https://api.indexnow.org/indexnow" \
             -H "Content-Type: application/json; charset=utf-8" \
-            -d '{
-              "host": "scanback.github.io",
-              "key": "${{ secrets.INDEXNOW_KEY }}",
-              "urlList": [
-                "https://scanback.github.io/docs/"
-              ]
-            }')
+            --data-binary @payload.json)
 
           echo "IndexNow HTTP status: $code"
-
           if [ "$code" != "200" ] && [ "$code" != "202" ]; then
             echo "IndexNow submission failed (HTTP $code)"
             exit 1
