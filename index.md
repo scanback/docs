@@ -15,7 +15,7 @@ It's being built gradually starting in October 2025. For the time being, find so
 I have hundreds of LinkedIn and Medium articles and posts that are lost because of the ephemeral character of social media. I gradually save them for posterity here.  
 
 #### [Academic Papers et Plus](papers/index.md)
-Find my academic papers and doctoral dissertation. They covers diseconpmies of scale / bureaucratic limits of firm size, the theory of why management consyultants exist, global market analyses, new perspectives on what strategy is, and more.
+Find my academic papers and doctoral dissertation. They cover diseconpmies of scale / bureaucratic limits of firm size, the theory of why management consultants exist, global market analysis method, new perspectives on what strategy is, and more.
 
 #### [How My Work Is Cited Around the World](citations/index.md)
 I have hundred of academic, business, and media citations to my name.
