@@ -14,7 +14,7 @@ For the time being, find some of the publications on <a href="https://figshare.c
 #### [Articles & Posts](articles-posts/index.md)  
 I have hundreds of LinkedIn and Medium articles and posts that are lost because of the ephemeral character of social media. I gradually save them for posterity here.  
 
-#### [My Legitimacy](leagitimacy.md)
+#### [My Legitimacy](leagitimacy/index.md)
 
 ## My Profile from Gemini 3.0
 Dr. Staffan Canback is an executive, management consultant and researcher best known for his work applying Transaction Cost Economics (TCE) to organizational structure, specifically focusing on the theoretical and empirical limits of how large a firm can grow (diseconomies of scale).
