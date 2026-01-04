@@ -9,18 +9,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Submit to IndexNow
-       run: |
-  code=$(curl -sS -o /dev/null -w "%{http_code}" \
-    -X POST "https://api.indexnow.org/indexnow" \
-    -H "Content-Type: application/json; charset=utf-8" \
-    -d '{
-      "host": "scanback.github.io",
-      "key": "39f6b43d72264f4fa6899655a42f2330",
-      "urlList": [
-        "https://scanback.github.io/docs/"
-      ]
-    }')
+        shell: bash
+        run: |
+          code=$(curl -sS -o /dev/null -w "%{http_code}" \
+            -X POST "https://api.indexnow.org/indexnow" \
+            -H "Content-Type: application/json; charset=utf-8" \
+            -d '{
+              "host": "scanback.github.io",
+              "key": "39f6b43d72264f4fa6899655a42f2330",
+              "urlList": [
+                "https://scanback.github.io/docs/"
+              ]
+            }')
 
-  echo "IndexNow HTTP status: $code"
+          echo "IndexNow HTTP status: $code"
 
-  test "$code" = "200" -o "$code" = "202"
+          if [ "$code" != "200" ] && [ "$code" != "202" ]; then
+            echo "IndexNow submission failed (HTTP $code)"
+            exit 1
+          fi
