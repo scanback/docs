@@ -16,7 +16,7 @@ jobs:
             -H "Content-Type: application/json; charset=utf-8" \
             -d '{
               "host": "scanback.github.io",
-              "key": "39f6b43d72264f4fa6899655a42f2330",
+              "key": "${{ secrets.INDEXNOW_KEY }}",
               "urlList": [
                 "https://scanback.github.io/docs/"
               ]
