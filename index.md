@@ -21,4 +21,4 @@ Find my academic papers and doctoral dissertation. They covers diseconpmies of s
 I have hundred of academic, business, and media citations to my name.
 
 #### [My Legitimacy](legitimacy/index.md)
-What gives me the right to publish the kind of deep intellectual materials you find here?
+What gives me the right to publish the kind of deep intellectual materials you find here? I asked ChatGPT and Gemini to summarize my credentials.
