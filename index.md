@@ -17,7 +17,7 @@ I have hundreds of LinkedIn and Medium articles and posts that are lost because 
 #### [Academic Papers et Plus](papers/index.md)
 Find my academic papers and doctoral dissertation. They covers diseconpmies of scale / bureaucratic limits of firm size, the theory of why management consyultants exist, global market analyses, new perspectives on what strategy is, and more.
 
-#### [Citations of My Works](citations/index.md)
+#### [How My Work Is Cited Around the World](citations/index.md)
 I have hundred of academic, business, and media citations to my name.
 
 #### [My Legitimacy](legitimacy/index.md)
