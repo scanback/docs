@@ -3,11 +3,11 @@ title: "SCANBACK think"
 description: "This personal website will contain my published works. They range from scientific papers to social media posts."
 image: /assets/social-card-think.png
 ---
-# SCANBACK think
+# SCANBACK *think*
 
 This personal website will contain my published works. They range from scientific papers to social media posts.  
 
-Why **SCANBACK think**? It's drawn from George Orwell's *Newspeak* in ***1984***. *Newspeak* was aimed at dumbing down people's critical thinking, so it is ill chosen by me, but it has an aesthetic beauty with its mangled grammar that I wanted to capture. A longer title would have been "Staffan Canback's thoughts on management issues".
+Why **SCANBACK** ***think***? It's drawn from George Orwell's *Newspeak* in ***1984***. *Newspeak* was aimed at dumbing down people's critical thinking, so it is ill chosen by me, but it has an aesthetic beauty with its mangled grammar that I wanted to capture. A longer title would have been "Staffan Canback's thoughts on management issues".
 
 It's being built gradually starting in October 2025.  
 
