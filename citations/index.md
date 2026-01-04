@@ -1,10 +1,10 @@
 ---
 title: "External Citation𝘀"
-description: "See how scientific, governmental, and business authorities have cited Tellusant and its team members publicly over the years."
+description: "See how scientific, governmental, and business authorities have cited me publicly over the years."
 image: /assets/social-card-think.png
 ---
 # Citations
-See how external authorities (academic journals, newspapers, TV, governments, NGOs, companies) have cited ne publicly over the years.
+See how external authorities (academic journals, newspapers, TV, governments, NGOs, companies) have cited me publicly over the years.
 
 These are the first 150 of around 400 citations (to be built out during 2026).
 
