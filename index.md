@@ -11,17 +11,17 @@ Why **SCANBACK** ***think***? It's drawn from George Orwell's *Newspeak* in **19
 
 It's being built gradually starting in October 2025. For the time being, find some of the publications on <a href="https://figshare.com/authors/Staffan_Canback/20547296" target="_blank">Figshare</a>  
 
-#### [Articles & Posts](articles-posts/index.md)  
+### [Articles & Posts](articles-posts/index.md)  
 I have hundreds of LinkedIn and Medium articles and posts that are lost because of the ephemeral character of social media. I gradually save them for posterity here.  
 
-#### [Academic Papers et Plus](papers/index.md)
+### [Academic Papers et Plus](papers/index.md)
 Find my academic papers and doctoral dissertation. They cover diseconpmies of scale / bureaucratic limits of firm size, the theory of why management consultants exist, global market analysis method, new perspectives on what strategy is, and more.
 
-#### [Quick Reads](quick-reads/index.md)
+### [Quick Reads](quick-reads/index.md)
 I'm the main contributor to Tellusant Quick Reads. Find all of them here.
 
-#### [How My Work Is Cited Around the World](citations/index.md)
+### [How My Work Is Cited Around the World](citations/index.md)
 I have hundred of academic, business, and media citations to my name.
 
-#### [My Legitimacy](legitimacy/index.md)
+### [My Legitimacy](legitimacy/index.md)
 What gives me the right to publish the kind of deep intellectual materials you find here? I asked ChatGPT and Gemini to summarize my credentials.
