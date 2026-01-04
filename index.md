@@ -1,49 +1,27 @@
 ---
-title: "My Personal Website"
-description: "This open access repository will contain my complete published works. It ranges from scientific papers to social media posts"
+title: "SCANBACK think"
+description: "This personal website will contain my published works. They range from scientific papers to social media posts."
 image: /assets/social-card-think.png
 ---
-# My Personal Website
+# SCANBACK *think*
 
-This open access repository will contain my complete published works. It ranges from scientific papers to social media posts.  
+This personal website will contain my published works. They range from scientific papers to social media posts.  
 
-It's being built gradually starting in October 2025.  
+Why **SCANBACK** ***think***? It's drawn from George Orwell's *Newspeak* in **1984**. *Newspeak* was aimed at dumbing down people's critical thinking, so it's ill chosen by me, but it has an aesthetic beauty with its mangled grammar that I wanted to capture. A longer title would be "Staffan Canback's thoughts on management issues".
 
-For the time being, find some of the publications on <a href="https://figshare.com/authors/Staffan_Canback/20547296" target="_blank">Figshare</a>  
+It's being built gradually starting in October 2025. For the time being, find some of the publications on <a href="https://figshare.com/authors/Staffan_Canback/20547296" target="_blank">Figshare</a>  
 
 #### [Articles & Posts](articles-posts/index.md)  
 I have hundreds of LinkedIn and Medium articles and posts that are lost because of the ephemeral character of social media. I gradually save them for posterity here.  
 
-## My Profile from Gemini 3.0
-Dr. Staffan Canback is an executive, management consultant and researcher best known for his work applying Transaction Cost Economics (TCE) to organizational structure, specifically focusing on the theoretical and empirical limits of how large a firm can grow (diseconomies of scale).
+#### [Academic Papers et Plus](papers/index.md)
+Find my academic papers and doctoral dissertation. They cover diseconpmies of scale / bureaucratic limits of firm size, the theory of why management consultants exist, global market analysis method, new perspectives on what strategy is, and more.
 
-Here are the primary citations and publications associated with his work, which are frequently referenced in business and economic literature:
+#### [Quick Reads](quick-reads/index.md)
+I'm the main contributor to Tellusant Quick Reads. Find all of them here.
 
-### Key Publications & Citations
-#### 1. On the Limits of Firm Size (Most Cited Work)
-This is his seminal work, often cited in discussions regarding "diseconomies of scale" and why mega-corporations eventually face efficiency hurdles.
+#### [How My Work Is Cited Around the World](citations/index.md)
+I have hundred of academic, business, and media citations to my name.
 
-- **Citation**: Canbäck, S. (2002). *Bureaucratic Limits of Firm Size: Empirical Evidence from the U.S. Economy*. Henley Business Schoole / University of Reading.
-- **Key Concept**: He argues that while economies of scale exist, bureaucratic costs increase disproportionately as a firm grows, eventually negating the benefits of size. He draws heavily on the work of Oliver Williamson and Ronald Coase.
-
-#### 2. On Management Consulting Theory
-Canbäck has written extensively on why management consulting exists as an industry from an economic perspective.
-
-- **Citation**: Canbäck, S. (1998). "*The Logic of Management Consulting (part 1)*." Journal of Management Consulting, 10(2), 3-11.
-- **Citation**: Canbäck, S. (1999). "*The Logic of Management Consulting (Part 2)*." Journal of Management Consulting, 10(3).
-
-#### 3. Transaction Cost Theory Applications
-
-- **Citation**: Canbäck, S. (2005). "*Transaction Cost Theory and Management Consulting*." In Structure and Dynamics in the Management of the 21st Century.
-- **Abstract**: This work analyzes the existence of management consulting firms through the lens of transaction costs—specifically, why firms choose to "buy" knowledge externally rather than "make" it internally.
-
-#### 4. Other Notable Papers/Working Papers
-
-**Citation**: Canbäck, S., Samouel, P., & Price, D. (2006). "Do Diseconomies of Scale Impact Firm Size and Performance? A Theoretical and Empirical Overview." Journal of Managerial Economics, 4(1).
-
-### Context for Researchers
-If you are using these citations for academic research, Staffan Canbäck is typically referenced in the following contexts:
-
-**Oliver Williamson / Ronald Coase studies**: Testing the real-world application of their theories.  
-**Diseconomies of Scale**: Arguments against the "bigger is better" philosophy in M&A (Mergers and Acquisitions).  
-**Make-or-Buy Decisions**: Specifically related to professional services and consulting.  
+#### [My Legitimacy](legitimacy/index.md)
+What gives me the right to publish the kind of deep intellectual materials you find here? I asked ChatGPT and Gemini to summarize my credentials.
