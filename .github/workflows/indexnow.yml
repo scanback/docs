@@ -50,8 +50,11 @@ jobs:
             esac
 
             # Map file -> URL for your /page.html pattern
-            if [[ "$path" =~ (^|/)index\.(md|html)$ ]]; then
+            if [[ "$path" == "index.md" || "$path" == "index.html" ]]; then
               url="https://${HOST}${BASE_PATH}/"
+            elif [[ "$path" =~ /index\.(md|html)$ ]]; then
+              dir="${path%/index.*}"
+              url="https://${HOST}${BASE_PATH}/${dir}/"
             elif [[ "$path" == *.md ]]; then
               base="${path%.md}"
               url="https://${HOST}${BASE_PATH}/${base}.html"
@@ -93,3 +96,4 @@ jobs:
             echo "IndexNow submission failed (HTTP $code)"
             exit 1
           fi
+
