@@ -1,5 +1,5 @@
 # Articles & Posts
-Read some of my lighter fare.
+I have hundreds of LinkedIn and Medium articles and posts that are lost because of the ephemeral character of social media. I gradually save them for posterity here. This page will be built out during 2026.
 
 #### [The Palmer Penguins and their Role in Business](palmer-penguins.md) article  
 Penguins are an unlikely influence on management science, but this dataset has had a profound impact on emerging business practices.  
