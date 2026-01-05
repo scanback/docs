@@ -129,7 +129,7 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 #### [National Geographic (2019): *Atlas of the World*](https://www.natgeomaps.com/bk-atlas-of-the-world-11th-edition)
 #### [National Geographic (2013): *The war for Nigeria*](assets/pdf/natgeo_nigeria.pdf)
 #### [NedBank (2011): *Contextualizing the mass market banking opportunity*](assets/pdf/nedbank-contextualising-the-mass-market-banking-opportunity.pdf)
-New Africa (2016): *The rising middle class – and yes it matters* newafricanmagazine.com/11558-2/
+#### [NewAfrican (2016): *The rising middle class – and yes it matters* ](https://newafricanmagazine.com/news-analysis/businesseceonomy/11558-2/)
 #### [New York State Metropolitan Transit Authority (2020):*Letter to Sen. Charles Schumer*](http://web.mit.edu/jeffrey/harris/NY_Delegation_Letter_041620_final_(1).pdf)
 #### [New York Times (2014): *Africans open fuller wallets to the future*](http://www.nytimes.com/2014/07/21/world/africa/economy-improves-as-middle-class-africans-open-wallets-to-the-future.html)
 #### [New York Times (1999): *On the Contrary: Telling Them What They'll Pay to Hear*](https://www.nytimes.com/1999/07/04/business/on-the-contrary-telling-them-what-they-ll-pay-to-hear.html)
