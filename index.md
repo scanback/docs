@@ -1,18 +1,16 @@
 ---
-title: "SCANBACK think"
+title: "𝗦𝗖𝗔𝗡𝗕𝗔𝗖𝗞 𝙩𝙝𝙞𝙣𝙠"
 description: "This personal website will contain my published works. They range from scientific papers to social media posts."
 image: /assets/social-card-think.png
 ---
 # SCANBACK *think*
 
-This personal website will contain my published works. They range from scientific papers to social media posts.  
+This personal website will before the end of 2026 contain my published works. They range from scientific papers to social media posts.  
 
-Why **SCANBACK** ***think***? It's drawn from George Orwell's *Newspeak* in **1984**. *Newspeak* was aimed at dumbing down people's critical thinking, so it's ill chosen by me, but it has an aesthetic beauty with its mangled grammar that I wanted to capture. A longer title would be "Staffan Canback's thoughts on management issues".
-
-It's being built gradually starting in October 2025. For the time being, find some of the publications on <a href="https://figshare.com/authors/Staffan_Canback/20547296" target="_blank">Figshare</a>  
+Why **SCANBACK** ***think***? It's drawn from George Orwell's *Newspeak* in **1984**. *Newspeak* was aimed at dumbing down people's critical thinking, so it's ill chosen by me. Yet it has an aesthetic beauty with its mangled grammar that I wanted to capture. A longer title would be "Staffan Canback's thoughts on management issues".
 
 ### [Articles & Posts](articles-posts/index.md)  
-I have hundreds of LinkedIn and Medium articles and posts that are lost because of the ephemeral character of social media. I gradually save them for posterity here.  
+I have hundreds of LinkedIn and Medium articles and posts that are lost because of the ephemeral character of social media. I gradually save them for posterity here. This page will be built out during 2026.
 
 ### [Academic Papers et Plus](papers/index.md)
 Find my academic papers and doctoral dissertation. They cover diseconpmies of scale / bureaucratic limits of firm size, the theory of why management consultants exist, global market analysis method, new perspectives on what strategy is, and more.
