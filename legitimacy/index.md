@@ -1,5 +1,14 @@
 # My Legitimacy
-Dr. Staffan Canback is an executive, management consultant and researcher best known for his work applying Transaction Cost Economics (TCE) to organizational structure, specifically focusing on the theoretical and empirical limits of how large a firm can grow (diseconomies of scale).  
+
+I asked ChatGPT and Gemini to assess my legitimacy.
+
+## Professional Legitimacy
+
+TBD. For the time being, see [About](./about.md)
+
+## Academic Legitimacy
+
+From an academic perspective, Dr. Staffan Canback is best known for his work applying Transaction Cost Economics (TCE) to organizational structures, specifically focusing on the theoretical and empirical limits of how large a firm can grow (diseconomies of scale).  
 
 Here are the primary citations and publications associated with his work, which are frequently referenced in business and economic literature:  
 
