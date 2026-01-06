@@ -4,7 +4,7 @@ I asked ChatGPT and Gemini to assess my legitimacy.
 
 ## Professional Legitimacy
 
-TBD. For the time being, see [About](./about.md)
+TBD. For the time being, see [About](about.md)
 
 ## Academic Legitimacy
 
