@@ -7,19 +7,19 @@ image: /assets/social-card-think.png
 
 This personal website will before the end of 2026 contain my published works. They range from scientific papers to social media posts.  
 
-Why **SCANBACK** ***think***? The term is drawn from George Orwell's *Newspeak* in **1984**. *Newspeak* was aimed at dumbing down people's critical thinking, so it's ill chosen by me. Yet it has an aesthetic beauty with its mangled grammar that I wanted to capture. A longer title would be "Staffan Canback's thoughts on management issues".
+Why **SCANBACK** ***think***? The term is drawn from George Orwell's *Newspeak* in **1984**. *Newspeak* was aimed at dumbing down people's critical thinking, so it's ill chosen by me. Yet it has an aesthetic beauty with its mangled grammar that I wanted to capture. A longer title would be "Staffan Canback's thoughts on management issues".  
 
 ### [Articles & Posts](articles-posts/index.md)  
-I have hundreds of LinkedIn and Medium articles and posts that are lost because of the ephemeral character of social media. I gradually save them for posterity here. This page will be built out during 2026.
+I have hundreds of LinkedIn and Medium articles and posts that are lost because of the ephemeral character of social media. I gradually save them for posterity here. This page will be built out during 2026.  
 
 ### [Academic Papers et Plus](papers/index.md)
-Find my academic papers and doctoral dissertation. They cover diseconpmies of scale / bureaucratic limits of firm size, the theory of why management consultants exist, global market analysis method, new perspectives on what strategy is, and more.
+Find my academic papers and doctoral dissertation. They cover diseconpmies of scale / bureaucratic limits of firm size, the theory of why management consultants exist, global market analysis method, new perspectives on what strategy is, and more.  
 
 ### [Quick Reads](quick-reads/index.md)
-I'm the main contributor to Tellusant Quick Reads. Find all of them here.
+I'm the main contributor to Tellusant Quick Reads. Find all of them here.  
 
-### [How My Work Is Cited Around the World](citations/index.md)
-I have hundred of academic, business, and media citations to my name.
+### [Citations of My Work Around the World](citations/index.md)
+I have hundred of academic, business, and media citations to my name.  
 
 ### [My Legitimacy](legitimacy/index.md)
-What gives me the right to publish the kind of deep intellectual materials you find here? I asked ChatGPT and Gemini to summarize my credentials.
+What gives me the right to publish the kind of deep intellectual materials you find here? I asked ChatGPT and Gemini to summarize my credentials.  
