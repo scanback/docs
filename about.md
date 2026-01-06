@@ -1,6 +1,6 @@
 # About Staffan Canback
 
-Staffan Canback is the Executive Chairman of **Tellusant, Inc.** and a co-founder of the company.  
+Dr. Staffan Canback is the Executive Chairman of **Tellusant, Inc.** and a co-founder of the company.  
 
 Over four decades, Staffan has worked as a management consultant and business leader around the world. His career started with **McKinsey & Company** in Scandinavia where he was a partner. He then joined **Monitor Company** in Boston, continuing his management consulting career as a partner.  
 
