@@ -152,6 +152,7 @@ O País (2014): *The African middle class is expanding*
 #### [PwC (2011): *Leveraging China and India for global competitiveness*](https://www.oreilly.com/library/view/the-quest-for/9780470194409/17_chapter09.html) (broken)
 #### [Qualcomm (2014): *2014 New York analyst day*](https://docplayer.net/amp/46902861-2014-new-york-analyst-day.html) (broken)
 #### [Reall (2021): *Market shaping indicators*](assets/pdf/reall-market-shaping-indicators.pdf)
+#### [Reddal (2024): *Reddal Micro-MBA Seminar*](assets/pdf/reddal-micro-mba-seminar.pdf)
 #### [Research and Innovation in Social Science, International Journal of (2024): *Unveiling the Impact of Firm Characteristics on Integrated Reporting Practices*](https://rsisinternational.org/journals/ijriss/Digital-Library/volume-8-issue-9/3266-3276.pdf)
 #### [Research in National Development, Journal of (2011): *Prevalence of adolescent pregnancy in Ganye local government area. Adamawa state, Nigeria*](https://www.ajol.info/index.php/jorind/article/view/91712)
 #### [Royal Caribbean (2017): *Global cruise market development trend and Asia cruise market*](assets/pdf/royal-caribbean-global-cruise-market-development-trend-and-asia-cruise-market.pdf)
