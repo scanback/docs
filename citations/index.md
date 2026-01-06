@@ -129,7 +129,7 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 #### [National Geographic (2019): *Atlas of the World*](https://www.natgeomaps.com/bk-atlas-of-the-world-11th-edition)
 #### [National Geographic (2013): *The war for Nigeria*](assets/pdf/natgeo_nigeria.pdf)
 #### [NedBank (2011): *Contextualizing the mass market banking opportunity*](assets/pdf/nedbank-contextualising-the-mass-market-banking-opportunity.pdf)
-New Africa (2016): *The rising middle class – and yes it matters* newafricanmagazine.com/11558-2/
+#### [NewAfrican (2016): *The rising middle class – and yes it matters* ](https://newafricanmagazine.com/news-analysis/businesseceonomy/11558-2/)
 #### [New York State Metropolitan Transit Authority (2020):*Letter to Sen. Charles Schumer*](http://web.mit.edu/jeffrey/harris/NY_Delegation_Letter_041620_final_(1).pdf)
 #### [New York Times (2014): *Africans open fuller wallets to the future*](http://www.nytimes.com/2014/07/21/world/africa/economy-improves-as-middle-class-africans-open-wallets-to-the-future.html)
 #### [New York Times (1999): *On the Contrary: Telling Them What They'll Pay to Hear*](https://www.nytimes.com/1999/07/04/business/on-the-contrary-telling-them-what-they-ll-pay-to-hear.html)
@@ -152,6 +152,7 @@ O País (2014): *The African middle class is expanding*
 #### [PwC (2011): *Leveraging China and India for global competitiveness*](https://www.oreilly.com/library/view/the-quest-for/9780470194409/17_chapter09.html) (broken)
 #### [Qualcomm (2014): *2014 New York analyst day*](https://docplayer.net/amp/46902861-2014-new-york-analyst-day.html) (broken)
 #### [Reall (2021): *Market shaping indicators*](assets/pdf/reall-market-shaping-indicators.pdf)
+#### [Reddal (2024): *Reddal Micro-MBA Seminar*](assets/pdf/reddal-micro-mba-seminar.pdf)
 #### [Research and Innovation in Social Science, International Journal of (2024): *Unveiling the Impact of Firm Characteristics on Integrated Reporting Practices*](https://rsisinternational.org/journals/ijriss/Digital-Library/volume-8-issue-9/3266-3276.pdf)
 #### [Research in National Development, Journal of (2011): *Prevalence of adolescent pregnancy in Ganye local government area. Adamawa state, Nigeria*](https://www.ajol.info/index.php/jorind/article/view/91712)
 #### [Royal Caribbean (2017): *Global cruise market development trend and Asia cruise market*](assets/pdf/royal-caribbean-global-cruise-market-development-trend-and-asia-cruise-market.pdf)
