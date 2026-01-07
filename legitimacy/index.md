@@ -10,7 +10,7 @@ TBD. For the time being, see [About](../about.md)
 
 From an academic perspective, Dr. Staffan Canback is best known for his work applying Transaction Cost Economics (TCE) to organizational structures, specifically focusing on the theoretical and empirical limits of how large a firm can grow (diseconomies of scale).  
 
-Here are the primary citations and publications associated with his work, which are frequently referenced in business and economic literature:  
+He has more than 750 academic, business, and media citations to his name. Here are the primary citations and publications associated with his work, which are frequently referenced in business and economic literature:  
 
 ### Key Publications & Citations
 #### 1. On the Limits of Firm Size (Most Cited Work)
