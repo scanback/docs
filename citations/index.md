@@ -19,15 +19,20 @@ These are the first 150 of around 400 citations (to be built out during 2026).
 ---
 #### [Canback, S., P. Samouel, and D. Price (2006): *Do Diseconomies of Scale Impact Firm Size and Performance? A Theoretical and Empirical Overview*. Journal of Managerial Economics ](https://doi.org/10.6084/m9.figshare.28306220) 81 citations  
 
+---
 #### [Staffan Canback (1998): *Transaction cost theory and management consulting: Why do management consultants exist?*. Henley Business School.](https://econwpa.ub.uni-muenchen.de/econ-wp/io/papers/9810/9810002.pdf) 20 citations  
 
+---
 #### [Staffan Canback (2003): *Bureaucratic limits of firm size: Academic summary*. Henley Business School.]() 6 citations  
 
+---
 #### [Staffan Canback (2003): *Diseconomies of scale in large corporations: Theory and empirical analysis*. Henley Business School.]() 4 citations  
 
-#### [Staffan Canback (1998): *The Logic of Management Consulting*. Journal of Management Consulting.]() 110 citations
+---
+#### [Staffan Canback (1998): *The Logic of Management Consulting*. Journal of Management Consulting.](https://doi.org/10.6084/m9.figshare.28334786) 110 citations
 <br/>
 
+---
 ## Alphabetically Listed by Authority (outside above list)
 #### [AB InBev (2014): *Creation of the Largest African Coca-Cola bottler*](https://www.ab-inbev.com/content/dam/universaltemplate/ab-inbev/investors/sabmiller/presentation/merger-to-create-coca-cola-beverages-africa/coca-cola-beverages-africa-investor-presentation-november-2014.pdf)
 #### [AB InBev (2015): *Quarterly divisional seminar series—Africa*](assets/pdf/ab-inbev-sabmiller-africa-2015.pdf)
