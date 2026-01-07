@@ -15,8 +15,8 @@ These are the first 150 of around 400 citations (to be built out during 2026).
 ---
 ## Citations of Own Academic Works
 #### [Staffan Canback (2002): *Bureaucratic Limits of Firm Size: Empirical Analysis Using Transaction Cost Economics*. Doctoral dissertation. Henley Business School.](https://doi.org/10.6084/m9.figshare.28355114) 27 citations  
-<br/>
 
+---
 #### [Canback, S., P. Samouel, and D. Price (2006): *Do Diseconomies of Scale Impact Firm Size and Performance? A Theoretical and Empirical Overview*. Journal of Managerial Economics ](https://doi.org/10.6084/m9.figshare.28306220) 81 citations  
 
 #### [Staffan Canback (1998): *Transaction cost theory and management consulting: Why do management consultants exist?*. Henley Business School.](https://econwpa.ub.uni-muenchen.de/econ-wp/io/papers/9810/9810002.pdf) 20 citations  
@@ -78,7 +78,7 @@ These are the first 150 of around 400 citations (to be built out during 2026).
 #### [Ghent University (2010): *Welke rol speelt olie in de mobilisatie van jongeren in de Niger delta?*](http://lib.ugent.be/fulltxt/RUG01/001/491/060/RUG01-001491060_2011_0001_AC.pdf)
 #### [HARD International Institute of Academic Research and Development (2017): *Causal relationship between revenue allocation and economic growth*](https://www.iiardjournals.org/get/IJEBM/VOL.%203%20NO.%201%202017/Causal%20Relationship.pdf)  
 #### [Health Sciences and Research, International Journal of (2020): *The prevalence of natural mixed infection of T. congolense and T. vivax in cattle*](https://www.ijhsr.org/IJHSR_Vol.10_Issue.11_Nov2020/8.pdf)
-#### [Heineken (2025) 3rd Quarter Results—Dolf van den Brink, CEO](assets/pdf/heineken-cme-2025-evergreen-2030-dolf-van-den-brink.pdf)  
+#### [Heineken (2025): 3rd Quarter Results—Dolf van den Brink, CEO](assets/pdf/heineken-cme-2025-evergreen-2030-dolf-van-den-brink.pdf)  
 #### [Heineken (2025): 3rd Quarter Results—Bram Westenbrink, CCO](assets/pdf/heineken-cme-2025-growth-bram-westenbrink.pdf)  
 #### [Heineken Beverages (2019): *Investment community trade visit*](assets/pdf/heineken-beverages-distell-investment-community-trade-visit.pdf)  
 #### [Heineken Beverages (2016): *Results presentation 2016*](assets/pdf/heineken-beverages-distell-results-presentation-2016.pdf)
