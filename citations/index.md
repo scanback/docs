@@ -13,7 +13,7 @@ the list covers around 750 citations as of Jnuary 2026 (to be built out further)
 </p>
 
 ---
-## Citations of Own Academic Works
+## Citations of My Own Academic Work
 Pulled from Semantic Scholar or Google Scholar.  
 
 #### [Staffan Canback (2002): *Bureaucratic Limits of Firm Size: Empirical Analysis Using Transaction Cost Economics*. Doctoral dissertation. Henley Business School.](https://doi.org/10.6084/m9.figshare.28355114) 37 citations  
