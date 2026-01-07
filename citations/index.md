@@ -15,7 +15,7 @@ These are the first 150 of around 400 citations (to be built out during 2026).
 ---
 ## Citations of Own Academic Works
 #### [Staffan Canback (2002): *Bureaucratic Limits of Firm Size: Empirical Analysis Using Transaction Cost Economics*. Doctoral dissertation. Henley Business School.](https://doi.org/10.6084/m9.figshare.28355114) 27 citations  
-
+<br/>
 #### [Canback, S., P. Samouel, and D. Price (2006): *Do Diseconomies of Scale Impact Firm Size and Performance? A Theoretical and Empirical Overview*. Journal of Managerial Economics ](https://doi.org/10.6084/m9.figshare.28306220) 81 citations  
 
 #### [Staffan Canback (1998): *Transaction cost theory and management consulting: Why do management consultants exist?*. Henley Business School.](https://econwpa.ub.uni-muenchen.de/econ-wp/io/papers/9810/9810002.pdf) 20 citations  
