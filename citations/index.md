@@ -23,7 +23,7 @@ These are the first 150 of around 400 citations (to be built out during 2026).
 #### [Staffan Canback (1998): *Transaction cost theory and management consulting: Why do management consultants exist?*. Henley Business School.](https://econwpa.ub.uni-muenchen.de/econ-wp/io/papers/9810/9810002.pdf) 20 citations  
 
 ---
-#### [Staffan Canback (2003): *Bureaucratic limits of firm size: Academic summary*. Henley Business School.]() 6 citations  
+#### [Staffan Canback (2003): *Bureaucratic limits of firm size: Academic summary*. Henley Business School.](https://econwpa.ub.uni-muenchen.de/econ-wp/io/papers/0304/0304006.pdf) 6 citations  
 
 ---
 #### [Staffan Canback (2003): *Diseconomies of scale in large corporations: Theory and empirical analysis*. Henley Business School.]() 4 citations  
