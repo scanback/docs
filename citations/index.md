@@ -14,15 +14,15 @@ the list covers around 400 citations as of Jnuary 2026 (to be built out further)
 
 ---
 ## Citations of Own Academic Works
-Pulled from Semantic Scholar.  
+Pulled from Semantic Scholar or Google Scholar.  
 
-#### [Staffan Canback (2002): *Bureaucratic Limits of Firm Size: Empirical Analysis Using Transaction Cost Economics*. Doctoral dissertation. Henley Business School.](https://doi.org/10.6084/m9.figshare.28355114) 27 citations  
-
----
-#### [Canback, S., P. Samouel, and D. Price (2006): *Do Diseconomies of Scale Impact Firm Size and Performance? A Theoretical and Empirical Overview*. Journal of Managerial Economics ](https://doi.org/10.6084/m9.figshare.28306220) 81 citations  
+#### [Staffan Canback (2002): *Bureaucratic Limits of Firm Size: Empirical Analysis Using Transaction Cost Economics*. Doctoral dissertation. Henley Business School.](https://doi.org/10.6084/m9.figshare.28355114) 37 citations  
 
 ---
-#### [Staffan Canback (1998): *Transaction cost theory and management consulting: Why do management consultants exist?*. Henley Business School.](https://econwpa.ub.uni-muenchen.de/econ-wp/io/papers/9810/9810002.pdf) 20 citations  
+#### [Canback, S., P. Samouel, and D. Price (2006): *Do Diseconomies of Scale Impact Firm Size and Performance? A Theoretical and Empirical Overview*. Journal of Managerial Economics ](https://doi.org/10.6084/m9.figshare.28306220) 145 citations  
+
+---
+#### [Staffan Canback (1998): *Transaction cost theory and management consulting: Why do management consultants exist?*. Henley Business School.](https://econwpa.ub.uni-muenchen.de/econ-wp/io/papers/9810/9810002.pdf) 46 citations  
 
 ---
 #### [Staffan Canback (2003): *Bureaucratic limits of firm size: Academic summary*. Henley Business School.](https://econwpa.ub.uni-muenchen.de/econ-wp/io/papers/0304/0304006.pdf) 6 citations  
@@ -31,7 +31,10 @@ Pulled from Semantic Scholar.
 #### [Staffan Canback (2004): *Diseconomies of scale in large corporations: Theory and empirical analysis*. Henley Business School.](https://econwpa.ub.uni-muenchen.de/econ-wp/io/papers/0402/0402001.pdf) 4 citations  
 
 ---
-#### [Staffan Canback (1998): *The Logic of Management Consulting*. Journal of Management Consulting.](https://doi.org/10.6084/m9.figshare.28334786) 110 citations
+#### [Staffan Canback (1998): *The Logic of Management Consulting, Part 1*. Journal of Management Consulting.](https://doi.org/10.6084/m9.figshare.28334786) 110 citations
+ 
+---
+#### [Staffan Canback (1999): *The Logic of Management Consulting, Part 2*. Journal of Management Consulting.](https://doi.org/10.6084/m9.figshare.28334840) 250 citations
 <br/>
 
 ---
