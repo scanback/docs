@@ -26,7 +26,7 @@ These are the first 150 of around 400 citations (to be built out during 2026).
 #### [Staffan Canback (2003): *Bureaucratic limits of firm size: Academic summary*. Henley Business School.](https://econwpa.ub.uni-muenchen.de/econ-wp/io/papers/0304/0304006.pdf) 6 citations  
 
 ---
-#### [Staffan Canback (2003): *Diseconomies of scale in large corporations: Theory and empirical analysis*. Henley Business School.]() 4 citations  
+#### [Staffan Canback (2004): *Diseconomies of scale in large corporations: Theory and empirical analysis*. Henley Business School.](https://econwpa.ub.uni-muenchen.de/econ-wp/io/papers/0402/0402001.pdf) 4 citations  
 
 ---
 #### [Staffan Canback (1998): *The Logic of Management Consulting*. Journal of Management Consulting.](https://doi.org/10.6084/m9.figshare.28334786) 110 citations
