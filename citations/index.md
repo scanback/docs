@@ -161,7 +161,6 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 #### [NordicLight / Swedish Chamber of Commerce Brazil (2020): The World Economy in 2020: A Nowcast](https://www.swedcham.com.br/publico/nordic-light/Nordic-Light-Jan2020-Jun2020.pdf)
 #### [Nova, Universidade (2023): *Designing a collaborative AutoML tool to help organizations become data-driven*](https://run.unl.pt/bitstream/10362/148721/1/TGI1403.pdf)
 #### [NSCB Biodiversity Conference, Proceedings of 6th (2018): *Survey of wood carving activities in selected local government areas*](https://nscbconf2018.files.wordpress.com/2018/05/48_71-nscb-2018b.pdf)
-O País (2014): *The African middle class is expanding*
 #### [Osaka University (2019): *Study of emission control for passenger car in Indonesia*](https://ir.library.osaka-u.ac.jp/repo/ouka/all/72412/30409_Dissertation.pdf)
 #### [Partnership for New York City (2013): *NYC jobs blueprint*](assets/pdf/partnership-for-new-york-city-nyc-jobs-blueprint.pdf)
 #### [Pharmaceutical Research, World Journal of (2018): *Antifungal activities of seed extracts of mahogany on Carica papaya*](https://wjpr.s3.ap-south-1.amazonaws.com/article_issue/1531805465.pdf)
