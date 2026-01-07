@@ -6,7 +6,7 @@ image: /assets/social-card-think.png
 # Citations
 See how external authorities (academic journals, newspapers, TV, governments, NGOs, companies) have cited me publicly over the years.
 
-These are the first 150 of around 400 citations (to be built out during 2026).
+the list covers around 400 citations as of Jnuary 2026 (to be built out further).
 
 <p align="center">
 <img  src="assets/images/tellusant-members-external-citations-summary.svg" style="text-align: center;" width="700" alt="Summary of external citations">
