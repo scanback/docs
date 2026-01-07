@@ -13,7 +13,16 @@ These are the first 150 of around 400 citations (to be built out during 2026).
 </p>
 
 ---
-Alphabetically listed by authority.  
+## Citations of own academic works
+#### [Staffan Canback (2002): *Bureaucratic Limits of Firm Size: Empirical Analysis Using Transaction Cost Economics*. Doctoral dissertation. Henley Business School.]() 27 citations
+#### [Canback, S., P. Samouel, and D. Price (2006): *Do Diseconomies of Scale Impact Firm Size and Performance? A Theoretical and Empirical Overview*. ]() 81 citations
+#### [Staffan Canback (2002): *Transaction cost theory and management consulting: Why do management consultants exist?*. Henley Business School.]() 20 citations
+#### [Staffan Canback (2003): *Bureaucratic limits of firm size: Academic summary*. Henley Business School.]() 6 citations
+#### [Staffan Canback (2003): *Diseconomies of scale in large corporations: Theory and empirical analysis*. Henley Business School.]() 4 citations
+#### [Staffan Canback (1998): *The Logic of Management Consulting*. Journal of Management Consulting.]() 110 citations
+<br/>
+
+## Alphabetically listed by authority (outside above list)
 #### [AB InBev (2014): *Creation of the Largest African Coca-Cola bottler*](https://www.ab-inbev.com/content/dam/universaltemplate/ab-inbev/investors/sabmiller/presentation/merger-to-create-coca-cola-beverages-africa/coca-cola-beverages-africa-investor-presentation-november-2014.pdf)
 #### [AB InBev (2015): *Quarterly divisional seminar series—Africa*](assets/pdf/ab-inbev-sabmiller-africa-2015.pdf)
 #### [AB InBev (2013): *Quarterly divisional seminar series—Asia-Pacific*](assets/pdf/ab-inbev-sabmiller-asia-pacific-2013.pdf)
