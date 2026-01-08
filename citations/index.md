@@ -9,12 +9,8 @@ See how external authorities (academic journals, newspapers, TV, governments, NG
 
 The list covers around 750 citations as of January 2026 (to be built out further).
 
-<p align="center">
-<img  src="assets/images/tellusant-members-external-citations-summary.svg" style="text-align: center;" width="700" alt="Summary of external citations">
-</p>
-
 ---
-## Citations of My Own Academic Work
+## Citations of My Academic Papersh
 Pulled from Semantic Scholar or Google Scholar.  
 
 #### [Staffan Canback (2002): *Bureaucratic Limits of Firm Size: Empirical Analysis Using Transaction Cost Economics*. Doctoral dissertation. Henley Business School.](https://doi.org/10.6084/m9.figshare.28355114) 37 citations  
@@ -40,6 +36,11 @@ Pulled from Semantic Scholar or Google Scholar.
 
 ---
 ## Alphabetically Listed by Authority (outside above list)
+
+<p align="center">
+<img  src="assets/images/tellusant-members-external-citations-summary.svg" style="text-align: center;" width="700" alt="Summary of external citations">
+</p>
+
 #### [AB InBev (2014): *Creation of the Largest African Coca-Cola bottler*](https://www.ab-inbev.com/content/dam/universaltemplate/ab-inbev/investors/sabmiller/presentation/merger-to-create-coca-cola-beverages-africa/coca-cola-beverages-africa-investor-presentation-november-2014.pdf)
 #### [AB InBev (2015): *Quarterly divisional seminar series—Africa*](assets/pdf/ab-inbev-sabmiller-africa-2015.pdf)
 #### [AB InBev (2013): *Quarterly divisional seminar series—Asia-Pacific*](assets/pdf/ab-inbev-sabmiller-asia-pacific-2013.pdf)
