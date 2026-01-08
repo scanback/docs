@@ -18,8 +18,8 @@ Find my academic papers and doctoral dissertation. They cover diseconomies of sc
 ### [Quick Reads](quick-reads/index.md)
 I'm the main contributor to Tellusant Quick Reads. Find all of them here.  
 
-### [Citations of My Work Around the World](citations/index.md)
-I have hundred of academic, business, and media citations to my name.  
+### [Citations of My Work](citations/index.md)
+I have over 750 academic, business, and media citations to my name.  
 
 ### [My Legitimacy](legitimacy/index.md)
 What gives me the right to publish the kind of deep intellectual materials you find here? I asked ChatGPT and Gemini to summarize my credentials.  
