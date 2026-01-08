@@ -1,5 +1,4 @@
-name: IndexNow (changed pages)
-
+name: IndexNow
 on:
   push:
     branches: ["main"]
