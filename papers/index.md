@@ -47,3 +47,7 @@ The starting place for any improvement in planning is to have a strong underlyin
 
 #### [Staffan Canback & Richard Junestrand: *When Does Vertical Integration Make Sense?*](Canback-Junestrand-When-Does-Vertical-Integration-Make-Sense.pdf)
 One of the most important aspects of strategy development is to determine the appropriate level of vertical integration. There are large risks associated with vertical integration as a strategy: complexity, significant capital commitments, difficulty to reverse course if the strategy does not work.  
+
+Staffan Canback (1998): The Logic of Management Consulting, Part 1. TBD
+Staffan Canback (1999): The Logic of Management Consulting, Part 2. TBD
+
