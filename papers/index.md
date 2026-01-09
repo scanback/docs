@@ -42,7 +42,7 @@ This is an easy to digest summary of the dissertation void of any quantitative a
 This is a summary of my dissertation *Bureaucratic Limits of Firm Size*, written for the EDAMBA Journal. It was contributed to commemorate my First Prize in the 2003 competition for best European doctoral dissertation in management and business administration, awarded by the [European Doctoral Programmes Association in Management and Business Administration](https://edamba.eu) (EDAMBA).
 
 #### [Canback, Staffan, Phillip Samouel, and David Price (2006): *Strategy and Structure in Interaction: What Determines the Boundaries of the Firm*. EDAMBA Journal](Canback-Samouel-Price-Strategy-and-Structure-in-Interaction-What-Determines-the-Boundaries-of-the-Firm.pdf)
-My advisors and I wrote this short summary of the disseration at the request Henley Business School.
+My advisors and I wrote this short summary of the dissertation at the request Henley Business School.
 
 ---
 ### Beyond My Doctoral Research
