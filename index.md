@@ -5,7 +5,7 @@ image: /assets/social-card-think.png
 ---
 # SCANBACK *think*
 
-This personal website will before the end of 2026 contain my published works. They range from scientific papers to social media posts.  
+This personal website will, before the end of 2026, contain my published works. They range from scientific papers to social media posts.  
 
 Why **SCANBACK** ***think***? The term is drawn from George Orwell's *Newspeak* in **1984**. *Newspeak* was aimed at dumbing down people's critical thinking, so it's ill chosen by me. Yet it has an aesthetic beauty with its mangled grammar that I wanted to capture. A longer title would be "Staffan Canback's thoughts on management issues".  
 
