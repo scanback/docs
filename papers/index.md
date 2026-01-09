@@ -9,12 +9,13 @@ This page covers Staffan Canback's academic and management-oriented papers, writ
 
 ---
 ### Doctoral Dissertation
-The awarding of the doctorate is not only a defended dissertation. There are several other papers that are required.
 
 #### [Staffan Canback (2002): Bureaucratic Limits of Firm Size: Empirical Analysis Using Transaction Cost Economics](Canback-Bureaucratic-Limits-of-Firm-Size-Doctoral-Dissertation.pdf)  
 Dr. Canback's seminal dissertation outlines a theory of scale diseconomies in large firms and quantifies the drivers of those disceconomies and mitigating factors. It won first prize in [EDAMBA's](https://edamba.eu/) competition for best European doctoral dissertation in management science in 2003.  
 
 In addition to the subject matter, the dissertation deploys *sophisticated statistical analysis methods later used within Tellusant*. In particular, structural equation modeling.
+
+*The awarding of the doctorate is not only a well-defended dissertation. There are several other papers that each partially fulfil the doctoral requirements.*
 
 #### [Staffan Canback (1997): *Critique of Thesis by T.H. Klier Michigan State*](Canback-Critique-of-Thesis-by-T.H.-Klier-Michigan-State.pdf)
 This was the first required working paper. By writing a critique, we learned how to structure our own dissertations.
@@ -22,14 +23,11 @@ This was the first required working paper. By writing a critique, we learned how
 #### [Staffan Canback (1997): *Transaction Cost Theory and Management Consulting: Why Do Management Consultants Exist?*](Canback-Transaction-Cost-Theory-and-Management-Consulting-Why-Do-Management-Consultants-Exist.pdf)
 This was the second required working paper. It allowed me to learn about TCE while applying it to a topic I was familiar with.
 
-#### [Staffan Canback (1997): *Literature Survey and Hypotheses Based on Transaction Cost Economics](Canback-Limits-of-Firm-Size-Literature-Survey-and-Hypotheses-Based-on-Transaction-Cost-Economics.pdf)  
+#### [Staffan Canback (1997): *Literature Survey and Hypotheses Based on Transaction Cost Economics*](Canback-Limits-of-Firm-Size-Literature-Survey-and-Hypotheses-Based-on-Transaction-Cost-Economics.pdf)  
 This was the third required working paper. Before writing the research proposal, it is important to establish what the precedents by the authorities are. Read-read-read.
 
-#### [Staffan Canback (1997): Literature Survey and Hypotheses Based on Transaction Cost Economics](Canback-Limits-of-Firm-Size-Literature-Survey-and-Hypotheses-Based-on-Transaction-Cost-Economics.pdf)  
-This was the fourth required submission. Before writing the research proposal, it is important to establish what the precedents from the authorities are.
-
 #### [Staffan Canback (1997): *Proposal for a Test of the Transaction-Cost Explanation of Diseconomies of Scale*](Canback-Proposal-for-a-Test-of-the-Transaction-Cost-Explanation-of-Diseconomies-of-Scale.pdf)  
-This was the fifth required submission. A solid research proposal has to be approved by the advisors. Mine took a few iterations and delayed my progress by 1-2 years. But in the end it was all for the good.
+This was the fourth required submission. A solid research proposal has to be approved by the advisors. Mine took a few iterations and delayed my progress by 1-2 years. But in the end it was all for the good.
 
 ---
 ### Papers derived from my doctoral dissertation
