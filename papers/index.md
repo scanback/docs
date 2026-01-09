@@ -47,10 +47,10 @@ My advisors and I wrote this short summary of the disseration at the request Hen
 ---
 ### Beyond My Doctoral Research
 
-#### [Staffan Canback & Frank D'Agnese: Where in the World Is the Market?](Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf)
+#### [Staffan Canback & Frank D'Agnese: *Where in the World Is the Market?*](Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf)
 Finding, measuring and capturing market opportunities in emerging countries are critical tasks for multinational consumer goods companies. Central to these tasks is the need to collect and analyze income distribution data within a globally coherent framework and to move beyond income metrics based on national averages.  
 
-#### [Philip Burginyoung et al.: The Consumer Impact of Pricing Actions](Burginyoung-et-al-Consumer-Impact-of-Pricing-Actions.pdf)
+#### [Philip Burginyoung et al. (): *The Consumer Impact of Pricing Actions*](Burginyoung-et-al-Consumer-Impact-of-Pricing-Actions.pdf)
 Consumer goods companies have increasingly been in the news for raising prices in today’s high global inflationary environment. With uncertainty about the true size and effect of these price increases, we examine how pricing is impacting both company volumes and consumer ability to pay on a global scale.  
 
 #### [Staffan Canback: *The Growth Tesseract: A Scientific View of Firms’ Growth Opportunities*](Canback-Growth-Tesseract.pdf)
@@ -65,6 +65,8 @@ The starting place for any improvement in planning is to have a strong underlyin
 #### [Staffan Canback & Richard Junestrand (2001): *When Does Vertical Integration Make Sense?*](Canback-Junestrand-When-Does-Vertical-Integration-Make-Sense.pdf)
 One of the most important aspects of strategy development is to determine the appropriate level of vertical integration. There are large risks associated with vertical integration as a strategy: complexity, significant capital commitments, difficulty to reverse course if the strategy does not work.  
 
-Staffan Canback (1998): The Logic of Management Consulting, Part 1. TBD
-Staffan Canback (1999): The Logic of Management Consulting, Part 2. TBD
+WIP
+Staffan Canback (1998): The Logic of Management Consulting, Part 1. TBD  
+Staffan Canback (1999): The Logic of Management Consulting, Part 2. TBD  
+Axess
 
