@@ -1,11 +1,11 @@
 ---
-title: "Scientific Papers et Plus"
-description: "Tellusant is based on science. We publish rigorous, peer-reviewed academic papers and more"
+title: "Academic Papers et Plus"
+description: "This page covers Staffan Canback's academic and management-oriented papers, written since the 1990s till now"
 image: /assets/social-card-pub.png
 ---
 
-# Scientific Papers et Plus
-This page covers academic and management-oriented papers by Tellusant members, as well as our chairman's doctoral dissertation (which is important for its statistical analysis methods as well as findings on strategy).  
+# Academic Papers et Plus
+This page covers Staffan Canback's academic and management-oriented papers, written since the 1990s till now.
 
 ---
 ### Doctoral Dissertation
