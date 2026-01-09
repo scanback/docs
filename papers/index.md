@@ -47,7 +47,7 @@ My advisors and I wrote this short summary of the dissertation at the request He
 ---
 ### Beyond My Doctoral Research
 
-#### [Staffan Canback & Frank D'Agnese: *Where in the World Is the Market?* ](Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf)
+#### [Staffan Canback & Frank D'Agnese: *Where in the World Is the Market?* Problems and Perspectives in Management](Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf)
 Finding, measuring and capturing market opportunities in emerging countries are critical tasks for multinational consumer goods companies. Central to these tasks is the need to collect and analyze income distribution data within a globally coherent framework and to move beyond income metrics based on national averages.  
 
 #### [Philip Burginyoung et al. (2023): *The Consumer Impact of Pricing Actions*](Burginyoung-et-al-Consumer-Impact-of-Pricing-Actions.pdf)
@@ -68,10 +68,10 @@ This *liberal arts* article was commissioned by Axess. It explores what the mean
 #### [Staffan Canback (2004): *A Lightweight Note on Success in Mergers and Acquisitions*](Canback-A-Lightweight-Note-on-Success-in-Mergers-and-Acquisitions.pdf)
 This note summarizes, in two pages, findings on what drives success in corporate M&A. Written two decades ago, the conclusions still hold.
 
-#### [Staffan Canback (1998): *The Logic of Management Consulting, Part 1.* Journal of Mnagement Consulting](Canback-The-Logic-of-Management-Consulting-Part-1.pdf)
+#### [Staffan Canback (1998): *The Logic of Management Consulting, Part 1.* Journal of Management Consulting](Canback-The-Logic-of-Management-Consulting-Part-1.pdf)
 Part 1 explains what management consulting is, and how it has evolved since the 1800s. It introduces Transaction Cost Economics (TCE) to the lay reader.
 
-#### [Staffan Canback (1999): *The Logic of Management Consulting, Part 2.* Journal of Mnagement Consulting](Canback-The-Logic-of-Management-Consulting-Part-2.pdf)
+#### [Staffan Canback (1999): *The Logic of Management Consulting, Part 2.* Journal of Management Consulting](Canback-The-Logic-of-Management-Consulting-Part-2.pdf)
 Part 2 explores the implications of TCE for why management consultants exist. The answer is nontrivial. After all, they did not exist meaningfully in the past, and they are less prevalent in countries like Japan. Why? TCE sheds light on this.
 
 #### [Staffan Canback & Richard Junestrand (2001): *When Does Vertical Integration Make Sense?*](Canback-Junestrand-When-Does-Vertical-Integration-Make-Sense.pdf)
