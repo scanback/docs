@@ -68,5 +68,6 @@ One of the most important aspects of strategy development is to determine the ap
 WIP
 Staffan Canback (1998): The Logic of Management Consulting, Part 1. TBD  
 Staffan Canback (1999): The Logic of Management Consulting, Part 2. TBD  
-Axess
+Axess TBD
+Lightweight
 
