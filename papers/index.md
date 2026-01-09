@@ -26,7 +26,7 @@ This was the second required working paper. It allowed me to learn about TCE whi
 #### [Staffan Canback (1997): *Literature Survey and Hypotheses Based on Transaction Cost Economics*](Canback-Limits-of-Firm-Size-Literature-Survey-and-Hypotheses-Based-on-Transaction-Cost-Economics.pdf)  
 This was the third required working paper. Before writing the research proposal, it is important to establish what the precedents by the authorities are. Read-read-read.
 
-#### [Staffan Canback (1997): *Proposal for a Test of the Transaction-Cost Explanation of Diseconomies of Scale*](Canback-Proposal-for-a-Test-of-the-Transaction-Cost-Explanation-of-Diseconomies-of-Scale.pdf)  
+#### [Staffan Canback (1998): *Proposal for a Test of the Transaction-Cost Explanation of Diseconomies of Scale*](Canback-Proposal-for-a-Test-of-the-Transaction-Cost-Explanation-of-Diseconomies-of-Scale.pdf)  
 This was the fourth required submission. A solid research proposal has to be approved by the advisors. Mine took a few iterations and delayed my progress by 1-2 years. But in the end it was all for the good.
 
 ---
