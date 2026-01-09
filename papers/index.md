@@ -18,6 +18,9 @@ In addition to the subject matter, the dissertation deploys *sophisticated stati
 ---
 ### Papers derived from my doctoral dissertation
 
+#### [Canback, Staffan, Phillip Samouel & David Price: *Do Diseconomies of Scale Exist?* ICFAI Journal of Managerial Economics](Canback-Bureaucratic-Limits-of-Firm-Size-Practitioner-Summary.pdf)  
+This is an oft-cited summary of my dissertation, written by me and my dissertation advisors.
+
 #### [Staffan Canback: *Bureaucratic Limits of Firm Size - Practitioner Summary*](Canback-Bureaucratic-Limits-of-Firm-Size-Practitioner-Summary.pdf)  
 This is an easy to digest summary of the dissertation void of any quantitative analysis.
 
