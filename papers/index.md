@@ -17,7 +17,7 @@ In addition to the subject matter, the dissertation deploys *sophisticated stati
 
 > *The awarding of the doctorate is not only based on a well-defended dissertation. There are several other required papers that each partially fulfills the doctoral award requirements.*
 
-#### [Staffan Canback (1997): *Critique of Thesis by T.H. Klier Michigan State.* Henley Business School](Canback-Critique-of-Thesis-by-T.H.-Klier-Michigan-State.pdf)
+#### [Staffan Canback (1997): *Critique of Thesis by T.H. Klier, Michigan State.* Henley Business School](Canback-Critique-of-Thesis-by-T.H.-Klier-Michigan-State.pdf)
 This was the first required working paper. By writing a critique, we learned how to structure our own dissertations.
 
 #### [Staffan Canback (1997): *Transaction Cost Theory and Management Consulting: Why Do Management Consultants Exist?* Henley Business School](Canback-Transaction-Cost-Theory-and-Management-Consulting-Why-Do-Management-Consultants-Exist.pdf)
