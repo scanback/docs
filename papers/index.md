@@ -8,6 +8,8 @@ image: /assets/social-card-pub.png
 This page covers academic and management-oriented papers by Tellusant members, as well as our chairman's doctoral dissertation (which is important for its statistical analysis methods as well as findings on strategy).  
 
 ---
+### Doctoral Dissertation
+
 #### [Staffan Canback: Bureaucratic Limits of Firm Size - Empirical Analysis Using Transaction Cost Economics](Canback-Bureaucratic-Limits-of-Firm-Size-Doctoral-Dissertation.pdf)  
 Dr. Canback's seminal dissertation outlines a theory of scale diseconomies in large firms and quantifies the drivers of those disceconomies and mitigating factors. It won first prize in [EDAMBA's](https://edamba.eu/) competition for best European doctoral dissertation in management science in 2003.  
 
@@ -23,6 +25,8 @@ This is an easy to digest summary of the dissertation void of any quantitative a
 This is a summary of my dissertation Bureaucratic Limits of Firm Size, created for the EDAMBA Journal. It was contributed to commemorate my First Prize in the 2003 competition for best European doctoral dissertation in management and business administration, awarded by the [European Doctoral Programmes Association in Management and Business Administration](https://edamba.eu) (EDAMBA).
 
 ---
+### Beyond My Doctoral Research
+
 #### [Staffan Canback & Frank D'Agnese: Where in the World Is the Market?](Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf)
 Finding, measuring and capturing market opportunities in emerging countries are critical tasks for multinational consumer goods companies. Central to these tasks is the need to collect and analyze income distribution data within a globally coherent framework and to move beyond income metrics based on national averages.  
 
