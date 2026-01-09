@@ -20,12 +20,12 @@ Dr. Canback's seminal dissertation outlines a theory of scale diseconomies in la
 In addition to the subject matter, the dissertation deploys *sophisticated statistical analysis methods later used within Tellusant*. In particular, structural equation modeling.
 
 ---
-*Papers derived from the dissertation*
+*Papers derived from my doctoral dissertation*
 
 #### [Staffan Canback: *Bureaucratic Limits of Firm Size - Practitioner Summary*](Canback-Bureaucratic-Limits-of-Firm-Size-Practitioner-Summary.pdf)  
 This is an easy to digest summary of the dissertation void of any quantitative analysis.
 
-#### [Staffan Canback: *EDAMBA First Prize 2003 - Bureaucratic Limits of Firm Size*. EDAMBA Journal](Canback-EDAMBA-First-Prize-2003-Bureaucratic-Limits-of-Firm-Size.pdf)  
+#### [Staffan Canback (2004): *EDAMBA First Prize 2003 - Bureaucratic Limits of Firm Size*. EDAMBA Journal](Canback-EDAMBA-First-Prize-Bureaucratic-Limits-of-Firm-Size.pdf)  
 This is a summary of my dissertation Bureaucratic Limits of Firm Size, created for the EDAMBA Journal. It was contributed to commemorate my First Prize in the 2003 competition for best European doctoral dissertation in management and business administration, awarded by the [European Doctoral Programmes Association in Management and Business Administration](https://edamba.eu) (EDAMBA).
 
 #### [Staffan Canback: *The Growth Tesseract: A Scientific View of Firms’ Growth Opportunities*](Canback-Growth-Tesseract.pdf)
