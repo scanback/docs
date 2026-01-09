@@ -62,15 +62,21 @@ Strategic planning often suffers from inconsistencies by cycle and business unit
 
 The starting place for any improvement in planning is to have a strong underlying strategy framework that anchors a company on its goals. This guide describes a structured approach to ensuring a better strategic planning process and how it links back to strategic thinking authorities.  
 
+#### [Staffan Canback (2005): *Does Corporate Size Matter?*](Canback-Does-Corporate-Size-Matter.pdf)
+This commissioned article by Axess explores what the meaning of size is. Is it good, bad, or irrelevant?
+
 #### [Staffan Canback (2004): *A Lightweight Note on Success in Mergers and Acquisitions*](Canback-A-Lightweight-Note-on-Success-in-Mergers-and-Acquisitions.pdf)
 This note summarizes, in two pages, findings on what drives success in corporate M&A. Written two decades ago, the conclusions still hold.
+
+#### [Staffan Canback (1998): *The Logic of Management Consulting, Part 1*](Canback-The-Logic-of-Management-Consulting-Part-1.pdf)
+Part 1 explains what management consulting is, and how it has evolved since the 1800s. It introduces Transaction Cost Economics (TCE) to the lay reader.
+
+#### [Staffan Canback (1999): *The Logic of Management Consulting, Part 2*](Canback-The-Logic-of-Management-Consulting-Part-2.pdf)
+Part 2 explores the implications of TCE for why management consultants exist. The answer is nontrivial. After all, they did not exist meaningfully in the past, and they are less prevalent in countries like Japan. Why? TCE sheds light on this.
 
 #### [Staffan Canback & Richard Junestrand (2001): *When Does Vertical Integration Make Sense?*](Canback-Junestrand-When-Does-Vertical-Integration-Make-Sense.pdf)
 One of the most important aspects of strategy development is to determine the appropriate level of vertical integration. There are large risks associated with vertical integration as a strategy: complexity, significant capital commitments, difficulty to reverse course if the strategy does not work.  
 
-WIP  
-Staffan Canback (1998): The Logic of Management Consulting, Part 1. TBD  
-Staffan Canback (1999): The Logic of Management Consulting, Part 2. TBD  
-Axess TBD  
-Lightweight TBD  
+#### [Staffan Canback (1992): *The Industrial Company in 2027 (Predictions Made in 2027)*](Canback-The-Industrial-Company-in-2027-(Predictions-Made-in-1992).pdf)
+This paper is based on a presentation to McKinsey Nordics. It took a 25 year perspective on what to expect. It has hits and misses.
 
