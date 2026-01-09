@@ -1,16 +1,16 @@
 ---
-title: "Citations of My Work"
+title: "Citations"
 description: "See how scientific, governmental, and business authorities have cited me publicly over the years."
 image: /assets/social-card-think.png
 ---
-# Citations of My Work
+# Citations
 
 See how external authorities (academic journals, newspapers, TV, governments, NGOs, companies) have cited me publicly over the years.
 
 The list covers around 750 citations as of January 2026 (to be built out further).
 
 ---
-## Citations of My Academic Papersh
+## Citations of My Academic Papers
 Pulled from Semantic Scholar or Google Scholar.  
 
 #### [Staffan Canback (2002): *Bureaucratic Limits of Firm Size: Empirical Analysis Using Transaction Cost Economics*. Doctoral dissertation. Henley Business School.](https://doi.org/10.6084/m9.figshare.28355114) 37 citations  
