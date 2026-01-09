@@ -11,7 +11,7 @@ This page covers Staffan Canback's academic and management-oriented papers, writ
 ### Doctoral Dissertation
 The awarding of the doctorate is not only a defended dissertation. There are several other papers that are required.
 
-#### [Staffan Canback: Bureaucratic Limits of Firm Size - Empirical Analysis Using Transaction Cost Economics](Canback-Bureaucratic-Limits-of-Firm-Size-Doctoral-Dissertation.pdf)  
+#### [Staffan Canback (2002): Bureaucratic Limits of Firm Size: Empirical Analysis Using Transaction Cost Economics](Canback-Bureaucratic-Limits-of-Firm-Size-Doctoral-Dissertation.pdf)  
 Dr. Canback's seminal dissertation outlines a theory of scale diseconomies in large firms and quantifies the drivers of those disceconomies and mitigating factors. It won first prize in [EDAMBA's](https://edamba.eu/) competition for best European doctoral dissertation in management science in 2003.  
 
 In addition to the subject matter, the dissertation deploys *sophisticated statistical analysis methods later used within Tellusant*. In particular, structural equation modeling.
