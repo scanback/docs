@@ -15,7 +15,7 @@ Dr. Canback's seminal dissertation outlines a theory of scale diseconomies in la
 
 In addition to the subject matter, the dissertation deploys *sophisticated statistical analysis methods later used within Tellusant*. In particular, structural equation modeling.
 
-*The awarding of the doctorate is not only based on a well-defended dissertation. There are several other papers that each partially fulfil the doctoral requirements.*
+> *The awarding of the doctorate is not only based on a well-defended dissertation. There are several other required papers that each partially fulfills the doctoral award requirements.*
 
 #### [Staffan Canback (1997): *Critique of Thesis by T.H. Klier Michigan State.* Henley Business School](Canback-Critique-of-Thesis-by-T.H.-Klier-Michigan-State.pdf)
 This was the first required working paper. By writing a critique, we learned how to structure our own dissertations.
