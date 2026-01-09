@@ -35,7 +35,7 @@ This was the fourth required submission. A solid research proposal has to be app
 #### [Canback, Staffan, Phillip Samouel & David Price (2006): *Do Diseconomies of Scale Impact Firm Size and Performance - A Theoretical and Empirical Overview* Journal of Managerial Economics](Canback-Samouel-Price-Do-Diseconomies-of-Scale-Impact-Firm-Size-and-Performance.pdf)  
 This is an oft-cited summary of my dissertation, written by me and my dissertation advisors.
 
-#### [Staffan Canback: *Bureaucratic Limits of Firm Size - Practitioner Summary*](Canback-Bureaucratic-Limits-of-Firm-Size-Practitioner-Summary.pdf)  
+#### [Staffan Canback: *Bureaucratic Limits of Firm Size - Practitioners' Summary*](Canback-Bureaucratic-Limits-of-Firm-Size-Practitioners-Summary.pdf)  
 This is an easy to digest summary of the dissertation void of any quantitative analysis.
 
 #### [Staffan Canback (2004): *EDAMBA First Prize 2003 - Bureaucratic Limits of Firm Size*. EDAMBA Journal](Canback-EDAMBA-First-Prize-Bureaucratic-Limits-of-Firm-Size.pdf)  
