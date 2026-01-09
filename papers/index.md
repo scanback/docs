@@ -45,7 +45,7 @@ Strategic planning often suffers from inconsistencies by cycle and business unit
 
 The starting place for any improvement in planning is to have a strong underlying strategy framework that anchors a company on its goals. This guide describes a structured approach to ensuring a better strategic planning process and how it links back to strategic thinking authorities.  
 
-#### [Staffan Canback & Richard Junestrand: *When Does Vertical Integration Make Sense?*](Canback-Junestrand-When-Does-Vertical-Integration-Make-Sense.pdf)
+#### [Staffan Canback & Richard Junestrand (2001): *When Does Vertical Integration Make Sense?*](Canback-Junestrand-When-Does-Vertical-Integration-Make-Sense.pdf)
 One of the most important aspects of strategy development is to determine the appropriate level of vertical integration. There are large risks associated with vertical integration as a strategy: complexity, significant capital commitments, difficulty to reverse course if the strategy does not work.  
 
 Staffan Canback (1998): The Logic of Management Consulting, Part 1. TBD
