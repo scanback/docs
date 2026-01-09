@@ -1,19 +1,46 @@
 ---
-title: "External Citation𝘀"
+title: "Citations"
 description: "See how scientific, governmental, and business authorities have cited me publicly over the years."
 image: /assets/social-card-think.png
 ---
 # Citations
+
 See how external authorities (academic journals, newspapers, TV, governments, NGOs, companies) have cited me publicly over the years.
 
-These are the first 150 of around 400 citations (to be built out during 2026).
+The list covers around 750 citations as of January 2026 (to be built out further).
+
+---
+## Citations of My Academic Papers
+Pulled from Semantic Scholar or Google Scholar.  
+
+#### [Staffan Canback (2002): *Bureaucratic Limits of Firm Size: Empirical Analysis Using Transaction Cost Economics*. Doctoral dissertation. Henley Business School.](https://doi.org/10.6084/m9.figshare.28355114) 37 citations  
+
+---
+#### [Canback, S., P. Samouel, and D. Price (2006): *Do Diseconomies of Scale Impact Firm Size and Performance? A Theoretical and Empirical Overview*. Journal of Managerial Economics ](https://doi.org/10.6084/m9.figshare.28306220) 145 citations  
+
+---
+#### [Staffan Canback (1998): *Transaction cost theory and management consulting: Why do management consultants exist?*. Henley Business School.](https://econwpa.ub.uni-muenchen.de/econ-wp/io/papers/9810/9810002.pdf) 46 citations  
+
+---
+#### [Staffan Canback (2003): *Bureaucratic limits of firm size: Academic summary*. Henley Business School.](https://econwpa.ub.uni-muenchen.de/econ-wp/io/papers/0304/0304006.pdf) 6 citations  
+
+---
+#### [Staffan Canback (2004): *Diseconomies of scale in large corporations: Theory and empirical analysis*. Henley Business School.](https://econwpa.ub.uni-muenchen.de/econ-wp/io/papers/0402/0402001.pdf) 4 citations  
+
+---
+#### [Staffan Canback (1998): *The Logic of Management Consulting, Part 1*. Journal of Management Consulting.](https://doi.org/10.6084/m9.figshare.28334786) 110 citations
+ 
+---
+#### [Staffan Canback (1999): *The Logic of Management Consulting, Part 2*. Journal of Management Consulting.](https://doi.org/10.6084/m9.figshare.28334840) 250 citations
+<br/>
+
+---
+## Alphabetically Listed by Authority (outside above list)
 
 <p align="center">
 <img  src="assets/images/tellusant-members-external-citations-summary.svg" style="text-align: center;" width="700" alt="Summary of external citations">
 </p>
 
----
-Alphabetically listed by authority.  
 #### [AB InBev (2014): *Creation of the Largest African Coca-Cola bottler*](https://www.ab-inbev.com/content/dam/universaltemplate/ab-inbev/investors/sabmiller/presentation/merger-to-create-coca-cola-beverages-africa/coca-cola-beverages-africa-investor-presentation-november-2014.pdf)
 #### [AB InBev (2015): *Quarterly divisional seminar series—Africa*](assets/pdf/ab-inbev-sabmiller-africa-2015.pdf)
 #### [AB InBev (2013): *Quarterly divisional seminar series—Asia-Pacific*](assets/pdf/ab-inbev-sabmiller-asia-pacific-2013.pdf)
@@ -63,7 +90,7 @@ Alphabetically listed by authority.
 #### [Ghent University (2010): *Welke rol speelt olie in de mobilisatie van jongeren in de Niger delta?*](http://lib.ugent.be/fulltxt/RUG01/001/491/060/RUG01-001491060_2011_0001_AC.pdf)
 #### [HARD International Institute of Academic Research and Development (2017): *Causal relationship between revenue allocation and economic growth*](https://www.iiardjournals.org/get/IJEBM/VOL.%203%20NO.%201%202017/Causal%20Relationship.pdf)  
 #### [Health Sciences and Research, International Journal of (2020): *The prevalence of natural mixed infection of T. congolense and T. vivax in cattle*](https://www.ijhsr.org/IJHSR_Vol.10_Issue.11_Nov2020/8.pdf)
-#### [Heineken (2025) 3rd Quarter Results—Dolf van den Brink, CEO](assets/pdf/heineken-cme-2025-evergreen-2030-dolf-van-den-brink.pdf)  
+#### [Heineken (2025): 3rd Quarter Results—Dolf van den Brink, CEO](assets/pdf/heineken-cme-2025-evergreen-2030-dolf-van-den-brink.pdf)  
 #### [Heineken (2025): 3rd Quarter Results—Bram Westenbrink, CCO](assets/pdf/heineken-cme-2025-growth-bram-westenbrink.pdf)  
 #### [Heineken Beverages (2019): *Investment community trade visit*](assets/pdf/heineken-beverages-distell-investment-community-trade-visit.pdf)  
 #### [Heineken Beverages (2016): *Results presentation 2016*](assets/pdf/heineken-beverages-distell-results-presentation-2016.pdf)
@@ -139,7 +166,6 @@ McKinsey (2014): *African aviation—The industry’s last frontier*
 #### [NordicLight / Swedish Chamber of Commerce Brazil (2020): The World Economy in 2020: A Nowcast](https://www.swedcham.com.br/publico/nordic-light/Nordic-Light-Jan2020-Jun2020.pdf)
 #### [Nova, Universidade (2023): *Designing a collaborative AutoML tool to help organizations become data-driven*](https://run.unl.pt/bitstream/10362/148721/1/TGI1403.pdf)
 #### [NSCB Biodiversity Conference, Proceedings of 6th (2018): *Survey of wood carving activities in selected local government areas*](https://nscbconf2018.files.wordpress.com/2018/05/48_71-nscb-2018b.pdf)
-O País (2014): *The African middle class is expanding*
 #### [Osaka University (2019): *Study of emission control for passenger car in Indonesia*](https://ir.library.osaka-u.ac.jp/repo/ouka/all/72412/30409_Dissertation.pdf)
 #### [Partnership for New York City (2013): *NYC jobs blueprint*](assets/pdf/partnership-for-new-york-city-nyc-jobs-blueprint.pdf)
 #### [Pharmaceutical Research, World Journal of (2018): *Antifungal activities of seed extracts of mahogany on Carica papaya*](https://wjpr.s3.ap-south-1.amazonaws.com/article_issue/1531805465.pdf)
