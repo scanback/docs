@@ -19,17 +19,24 @@ Dr. Canback's seminal dissertation outlines a theory of scale diseconomies in la
 
 In addition to the subject matter, the dissertation deploys *sophisticated statistical analysis methods later used within Tellusant*. In particular, structural equation modeling.
 
-#### [Staffan Canback: Bureaucratic Limits of Firm Size - Practitioner Summary](Canback-Bureaucratic-Limits-of-Firm-Size-Practitioner-Summary.pdf)  
+---
+*Papers derived from the dissertation*
+
+#### [Staffan Canback: *Bureaucratic Limits of Firm Size - Practitioner Summary*](Canback-Bureaucratic-Limits-of-Firm-Size-Practitioner-Summary.pdf)  
 This is an easy to digest summary of the dissertation void of any quantitative analysis.
 
-#### [Staffan Canback: The Growth Tesseract: A Scientific View of Firms’ Growth Opportunities ](Canback-Growth-Tesseract.pdf)
+#### [Staffan Canback: *EDAMBA First Prize 2003 - Bureaucratic Limits of Firm Size*. EDAMBA Journal](Canback-EDAMBA-First-Prize-2003-Bureaucratic-Limits-of-Firm-Size.pdf)  
+This is a summary of my dissertation Bureaucratic Limits of Firm Size, created for the EDAMBA Journal. It was contributed to commemorate my First Prize in the 2003 competition for best European doctoral dissertation in management and business administration, awarded by the [European Doctoral Programmes Association in Management and Business Administration](https://edamba.eu) (EDAMBA).
+
+#### [Staffan Canback: *The Growth Tesseract: A Scientific View of Firms’ Growth Opportunities*](Canback-Growth-Tesseract.pdf)
 Growth is an important topic for most firms. Yet they often lack a framework for organizing their thoughts on growth. This may lead
 to an inability to identify, quantify, and capture growth opportunities. This paper, based on parts of Dr. Canback's doctoral research, sheds light on the issue.  
 
-#### [Staffan Canback & Philip Burginyoung: Toward an Integrated Strategy Development Framework: A New Synthesis Based on the Giants of the Past](toward-an-integrated-strategy-development-framework.md)
+---
+#### [Staffan Canback & Philip Burginyoung: *Toward an Integrated Strategy Development Framework: A New Synthesis Based on the Giants of the Past*](toward-an-integrated-strategy-development-framework.md)
 Strategic planning often suffers from inconsistencies by cycle and business unit, a slow process, and a lack of faith in results. Companies need to find solutions to improve this critical aspect of their business.
 
 The starting place for any improvement in planning is to have a strong underlying strategy framework that anchors a company on its goals. This guide describes a structured approach to ensuring a better strategic planning process and how it links back to strategic thinking authorities.  
 
-#### [Staffan Canback & Richard Junestrand: When Does Vertical Integration Make Sense?](Canback-Junestrand-When-Does-Vertical-Integration-Make-Sense.pdf)
+#### [Staffan Canback & Richard Junestrand: *When Does Vertical Integration Make Sense?*](Canback-Junestrand-When-Does-Vertical-Integration-Make-Sense.pdf)
 One of the most important aspects of strategy development is to determine the appropriate level of vertical integration. There are large risks associated with vertical integration as a strategy: complexity, significant capital commitments, difficulty to reverse course if the strategy does not work.  
