@@ -30,7 +30,7 @@ This was the third required working paper. Before writing the research proposal,
 This was the fourth required submission. A solid research proposal has to be approved by the advisors. Mine took a few iterations and delayed my progress by 1-2 years. But in the end it was all for the good.
 
 ---
-### Papers derived from my doctoral dissertation
+### Papers Derived from my Doctoral Dissertation
 
 #### [Canback, Staffan, Phillip Samouel & David Price (2006): *Do Diseconomies of Scale Impact Firm Size and Performance - A Theoretical and Empirical Overview* Journal of Managerial Economics](Canback-Samouel-Price-Do-Diseconomies-of-Scale-Impact-Firm-Size-and-Performance.pdf)  
 This is an oft-cited summary of my dissertation, written by me and my dissertation advisors.
