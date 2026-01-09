@@ -17,16 +17,19 @@ Dr. Canback's seminal dissertation outlines a theory of scale diseconomies in la
 In addition to the subject matter, the dissertation deploys *sophisticated statistical analysis methods later used within Tellusant*. In particular, structural equation modeling.
 
 #### [Staffan Canback (1997): *Critique of Thesis by T.H. Klier Michigan State*](Canback-Critique-of-Thesis-by-T.H.-Klier-Michigan-State.pdf)
-This was the first required working paper I submitted. By writing a critique, we learned how to structure our own dissertations.
+This was the first required working paper. By writing a critique, we learned how to structure our own dissertations.
+
+#### [Staffan Canback (1997): *Transaction Cost Theory and Management Consulting: Why Do Management Consultants Exist?*](Canback-Transaction-Cost-Theory-and-Management-Consulting-Why-Do-Management-Consultants-Exist.pdf)
+This was the second required working paper. It allowed me to learn about TCE while applying it to a topic I was familiar with.
+
+#### [Staffan Canback (1997): *Literature Survey and Hypotheses Based on Transaction Cost Economics](Canback-Limits-of-Firm-Size-Literature-Survey-and-Hypotheses-Based-on-Transaction-Cost-Economics.pdf)  
+This was the third required working paper. Before writing the research proposal, it is important to establish what the precedents by the authorities are. Read-read-read.
 
 #### [Staffan Canback (1997): Literature Survey and Hypotheses Based on Transaction Cost Economics](Canback-Limits-of-Firm-Size-Literature-Survey-and-Hypotheses-Based-on-Transaction-Cost-Economics.pdf)  
-This was the second required working paper. Before writing the research proposal, it is important to establish what the precedents by the authorities are. Read-read-read.
+This was the fourth required submission. Before writing the research proposal, it is important to establish what the precedents from the authorities are.
 
 #### [Staffan Canback (1997): *Proposal for a Test of the Transaction-Cost Explanation of Diseconomies of Scale*](Canback-Proposal-for-a-Test-of-the-Transaction-Cost-Explanation-of-Diseconomies-of-Scale.pdf)  
-A solid research proposal has to be approved by the advisors. Mine took a few iterations and delayed my progress by 1-2 years. But in the end it was all for the good.
-
-#### [Staffan Canback (1997): Literature Survey and Hypotheses Based on Transaction Cost Economics](Canback-Limits-of-Firm-Size-Literature-Survey-and-Hypotheses-Based-on-Transaction-Cost-Economics.pdf)  
-This was the second required working paper. Before writing the research proposal, it is important to establish what the precedents by the authorities are. Read-read-read.
+This was the fifth required submission. A solid research proposal has to be approved by the advisors. Mine took a few iterations and delayed my progress by 1-2 years. But in the end it was all for the good.
 
 ---
 ### Papers derived from my doctoral dissertation
@@ -38,7 +41,10 @@ This is an oft-cited summary of my dissertation, written by me and my dissertati
 This is an easy to digest summary of the dissertation void of any quantitative analysis.
 
 #### [Staffan Canback (2004): *EDAMBA First Prize 2003 - Bureaucratic Limits of Firm Size*. EDAMBA Journal](Canback-EDAMBA-First-Prize-Bureaucratic-Limits-of-Firm-Size.pdf)  
-This is a summary of my dissertation Bureaucratic Limits of Firm Size, created for the EDAMBA Journal. It was contributed to commemorate my First Prize in the 2003 competition for best European doctoral dissertation in management and business administration, awarded by the [European Doctoral Programmes Association in Management and Business Administration](https://edamba.eu) (EDAMBA).
+This is a summary of my dissertation *Bureaucratic Limits of Firm Size*, written for the EDAMBA Journal. It was contributed to commemorate my First Prize in the 2003 competition for best European doctoral dissertation in management and business administration, awarded by the [European Doctoral Programmes Association in Management and Business Administration](https://edamba.eu) (EDAMBA).
+
+#### [Canback, Staffan, Phillip Samouel, and David Price (2006): *Strategy and Structure in Interaction: What Determines the Boundaries of the Firm*. EDAMBA Journal](Canback-Samouel-Price-Strategy-and-Structure-in-Interaction-What-Determines-the-Boundaries-of-the-Firm.pdf)
+My advisors and I wrote this short summary of the disseration at the request Henley Business School.
 
 ---
 ### Beyond My Doctoral Research
