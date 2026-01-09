@@ -50,7 +50,7 @@ My advisors and I wrote this short summary of the disseration at the request Hen
 #### [Staffan Canback & Frank D'Agnese: *Where in the World Is the Market?*](Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf)
 Finding, measuring and capturing market opportunities in emerging countries are critical tasks for multinational consumer goods companies. Central to these tasks is the need to collect and analyze income distribution data within a globally coherent framework and to move beyond income metrics based on national averages.  
 
-#### [Philip Burginyoung et al. (): *The Consumer Impact of Pricing Actions*](Burginyoung-et-al-Consumer-Impact-of-Pricing-Actions.pdf)
+#### [Philip Burginyoung et al. (2023): *The Consumer Impact of Pricing Actions*](Burginyoung-et-al-Consumer-Impact-of-Pricing-Actions.pdf)
 Consumer goods companies have increasingly been in the news for raising prices in today’s high global inflationary environment. With uncertainty about the true size and effect of these price increases, we examine how pricing is impacting both company volumes and consumer ability to pay on a global scale.  
 
 #### [Staffan Canback: *The Growth Tesseract: A Scientific View of Firms’ Growth Opportunities*](Canback-Growth-Tesseract.pdf)
