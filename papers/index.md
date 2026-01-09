@@ -77,6 +77,6 @@ Part 2 explores the implications of TCE for why management consultants exist. Th
 #### [Staffan Canback & Richard Junestrand (2001): *When Does Vertical Integration Make Sense?*](Canback-Junestrand-When-Does-Vertical-Integration-Make-Sense.pdf)
 One of the most important aspects of strategy development is to determine the appropriate level of vertical integration. There are large risks associated with vertical integration as a strategy: complexity, significant capital commitments, difficulty to reverse course if the strategy does not work.  
 
-#### [Staffan Canback (1992): *The Industrial Company in 2027 (Predictions Made in 1992)*](Canback-The-Industrial-Company-in-2027-(Predictions-Made-in-1992).pdf)
+#### [Staffan Canback (1992): *The Industrial Company in 2027 (Predictions Made in 1992)*](Canback-The-Industrial-Company-in-the-Year-2027-(Predictions-Made-in-1992).pdf)
 This paper is based on a presentation to McKinsey Nordics. It took a 25 year perspective on what to expect. It has hits and misses.
 
