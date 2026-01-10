@@ -15,7 +15,7 @@ I have hundreds of LinkedIn and Medium articles and posts that are lost because 
 ### [Academic Papers et Plus](papers/index.md)
 Find my academic papers and doctoral dissertation. They cover diseconomies of scale / bureaucratic limits of firm size, the theory of why management consultants exist, global market analysis method, new perspectives on what strategy is, and more.
 
-### [Public Presentations](presentationss/index.md)
+### [Public Presentations](presentations/index.md)
 Here you find various PowerPoint presentations that aren'tclient confidential.
 
 ### [Quick Reads](quick-reads/index.md)
