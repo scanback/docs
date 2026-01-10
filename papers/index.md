@@ -1,11 +1,11 @@
 ---
 title: "My Academic Papers et Plus"
-description: "This page covers Staffan Canback's academic and management-oriented papers, written since the 1990s till now"
+description: "This page covers Staffan Canback's academic and management-oriented papers, written since the 1990s"
 image: /assets/social-card-think.png
 ---
 
 # Academic Papers et Plus
-This page covers Staffan Canback's academic papers, written since the 1990s till now.
+This page covers Staffan Canback's academic papers, written since the 1990s.
 
 > The way to gain insights from this extensive library is to ask ChatGPT or similar to create summaries. Example: Can you summarize in 2 pages the document "*Staffan Canback (1997): Critique of Thesis by T.H. Klier, Michigan State. Henley Business School*" on `https://scanback.github.io/docs/papers/`
 >
