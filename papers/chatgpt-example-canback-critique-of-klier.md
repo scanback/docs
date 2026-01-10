@@ -1,6 +1,10 @@
 # ChatGPT Example: Canback Critique of Klier
 for how to digest my papers easily.
 
+## To ChatPGT
+
+Can you summarize in 2 pages the document "Staffan Canback (1997): Critique of Thesis by T.H. Klier, Michigan State. Henley Business School on https://scanback.github.io/docs/papers/
+
 ## From ChatGPT
 
 ---
@@ -61,11 +65,11 @@ This is an important critique because governance shifts in supply chains can als
 
 A consistent theme in Canback’s critique is that Klier is methodologically serious. He commends the thesis for:
 
-using creative comparisons to earlier research,
+- using creative comparisons to earlier research,
 
-combining prior studies with new data,
+- combining prior studies with new data,
 
-and choosing statistical techniques carefully.
+- and choosing statistical techniques carefully.
 
 However, Canback also identifies a major limitation that prevents strong inference: low questionnaire response rate and a small sample. This makes it hard to draw unambiguous conclusions, even if the model specification is defensible.
 
@@ -73,14 +77,14 @@ In effect, Canback argues the thesis is well designed but underpowered—leading
 
 ## 7) Conclusions of the critique: value as contribution and model
 
-Canback’s final position is nuanced:
+- Canback’s final position is nuanced:
 
-Klier’s thesis advances understanding of vertical integration decisions under JIT and provides one of the first explicit transaction-cost interpretations of that shift.
+- Klier’s thesis advances understanding of vertical integration decisions under JIT and provides one of the first explicit transaction-cost interpretations of that shift.
 
-It makes TCE more “usable” by translating abstract constructs into measurable variables and empirical tests.
+- It makes TCE more “usable” by translating abstract constructs into measurable variables and empirical tests.
 
-The thesis is also a methodological template for other doctoral researchers.
+- The thesis is also a methodological template for other doctoral researchers.
 
-But limitations—especially sample size and theoretical narrowness—reduce the strength of conclusions, and key Williamsonian assumptions should have been examined more critically.
+- But limitations—especially sample size and theoretical narrowness—reduce the strength of conclusions, and key Williamsonian assumptions should have been examined more critically.
 
 **Taken as a whole**, Canback’s critique portrays Klier’s thesis as a high-quality, pioneering piece of applied TCE research: strong conceptual framing and careful execution, producing credible directional evidence and a valuable example—while still leaving room for deeper theory comparison and stronger empirical datasets.
