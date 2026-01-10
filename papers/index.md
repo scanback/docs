@@ -67,7 +67,7 @@ Strategic planning often suffers from inconsistencies by cycle and business unit
 The starting place for any improvement in planning is to have a strong underlying strategy framework that anchors a company on its goals. This guide describes a structured approach to ensuring a better strategic planning process and how it links back to strategic thinking authorities.  
 
 #### [Staffan Canback (2005): *Does Corporate Size Matter?* Axess magasin](Canback-Does-Corporate-Size-Matter.pdf)
-This *liberal arts* article was commissioned by Axess. It explores what the meaning of size is and delves into societal issues far beyond mundane business topics.
+This *liberal arts* article was commissioned by [Axess](https://www.axess.se/). It explores what the meaning of size is and delves into societal issues far beyond mundane business topics.
 
 #### [Staffan Canback (2004): *A Lightweight Note on Success in Mergers and Acquisitions*](Canback-A-Lightweight-Note-on-Success-in-Mergers-and-Acquisitions.pdf)
 This note summarizes, in two pages, findings on what drives success in corporate M&A. Written two decades ago, the conclusions still hold.
