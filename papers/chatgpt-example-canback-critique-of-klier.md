@@ -1,5 +1,11 @@
+---
+title: "ChatGPT Example: Canback Critique of Klier"
+description: "This is an example for using ChatGPT to summarize my papers for easy digestion"
+image: /assets/social-card-think.png
+---
+
 # ChatGPT Example: Canback Critique of Klier
-for how to digest my papers easily.
+This is an example for using ChatGPT to summarize my papers for easy digestion.
 
 ## To ChatPGT
 
