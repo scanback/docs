@@ -1,7 +1,7 @@
 ---
 title: "Academic Papers et Plus"
 description: "This page covers Staffan Canback's academic and management-oriented papers, written since the 1990s till now"
-image: /assets/social-card-pub.png
+image: /assets/social-card-think.png
 ---
 
 # Academic Papers et Plus
