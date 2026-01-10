@@ -1,7 +1,7 @@
 ---
 title: "Elasticity Math"
 description: "Why do we use logarithms when calculating elasticities? Here is the answer."
-image: /assets/social-card-pub.png
+image: /assets/social-card-think.png
 ---
 # Elasticity Math  
 *Dr. Staffan Canback, Tellusant*  
