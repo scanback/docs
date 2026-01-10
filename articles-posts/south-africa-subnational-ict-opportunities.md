@@ -1,7 +1,7 @@
 ---
 title: "Subnational ICT Opportunities in South Africa"
 description: "There is a strong trend among global companies toward understanding markets at subnational levels."
-image: /assets/social-card-pub.png
+image: /assets/social-card-think.png
 ---
 # Subnational ICT Opportunities in South Africa  
 ## Case Example for How to Use TelluBase Income Distribution Data  
