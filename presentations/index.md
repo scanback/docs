@@ -7,4 +7,4 @@ I then stopped giving it because of what I perceived as potential copyright issu
 
 The presentation combines **Coasian Transaction Cost Economics**, with **chaos theory**, and an adaption of **Henri Fayol**'s management theory (he was the first person to articulate what management is, more than 100 years ago).
 
-I find some of the thinking dated but w0n't update the deck since the first attempt invariably is the best. Most of my conclusions still hold: Management is getting easier.
+I find some of the thinking dated but w0n't update the deck since the first attempt invariably is the best. Most of my conclusions still hold: *managing is getting easier, ceteris paribus.*
