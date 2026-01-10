@@ -1,7 +1,7 @@
 ---
 title: "Greenhouse Gas Productivity"
 description: "Climate change is the problem of the century. How do countries differ in their ability to manage the greenhouse gases (GHG) that cause it?"
-image: /assets/social-card-pub.png
+image: /assets/social-card-think.png
 ---
 
 # Greenhouse Gas Productivity
