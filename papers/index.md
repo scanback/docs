@@ -7,6 +7,8 @@ image: /assets/social-card-pub.png
 # Academic Papers et Plus
 This page covers Staffan Canback's academic and management-oriented papers, written since the 1990s till now.
 
+> The way to get insights into this extensive library is to ask ChatGPT or similar to summarize a paper. Examplw: Can you summarize in 2 pages the document "*Staffan Canback (1997): Critique of Thesis by T.H. Klier, Michigan State. Henley Business School*" on https://scanback.github.io/docs/papers/ The response, really well written, is [here](chatptp-example.md).
+
 ---
 ### Doctoral Research
 
@@ -15,7 +17,7 @@ Dr. Canback's seminal dissertation outlines a theory of scale diseconomies in la
 
 In addition to the subject matter, the dissertation deploys *sophisticated statistical analysis methods later used within Tellusant*. In particular, structural equation modeling.
 
-> *The awarding of the doctorate is not only based on a well-defended dissertation. There are several other required papers that each partially fulfills the doctoral award requirements.*
+>> *The awarding of the doctorate is not only based on a well-defended dissertation. There are several other required papers that each partially fulfills the doctoral award requirements.*
 
 #### [Staffan Canback (1997): *Critique of Thesis by T.H. Klier, Michigan State.* Henley Business School](Canback-Critique-of-Thesis-by-T.H.-Klier-Michigan-State.pdf)
 This was the first required working paper. By writing a critique, we learned how to structure our own dissertations.
