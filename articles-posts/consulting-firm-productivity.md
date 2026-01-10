@@ -2,7 +2,7 @@
 title: "The Low Productivity of MBB"
 description: "There is a sad state of affairs at the large management consulting firms —
  MBB. Not the quality of deliverables. The lack of productivity is the issue"
-image: /assets/social-card-pub.png
+image: /assets/social-card-think.png
 ---
 # The Low Productivity of MBB
 *Dr. Staffan Canback*  

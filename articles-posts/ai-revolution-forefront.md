@@ -1,7 +1,7 @@
 ---
 title: "Tellusant at the Forefront of the AI Revolution"
 description: "Tellusant has always been at the forefront of the AI revolution. It was the intent behind founding the company and abandoning management consulting."
-image: /assets/social-card-pub.png
+image: /assets/social-card-think.png
 ---
 
 # Tellusant at the Forefront of the AI Revolution

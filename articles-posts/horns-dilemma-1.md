@@ -1,7 +1,7 @@
 ---
 title: "The Horns of the Dilemma #1"
 description: "Trade-offs between generality, precision, and realism in strategy development"
-image: /assets/social-card-pub.png
+image: /assets/social-card-think.png
 ---
 
 # The Horns of the Dilemma #1

@@ -1,7 +1,7 @@
 ---
 title: "Toward an Integrated Strategy Development Framework"
 description: "A New Synthesis Based on the Giants of the Past"
-image: /assets/social-card-pub.png
+image: /assets/social-card-think.png
 ---
 
 # Toward an Integrated Strategy Development Framework

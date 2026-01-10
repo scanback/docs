@@ -1,7 +1,7 @@
 ---
 title: "The PoluSim Universe"
 description: "Our PoluSim solution has expanded majorly since the launch in 2022. Learn more in this post."
-image: /assets/social-card-pub.png
+image: /assets/social-card-think.png
 ---
 # The PoluSim Universe
 Our **PoluSim** solution has expanded majorly since the launch in 2022. It now has three distinct modules plus **TelluBase** to help companies create a strategic view of the future and to predict demand.  
