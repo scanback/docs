@@ -17,7 +17,7 @@ I find some of the thinking dated but w0n't update the deck since the first atte
 #### [Staffan Canback: The Nature of Predictions: Negative Feedback Loops ∧ P.I.D Controllers](S.Canback-Tellusant-The-Nature-of-Predictions.pdf)
 What are predictions and how are they made. Negative feedback loops and P.I.D controllers make life possible. Learn about this from an internal training session.
 
-#### [Staffan Canback: On Strategy](S.Canback-Tellusant-on-Strategy.pdf)
+#### [Staffan Canback: Tellusant on Strategy](S.Canback-Tellusant-on-Strategy.pdf)
 I show Tellusant’s frameworks for strategy development. It builds on Structure-Conduct-Performance (SCP) and the Resource-Based View of the firm (RBV). This is what we automate in our cloud-based solutions.
 
 #### [Staffan Canback: How Tellusant Works: Linear Algebra ∧ Calculus](S.Canback-Tellusant-How-Tellusant-Works-Linear-Algebra-and-Calculus.pdf)
