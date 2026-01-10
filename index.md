@@ -18,6 +18,9 @@ Find my academic papers and doctoral dissertation. They cover diseconomies of sc
 ### [Quick Reads](quick-reads/index.md)
 I'm the main contributor to Tellusant Quick Reads. Find all of them here.  
 
+### [Travel Stories and Photos](travel/index.md)
+I have worked on the ground in 90 countries and visited over 100. This section is forthcoming.
+
 ### [Citations of My Work](citations/index.md)
 I have over 750 academic, business, and media citations to my name.  
 
