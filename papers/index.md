@@ -7,7 +7,7 @@ image: /assets/social-card-pub.png
 # Academic Papers et Plus
 This page covers Staffan Canback's academic and management-oriented papers, written since the 1990s till now.
 
-> The way to get insights into this extensive library is to ask ChatGPT or similar to summarize a paper. Examplw: Can you summarize in 2 pages the document "*Staffan Canback (1997): Critique of Thesis by T.H. Klier, Michigan State. Henley Business School*" on https://scanback.github.io/docs/papers/ The response, really well written, is [here]chatgpt-example-canback-critique-of-klier.md).
+> The way to get insights into this extensive library is to ask ChatGPT or similar to summarize a paper. Examplw: Can you summarize in 2 pages the document "*Staffan Canback (1997): Critique of Thesis by T.H. Klier, Michigan State. Henley Business School*" on https://scanback.github.io/docs/papers/ The response, really well written, is [here](chatgpt-example-canback-critique-of-klier.md).
 
 ---
 ### Doctoral Research
