@@ -10,4 +10,4 @@ Bits and pieces such as event posters.
 Henley Business School: 39th Anniversary DBA Research Colloquium - July 20 2022
 
 #### [Agenda for my "The Lund Lecture: Where in the World Is the Market?"](S.Canback-Lund-Lecture-Agenda.svg)
-Lund University May 4, 2024
+Lund University School of Economics and Management - May 4, 2024
