@@ -27,5 +27,9 @@ I have worked on the ground in 90 countries and visited over 100. FORTHCOMING.
 ### [Citations of My Work](citations/index.md)
 I have over 750 academic, business, and media citations to my name.  
 
+### [Other Materials](other/index.md)
+Bits and pieces such as event posters.
+
+---
 ### [My Legitimacy](legitimacy/index.md)
 What gives me the right to publish the kind of deep intellectual materials you find here? I asked ChatGPT and Gemini to summarize my credentials.  
