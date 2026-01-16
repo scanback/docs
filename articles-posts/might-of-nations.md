@@ -20,9 +20,11 @@ I quantify this using the business concept of relative market share and applying
 
 ### Observations  
 - Over the past quarter of a century, the U.S. has lost ground to China. This is no surprise, but the graph dimensionsonalizes the shift. It is a difficult transition for decision makers in Washington and for citizens throughout the country and for companies, just as it was for the UK and Russia.
-- We are now at apoint where China surpasses the U.S. in economic might.
+- We are now at a point where China surpasses the U.S. in economic might.
+- India is gaining rapidly and may reach the U.S. level within 29 years.
+- USSR / Russia has never been as powerful as many think. It had significant might up till the dissolution of the USSR, but pundits often treat the country as an equal to the west. This has never been true.
 
-I chose PPP rates for GDP as the metric. I do this because the IMF uses PPP when looking at country shares, but do not use it for purposes. Therefore they view PPP as the best way to compare between countries. My on experience in countless studies says that PPP corresponds to the real world better than MER.
+I chose PPP rates for GDP as the metric. I do this because the IMF uses PPP when looking at comparisons between countries, but do not use it other for purposes. Therefore they implictly view PPP as the best way to compare countries. Further, my own experience in countless studies says that PPP corresponds to the real world better than MER.
 
 For those who believe GDP in purchasing power parity (PPP) is not the best metric for country might, I also include graphs with market exchange rate (MER) values, and a midpoint between PPP and MER: [Addendum](might-of-nations-addendum.md). Both show the same trend, but with a less pronounced Chinese gain in might.
 
