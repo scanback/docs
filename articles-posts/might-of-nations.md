@@ -15,7 +15,7 @@ I focus on economic power instead of military power because military power witho
 I quantify this using the business concept of relative market share and apply it to countries. I think of it as **relative economic might (REM)**.
 
 <p align="center">
-<img  src="assets/images/s.canback-might-of-nations.svg" width="600" alt="S.Canback - The Might of Nations">
+<img  src="assets/images/s.canback-might-of-nations-ppp.svg" width="600" alt="S.Canback - The Might of Nations">
 </p>
 
 Over the past quarter of a century, the U.S. has lost ground to China. This is no surprise, but the graph dimensionsonalizes the shift. It is a difficult transition for decision makers in Washington and for citizens throughout the country and for companies, just as it was for the UK and Russia.
