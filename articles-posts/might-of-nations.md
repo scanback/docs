@@ -45,6 +45,6 @@ I included colonies and territories for relevant years. E.g., the Phillipines is
 ---
 ¹ Note that consultants should also use this transform when discussing relative market share with clients.
 
-I first published this analysis in 2017 and have now updated it till 2025.
+I first published this analysis in 2017 on LinkedIn and have now updated it till 2025.
 
 [2026-01-17]
