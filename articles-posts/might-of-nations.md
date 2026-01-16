@@ -1,6 +1,6 @@
 ---
 title: "The Might of Nations"
-description: "With current geopolitical tensions, it is interesting to see how the might of nations has changed over time and where we are now. I use the concept of relative economic power to show the trend."
+description: "With current geopolitical tensions, it is interesting to see how the might of nations has changed over time and where we are now."
 image: /assets/social-card-think.png
 ---
 
