@@ -4,7 +4,7 @@
 
 With current geopolitical tensions, it is interesting to see how the might of nations has changed over time and where we are now. I use the concept of relative market share to show the trend.
 
-I focus on economic power instead of military power, because military power without economic power is not sustainable.
+I focus on economic power instead of military power because military power without economic power is not sustainable.
 
 I quantify this using the business concept of relative market share and applied it to countries.
 
