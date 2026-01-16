@@ -12,7 +12,7 @@ With current geopolitical tensions, it is interesting to see how the might of na
 
 I focus on economic power instead of military power because military power without economic power is not sustainable.
 
-I quantify this using the business concept of relative market share and applying it to countries. But instead of sales (a meaning less metric for countries) I use GDP. I call this **relative economic might** (REM).
+I quantify this using the business concept of relative market share and applying it to countries. But instead of sales (a meaningless metric for countries) I use GDP. I call this **relative economic might** (REM).
 
 <p align="center">
 <img  src="assets/images/s.canback-might-of-nations-ppp.svg" width="600" alt="S.Canback - The Might of Nations">
