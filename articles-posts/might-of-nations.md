@@ -39,7 +39,7 @@ For all other countries:
 After calculating this, REM is Möbius-transformed so that it is symmetrical around 1. That is, REM can be between 0 and 2, instead of 0 and infinity.  
 *REM transformed = 2 ∙ REM untransformed / (1+REM untransformed)* Möbius[0,2,1,1]
 
-Why do I have to make this so complicated? To get it right. If REM can go from 0 to infinity (possible without transfromation), values above 1 are exaggerated. You want to have the same upside as downside. This is a problem common in math, physics, as well as in economics. Hence the Möbius transform that rectifies this.¹
+Why do I have to make this so complicated? To get it right. If REM can go from 0 to infinity (possible without transformation), values above 1 are exaggerated and you get skewed results. You want to have the same upside as downside. This is a problem common in math, physics, as well as in economics. Hence the Möbius transform that rectifies this.¹
 
 I used GDP in PPP$ terms for countries for 1920-2025 (1920 chosen after a period of stabilization following World War 1 and being when the British Empire was at its maximum).
 
