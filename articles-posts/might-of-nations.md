@@ -8,6 +8,8 @@ image: /assets/social-card-think.png
 
 With current geopolitical tensions, it is interesting to see how the might of nations has changed over time and where we are now. I use the concept of relative economic power to show the trend.
 
+## Findings
+
 I focus on economic power instead of military power because military power without economic power is not sustainable.
 
 I quantify this using the business concept of relative market share and apply it to countries. I think of it as **relative economic might (REM)**.
@@ -18,7 +20,7 @@ I quantify this using the business concept of relative market share and apply it
 
 Over the past 20 years, the US has lost relative ground to China. This is no surprise, but the graph dimensionsonalizes the shift. It is a difficult transition for political decision makers and citizens in Washington, just as it has been for the UK and Russia.
 
-For those who view purchasing power (PPP) parity with suspicion, I also include the graph in market exchange rate (MER) values, and a midpoint between PPP and MER: [Addendum](might-of-nations-addendum.md).
+For those who believe GDP in purchasing power parity (PPP) is not the best metric for country might, I also include graphs with market exchange rate (MER) values, and a midpoint between PPP and MER: [Addendum](might-of-nations-addendum.md).
 ## Relative Economic Might Definiton
 
 Relative market share in business is for the largest company:  
