@@ -4,7 +4,7 @@ I have hundreds of LinkedIn and Medium articles and posts that are lost because 
 ## Recent
 
 #### [The Might of Nations](might-of-nations.md)
-With current geopolitical tensions, it is interesting to see how the might of nations has changed over time and where we are now. I use the concept of relative market share to show the trend.
+With current geopolitical tensions, it is interesting to see how the might of nations has changed over time and where we are now. I use the concept of relative market share, translated to relative economic might, to show the trend.
 
 #### [The Palmer Penguins and their Role in Business](palmer-penguins.md)
 Penguins are an unlikely influence on management science, but this dataset has had a profound impact on emerging business practices.  
