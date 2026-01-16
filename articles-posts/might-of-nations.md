@@ -18,7 +18,7 @@ I quantify this using the business concept of relative market share and apply it
 <img  src="assets/images/s.canback-might-of-nations.svg" width="600" alt="S.Canback - The Might of Nations">
 </p>
 
-Over the past quarter of a century, the U.S. has lost ground to China. This is no surprise, but the graph dimensionsonalizes the shift. It is a difficult transition for political decision makers in Washington and for citizens throughout the country, just as it was for the UK and Russia.
+Over the past quarter of a century, the U.S. has lost ground to China. This is no surprise, but the graph dimensionsonalizes the shift. It is a difficult transition for decision makers in Washington and for citizens throughout the country and for companies, just as it was for the UK and Russia.
 
 For those who believe GDP in purchasing power parity (PPP) is not the best metric for country might, I also include graphs with market exchange rate (MER) values, and a midpoint between PPP and MER: [Addendum](might-of-nations-addendum.md). Both show the same trend, but with a less pronounced Chinese gain in power.
 
