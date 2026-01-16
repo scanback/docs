@@ -6,11 +6,13 @@ With current geopolitical tensions, it is interesting to see how the might of na
 
 I focus on economic power instead of military power because military power without economic power is not sustainable.
 
-I quantify this using the business concept of relative market share and applied it to countries.
+I quantify this using the business concept of relative market share and applied it to countries. I think of it as relative economic might.
 
-Relative market share carries importance in business. It is often said that a relative market share above 2 gives an unassailable advantage from competition. I do not know if this holds for countries, but I marked it on the graph.
+Relative economic might carries importance in business. It is often said that a relative market share above 2 gives an unassailable advantage from competition. I do not know if this holds for countries, but I marked it on the graph.
 
-Over the past 20 years, the US has lost relative ground to Chima. This is no surprise, but the graph dimensionlizes the shift. It is a difficult transition for decision makers in Washington, just as it has been for the UK and Russia.Alliances can help alleviate this.
+Over the past 20 years, the US has lost relative ground to China. This is no surprise, but the graph dimensionsonalizes the shift. It is a difficult transition for political decision makers and citizens in Washington, just as it has been for the UK and Russia.
+
+A caveat is that relative market share may not work 
 
 —   —   —
 
