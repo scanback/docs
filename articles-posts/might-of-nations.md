@@ -12,15 +12,19 @@ With current geopolitical tensions, it is interesting to see how the might of na
 
 I focus on economic power instead of military power because military power without economic power is not sustainable.
 
-I quantify this using the business concept of relative market share and apply it to countries. I think of it as **relative economic might (REM)**.
+I quantify this using the business concept of relative market share and applying it to countries. But instead of sales (a meaning less metric for countries) I use GDP. I call this **relative economic might** (REM).
 
 <p align="center">
 <img  src="assets/images/s.canback-might-of-nations-ppp.svg" width="600" alt="S.Canback - The Might of Nations">
 </p>
 
-Over the past quarter of a century, the U.S. has lost ground to China. This is no surprise, but the graph dimensionsonalizes the shift. It is a difficult transition for decision makers in Washington and for citizens throughout the country and for companies, just as it was for the UK and Russia.
+### Observations  
+- Over the past quarter of a century, the U.S. has lost ground to China. This is no surprise, but the graph dimensionsonalizes the shift. It is a difficult transition for decision makers in Washington and for citizens throughout the country and for companies, just as it was for the UK and Russia.
+- We are now at apoint where China surpasses the U.S. in economic might.
 
-For those who believe GDP in purchasing power parity (PPP) is not the best metric for country might, I also include graphs with market exchange rate (MER) values, and a midpoint between PPP and MER: [Addendum](might-of-nations-addendum.md). Both show the same trend, but with a less pronounced Chinese gain in power.
+I chose PPP rates for GDP as the metric. I do this because the IMF uses PPP when looking at country shares, but do not use it for purposes. Therefore they view PPP as the best way to compare between countries. My on experience in countless studies says that PPP corresponds to the real world better than MER.
+
+For those who believe GDP in purchasing power parity (PPP) is not the best metric for country might, I also include graphs with market exchange rate (MER) values, and a midpoint between PPP and MER: [Addendum](might-of-nations-addendum.md). Both show the same trend, but with a less pronounced Chinese gain in might.
 
 ## Relative Economic Might Definiton
 
