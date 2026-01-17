@@ -21,6 +21,7 @@ I quantify this using the business concept of relative market share and applying
 ### Observations  
 - Over the past quarter of a century, the U.S. has lost ground to China. This is no surprise, but the graph dimensionsonalizes the shift. It is a difficult transition for decision makers in Washington and for citizens throughout the country and for companies, just as it was for the UK and Russia.  
 - We are now at a point where China surpasses the U.S. in economic might.  
+  
 - India is gaining rapidly and may reach the U.S. level within 29 years.  
 - USSR / Russia has never been as powerful as many think. It had significant might up till the dissolution of the USSR, but pundits often treat the country as an equal to the west. This has never been true.  
 
