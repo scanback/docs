@@ -49,7 +49,7 @@ Why do I have to make this so complicated? To get it right. If REM can go from 0
 
 I used GDP in PPP$ terms for countries for 1920-2025 (1920 chosen after a period of stabilization following World War 1 and being when the British Empire was at its maximum).
 
-I included colonies and territories for relevant years. E.g., the Phillipines is included in the U.S. up till 1946. India is included from independence in 1947 and before that as part of the British Empire.
+I included colonies and territories for relevant years. E.g., the Philippines is included in the U.S. up till 1946. India is included from independence in 1947 and before that as part of the British Empire.
 
 ---
 ¹ Note that consultants should also use this transform when discussing relative market share with clients.
