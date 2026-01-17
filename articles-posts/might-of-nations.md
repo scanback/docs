@@ -31,7 +31,7 @@ This suggests we live in a multipolar world no matter whether we believe it or n
 
 Not shown are Germany, Japan, and France and Italy around World War II. I do not want to clutter the message today but will add them by next Saturday. Know though that all major combatants then were fairly equally balanced and perhaps this instability contributed to the war breaking out.
 
-I chose PPP rates for GDP as the metric. I do this because the IMF uses PPP when looking at comparisons between countries, but do not use it other for purposes. Therefore they implictly view PPP as the best way to compare countries. Further, my own experience in countless studies says that PPP corresponds to the real world better than MER.
+I chose PPP rates for GDP as the metric. I do this because the IMF uses PPP when looking at countries' share of the global economy, but do not use it for any other purposes. Therefore they implictly view PPP as the best way to compare countries. Further, my own experience from countless studies says that PPP corresponds to the real world better than MER.
 
 For those who believe GDP in purchasing power parity (PPP) is not the best metric for country might, I also include graphs with market exchange rate (MER) values, and a midpoint between PPP and MER: [Addendum](might-of-nations-addendum.md). Both show the same trend, but with a less pronounced Chinese gain in might.
 
