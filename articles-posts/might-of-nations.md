@@ -27,6 +27,8 @@ I quantify this using the business concept of relative market share and applying
 
 - USSR / Russia has never been as powerful as many think. It had significant might up till the dissolution of the USSR, but pundits often treat the country as an equal to the west. This has never been true.
 
+This suggests we live in a multipolar world no matter whether we believe it or not, like it or not. This requires rewiring expectations, policies, and decisions around the world. This is a complex process and Washington is currently not up to the game.
+
 Not shown are Germany, Japan, and France and Italy around World War II. I do not want to clutter the message today but will add them by next Saturday. Know though that all major combatants then were fairly equally balanced and perhaps this instability contributed to the war breaking out.
 
 I chose PPP rates for GDP as the metric. I do this because the IMF uses PPP when looking at comparisons between countries, but do not use it other for purposes. Therefore they implictly view PPP as the best way to compare countries. Further, my own experience in countless studies says that PPP corresponds to the real world better than MER.
