@@ -18,7 +18,6 @@ I quantify this using the business concept of relative market share and applying
 <img  src="assets/images/s.canback-might-of-nations-ppp.svg" width="600" alt="S.Canback - The Might of Nations">
 </p>
 
-### Observations  
 - Over the past quarter of a century, the U.S. has lost ground to China. This is no surprise, but the graph dimensionsonalizes the shift. It is a difficult transition for decision makers in Washington and for citizens throughout the country and for companies, just as it was for the UK and Russia.  
 
 - We are now at a point where China surpasses the U.S. in economic might.  
@@ -35,7 +34,7 @@ I chose PPP rates for GDP as the metric. I do this because the IMF uses PPP when
 
 For those who believe GDP in purchasing power parity (PPP) is not the best metric for country might, I also include graphs with market exchange rate (MER) values, and a midpoint between PPP and MER: [Addendum](might-of-nations-addendum.md). Both show the same trend, but with a less pronounced Chinese gain in might.
 
-## Relative Economic Might Definiton
+## Relative Economic Might Definition
 
 Relative market share in business is for the largest company:  
 *RMS = Largest company market share / 2nd largest company marketshare*  
