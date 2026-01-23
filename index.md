@@ -24,6 +24,10 @@ I'm the main contributor to Tellusant Quick Reads. Find all of them here.
 ### [Travel Stories and Photos](travel/index.md)
 I have worked on the ground in 90 countries and visited over 100. FORTHCOMING.
 
+### [Sverige](sverige/index.md)
+Material på svenska (materials in Swedish).
+
+
 ### [Citations of My Work](citations/index.md)
 I have over 750 academic, business, and media citations to my name.  
 
