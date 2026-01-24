@@ -1,11 +1,11 @@
 ---
 title: "Material på svenska"
-description: "Artiklar med mer ämnade för svenska och finlandssvenska läsare. 🇸🇪 🇫🇮"
+description: "Artiklar med mer ämnade för svenskar och finlandssvenskar. 🇸🇪 🇫🇮"
 image: /assets/social-card-think.png
 ---
 
 # Material på svenska
-Artiklar med mer ämnade för svenska och finlandssvenska läsare. 🇸🇪 🇫🇮
+Artiklar med mer ämnade för svenskar och finlandssvenskar. 🇸🇪 🇫🇮
 
 Mer kommer.
 
