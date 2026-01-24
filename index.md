@@ -24,8 +24,8 @@ I'm the main contributor to Tellusant Quick Reads. Find all of them here.
 ### [Travel Stories and Photos](travel/index.md)
 I have worked on the ground in 90 countries and visited over 100. FORTHCOMING.
 
-### [Material på svenskae](sverige/index.md)
-Artiklar med mer ämnade för svenska och finska läsare. 🇸🇪 🇫🇮
+### [Material på svenska](sverige/index.md)
+Artiklar med mer ämnade för svenska och finlandssvenska läsare. 🇸🇪 🇫🇮
 
 
 ### [Citations of My Work](citations/index.md)
