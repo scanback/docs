@@ -38,7 +38,7 @@ DuPont analysis is one of the most fundamental concepts in financial theory. Her
 TelluBase is the underlying macro database that feeds into our products. It covers 218 countries, 2,600 cities, and 2,500 subdivisions (states, provinces, etc.).  
 #### [Predicting Exchange Rates](Tellusant-Quick-Read-Exchange-Rate-Predictions.pdf)  
 How can we estimate future exchange rates (XR) for strategic purposes (3-10 years out)? The answer is that a random walk model does the best job. Understanding the logic of future XR may seem difficult, but it is not. We tend to make it difficult though.  
-#### [Predicting Is not Forecasting](Tellusant-Quick-Read-Predicting-Versus-Forecasting.pdf)  
+#### [Predicting Is not Forecasting](Tellusant-Quick-Read-Predicting-Is-Not-Forecasting.pdf)  
 Creating a forecast is only one part of prediction. We illustrate with an example of how a country’s market for a category will evolve.
 #### [Tellusant’s Water Intake Calculator](Tellusant-Quick-Read-Water-Intake-Calculator.pdf)  
 We often work with beverages companies, covering categories from bottled water to wine. A fundamental metric to understand when analyzing market growth is how much water the human body needs.
