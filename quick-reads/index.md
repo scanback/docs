@@ -48,8 +48,8 @@ Cities typically grow faster than their countries in emerging markets, and the m
 How will the global middle class evolve over the next 20 years. At a torrid pace, but with different regions leading the way.  
 #### [The Growth Tesseract](Tellusant-Quick-Read-Growth-Tesseract.pdf)  
 How to supercharge growth is an eternal issue for CEOs, especially in mature industries like FMCG. Here are the fundamentals The Quick Read is based on our academic research.  
-#### [The Largest U.S. Companies in 2023](Tellusant-Quick-Read-US-Largest-Companies-2023.pdf)  
-Tellusant’s first official Roaring Forty list is out. It ranks the largest U.S. companies by value added—economists’ preferred way to measure size. Alphabet rose to the top in 2023, overtaking Apple.
+#### [The Largest U.S. Companies in 2023](Tellusant-Quick-Read-US-Largest-Companies-2024.pdf)  
+Tellusant’s first official Roaring Forty list is out. It ranks the largest U.S. companies by value added—economists’ preferred way to measure size. Alphabet rose to the top in 2024, overtaking Apple.
 #### [The Meaning of Market Share](Tellusant-Quick-Read-Market-Share-Meaning.pdf)  
 Why is market share important? This Quick Read presents compelling answers to this question based on research by Bhattacharya et al.  
 #### [Unbundling Demand Drivers Using Path Diagrams](Tellusant-Quick-Read-Path-Diagrams.pdf)  
