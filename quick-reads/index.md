@@ -70,7 +70,7 @@ How are TelluBase data used? We highlight six examples in this Quick Read. They 
 In the evening of Wednesday, April 2, 2025, the White House announced global tariffs. This is an event analysis that quantifies impact on GDP growth to create a nowcast.  
 #### [The Risk of Nations](Tellusant-Quick-Read-Risk-of-Nations.pdf)  
 How should we look at country risk? We present the risk of nations based on a quantitative analysis. We divide risk into financial and market (demand) components. Looking at risk this way gives a strict definition to what is meant by risk. It is in line with Frank Knight’s observation: Risk is a knowable probability distribution.  
-#### [How Much Is Spent on Marketing in the U.S.?](Tellusant-Quick-Read-US-Marketing-Spend.pdf)  
+#### [How Much Is Spent on Marketing in the U.S.?](Tellusant-Quick-Read-US-Marketing-Spend-Levels.pdf)  
 Surprisingly, marketing spend is not a widely tracked metric. As part of building a model for the cost of forecasting errors, we needed this, R&D spend, and capex. Therefore, data were collected for large U.S. companies, one by one.  
 
 ---
