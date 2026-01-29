@@ -22,35 +22,10 @@ radar-beta
 config:
   themeVariables:
     xyChart:
-      plotColorPalette: '#000000, #0000FF, #00FF00, #FF0000'
-
----
-xychart
-title "Different Colors in xyChart"
-x-axis "categoriesX" ["Category 1", "Category 2", "Category 3", "Category 4"]
-y-axis "valuesY" 0 --> 50
-%% Black line
-line [10,20,30,40]
-%% Blue bar
-bar [20,30,25,35]
-%% Green bar
-bar [15,25,20,30]
-%% Red line
-line [5,15,25,35]
-
-</div>
-
-<div class="mermaid">
-
----
-config:
-  themeVariables:
-    xyChart:
       plotColorPalette: '#9E5937, #00FF00'
       width: 300
       height: 300
-      showDataLabel: true
-      
+      showDataLabel: true  
 ---
 
 xychart horizontal
