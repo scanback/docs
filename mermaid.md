@@ -48,8 +48,8 @@ config:
     xyChart:
       plotColorPalette: '#9E5937, #00FF00'
       width: 300
-      height: 600
-      showDataLabel: false
+      height: 300
+      showDataLabel: true
 ---
 
 xychart horizontal
