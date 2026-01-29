@@ -60,6 +60,13 @@ blockquote {
   font-style: normal;
 }
 
+hr {
+  border: none;
+  height: 4px;        /* thickness */
+  background-color: #ccc;  /* grey */
+  margin: 2rem 0;
+}
+
 /* ---------------------------------------------------------
    HEADER
 --------------------------------------------------------- */
