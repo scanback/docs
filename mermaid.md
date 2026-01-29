@@ -23,6 +23,7 @@ config:
   themeVariables:
     xyChart:
       plotColorPalette: '#000000, #0000FF, #00FF00, #FF0000'
+
 ---
 xychart
 title "Different Colors in xyChart"
@@ -46,7 +47,11 @@ config:
   themeVariables:
     xyChart:
       plotColorPalette: '#9E5937, #00FF00'
+      width: 300
+      height: 600
+      showDataLabel: false
 ---
+
 xychart horizontal
 title "Different Colors in xyChart"
 x-axis "categoriesX" ["Category 1", "Category 2", "Category 3", "Category 4"]
