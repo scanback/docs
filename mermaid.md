@@ -45,7 +45,7 @@ line [5,15,25,35]
 config:
   themeVariables:
     xyChart:
-      plotColorPalette: '#000000, #0000FF, #00FF00, #FF0000'
+      plotColorPalette: '#0000FF, #00FF00'
 ---
 xychart horizontal
 title "Different Colors in xyChart"
