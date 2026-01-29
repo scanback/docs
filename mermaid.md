@@ -50,6 +50,7 @@ config:
       width: 300
       height: 300
       showDataLabel: true
+      
 ---
 
 xychart horizontal
