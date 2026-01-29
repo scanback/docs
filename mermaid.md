@@ -38,3 +38,22 @@ bar [15,25,20,30]
 line [5,15,25,35]
 
 </div>
+
+<div class="mermaid">
+
+---
+config:
+  themeVariables:
+    xyChart:
+      plotColorPalette: '#000000, #0000FF, #00FF00, #FF0000'
+---
+xychart horizontal
+title "Different Colors in xyChart"
+x-axis "categoriesX" ["Category 1", "Category 2", "Category 3", "Category 4"]
+y-axis "valuesY" 0 --> 40
+%% Blue bar
+bar [20,30,25,35]
+%% Green bar
+bar [15,25,20,30]
+
+</div>
