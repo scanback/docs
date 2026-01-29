@@ -15,15 +15,15 @@ Penguins are an unlikely influence on management science, but this dataset has h
 #### [Sveriges exportmöjligheter i ett besvärligt handelsklimat](sweden-exports.md)
 Hur ska ett exportberoende land som Sverige agera för att bibehålla och öka sin export? Artikeln ger ett djupt analytiskt perspektiv.
 
+<br/>
+
+## Past
+
 #### [The Triple-A Method for Market Sizing](triple-a.md)
 The Addressable – Available – Actual market sizing method provides a logical way to understand not only current market size, but also the latent market opportunities.  
 
 #### [The Emerging Significance of the Nordic-Baltic Eight](nordic-baltic-eight-nb8.md)
 The NB8 region is tightly integrated economically and politically and has a GDP almost at Italy's size.  
-
-<br/>
-
-## Past
 
 #### [Greenhouse Gas Productivity](greenhouse-gas-productivity.md)
 Climate change is the problem of the century. How do countries differ in their ability to manage the greenhouse gases (GHG) that cause it?
@@ -54,3 +54,8 @@ Trade-offs between predictive, explanatory, and understandable models in statist
 
 #### [Five Insights on Strategic Predictions](assets/pdf/tellusant-five-insights-on-strategic-predictions.pdf)
 This pamphlet gives non-math CEOs and others a way to probe the reasoning behind predictions based on 15 topics.
+
+<br/>
+
+## Archive
+tbd
