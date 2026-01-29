@@ -3,6 +3,9 @@ I have hundreds of LinkedIn and Medium articles and posts that are lost because 
 
 ## Recent
 
+#### [South Africa Economic Sentiment Analysis Using AI](economic-sentiment-zaf.md)
+This article shows how to perform semantic analysis of qualitative reports using automated parsing, scoring and weighting, leveraging a custom-trained AI model.
+
 #### [The Might of Nations](might-of-nations.md)
 With current geopolitical tensions, it is interesting to see how the might of nations has changed over time and where we are now. I use the concept of relative market share, translated to relative economic might, to show the trend.
 
