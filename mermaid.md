@@ -5,8 +5,8 @@
 ---
 config:
   xyChart:
-    width: 300
-    titleFontSize: 40
+    width: 550
+    titleFontSize: 12
   themeVariables:
     xyChart:
       plotColorPalette: "#1f6fff"
@@ -21,6 +21,7 @@ xychart-beta horizontal
 
 <div class="mermaid">
   
+---
 config:
   xyChart:
     width: 550
@@ -32,8 +33,8 @@ xychart-beta horizontal
   title "G2 - Country Comparison of Scores"
   x-axis ["South Africa", "Switzerland", "Netherlands"]
   y-axis "Weighted average score across 8 measures" 0 --> 10
-  bar "A" [5.1, null, null]
-  bar "B" [null, 8.0, 6.6]
+  bar [5.1, 0, 0]
+  bar [0, 8.0, 6.6]
 
   </div>
 
