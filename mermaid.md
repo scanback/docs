@@ -2,11 +2,6 @@
 
 <div class="mermaid">
 
----
-config:
-  theme: 'base'
----
-
 xychart-beta horizontal
     title "G1 - Country Comparison of Scores"
     x-axis ["South Africa", "Switzerland", "Netherlands"]
