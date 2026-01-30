@@ -76,7 +76,7 @@ How does **South Africa** compare to other countries? Below is a graph where the
 
 - Affluent countries (with Switzerland as the highest scoring country)
 - Emerging countries (with Myanmar as the lowest scoring country)
-- 𝙶𝙲𝙲 𝚖𝚎𝚖𝚋𝚎𝚛𝚜 (chosen to show how neighboring countries can differ)
+- GCC members (chosen to show how neighboring countries can differ)
 
 ---
 
