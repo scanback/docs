@@ -5,14 +5,6 @@
 ---
 config:
   theme: 'base'
-  themeVariables:
-    primaryColor: '#ff0000'  
-   xyChart:
-      plotColorPalette: '#9E5937'
-      width: 300
-      height: 300
-      showDataLabel: true  
-      titleFontSize: 40
 ---
 
 xychart-beta horizontal
