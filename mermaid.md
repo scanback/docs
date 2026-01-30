@@ -30,9 +30,9 @@ config:
       plotColorPalette: "#C00000,#7b3fe4,#2aa876,#d95f02"
 ---
 xychart-beta horizontal
-  title "G2 - Country Comparison of Scores"
+  title "COMPARISON OF ECONOMIC SENTIMENT SCORES"
   x-axis ["South Africa", "Switzerland", "Netherlands", "United States", "United Kingdom", "India", "Brazil", "China", "Nigeria", "Mexico", "Myanmar", "United Arab Emirates", "Saudi Arabia", "Qatar", "Oman", "Kuwait", "Bahrain"]
-  y-axis "Weighted average score across 8 measures" 0 --> 10
+  y-axis "Weighted average score across the 8 measures" 0 --> 10
 
   %% Group A
   bar [5.1, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2]
