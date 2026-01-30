@@ -4,8 +4,14 @@
 
 ---
 config:
-  theme: forest
+  theme: 'base'
   themeVariables:
+    primaryColor: '#ff0000'
+    primaryTextColor: '#fff'
+    primaryBorderColor: '#7C0000'
+    lineColor: '#F8B229'
+    secondaryColor: '#006100'
+    tertiaryColor: '#fff'
     xyChart:
       plotColorPalette: '#9E5937, #00FF00'
       width: 300
