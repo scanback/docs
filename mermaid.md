@@ -14,7 +14,7 @@ config:
       showDataLabel: true  
       titleFontSize: 40
 ---
----
+
 xychart-beta horizontal
     title "Country Comparison of Scores"
     x-axis ["South Africa", "Switzerland", "Netherlands"]
