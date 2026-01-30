@@ -42,10 +42,3 @@ bar [15,25,20,30]
 
 ---
 
-    %% Group 3: Large EMs
-    bar [null, null, null, null, 6.60, 6.25, 5.70, 5.60, 5.10, null, null, null, null, null, null]
-
-    %% Group 4: GCC
-    bar [null, null, null, null, null, null, null, null, null, 7.10, 6.90, 6.75, 6.15, 5.95, 4.80]
-
-    </div>
