@@ -27,7 +27,7 @@ config:
     width: 550
   themeVariables:
     xyChart:
-      plotColorPalette: "#f28c28,#7b3fe4,#2aa876,#d95f02"
+      plotColorPalette: "#C00000,#7b3fe4,#2aa876,#d95f02"
 ---
 xychart-beta horizontal
   title "G2 - Country Comparison of Scores"
