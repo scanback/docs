@@ -73,7 +73,7 @@ bar [15,25,20,30]
 <div class="mermaid">
   
 ---
-title: "Grades"
+title: "G4 - Grades"
 ---
 radar-beta
   axis m["Math"], s["Science"], e["English"]
