@@ -19,10 +19,11 @@ The graph below shows our latest assessment. As a semantic analysis, it evaluate
 
 The bottom graph shows the summary for 16 countries to give more context to the South African assessment. We can replicate this for most countries in the world, with the full details.
 
-The graphs are made with **Mermaid**, a visualization tool with almost no formatting capability. It is suitable for demos and proof-of concept efforts, like this.
+The graphs are made with **Mermaid** v11, a visualization tool suitable for demos and proof-of concept efforts, like this.  It also reduces doc-rot since the code is open source and transparent.
 
 ---
-**SOUTH AFRICA ECONOMIC SENTIMENT**
+**SOUTH AFRICA ECONOMIC SENTIMENT COMPONENTS**  
+As of January 2026
 
 <div class="mermaid">
 
@@ -52,8 +53,8 @@ LC <-->|Feedback loop| GJ
 ANCHOR[" "]:::anchor
 
 %% ========= SUMMARY (FORCED BELOW, NO VISIBLE ARROWS) =========
-SUM["𝗦𝗨𝗠𝗠𝗔𝗥𝗬<br/>Weighted average score: 5.05/10<br/>''Strong monetary and financial anchors
-support stability, but fiscal constraints and slow reform implementation keep growth subdued.''"]:::summary
+SUM["𝗦𝗨𝗠𝗠𝗔𝗥𝗬<br/>Weighted average score:<br/>5.05/10<br/>''Strong monetary and financial anchors
+support stability, but fiscal constraints and slow reform implementation keep growth subdued''"]:::summary
 LC -.-> SUM:::anchor
 
 %% ========= STYLES =========
