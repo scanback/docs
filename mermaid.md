@@ -26,6 +26,7 @@ config:
       width: 300
       height: 300
       showDataLabel: true  
+      titleFontSize: 40
 ---
 
 xychart horizontal
