@@ -55,3 +55,44 @@ radar_chart
     axis_labels: GE, Fiscal, Growth, Monetary, Macro, Financial, Reforms, Confidence
 
     </div>
+
+    ---
+
+<div class="mermaid">
+  
+    xychart horizontal
+    title "IMF Article IV – Composite Sentiment Scores"
+
+    y-axis [
+        "South Africa",
+        "Netherlands",
+        "United States",
+        "United Kingdom",
+        "India",
+        "Brazil",
+        "China",
+        "Nigeria",
+        "Mexico",
+        "UAE",
+        "Saudi Arabia",
+        "Qatar",
+        "Oman",
+        "Kuwait",
+        "Bahrain"
+    ]
+
+    x-axis "Score" 0 --> 8
+
+    %% Group 1: South Africa
+    bar [5.05, null, null, null, null, null, null, null, null, null, null, null, null, null, null]
+
+    %% Group 2: Advanced economies
+    bar [null, 6.60, 5.65, 5.45, null, null, null, null, null, null, null, null, null, null, null]
+
+    %% Group 3: Large EMs
+    bar [null, null, null, null, 6.60, 6.25, 5.70, 5.60, 5.10, null, null, null, null, null, null]
+
+    %% Group 4: GCC
+    bar [null, null, null, null, null, null, null, null, null, 7.10, 6.90, 6.75, 6.15, 5.95, 4.80]
+
+    </div>
