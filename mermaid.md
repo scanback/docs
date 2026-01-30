@@ -27,14 +27,24 @@ config:
     width: 550
   themeVariables:
     xyChart:
-      plotColorPalette: "#f28c28,#7b3fe4"
+      plotColorPalette: "#f28c28,#7b3fe4,#2aa876,#d95f02"
 ---
 xychart-beta horizontal
   title "G2 - Country Comparison of Scores"
-  x-axis ["South Africa", "Switzerland", "Netherlands"]
+  x-axis ["South Africa", "Switzerland", "Netherlands", "United States", "United Kingdom", "India", "Brazil", "China", "Nigeria", "Mexico", "Myanmar", "United Arab Emirates", "Saudi Arabia", "Qatar", "Oman", "Kuwait", "Bahrain"]
   y-axis "Weighted average score across 8 measures" 0 --> 10
-  bar [5.1, -0.2, -0.2]
-  bar [-0.2, 8.0, 6.6]
+
+  %% Group A
+  bar [5.1, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2]
+
+  %% Group B
+  bar [-0.2, 8.0, 6.6, 5.7, 5.5, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2]
+
+  %% Group C
+  bar [-0.2, -0.2, -0.2, -0.2, -0.2, 6.6, 6.3, 5.7, 5.6, 5.1, 2.3, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2]
+
+  %% Group D
+  bar [-0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, 7.1, 6.9, 6.8, 6.2, 6.0, 4.8]
 
   </div>
 
