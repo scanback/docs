@@ -92,17 +92,3 @@ xychart-beta horizontal
 
 ---
 Source: Various text-based documents from public institutions such the IMF, World Bank, and local institutions; Tellusant AI model; Tellusant analysis
-
-<div class="mermaid">
----
-title: "Grades"
----
-radar-beta
-  axis m["Math"], s["Science"], e["English"]
-  axis h["History"], g["Geography"], a["Art"]
-  curve a["Alice"]{85, 90, 80, 70, 75, 90}
-  curve b["Bob"]{70, 75, 85, 80, 90, 85}
-
-  max 100
-  min 0
-</div>
