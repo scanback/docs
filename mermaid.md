@@ -1,25 +1,7 @@
 # Test of New Mermaid Features
 
 <div class="mermaid">
----
-title: "Grades"
----
-radar-beta
-  axis m["Math"], s["Science"], e["English"]
-  axis h["History"], g["Geography"], a["Art"]
-  curve a["Alice"]{85, 90, 80, 70, 75, 90}
-  curve b["Bob"]{70, 75, 85, 80, 90, 85}
 
-  max 100
-  min 0
-</div>
-
----
-
-<div class="mermaid">
-
----
-config:
 ---
 config:
   theme: forest
@@ -45,3 +27,17 @@ bar [15,25,20,30]
 
 ---
 
+<div class="mermaid">
+  
+---
+title: "Grades"
+---
+radar-beta
+  axis m["Math"], s["Science"], e["English"]
+  axis h["History"], g["Geography"], a["Art"]
+  curve a["Alice"]{85, 90, 80, 70, 75, 90}
+  curve b["Bob"]{70, 75, 85, 80, 90, 85}
+
+  max 100
+  min 0
+</div>
