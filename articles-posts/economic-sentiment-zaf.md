@@ -22,17 +22,10 @@ The bottom graph shows the summary for 16 countries to give more context to the 
 The graphs are made with **Mermaid**, a visualization tool with almost no formatting capability. It is suitable for demos and proof-of concept efforts, like this.
 
 ---
-<p align="center">
-  
 **SOUTH AFRICA ECONOMIC SENTIMENT ANALYSIS**
-
-</p>
 
 <div class="mermaid">
 
----
-title: 𝗦𝗢𝗨𝗧𝗛 𝗔𝗙𝗥𝗜𝗖𝗔 𝗘𝗖𝗢𝗡𝗢𝗠𝗜𝗖 𝗦𝗘𝗡𝗧𝗜𝗠𝗘𝗡𝗧
----
 flowchart TD
 
 %% ========= NODES =========
