@@ -4,6 +4,20 @@
 
 ---
 config:
+  theme: forest
+---
+xychart-beta horizontal
+    title "Country Comparison of Scores"
+    x-axis ["South Africa", "Switzerland", "Netherlands"]
+    y-axis "Weighted average score across 8 measures" 0 --> 10
+    bar [5.1, 8.0, 6.6]
+    
+</div>
+
+<div class="mermaid">
+
+---
+config:
   theme: 'base'
   themeVariables:
     primaryColor: '#ff0000'
