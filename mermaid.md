@@ -7,7 +7,7 @@
   "width": 300,
   "themeVariables": {
     "xyChart": {
-      "barFill": "#1f6fff",
+      "barFill": "#9E5937",
       "barStroke": "#00aa00"
     },
     "fontSize": "40px"
