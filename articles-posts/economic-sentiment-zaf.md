@@ -22,10 +22,12 @@ The bottom graph shows the summary for 16 countries to give more context to the 
 The graphs are made with **Mermaid**, a visualization tool with almost no formatting capability. It is suitable for demos and proof-of concept efforts, like this.
 
 ---
-
+**SOUTH AFRICA ECONOMIC SENTIMENT ANALYSIS**
+  
 <div class="mermaid">
+
 ---
-title: 𝗦𝗢𝗨𝗧𝗛 𝗔𝗙𝗥𝗜𝗖𝗔 𝗘𝗖𝗢𝗡𝗢𝗠𝗜𝗖 & 𝗣𝗢𝗟𝗜𝗖𝗬 𝗦𝗘𝗡𝗧𝗜𝗠𝗘𝗡𝗧
+title: 𝗦𝗢𝗨𝗧𝗛 𝗔𝗙𝗥𝗜𝗖𝗔 𝗘𝗖𝗢𝗡𝗢𝗠𝗜𝗖 𝗦𝗘𝗡𝗧𝗜𝗠𝗘𝗡𝗧
 ---
 flowchart TD
 
@@ -75,7 +77,7 @@ classDef anchor fill:transparent,stroke:transparent;
 How does **South Africa** compare to other countries? Below is a graph where the same method was applied to 16 select countries.
 
 - Affluent countries (with Switzerland as the highest scoring country)
-- 𝙀𝙢𝙚𝙧𝙜𝙞𝙣𝙜 𝙘𝙤𝙪𝙣𝙩𝙧𝙞𝙚𝙨 (with Myanmar as the lowest scoring country)
+- Emerging countries (with Myanmar as the lowest scoring country)
 - 𝙶𝙲𝙲 𝚖𝚎𝚖𝚋𝚎𝚛𝚜 (chosen to show how neighboring countries can differ)
 
 ---
