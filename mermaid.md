@@ -16,7 +16,7 @@ config:
 ---
 
 xychart-beta horizontal
-    title "Country Comparison of Scores"
+    title "G1 - Country Comparison of Scores"
     x-axis ["South Africa", "Switzerland", "Netherlands"]
     y-axis "Weighted average score across 8 measures" 0 --> 10
     bar [5.1, 8.0, 6.6]
@@ -44,7 +44,7 @@ config:
 ---
 
 xychart horizontal
-title "Different Colors in xyChart"
+title "G2 - Different Colors in xyChart"
 x-axis "categoriesX" ["Category 1", "Category 2", "Category 3", "Category 4"]
 y-axis "valuesY" 0 --> 40
 %% Blue bar
