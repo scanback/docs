@@ -42,37 +42,6 @@ bar [15,25,20,30]
 
 ---
 
-<div class="mermaid">
-  
-    xychart horizontal
-    title "IMF Article IV – Composite Sentiment Scores"
-
-    y-axis [
-        "South Africa",
-        "Netherlands",
-        "United States",
-        "United Kingdom",
-        "India",
-        "Brazil",
-        "China",
-        "Nigeria",
-        "Mexico",
-        "UAE",
-        "Saudi Arabia",
-        "Qatar",
-        "Oman",
-        "Kuwait",
-        "Bahrain"
-    ]
-
-    x-axis "Score" 0 --> 8
-
-    %% Group 1: South Africa
-    bar [5.05, null, null, null, null, null, null, null, null, null, null, null, null, null, null]
-
-    %% Group 2: Advanced economies
-    bar [null, 6.60, 5.65, 5.45, null, null, null, null, null, null, null, null, null, null, null]
-
     %% Group 3: Large EMs
     bar [null, null, null, null, 6.60, 6.25, 5.70, 5.60, 5.10, null, null, null, null, null, null]
 
