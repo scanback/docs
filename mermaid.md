@@ -4,7 +4,9 @@
 
 ---
 config:
-  theme: forest
+  theme: 'base'
+  themeVariables:
+    primaryColor: '#ff0000'  
 ---
 xychart-beta horizontal
     title "Country Comparison of Scores"
