@@ -20,6 +20,9 @@ radar-beta
 
 ---
 config:
+---
+config:
+  theme: forest
   themeVariables:
     xyChart:
       plotColorPalette: '#9E5937, #00FF00'
