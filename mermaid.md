@@ -43,23 +43,6 @@ bar [15,25,20,30]
 
 <div class="mermaid">
   
-radar_chart
-    title IMF 2025 Composite Sentiment Scores (Full Comparison)
-    Qatar:        4,6,7,8,8,8,6,7
-    Sweden:       4,7,6,7,8,8,6,7
-    Netherlands:  4,7,6,7,8,8,6,7
-    Brazil:       4,5,7,7,7,8,6,6
-    Nigeria:      4,5,5,7,6,7,6,5
-    Mexico:       4,4,4,7,6,7,5,5
-    South_Africa: 3,3,4,8,6,8,5,5
-    axis_labels: GE, Fiscal, Growth, Monetary, Macro, Financial, Reforms, Confidence
-
-    </div>
-
-    ---
-
-<div class="mermaid">
-  
     xychart horizontal
     title "IMF Article IV – Composite Sentiment Scores"
 
