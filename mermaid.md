@@ -33,8 +33,8 @@ xychart-beta horizontal
   title "G2 - Country Comparison of Scores"
   x-axis ["South Africa", "Switzerland", "Netherlands"]
   y-axis "Weighted average score across 8 measures" 0 --> 10
-  bar [5.1, 0, 0]
-  bar [0, 8.0, 6.6]
+  bar [5.1, -0.001, -0.001]
+  bar [-0.001, 8.0, 6.6]
 
   </div>
 
