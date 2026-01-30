@@ -2,6 +2,23 @@
 
 <div class="mermaid">
 
+%%{init: {
+  "theme": "base",
+  "width": 300,
+  "themeVariables": {
+    "xyChart": {
+      "barFill": "#1f6fff",
+      "barStroke": "#00aa00"
+    },
+    "fontSize": "40px"
+  }
+}}%%
+
+xychart-beta horizontal
+    title "G1 - Country Comparison of Scores"
+    x-axis ["South Africa", "Switzerland", "Netherlands"]
+    y-axis "Weighted average score across 8 measures" 0 --> 10
+    bar [5.1, 8.0, 6.6]
 xychart-beta horizontal
     title "G1 - Country Comparison of Scores"
     x-axis ["South Africa", "Switzerland", "Netherlands"]
