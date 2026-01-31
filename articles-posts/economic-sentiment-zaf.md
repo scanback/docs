@@ -72,7 +72,7 @@ classDef anchor fill:transparent,stroke:transparent;
 </p>
 
 ---
-How does South Africa compare to other nations? Below is a graph where the same method was applied to 16 select countries.
+How does South Africa compare to other nations? Below is a graph where the same method was applied to 16 select countries. Note that not only scores, but also weights, differ by country.
 
 - Affluent countries (with Switzerland as the highest scoring country)
 - Emerging countries (with Myanmar as the lowest scoring country)
