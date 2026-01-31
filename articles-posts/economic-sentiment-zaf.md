@@ -15,7 +15,7 @@ In 2024, the article was updated. By then, modern AI tools were available to per
 All aspects of the analyses are automated except the final quality control.
 
 ## Findings
-The graph below shows our latest assessment. As a semantic analysis, it evaluates the qualitative wording in the reports instead of looking at quantitative data. It then converts this into scores in eight categories. The scores are weighted and summarized into an overall index. The weights differ by country.
+The graph below shows our latest assessment. As a semantic analysis, it evaluates the qualitative wording in the reports instead of looking at quantitative data. It then converts this into scores across eight measures. The scores are weighted and summarized into an overall score.
 
 The bottom graph shows the summary for 16 countries to give more context to the South African assessment. We can replicate this for most countries in the world, with the full details.
 
@@ -94,7 +94,7 @@ config:
 ---
 xychart-beta horizontal
     x-axis ["South Africa", "Switzerland", "Netherlands", "United States", "United Kingdom", "India", "Brazil", "China", "Nigeria", "Mexico", "Myanmar", "United Arab Emirates", "Saudi Arabia", "Qatar", "Oman", "Kuwait", "Bahrain"]
-  y-axis "Weighted average score across the 8 measures" 0 --> 10
+  y-axis "Weighted average score across 8 measures" 0 --> 10
 
   %% Group A
   bar [5.1, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2, -0.2]
