@@ -8,7 +8,7 @@ image: /assets/social-card-pub.png
 This article shows how to perform semantic analysis of qualitative reports using automated parsing, scoring and weighting, leveraging a custom-trained AI model.
 
 ## Background
-In 2017, I wrote an extensive article in the South African newspaper **Business Times**: [_Ending South Africa's Forever Recession_](https://www.linkedin.com/pulse/ending-south-africas-forever-recession-staffan-canback-g0fye/?trackingId=Xxg5IuUvTTiH%2BUic5XKbZQ%3D%3D). As part of the background analysis, I did a semantic analysis of South Africa's economic sentiment (v1). Even in 2017 it was possible to do this with word cloud tools. Primitive, but they worked.
+In 2017, I wrote an extensive article in the South African newspaper **Business Times**: [_Ending South Africa's Forever Recession_](https://www.linkedin.com/pulse/ending-south-africas-forever-recession-staffan-canback-g0fye/?trackingId=Xxg5IuUvTTiH%2BUic5XKbZQ%3D%3D). As part of the background preparation, I did a semantic analysis of South Africa's economic sentiment (v1). Even in 2017 it was possible to do this with word cloud tools. Primitive, but they worked.
 
 In 2024, the article was updated. By then, modern AI tools were available to perform the semantic analysis (v2). The analysis was again updated in early 2026 to incorporate the latest reports on the country (v3). 
 
