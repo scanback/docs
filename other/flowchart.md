@@ -10,7 +10,7 @@ MAstats[Morocco stats]
 UN_NAMAD[📊 UN_NAMAD.xlsb]
 NatAccs[📊 NatAccs.xlsb]
 
-TaiwanXLSB[📊 Taiwan.xlsb<br/>n(in Countries folder)]
+TaiwanXLSB[📊 Taiwan.xlsb<br/>(in Countries folder)]
 TaiwanXLS[📊 Taiwan.xls]
 
 WSHCE[📊 Western Sahara GDP and HCE.xlsb<br/>(in Countries folder)]
