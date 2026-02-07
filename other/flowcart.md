@@ -1,3 +1,5 @@
+<div class="mermaid">
+
 flowchart LR
 
 UNstats[UN stats] -->|import| UN_NAMAD[UN_NAMAD.xlsb]
@@ -8,3 +10,5 @@ TaiwanXLSB -->|import| TaiwanXLS[Taiwan.xls]
 
 MAstats[Morocco stats] -->|Copy/Paste| WSHCE[Western Sahara GDP and HCE.xlsb]
 WSHCE -->|Import| UN_NAMAD
+
+</div>
