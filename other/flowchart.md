@@ -10,10 +10,10 @@ MAstats[Morocco stats]
 UN_NAMAD[📊 UN_NAMAD.xlsb]
 NatAccs[📊 NatAccs.xlsb]
 
-TaiwanXLSB[📊 Taiwan.xlsb<br/>(in Countries folder)]
+TaiwanXLSB[📊 Taiwan.xlsb (in Countries folder)]
 TaiwanXLS[📊 Taiwan.xls]
 
-WSHCE[📊 Western Sahara GDP and HCE.xlsb<br/>(in Countries folder)]
+WSHCE[📊 Western Sahara GDP and HCE.xlsb (in Countries folder)]
 
 %% Flows
 UNstats -->|import| UN_NAMAD
