@@ -21,6 +21,9 @@ Here you find various PowerPoint presentations that are not client confidential.
 ### [Quick Reads](quick-reads/index.md)
 I'm the main contributor to Tellusant Quick Reads. Find all of them here.  
 
+### {Videos](videos/index.md)
+My videos are a combination of analytical topics, TV interviews, and travel memoroie.
+
 ### [Travel Stories and Photos](travel/index.md)
 I have worked on the ground in 90 countries and visited over 100. FORTHCOMING.
 
