@@ -11,9 +11,9 @@ Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar ja
 </p>
 
 <p align="center">
-<img  src="assets/images/s.canback-sweden-sensitivity-analysis.svg" width="300" alt="S.Canback - Swedish growth - sensitivity analysis">
+<img  src="assets/images/s.canback-sweden-sensitivity-analysis.svg" width="250" alt="S.Canback - Swedish growth - sensitivity analysis">
 </p>
 
 <p align="center">
-<img  src="assets/images/s.canback-sweden-gdp-growth-decade-comparison.svg" width="500" alt=S.Canback - Swedish growth by decade">
+<img  src="assets/images/s.canback-sweden-gdp-growth-decade-comparison.svg" width="400" alt=S.Canback - Swedish growth by decade">
 </p>
