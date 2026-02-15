@@ -33,6 +33,6 @@ Dessa divideras för att skapa ett jämförtbart mått — BNP/AFB — för alla
 
 ---
 ¹ Den dynamiska har liten (men positiv) inverkan på Sverige, men har större (negativ) inverkan på snabbväxande länder som Kina. USA är neutralt.
-²
+² "*GDP per working-age adult is considered a better measure than GDP per capita to capture the actual productivity of the workforce*" Se t ex 
 ³
 
