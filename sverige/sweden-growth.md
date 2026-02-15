@@ -3,3 +3,15 @@ description: "Sverige har haft en usel ekonomisk tillväxt de senaste tio åren.
 image: /assets/social-card-think.png
 # Sveriges tillväxt 2015-2025
 Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag enklast möjliga meningsfulla mått på utvecklingen.
+
+<p align="center">
+<img  src="assets/images/s.canback-sweden-gdp-growth-counry-comparison.svg" width="500" alt="Elasticity math">
+</p>
+
+<p align="center">
+<img  src="assets/images/s.canback-sweden-sensitivity-analysis.svg" width="500" alt="Elasticity math">
+</p>
+
+<p align="center">
+<img  src="assets/images/s.canback-sweden-gdp-growth-decade-comparison.svg" width="500" alt="Elasticity math">
+</p>
