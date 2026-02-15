@@ -9,7 +9,7 @@ Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar ja
 Jag använder två dataserier:
 
 - BNP enligt *Purchasing Power Parity" i dollar metoden, dynamiskt justerad så att relationen till BNP enligt växelkurs varierar över tiden.¹  
-- Arbetsför befolking (AFB) istället fär total befolkning. Det är den arbestföra befolkningen som generar BNP.
+- Arbetsför befolking (AFB) istället fär total befolkning. Det är den arbestföra befolkningen som generar BNP.²
 
 Dessa divideras för att skapa ett jämförtbart mått — BNP/AFB — för alla länder och alla tidsperioder. Årlig tillväxt i BNP/AFB beräknas sedan som vanligt.
 
@@ -33,6 +33,6 @@ Dessa divideras för att skapa ett jämförtbart mått — BNP/AFB — för alla
 
 ---
 ¹ Den dynamiska har liten (men positiv) inverkan på Sverige, men har större (negativ) inverkan på snabbväxande länder som Kina. USA är neutralt.
-² "*GDP per working-age adult is considered a better measure than GDP per capita to capture the actual productivity of the workforce*" Se t ex 
+² "*Based on IMF research and publications, GDP per working-age population is frequently used as a more precise measure of economic performance than GDP per capita*"
 ³
 
