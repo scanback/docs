@@ -1,2 +1,3 @@
-#### [Sveriges exportmöjligheter i ett besvärligt handelsklimat](../articles-posts/sweden-exports.md)
-Hur ska ett exportberoende land som Sverige agera för att bibehålla och öka sin export? Artikeln ger ett djupt analytiskt perspektiv
+
+# Sveriges tillväxt 2015-2025
+Sverige har haft en usel ekonomisk tillväxt de senaste 10 åren. Här visar jag enklast möjliga mått som också är meningsfullt.
