@@ -9,8 +9,8 @@ Artiklar med mer ämnade för svenskar och finlandssvenskar. 🇸🇪 🇫🇮
 
 Mer kommer.
 
-#### [Sveriges tillväxt 2915-2925](../articles-posts/sweden-growth.md)
-Sverige har haft en usel ekonomisk tillväxt de senaste 10 åren. Här visar jag enklast möjliga mått som också är meningsfullt.
+#### [Sveriges tillväxt 2015-2025](../articles-posts/sweden-growth.md)
+Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag enklast möjliga meningsfulla mått på utvecklingen.
 
 
 #### [Sveriges exportmöjligheter i ett besvärligt handelsklimat](../articles-posts/sweden-exports.md)
