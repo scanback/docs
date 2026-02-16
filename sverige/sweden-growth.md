@@ -37,11 +37,16 @@ Hur skiljer sig 2015-2025 mot tidigare decennier? Det är den klart sämsta peri
 <img  src="assets/images/s.canback-sweden-gdp-growth-decade-comparison.svg" width="400" alt=S.Canback - Swedish growth by decade">
 </p>
 
+## Kapitalproduktivitet
+
+–snart från äldre artikel–
+
 ## Slutsats  
-Det finns ingen ljusglimt i sifforna. Landet är djupt vanskött. Detta är inte bara en politisk fråga (fel prioriteter), men även en företagsfråga (trötta) och indiviuell fråga (lata).
+Det finns ingen ljusglimt i sifforna. Landet är djupt vanskött. Detta är inte bara en politisk fråga, men även en företagsfråga och indiviuell fråga.
 
 ---
 ¹ Den dynamiska har liten (men positiv) inverkan på Sverige, men har större (negativ) inverkan på snabbväxande länder som Kina. USA är neutralt.
-² "*Based on IMF research and publications, GDP per working-age population is frequently used as a more precise measure of economic performance than GDP per capita*"
+² *Based on IMF research and publications, GDP per working-age population is frequently used as a more precise measure of economic performance than GDP per capita* 🇦🇮
+
 ³
 
