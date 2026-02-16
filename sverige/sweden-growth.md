@@ -19,6 +19,8 @@ Dessa divideras för att skapa ett jämförtbart mått — BNP/AFB — för alla
 <img  src="assets/images/s.canback-sweden-gdp-growth-counry-comparison.svg" width="450" alt="S.Canback - Growth in GDP per working-age population">
 </p>
 
+**Ändra till BNP i titeln**
+
 ## Känslighetsanalys
 
 Tabuleringen täcker 2015-2025. Men start- och slutåren kanske var speciella och inte repreesntativa. Detta är ett vanligt problem när data presenteras.
