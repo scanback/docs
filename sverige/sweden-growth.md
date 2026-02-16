@@ -48,7 +48,7 @@ Det finns ingen ljusglimt i sifforna. Landet är djupt vanskött. Detta är inte
 ¹ Den dynamiska har liten (men positiv) inverkan på Sverige, men har större (negativ) inverkan på snabbväxande länder som Kina. USA är neutralt.
 ² *Based on IMF research and publications, GDP per working-age population is frequently used as a more precise measure of economic performance than GDP per capita* 🇦 🇮
 
+² *Based on IMF research and publications, GDP per working-age population is frequently used as a more precise measure of economic performance than GDP per capita.* <span>⎼🇦&ZeroWidthSpace;🇮</span>  
 
-
-³
+³ 
 
