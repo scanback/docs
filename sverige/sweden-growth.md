@@ -31,7 +31,7 @@ Nedan syns tillxäxten fär andra start- och slutår. 2015-2025 ligger obetydlig
 
 ## Svensk ekonomisk utveckling per decennium
 
-Hur skiljer sig 2015-2025 mot tidigare decennier? Det är den klart sämsta perioden som nedan graf visar.
+Hur skiljer sig 2015-2025 mot tidigare decennier? Det är den klart sämsta perioden vilket nedan graf visar.
 
 <p align="center">
 <img  src="assets/images/s.canback-sweden-gdp-growth-decade-comparison.svg" width="400" alt=S.Canback - Swedish growth by decade">
