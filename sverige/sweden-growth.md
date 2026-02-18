@@ -48,7 +48,7 @@ Hur skiljer sig 2015-2025 mot tidigare decennier? Det är den klart sämsta peri
 ## Total faktorproduktivitet
 
 <p align="center">
-<img  src="assets/images/s.canback-sweden-productivity-growth-4" width="400" alt=S.Canback - Swedish growth by decade">
+<img  src="assets/images/s.canback-sweden-productivity-growth-4.svg" width="400" alt=S.Canback - Swedish growth by decade">
 </p>
 
 
