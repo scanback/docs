@@ -1,15 +1,16 @@
 ---
-title: "Sveriges tillväxt 2015-2025"
+title: "Sveriges produktivitet och tillväxt 2015-2025"
 description: "Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag utvecklingen med enklast möjliga meningsfulla mått. 🇸🇪"
 image: /assets/social-card-think.png
 ---
-# Sveriges tillväxt 2015-2025
+# Sveriges produktivitet och tillväxt 2015-2025
 Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag utvecklingen med enklast möjliga meningsfulla mått.
 
-Jag använder två dataserier:
+Jag använder tre dataserier:
 
-- BNP enligt *Purchasing Power Parity" metoden i dollarn, dynamiskt justerad så att relationen till BNP enligt växelkurs varierar över tiden.¹  
+- BNP enligt *Purchasing Power Parity" metoden (i dollar), dynamiskt justerad så att relationen till BNP enligt växelkurs varierar över tiden.¹  
 - Arbetsför befolking (AFB) istället fär total befolkning. Det är den arbestföra befolkningen som generar BNP.²
+- Kapitalstock beräknad från årliga fasta kapitalinvesteringar, avskrivna över 20 år och kapitaliserade.
 
 Dessa divideras för att skapa ett jämförtbart mått — BNP/AFB — för alla länder och alla tidsperioder. Årlig tillväxt i BNP/AFB beräknas sedan som vanligt.
 
