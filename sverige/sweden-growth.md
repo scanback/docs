@@ -19,8 +19,6 @@ Dessa divideras för att skapa ett jämförtbart mått — BNP/AFB — för alla
 <img  src="assets/images/s.canback-sweden-productivity-growth-1.svg" width="450" alt="S.Canback - Growth in GDP per working-age population">
 </p>
 
-**Ändra till BNP i titeln**
-
 #### Känslighetsanalys
 
 Tabuleringen täcker 2015-2025. Men start- och slutåren kanske var speciella och inte repreesntativa. Detta är ett vanligt problem när data presenteras.
@@ -31,24 +29,24 @@ Nedan syns tillxäxten fär andra start- och slutår. 2015-2025 ligger obetydlig
 <img  src="assets/images/s.canback-sweden-sensitivity-analysis.svg" width="250" alt="S.Canback - Swedish growth - sensitivity analysis">
 </p>
 
-## Svensk arbetsproduktivitet per decennium
+#### Svensk arbetsproduktivitet per decennium
 
 Hur skiljer sig 2015-2025 mot tidigare decennier? Det är den klart sämsta perioden vilket nedan graf visar.
 
 <p align="center">
-<img  src="assets/images/s.canback-sweden-productivity-growth-2.svg" width="400" alt=S.Canback - Swedish growth by decade">
+<img  src="assets/images/s.canback-sweden-productivity-growth-2.svg" width="400" alt="S.Canback - Swedish growth by decade">
 </p>
 
 ## Kapitalproduktivitet
 
 <p align="center">
-<img  src="assets/images/s.canback-sweden-productivity-growth-3.svg" width="400" alt=S.Canback - Swedish growth by decade">
+<img  src="assets/images/s.canback-sweden-productivity-growth-3.svg" width="400" alt="S.Canback - Swedish growth by decade">
 </p>
 
 ## Total faktorproduktivitet
 
 <p align="center">
-<img  src="assets/images/s.canback-sweden-productivity-growth-4.svg" width="400" alt=S.Canback - Swedish growth by decade">
+<img  src="assets/images/s.canback-sweden-productivity-growth-4.svg" width="400" alt="S.Canback - Swedish growth by decade">
 </p>
 
 
