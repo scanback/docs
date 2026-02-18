@@ -4,7 +4,7 @@ description: "Artiklar med mer ämnade för svenskar och finlandssvenskar. 🇸�
 image: /assets/social-card-think.png
 ---
 
-# Material på svenska
+# Sverige m.m.
 Artiklar med mer ämnade för svenskar och finlandssvenskar. 🇸🇪 🇫🇮
 
 Mer kommer.
