@@ -51,7 +51,7 @@ Hur skiljer sig 2015-2025 mot tidigare decennier? Det är den klart sämsta peri
 
 
 ## Slutsats  
-Det finns ingen ljusglimt i sifforna. Landet är djupt vanskött. Detta är inte bara en politisk fråga, men även en företagsfråga och indiviuell fråga.
+Det finns ingen ljusglimt i sifforna. Landet är djupt vanskött. Detta är inte bara en politisk fråga, utan även en företagsfråga och en medborgarfråga. Alla har bidragit till eländet.
 
 ---
 ¹ Den dynamiska justeringen har liten (men positiv) inverkan på Sverige, men har större (negativ) inverkan på snabbväxande länder som Kina. USA är neutralt.
