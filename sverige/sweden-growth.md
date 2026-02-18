@@ -12,8 +12,6 @@ Jag använder tre dataserier:
 - Arbetsför befolking (AFB) istället fär total befolkning. Det är den arbestföra befolkningen som generar BNP.²
 - Kapitalstock beräknad från årliga fasta kapitalinvesteringar, avskrivna över 20 år och kapitaliserade.
 
-Dessa divideras för att skapa ett jämförtbart mått — BNP/AFB — för alla länder och alla tidsperioder. Årlig tillväxt i BNP/AFB beräknas sedan som vanligt.
-
 ## Arbetsproduktivitet
 
 <p align="center">
