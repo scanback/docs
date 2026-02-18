@@ -13,7 +13,7 @@ Jag använder två dataserier:
 
 Dessa divideras för att skapa ett jämförtbart mått — BNP/AFB — för alla länder och alla tidsperioder. Årlig tillväxt i BNP/AFB beräknas sedan som vanligt.
 
-## Tillväxt jämfört andra länder
+## Arbetsproduktivitet
 
 <p align="center">
 <img  src="assets/images/s.canback-sweden-productivity-growth-1.svg" width="450" alt="S.Canback - Growth in GDP per working-age population">
@@ -21,7 +21,7 @@ Dessa divideras för att skapa ett jämförtbart mått — BNP/AFB — för alla
 
 **Ändra till BNP i titeln**
 
-## Känslighetsanalys
+#### Känslighetsanalys
 
 Tabuleringen täcker 2015-2025. Men start- och slutåren kanske var speciella och inte repreesntativa. Detta är ett vanligt problem när data presenteras.
 
@@ -31,7 +31,7 @@ Nedan syns tillxäxten fär andra start- och slutår. 2015-2025 ligger obetydlig
 <img  src="assets/images/s.canback-sweden-sensitivity-analysis.svg" width="250" alt="S.Canback - Swedish growth - sensitivity analysis">
 </p>
 
-## Svensk ekonomisk utveckling per decennium
+## Svensk arbetsproduktivitet per decennium
 
 Hur skiljer sig 2015-2025 mot tidigare decennier? Det är den klart sämsta perioden vilket nedan graf visar.
 
