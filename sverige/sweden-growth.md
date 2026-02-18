@@ -16,7 +16,7 @@ Dessa divideras för att skapa ett jämförtbart mått — BNP/AFB — för alla
 ## Tillväxt jämfört andra länder
 
 <p align="center">
-<img  src="assets/images/s.canback-sweden-gdp-growth-counry-comparison.svg" width="450" alt="S.Canback - Growth in GDP per working-age population">
+<img  src="assets/images/s.canback-sweden-productivity-growth-1.svg" width="450" alt="S.Canback - Growth in GDP per working-age population">
 </p>
 
 **Ändra till BNP i titeln**
@@ -36,12 +36,21 @@ Nedan syns tillxäxten fär andra start- och slutår. 2015-2025 ligger obetydlig
 Hur skiljer sig 2015-2025 mot tidigare decennier? Det är den klart sämsta perioden vilket nedan graf visar.
 
 <p align="center">
-<img  src="assets/images/s.canback-sweden-gdp-growth-decade-comparison.svg" width="400" alt=S.Canback - Swedish growth by decade">
+<img  src="assets/images/s.canback-sweden-productivity-growth-2" width="400" alt=S.Canback - Swedish growth by decade">
 </p>
 
 ## Kapitalproduktivitet
 
-–snart från äldre artikel–
+<p align="center">
+<img  src="assets/images/s.canback-sweden-productivity-growth-3" width="400" alt=S.Canback - Swedish growth by decade">
+</p>
+
+## Total faktorproduktivitet
+
+<p align="center">
+<img  src="assets/images/s.canback-sweden-productivity-growth-4" width="400" alt=S.Canback - Swedish growth by decade">
+</p>
+
 
 ## Slutsats  
 Det finns ingen ljusglimt i sifforna. Landet är djupt vanskött. Detta är inte bara en politisk fråga, men även en företagsfråga och indiviuell fråga.
