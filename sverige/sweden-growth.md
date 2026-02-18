@@ -8,7 +8,7 @@ Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar ja
 
 Jag använder tre dataserier:
 
-- BNP enligt *Purchasing Power Parity" metoden (i dollar), dynamiskt justerad så att relationen till BNP enligt växelkurs varierar över tiden.¹  
+- BNP enligt "Purchasing Power Parity" metoden (i dollar), dynamiskt justerad så att relationen till BNP enligt växelkurs varierar över tiden.¹  
 - Arbetsför befolking (AFB) istället fär total befolkning. Det är den arbestföra befolkningen som generar BNP.²
 - Kapitalstock beräknad från årliga fasta kapitalinvesteringar, avskrivna över 20 år och kapitaliserade.
 
