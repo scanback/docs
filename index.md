@@ -27,7 +27,7 @@ My videos are a combination of analytical topics, TV interviews, and travel memo
 ### [Travel Stories and Photos](travel/index.md)
 I have worked on the ground in 90 countries and visited over 100. FORTHCOMING.
 
-### [Material på svenska](sverige/index.md)
+### [Sverige m.m.](sverige/index.md)
 Artiklar med mer ämnade för svenskar och finlandssvenskar. 🇸🇪 🇫🇮
 
 
