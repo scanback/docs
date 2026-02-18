@@ -1,4 +1,9 @@
-# My Legitimacy
+---
+title: "My Personal Legitimacy"
+description: "I asked ChatGPT and Gemini to assess my legitimacy so readers can judge my standing"
+image: /assets/social-card-think.png
+---
+# My Personal Legitimacy
 
 I asked ChatGPT and Gemini to assess my legitimacy.
 
