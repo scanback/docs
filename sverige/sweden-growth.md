@@ -3,7 +3,7 @@ title: "Sveriges produktivitet och tillväxt 2015-2025"
 description: "Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag utvecklingen med enklast möjliga meningsfulla mått. 🇸🇪"
 image: /assets/social-card-think.png
 ---
-# Sveriges produktivitet och tillväxt 2015-2025
+# Sveriges produktivitetstillväxt 2015-2025
 Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag utvecklingen med enklast möjliga meningsfulla mått.
 
 Jag använder tre dataserier:
