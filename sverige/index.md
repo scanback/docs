@@ -9,7 +9,7 @@ Artiklar med mer ämnade för svenskar och finlandssvenskar. 🇸🇪 🇫🇮
 
 Mer kommer.
 
-#### [Sveriges tillväxt 2015-2025](sweden-growth.md)
+#### [Sveriges produktivitetstillväxt 2015-2025](sweden-growth.md)
 Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag enklast möjliga meningsfulla mått på utvecklingen.
 
 
