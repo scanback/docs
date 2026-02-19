@@ -61,3 +61,5 @@ Det finns ingen ljusglimt i sifforna. Landet är djupt vanskött. Detta är inte
 
 ³ 
 
+---
+Sverige har två officiella färger enligt grundlagen. Jag behövde fyra. Vad göra? Jag konstruerade två nya färger baserat på flaggblått och flaggult. Det visar sig vara komplicerad matematik men ChatGPT löste det briljant på fem minuter. Jag återkommer till detta.
