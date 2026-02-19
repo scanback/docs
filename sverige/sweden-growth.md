@@ -4,15 +4,17 @@ description: "Sverige har haft en usel ekonomisk tillväxt de senaste tio åren.
 image: /assets/social-card-think.png
 ---
 # Sveriges produktivitetstillväxt 2015-2025
-Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag utvecklingen med enklast möjliga meningsfulla mått.
+Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag utvecklingen med enklast möjliga meningsfulla mått.  
 
-Jag använder tre dataserier:
+Detta är en ren diagnos och jag skriver inget om potentiella åtgärder.
 
-- BNP enligt "Purchasing Power Parity" metoden (i dollar), dynamiskt justerad så att relationen till BNP enligt växelkurs varierar över tiden.¹  
-- Arbetsför befolking (AFB) istället fär total befolkning. Det är den arbestföra befolkningen som generar BNP.²
-- Kapitalstock beräknad från årliga fasta kapitalinvesteringar, avskrivna över 20 år och kapitaliserade.
+Jag använder tre dataserier som kombineras till relevanta mått:  
+- BNP enligt "Purchasing Power Parity" metoden (i dollar), dynamiskt justerad så att relationen till BNP enligt växelkurs varierar över tiden.¹   
+- Arbetsför befolking (AFB) istället fär total befolkning. Det är den arbestföra befolkningen som generar BNP.  
+- Kapitalstock beräknad från årliga fasta kapitalinvesteringar, avskrivna över 20 år och kapitaliserade.  
 
 ## Arbetsproduktivitet
+Mellan 60 och 70 procent av BNP härstammar från arbete.  
 
 <p align="center">
 <img  src="assets/images/s.canback-sweden-productivity-growth-1.svg" width="450" alt="S.Canback - Growth in GDP per working-age population">
@@ -20,9 +22,9 @@ Jag använder tre dataserier:
 
 ### Känslighetsanalys
 
-Tabuleringen täcker 2015-2025. Men start- och slutåren kanske var speciella och inte repreesntativa. Detta är ett vanligt problem när data presenteras.
+Tabuleringen täcker 2015-2025. Men start- och slutåren kanske var speciella och inte repreesntativa. Detta är ett vanligt problem när data presenteras.  
 
-Nedan syns tillxäxten fär andra start- och slutår. 2015-2025 ligger obetydligt under medianen (0.94% mot 1.01%). Den lilla skillanden gör att 2015-2025 ska ses som representativt.
+Nedan syns tillxäxten fär andra start- och slutår. 2015-2025 ligger obetydligt under medianen (0.94% mot 1.01%). Den lilla skillanden gör att 2015-2025 ska ses som representativt.  
 
 <p align="center">
 <img  src="assets/images/s.canback-sweden-sensitivity-analysis.svg" width="250" alt="S.Canback - Swedish growth - sensitivity analysis">
@@ -30,7 +32,7 @@ Nedan syns tillxäxten fär andra start- och slutår. 2015-2025 ligger obetydlig
 
 ### Svensk arbetsproduktivitet per decennium
 
-Hur skiljer sig 2015-2025 mot tidigare decennier? Det är den klart sämsta perioden vilket nedan graf visar.
+Hur skiljer sig 2015-2025 mot tidigare decennier? Det är den klart sämsta perioden vilket nedan graf visar.  
 
 <p align="center">
 <img  src="assets/images/s.canback-sweden-productivity-growth-2.svg" width="400" alt="S.Canback - Swedish growth by decade">
@@ -50,12 +52,12 @@ Hur skiljer sig 2015-2025 mot tidigare decennier? Det är den klart sämsta peri
 
 
 ## Slutsats  
-Det finns ingen ljusglimt i sifforna. Landet är djupt vanskött. Detta är inte bara en politisk fråga, utan även en företagsfråga och en medborgarfråga. Alla har bidragit till eländet.
+Det finns ingen ljusglimt i sifforna. Landet är djupt vanskött. Detta är inte bara en politisk fråga, utan även en företagsfråga och en medborgarfråga. Alla har bidragit till eländet.  
 
 ---
-¹ Den dynamiska justeringen har liten (men positiv) inverkan på Sverige, men har större (negativ) inverkan på snabbväxande länder som Kina. USA är neutralt.
+¹ Den dynamiska justeringen har liten (men positiv) inverkan på Sverige, men har större (negativ) inverkan på snabbväxande länder som Kina. USA är neutralt.  
 
-² *Based on IMF research and publications, GDP per working-age population is frequently used as a more precise measure of economic performance than GDP per capita.* <span>⎼🇦&ZeroWidthSpace;🇮</span>. Detta är det mått jag använt i mina publikationer i åratal.
+² *Based on IMF research and publications, GDP per working-age population is frequently used as a more precise measure of economic performance than GDP per capita.* <span>⎼🇦&ZeroWidthSpace;🇮</span>. Detta är det mått jag använt i mina publikationer i åratal.  
 
 ³ 
 
