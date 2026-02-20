@@ -67,5 +67,5 @@ Sverige har två officiella färger enligt grundlagen. Jag behövde fyra. Vad g�
 I ett ett tvådimensionellt plan som skär genom en kub är flaggblå och flaggul 155° separerade. Jag skapade "lövgrön" vid 155°/2 = 77.5° och "hallonröd" vid (360°-155°)/2+180° = 282.5°. I perceptuell skala (inte geometrisk).
 
 <p align="center">
-<img  src="assets/images/s.canback-sweden-colors.svg" width="400" alt="S.Canback - Swedish extended colors">
+<img  src="assets/images/s.canback-sweden-colors.svg" width="250" alt="S.Canback - Swedish extended colors">
 </p>
