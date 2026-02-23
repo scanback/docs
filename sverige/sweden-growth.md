@@ -26,7 +26,7 @@ Mixen av dessa kategorier är ett val för länder. Framgångsrika länder finne
 
 Notera att Sverige ligger under Storbritannien och långt under EU. Vad kan ha bidraget till detta. Jag har inga svarmen ser några möjliga faktorer: flyktingvågen, Brexit, pandemin, Ukrainakriget, amerikanska tariffer. Ingen av dessa kan ses som BNP-höjande. Men det finns säkert djupare skäl som är svårtydda.
 
-Mer personligt så märker jag en brist på optimism och spänst när jag besöker två gånger om året. Landet är segt och tråkigt. Det saknas schvung. Men detta är en åsikt och inte fakta.
+
 
 ### Känslighetsanalys
 
@@ -67,6 +67,8 @@ Grafen visar Sveriges TFP tillväxt i jämförelse med andra ekonomier. Som syne
 
 ## Slutsats  
 Det finns ingen ljusglimt i sifforna. Landet är vanskött. Detta är inte bara en politisk fråga, utan även en företagsfråga och en medborgarfråga. Alla har bidragit till eländet.  
+
+Mer personligt så märker jag en brist på optimism och spänst när jag besöker två gånger om året. Landet är segt och tråkigt. Det saknas schvung. Men detta är en åsikt och inte fakta.
 
 ---
 ¹ Den dynamiska justeringen har liten (positiv) inverkan på Sverige, men har större (negativ) inverkan på snabbväxande länder som Kina. USA är neutralt.  
