@@ -14,7 +14,7 @@ Jag använder tre dataserier som kombineras till relevanta mått:
 - Kapitalstock beräknad från årliga fasta kapitalinvesteringar, avskrivna över 20 år och kapitaliserade.  
 
 ## Arbetsproduktivitet
-Omkring 60 procent av BNP härstammar från arbete i rika länder och omkring 50% i andra länder, med stor variation/
+I avancerade länder härstammar omkring 60 procent av BNP från arbete, och omkring 50 procent i andra länder (med stor variation).
 
 Jag mäter arbetsproduktivitet som BNP delat med arbetsför befolkning (AFB). Varför dessa och inte de som faktiskt arbetar? Ett land har en viss mängd arbetsföra. Dessa kan arbeta för lön, studera, vara militärer, vara arbetslösa, arbeta i hemmet, arbeta många eller få timmar, vara oförmögna att arbeta, och annat. 
 
