@@ -14,7 +14,7 @@ Jag använder tre dataserier som kombineras till relevanta mått:
 - Kapitalstock beräknad från årliga fasta kapitalinvesteringar, avskrivna över 20 år och kapitaliserade.  
 
 ## Arbetsproduktivitet
-Mellan 60 och 70 procent av BNP härstammar från arbete.  
+Omkring 60 procent av BNP härstammar från arbete.  
 
 <p align="center">
 <img  src="assets/images/s.canback-sweden-productivity-growth-1.svg" width="450" alt="S.Canback - Growth in GDP per working-age population">
