@@ -24,7 +24,7 @@ Mixen av dessa kategorier är ett val för länder. Framgångsrika länder finne
 <img  src="assets/images/s.canback-sweden-productivity-growth-1.svg" width="450" alt="S.Canback - Growth in GDP per working-age population">
 </p>
 
-Notera att Sverige ligger under Storbritannien och långt under EU. Vad kan ha bidraget till detta. Jag har inga svarmen ser några möjliga faktorer: flyktingvågen, Brexit, pandemin, Ukrainakriget, amerikanska tariffer. Ingen av dessa kan ses som BNP-höjande. Men det finns säkert djupare skäl som är svårtydda.
+Notera att Sverige ligger under Storbritannien och långt under EU. Vad kan ha bidraget till detta. Jag har inga svar men ser några möjliga faktorer: flyktingvågen, Brexit, pandemin, Ukrainakriget, amerikanska tariffer. Ingen av dessa kan ses som BNP-höjande. Men det finns säkert djupare skäl som är svårtydda.
 
 
 
