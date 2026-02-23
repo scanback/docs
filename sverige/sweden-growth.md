@@ -18,7 +18,7 @@ Omkring 60 procent av BNP härstammar från arbete i rika länder och omkring 50
 
 Jag mäter arbetsproduktivitet som BNP delat med arbetsför befolkning (AFB). Varför dessa och inte de som faktiskt arbetar? Ett land har en viss mängd arbetsföra. Dessa kan arbeta för lön, studera, vara militärer, vara arbetslösa, arbeta i hemmet, arbeta många eller få timmar, vara oförmögna att arbeta, och annat. 
 
-Mixen av dessa är ett val för länder. Framgångsrika länder finner en god mix, andra en dålig. Mitt mått stipulerar att alla länder har detta val. I Sveriges fall är t ex kort arbetstid ett val. I USA:s fall en stor arme. I EU:s fall ofta hög arnetslöshet. Dessa prioriteringar har skäl och konsekvenser som medborgarna i stort stöttar. (Detta är samma mått på arbetsproduktivitet som t ex IMF:s.)
+Mixen av dessa är ett val för länder. Framgångsrika länder finner en god mix, andra en dålig. Mitt mått stipulerar att alla länder har detta val. I Sveriges fall är t ex kort arbetstid ett val. I Sydkorea är värnplikten treårig. I EU:s fall ser vi ofta hög arnetslöshet. Dessa prioriteringar har skäl och konsekvenser som medborgarna i stort stöttar. (Detta är samma mått på arbetsproduktivitet som t ex IMF:s.)
 
 <p align="center">
 <img  src="assets/images/s.canback-sweden-productivity-growth-1.svg" width="450" alt="S.Canback - Growth in GDP per working-age population">
