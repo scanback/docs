@@ -26,7 +26,7 @@ Mixen av dessa är ett val för länder. Framgångsrika länder finner en god mi
 
 ### Känslighetsanalys
 
-Tabuleringen täcker 2015-2025. Men start- och slutåren kanske var speciella och inte repreesntativa. Detta är ett vanligt problem när data presenteras.  
+Tabuleringen täcker 2015-2025. Men start- och slutåren kanske var speciella och inte representativa. Detta är ett vanligt problem när data presenteras.  
 
 Nedan syns tillxäxten fär andra start- och slutår. 2015-2025 ligger obetydligt under medianen (0.94% mot 1.01%). Den lilla skillanden gör att 2015-2025 ska ses som representativt.  
 
