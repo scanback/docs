@@ -10,15 +10,15 @@ Detta är en ren diagnos och jag skriver inget om potentiella åtgärder.
 
 Jag använder tre dataserier som kombineras till relevanta mått:  
 - BNP enligt "Purchasing Power Parity" metoden (i dollar), dynamiskt justerad så att relationen till BNP enligt växelkurs varierar över tiden.¹   
-- Arbetsför befolking (AFB) istället fär total befolkning. Det är den arbestföra befolkningen som generar BNP.  
+- Arbetsför befolking (AFB) istället fär total befolkning. Det är den arbestföra befolkningen som kan genera BNP.  
 - Kapitalstock beräknad från årliga fasta kapitalinvesteringar, avskrivna över 20 år och kapitaliserade.  
 
 ## Arbetsproduktivitet
 I avancerade länder härstammar omkring 60 procent av BNP från arbete, och omkring 50 procent i andra länder (med stor variation).
 
-Jag mäter arbetsproduktivitet som BNP delat med arbetsför befolkning (AFB). Varför dessa och inte de som faktiskt arbetar? Ett land har en viss mängd arbetsföra. Dessa kan arbeta för lön, studera, vara militärer, vara arbetslösa, arbeta i hemmet, arbeta många eller få timmar, vara oförmögna att arbeta, och annat. 
+Jag mäter arbetsproduktivitet som BNP delat med arbetsför befolkning (AFB). Varför AFB och inte de som faktiskt arbetar? Ett land har en viss mängd arbetsföra. Dessa kan arbeta för lön, studera, vara militärer, vara arbetslösa, arbeta i hemmet, arbeta många eller få timmar, vara oförmögna att arbeta, och annat. 
 
-Mixen av dessa är ett val för länder. Framgångsrika länder finner en god mix, andra en dålig. Mitt mått stipulerar att alla länder har detta val. I Sveriges fall är t ex kort arbetstid ett val. I Sydkorea är värnplikten treårig. I EU:s fall ser vi ofta hög arnetslöshet. Dessa prioriteringar har skäl och konsekvenser som medborgarna i stort stöttar. (Detta är samma mått på arbetsproduktivitet som t ex IMF:s.)
+Mixen av dessa kategorier är ett val för länder. Framgångsrika länder finner en god mix, andra en dålig. Mitt mått stipulerar att alla länder gör detta val. I Sveriges fall är t ex kort arbetstid ett val. I Sydkorea är värnplikten treårig vilet minskar prouktiviteten. I EU:s fall ser vi ofta hög arbetslöshet. Dessa prioriteringar har skäl och konsekvenser som medborgarna i stort stöttar.
 
 <p align="center">
 <img  src="assets/images/s.canback-sweden-productivity-growth-1.svg" width="450" alt="S.Canback - Growth in GDP per working-age population">
