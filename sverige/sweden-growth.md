@@ -15,7 +15,7 @@ Jag använder fyra dataserier som kombineras till relevanta mått:
 - Arbete-kapital mixen i varje ekonomi som ingår i analyserne
 
 ## Arbetsproduktivitet
-I avancerade länder härstammar omkring 60 procent av BNP från arbete, och omkring 50 procent i andra länder (med stor variation).
+I avancerade länder härstammar omkring 60 procent av BNP från arbete, gentemot 50 procent i andra länder (med stor variation).
 
 Jag mäter arbetsproduktivitet som BNP delat med arbetsför befolkning (AFB). Varför AFB och inte de som faktiskt arbetar? Ett land har en viss mängd arbetsföra. Dessa kan arbeta för lön, studera, vara militärer, vara arbetslösa, arbeta i hemmet, arbeta många eller få timmar, vara oförmögna att arbeta, och annat. 
 
