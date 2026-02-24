@@ -1,17 +1,18 @@
 ---
-title: "Uselt så det förslår: Sveriges produktivitetstillväxt 2015-2025"
+title: "Uselt så det förslår: Sveriges ekonomiska tillväxt 2015-2025"
 description: "Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag utvecklingen med enklast möjliga meningsfulla mått. 🇸🇪"
 image: /assets/social-card-think.png
 ---
-# Uselt så det förslår: Sveriges produktivitetstillväxt 2015-2025
+# Uselt så det förslår: Sveriges ekonomiska tillväxt 2015-2025
 Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag utvecklingen med enklast möjliga meningsfulla mått.  
 
 Detta är en ren diagnos och jag skriver inget om potentiella åtgärder.
 
-Jag använder tre dataserier som kombineras till relevanta mått:  
+Jag använder fyra dataserier som kombineras till relevanta mått:  
 - BNP enligt "Purchasing Power Parity" metoden (i dollar), dynamiskt justerad så att relationen till BNP enligt växelkurs varierar över tiden.¹   
 - Arbetsför befolking (AFB) istället fär total befolkning. Det är den arbestföra befolkningen som kan genera BNP.  
-- Kapitalstock beräknad från årliga fasta kapitalinvesteringar, avskrivna över 20 år och kapitaliserade.  
+- Kapitalstock beräknad från årliga fasta kapitalinvesteringar, avskrivna över 20 år och kapitaliserade.
+- Arbete-kapital mixen i varje ekonomi som ingår i analyserne
 
 ## Arbetsproduktivitet
 I avancerade länder härstammar omkring 60 procent av BNP från arbete, och omkring 50 procent i andra länder (med stor variation).
