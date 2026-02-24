@@ -8,10 +8,11 @@ Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar ja
 
 Detta är en ren diagnos och jag skriver inget om potentiella åtgärder.
 
-Jag använder tre dataserier som kombineras till relevanta mått:  
+Jag använder fyra dataserier som kombineras till relevanta mått:  
 - BNP enligt "Purchasing Power Parity" metoden (i dollar), dynamiskt justerad så att relationen till BNP enligt växelkurs varierar över tiden.¹   
 - Arbetsför befolking (AFB) istället fär total befolkning. Det är den arbestföra befolkningen som kan genera BNP.  
-- Kapitalstock beräknad från årliga fasta kapitalinvesteringar, avskrivna över 20 år och kapitaliserade.  
+- Kapitalstock beräknad från årliga fasta kapitalinvesteringar, avskrivna över 20 år och kapitaliserade.
+- Arbete-kapital mixen i varje ekonomi som ingår i analyserne
 
 ## Arbetsproduktivitet
 I avancerade länder härstammar omkring 60 procent av BNP från arbete, och omkring 50 procent i andra länder (med stor variation).
