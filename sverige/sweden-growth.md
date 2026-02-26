@@ -31,7 +31,7 @@ Notera att Sverige ligger under Storbritannien och långt under EU. Vad kan ha b
 
 
 
-### Känslighetsanalys
+## Känslighetsanalys
 
 Tabuleringen täcker 2015-2025. Men start- och slutåren kanske var speciella och inte representativa. Detta är ett vanligt problem när data presenteras.  
 
@@ -41,7 +41,7 @@ Nedan syns tillxäxten fär andra start- och slutår. 2015-2025 ligger obetydlig
 <img  src="assets/images/s.canback-sweden-sensitivity-analysis.svg" width="250" alt="S.Canback - Swedish growth - sensitivity analysis">
 </p>
 
-### Svensk arbetsproduktivitet per decennium
+## Svensk arbetsproduktivitet per decennium
 
 Hur skiljer sig 2015-2025 mot tidigare decennier? Det är den klart sämsta perioden vilket nedan graf visar.  
 
@@ -51,6 +51,8 @@ Hur skiljer sig 2015-2025 mot tidigare decennier? Det är den klart sämsta peri
 
 ## Kapitalproduktivitet
 
+Fyrtio procent av Sveriges BNP kommer från kapital (60% frå[n arbete, ovan). Detta är något få följer. Grafen nedan visar att Sveriges kapitalproduktivtet (BNP genererad per krona kapital), fallit under det senaste decenniet. Mer än i EU, mer än i världen i stort. (Alla länder och regioner är tillgängliga efter förfrågan).
+
 <p align="center">
 <img  src="assets/images/s.canback-sweden-productivity-growth-3.svg" width="400" alt="S.Canback - Swedish growth by decade">
 </p>
@@ -59,7 +61,7 @@ Hur skiljer sig 2015-2025 mot tidigare decennier? Det är den klart sämsta peri
 
 TFP, ofta kallad Solow residual, är vad som återstår efter att arbete och kapital har använts för att förklara BNP tillväcxt. Den innehåller teknologisk utveckling, effektivitetsförbättringar, uppfinningar, m.m.³ 
 
-Den är ett mått på vår okunnighet, men också djupt betydelsefull eftersom den förklarar varför samhällen blir bättre.
+Den är sätt och vis ett mått på vår okunnighet, men också djupt betydelsefull eftersom den förklarar varför samhällen blir bättre.
 
 Grafen visar Sveriges TFP tillväxt i jämförelse med andra ekonomier. Som synes är landets utveckling också svag med denna måttstock.
 
