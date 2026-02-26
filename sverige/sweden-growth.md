@@ -51,8 +51,7 @@ Hur skiljer sig 2015-2025 mot tidigare decennier? Det är den klart sämsta peri
 
 ## Kapitalproduktivitet
 
-Fyrtio procent av Sveriges BNP kommer från kapital (60% frå[n arbete, ovan). Detta är något få följer. Grafen nedan visar att Sveriges kapitalproduktivtet (BNP genererad per krona kapital), fallit under det senaste decenniet. Mer än i EU, mer än i världen i stort. (Alla länder och regioner är tillgängliga på begäran).
-
+Fyrtio procent av Sveriges BNP kommer från kapital (60% frå[n arbete, ovan). Detta är något få, utom ekonomer, följer. Grafen nedan visar att Sveriges kapitalproduktivtet (BNP genererad per krona kapital), fallit under det senaste decenniet. Mer än i EU, mer än i världen i stort.
 <p align="center">
 <img  src="assets/images/s.canback-sweden-productivity-growth-3.svg" width="400" alt="S.Canback - Swedish growth by decade">
 </p>
