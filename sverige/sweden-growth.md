@@ -10,12 +10,6 @@ Detta är en ren diagnos och jag skriver inget om potentiella åtgärder.
 
 > Liksom i alla mina publikationer så är graferna primära och texten sekundär. Detta är tvärtemot de flesta som skriver text stöttad av grafer.  
 
-Jag använder fyra dataserier som kombineras till relevanta mått:   
-- Bruttonationalproduct (BNP) enligt "Purchasing Power Parity" metoden, dynamiskt justerad så att relationen till BNP i fasta dollar varierar över tiden.¹   
-- Arbetsför befolking (AFB) istället fär total befolkning. Det är den arbestföra befolkningen som kan genera BNP.    
-- Kapitalstock beräknad från årliga fasta och FoU investeringar, avskrivna över tjugo respektive sju år och kapitaliserade.  
-- Arbete gentemot kapital mixen i varje ekonomi.  
-
 Jag inkluderar _**inte**_ total BNP tillväxt eftersom detta inte är ett mått på ekonomisk tillväxt. BNP tillväxt är en kombination av demografisk (befolknings) tillväxt och ekonomisk tillväxt. 
 
 Mycket av debatten kring EU:s ekonomiska förfall är i verkligheten en fråga om befolkningsminskning, inte ekonomiska problem. (Dessutom: Storbritannien lämnade EU vilket ofta inte justeras för så att siffrorna ska se mer skrämmande ut).  
@@ -91,7 +85,14 @@ Mer personligt så märker jag en brist på optimism och spänst när jag besök
 > Detta är ett utdrag ur vår globala studie av företags och länders produktivitet baserad på fundamental ekonomisk teori.  
 
 ---
-Not: Ekonomier valdes baserat på: 
+¹²³⁴⁵⁶⁷⁸⁹⁰
+¹ Jag använder fyra dataserier som kombineras till relevanta mått:   
+- Bruttonationalproduct (BNP) enligt "Purchasing Power Parity" metoden, dynamiskt justerad så att relationen till BNP i fasta dollar varierar över tiden.¹   
+- Arbetsför befolking (AFB) istället fär total befolkning. Det är den arbestföra befolkningen som kan genera BNP.    
+- Kapitalstock beräknad från årliga fasta och FoU investeringar, avskrivna över tjugo respektive sju år och kapitaliserade.  
+- Arbete gentemot kapital mixen i varje ekonomi.  
+
+² Ekonomier valdes baserat på: 
 
 <span style="font-size: 75%;">
   
@@ -112,11 +113,11 @@ Not: Ekonomier valdes baserat på:
 
 </span>
 
-¹ Den dynamiska justeringen har liten (positiv) inverkan på Sverige, men har större (negativ) inverkan på snabbväxande länder som Kina. USA är neutralt.  
+³ Den dynamiska justeringen har liten (positiv) inverkan på Sverige, men har större (negativ) inverkan på snabbväxande länder som Kina. USA är neutralt.  
 
-² *Based on IMF research and publications, GDP per working-age population is frequently used as a more precise measure of economic performance than GDP per capita.* <span>⎼🇦&ZeroWidthSpace;🇮</span>. Detta är det mått jag använt i mina publikationer i åratal.  
+⁴ *Based on IMF research and publications, GDP per working-age population is frequently used as a more precise measure of economic performance than GDP per capita.* <span>⎼🇦&ZeroWidthSpace;🇮</span>. Detta är det mått jag använt i mina publikationer i åratal.  
 
-³ Mer om TFP / Solow residual finns [här](https://en.wikipedia.org/wiki/Solow_residual). En djupare men kanske svårförståelig analys av TFP finns i [Penn Tables](https://www.rug.nl/ggdc/productivity/pwt/?lang=en).
+⁵ Mer om TFP / Solow residual finns [här](https://en.wikipedia.org/wiki/Solow_residual). En djupare men kanske svårförståelig analys av TFP finns i [Penn Tables](https://www.rug.nl/ggdc/productivity/pwt/?lang=en).
 
 ---
 Sverige har två officiella färger enligt grundlagen. Jag behövde fyra. Vad göra? Jag konstruerade två nya färger baserat på flaggblått och flaggult. Det visar sig vara komplicerad matematik men ChatGPT löste det briljant på fem minuter.
