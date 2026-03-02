@@ -6,13 +6,11 @@ image: /assets/social-card-think.png
 # Uselt så det förslår: Sveriges ekonomiska tillväxt 2015–2025
 Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag utvecklingen med enklast möjliga meningsfulla mått. Den viktigaste delen är **Total faktorproduktivitet** i det tredje kapitlet.  
 
+Jag inkluderar _**inte**_ total BNP tillväxt eftersom detta inte är ett mått på ekonomisk tillväxt. BNP tillväxt är en kombination av demografisk (befolknings) tillväxt och ekonomisk tillväxt. 
+
 Detta är en ren diagnos och jag skriver inget om potentiella åtgärder.  
 
 > Liksom i alla mina publikationer så är graferna primära och texten sekundär. Detta är tvärtemot de flesta som skriver text stöttad av grafer.  
-
-Jag inkluderar _**inte**_ total BNP tillväxt eftersom detta inte är ett mått på ekonomisk tillväxt. BNP tillväxt är en kombination av demografisk (befolknings) tillväxt och ekonomisk tillväxt. 
-
-Mycket av debatten kring EU:s ekonomiska förfall är i verkligheten en fråga om befolkningsminskning, inte ekonomiska problem. (Dessutom: Storbritannien lämnade EU vilket ofta inte justeras för så att siffrorna ska se mer skrämmande ut).  
 
 ## 1. Arbetsproduktivitet
 I avancerade länder härstammar omkring 60 procent av BNP från arbete, gentemot 50 procent i tillväxtländer (med stor variation).  
@@ -29,15 +27,15 @@ Nedan är arbetsproduktiviteten för några utvalda ekonomier (se not).
 <img  src="assets/images/s.canback-sweden-productivity-growth-1.svg" width="450" alt="S.Canback - Growth in GDP per working-age population">
 </p>
 
-Notera att Sverige ligger under Storbritannien och långt under EU som ofta betraktas som ekonomiska problem. Vad kan ha bidraget till detta? 
+Notera att Sverige ligger under Storbritannien och långt under EU som ofta betraktas som problemamtiska ekonomier (EU har i verkligheten demografiska problem, inte ekonomiska).
 
-Jag har inga svar men ser några möjliga faktorer: flyktingvågen, brexit, pandemin, Ukrainakriget, amerikanska tariffer, misslyckade gröna satsningar. Ingen av dessa kan ses som BNP-höjande. Men det finns säkert djupare skäl som är svårtydda.  
+Jag har inga svar på varför har så svag utveckling men ser några möjliga faktorer: flyktingvågen, brexit, pandemin, Ukrainakriget, amerikanska tariffer, misslyckade gröna satsningar. Ingen av dessa kan ses som BNP-höjande. Men det finns säkert djupare skäl som är svårtydda.  
 
 ### Känslighetsanalys
 
 Tabuleringen täcker 2015-2025. Men start- och slutåren kanske var speciella och ickerepresentativa. Detta är ett vanligt problem när data presenteras.  
 
-Nedan syns svensk tillväxt fär andra start- och slutår. 2015-2025 ligger obetydligt under medianen (0.94% mot 1.01%). Den lilla skillanden gör att 2015-2025 ska ses som representativt.  
+Nedan syns svensk tillväxt fär andra start- och slutår. 2015-2025 ligger obetydligt under medianen. Den lilla skillanden gör att 2015-2025 ska ses som representativt.  
 
 <p align="center">
 <img  src="assets/images/s.canback-sweden-productivity-growth-2.svg" width="250" alt="S.Canback - Swedish growth - sensitivity analysis">
