@@ -92,6 +92,7 @@ Mer personligt så märker jag en brist på optimism och spänst när jag besök
 
 ---
 Not: Ekonomier valdes baserat på: 
+
 | Land | Anleding |
 |----------|----------|
 | Danmark | Framgångsrikt grannland |
