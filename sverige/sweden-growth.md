@@ -64,7 +64,7 @@ Den är på sätt och vis ett mått på vår okunnighet, men också djupt betyde
 
 Två exempel:
 
-- Ett lans BNP växer ned 2 procent. ABF och kaital växer ocksp med 2 procent. Då blir TFP växten 0. Ingenting händer utöver arbete och kapital. Detta kallas skalning.
+- Ett lands BNP växer ned 2 procent. ABF och kaital växer ocksp med 2 procent. Då blir TFP växten 0. Ingenting händer utöver arbete och kapital. Detta kallas skalning.
 
 - Japans BNP växer med 0.7%. ABF minskar med 0.7% och kapital växer med 0.4% (bägge under BNP tillväxten). TFP växer därför med 0.8%.
 
