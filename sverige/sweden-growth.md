@@ -80,7 +80,7 @@ Det finns ingen ljusglimt i sifforna. Landet är vanskött. Detta är inte bara 
 
 Mer personligt så märker jag en brist på optimism och spänst när jag besöker två gånger om året. Landet är segt och tråkigt. Det saknas schvung. Men detta är en åsikt och inte fakta.  
 
-> Detta är ett utdrag ur en global studie av företags och länders produktivitet baserad på fundamental ekonomisk teori.
+> Detta är ett utdrag ur vår globala studie av företags och länders produktivitet baserad på fundamental ekonomisk teori.  
 
 ---
 ¹ Den dynamiska justeringen har liten (positiv) inverkan på Sverige, men har större (negativ) inverkan på snabbväxande länder som Kina. USA är neutralt.  
