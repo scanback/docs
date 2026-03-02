@@ -4,7 +4,7 @@ description: "Sverige har haft en usel ekonomisk tillväxt de senaste tio åren.
 image: /assets/social-card-think.png
 ---
 # Uselt så det förslår: Sveriges ekonomiska tillväxt 2015–2025
-Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag utvecklingen med enklast möjliga meningsfulla mått.  
+Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag utvecklingen med enklast möjliga meningsfulla mått.   Den viktigaste delen är **Total faktorproduktivitte** i den tredje sektionen.
 
 Detta är en ren diagnos och jag skriver inget om potentiella åtgärder.  
 
@@ -31,17 +31,17 @@ Mixen av dessa kategorier är ett val för länder. Framgångsrika länder finne
 
 Notera att Sverige ligger under Storbritannien och långt under EU som ofta betraktas som ekonomiska problem. Vad kan ha bidraget till detta? Jag har inga svar men ser några möjliga faktorer: flyktingvågen, brexit, pandemin, Ukrainakriget, amerikanska tariffer. Ingen av dessa kan ses som BNP-höjande. Men det finns säkert djupare skäl som är svårtydda.  
 
-## Känslighetsanalys
+### Känslighetsanalys
 
 Tabuleringen täcker 2015-2025. Men start- och slutåren kanske var speciella och inte representativa. Detta är ett vanligt problem när data presenteras.  
 
-Nedan syns tillxäxten fär andra start- och slutår. 2015-2025 ligger obetydligt under medianen (0.94% mot 1.01%). Den lilla skillanden gör att 2015-2025 ska ses som representativt.  
+Nedan syns tillväxten fär andra start- och slutår. 2015-2025 ligger obetydligt under medianen (0.94% mot 1.01%). Den lilla skillanden gör att 2015-2025 ska ses som representativt.  
 
 <p align="center">
 <img  src="assets/images/s.canback-sweden-productivity-growth-2.svg" width="250" alt="S.Canback - Swedish growth - sensitivity analysis">
 </p>
 
-## Svensk arbetsproduktivitet per decennium
+### Svensk arbetsproduktivitet per decennium
 
 Hur skiljer sig 2015-2025 mot tidigare decennier? Det är den klart sämsta perioden vilket nedan graf visar.  
 
