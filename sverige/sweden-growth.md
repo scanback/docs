@@ -16,14 +16,18 @@ Jag använder fyra dataserier som kombineras till relevanta mått:
 - Kapitalstock beräknad från årliga fasta och FoU investeringar, avskrivna över tjugo respektive sju år och kapitaliserade.  
 - Arbete-kapital mixen i varje ekonomi.  
 
-Jag inkluderar _**inte**_ total BNP tillväxt eftersom detta inte är ett mått på ekonomisk tillväxt. BNP tillväxt är en kombination av demografisk (befolknings) tillväxt och ekonomisk tillväxt. Mycket i debatten kring EU:s ekonomiska förfall är i verkligeheten en fråga om befolkningsminskning, inte ekonomiska problem. (Dessutom: Storbritannien lämnade EU vilket ofta inte justeras för så att siffrorna ska se mer skrämmande ut).  
+Jag inkluderar _**inte**_ total BNP tillväxt eftersom detta inte är ett mått på ekonomisk tillväxt. BNP tillväxt är en kombination av demografisk (befolknings) tillväxt och ekonomisk tillväxt. 
+
+Mycket av debatten kring EU:s ekonomiska förfall är i verkligeheten en fråga om befolkningsminskning, inte ekonomiska problem. (Dessutom: Storbritannien lämnade EU vilket ofta inte justeras för så att siffrorna ska se mer skrämmande ut).  
 
 ## 1. Arbetsproduktivitet
 I avancerade länder härstammar omkring 60 procent av BNP från arbete, gentemot 50 procent i tillväxtländer (med stor variation).  
 
 Jag mäter arbetsproduktivitet som BNP delat med AFB.² Varför AFB och inte de som faktiskt arbetar? Ett land har en viss mängd arbetsföra. Dessa kan arbeta för lön, studera, vara militärer, vara arbetslösa, arbeta i hemmet, arbeta många eller få timmar, vara oförmögna att arbeta, och annat.  
 
-Mixen av dessa kategorier är ett val för länder. Framgångsrika länder finner en god mix, andra en dålig. Mitt mått stipulerar att alla länder gör detta val. I Sveriges fall är t ex kort arbetstid ett val. I Sydkorea är värnplikten treårig vilket minskar produktiviteten. I EU:s fall ser vi ofta hög arbetslöshet. Dessa prioriteringar har skäl och konsekvenser som medborgarna i stort stöttar.  
+Mixen av dessa kategorier är ett val för länder. Framgångsrika länder finner en god mix, andra en dålig. Mitt mått stipulerar att alla länder gör detta val. 
+
+I Sveriges fall är t ex kort arbetstid ett val. I Sydkorea är värnplikten treårig vilket minskar produktiviteten. I EU:s fall ser vi ofta hög arbetslöshet. Dessa prioriteringar har skäl och konsekvenser som medborgarna i stort stöttar.  
 
 Nedan är arbestproduktiviteten för några utvalda ekonomier (se not).
 
@@ -85,7 +89,10 @@ Mer personligt så märker jag en brist på optimism och spänst när jag besök
 > Detta är ett utdrag ur vår globala studie av företags och länders produktivitet baserad på fundamental ekonomisk teori.  
 
 ---
-Not: Ekonomier valdes baserat på: Danmark: framgångsrikt grannland; Storbritannien: ofta i ekonomiska debatten, viktig exportmarknad; Kina: stor och mest framgångsrika ekonomi ; Indien: stor ekonomi och största invandrargruppen till Sverige; USA: hög levnadsstandard och stor ekonomi; EU: Sveriges hemmamarknad och ofta i eknomiska debatten; Japan: framgånsrikt ekonomiskt, men intefdemografiskt; Thailand: stort turistland för svenskar som många kan relatera till; Pakistan: näst största invandrarlandet; Brasilien: starka kopplingar genom bl a kungahuset; Sydafrika; stor vin-, golf-; och naturturism; Irak: stor invandring och exempel på ett problemland.
+Not: Ekonomier valdes baserat på: 
+
+
+Danmark: framgångsrikt grannland; Storbritannien: ofta i ekonomiska debatten, viktig exportmarknad; Kina: stor och mest framgångsrika ekonomi ; Indien: stor ekonomi och största invandrargruppen till Sverige; USA: hög levnadsstandard och stor ekonomi; EU: Sveriges hemmamarknad och ofta i eknomiska debatten; Japan: framgånsrikt ekonomiskt, men intefdemografiskt; Thailand: stort turistland för svenskar som många kan relatera till; Pakistan: näst största invandrarlandet; Brasilien: starka kopplingar genom bl a kungahuset; Sydafrika; stor vin-, golf-; och naturturism; Irak: stor invandring och exempel på ett problemland.
 
 ¹ Den dynamiska justeringen har liten (positiv) inverkan på Sverige, men har större (negativ) inverkan på snabbväxande länder som Kina. USA är neutralt.  
 
