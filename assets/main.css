@@ -7,6 +7,12 @@ html {
   scroll-behavior: smooth;
 }
 
+.page-container {
+  max-width: 800px;
+  margin: 0 auto;        /* centers horizontally */
+  padding: 0 20px;       /* breathing room on small screens */
+}
+
 .site-title {
   color: #0066cc !important;
    text-decoration: none;
