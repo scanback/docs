@@ -85,7 +85,7 @@ Mer personligt så märker jag en brist på optimism och spänst när jag besök
 
 ² *Based on IMF research and publications, GDP per working-age population is frequently used as a more precise measure of economic performance than GDP per capita.* <span>⎼🇦&ZeroWidthSpace;🇮</span>. Detta är det mått jag använt i mina publikationer i åratal.  
 
-³ Mer om TFP / Solow residual finns [här](https://en.wikipedia.org/wiki/Solow_residual). En djupare, men kanske svårförståelig, analys av TFP finns i [Penn Tables](https://www.rug.nl/ggdc/productivity/pwt/?lang=en).
+³ Mer om TFP / Solow residual finns [här](https://en.wikipedia.org/wiki/Solow_residual). En djupare men kanske svårförståelig analys av TFP finns i [Penn Tables](https://www.rug.nl/ggdc/productivity/pwt/?lang=en).
 
 ---
 Sverige har två officiella färger enligt grundlagen. Jag behövde fyra. Vad göra? Jag konstruerade två nya färger baserat på flaggblått och flaggult. Det visar sig vara komplicerad matematik men ChatGPT löste det briljant på fem minuter.
