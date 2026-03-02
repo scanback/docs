@@ -92,7 +92,7 @@ Mer personligt så märker jag en brist på optimism och spänst när jag besök
 
 ² Ekonomier valdes baserat på: 
 
-<span style="font-size: 75%;">
+<span style="font-size: 12px;">
   
 | | |
 |----------|----------|
