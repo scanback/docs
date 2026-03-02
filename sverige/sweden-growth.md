@@ -18,7 +18,7 @@ Jag använder fyra dataserier som kombineras till relevanta mått:
 
 Jag inkluderar _**inte**_ total BNP tillväxt eftersom detta inte är ett mått på ekonomisk tillväxt. BNP tillväxt är en kombination av demografisk (befolknings) tillväxt och ekonomisk tillväxt. Mycket i debatten kring EU:s ekonomiska förfall är i verkligeheten en fråga om befolkningsminskning, inte ekonomiska problem. (Dessutom: Storbritannien lämnade EU vilket ofta inte justeras för så att siffrorna ska se mer skrämmande ut).  
 
-## Arbetsproduktivitet
+## 1. Arbetsproduktivitet
 I avancerade länder härstammar omkring 60 procent av BNP från arbete, gentemot 50 procent i tillväxtländer (med stor variation).  
 
 Jag mäter arbetsproduktivitet som BNP delat med AFB. Varför AFB och inte de som faktiskt arbetar? Ett land har en viss mängd arbetsföra. Dessa kan arbeta för lön, studera, vara militärer, vara arbetslösa, arbeta i hemmet, arbeta många eller få timmar, vara oförmögna att arbeta, och annat.  
@@ -49,14 +49,14 @@ Hur skiljer sig 2015-2025 mot tidigare decennier? Det är den klart sämsta peri
 <img  src="assets/images/s.canback-sweden-productivity-growth-3.svg" width="400" alt="S.Canback - Swedish growth by decade">
 </p>
 
-## Kapitalproduktivitet
+## 2. Kapitalproduktivitet
 
 Fyrtio procent av Sveriges BNP kommer från kapital (60% från arbete, ovan). Detta är något få, utom ekonomer, följer. Grafen nedan visar att Sveriges kapitalproduktivtet (BNP genererad per krona kapital), fallit under det senaste decenniet. Mer än i EU, mer än i världen i stort.  
 <p align="center">
 <img  src="assets/images/s.canback-sweden-productivity-growth-4.svg" width="400" alt="S.Canback - Swedish capital productivity">
 </p>
 
-## Total faktorproduktivitet (TFP)
+## 3. Total faktorproduktivitet (TFP)
 
 TFP, även kallad Solow residual, är vad som återstår efter att arbete och kapital har använts för att förklara BNP tillväcxt. Den innehåller teknologisk utveckling, effektivitetsförbättringar, uppfinningar, m.m.³  
 
