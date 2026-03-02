@@ -93,6 +93,8 @@ Mer personligt så märker jag en brist på optimism och spänst när jag besök
 ---
 Not: Ekonomier valdes baserat på: 
 
+<span font-size=75%>
+  
 | Land | Anleding |
 |----------|----------|
 | Danmark | Framgångsrikt grannland |
@@ -108,11 +110,7 @@ Not: Ekonomier valdes baserat på:
 | Sydafrika | Stor vin- golf- och naturturism|
 | Irak | Stor invandring och exempel på ett problemland |
 
-TEST:
-| Land | Anleding | Land | Anleding |
-|----------|----------|----------|----------|
-| Danmark | Framgångsrikt grannland | Storbritannien | Ofta i ekonomiska debatten, viktig exportmarknad |
-| Kina | Stor framgångsrik ekonomi | Indien | Stor snabbväxande ekonomi och numera största invandrargruppen i Sverige |
+</span>
 
 ¹ Den dynamiska justeringen har liten (positiv) inverkan på Sverige, men har större (negativ) inverkan på snabbväxande länder som Kina. USA är neutralt.  
 
