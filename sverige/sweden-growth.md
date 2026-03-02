@@ -90,9 +90,26 @@ Mer personligt så märker jag en brist på optimism och spänst när jag besök
 
 ---
 Not: Ekonomier valdes baserat på: 
+| Land | Anleding |
+|----------|----------|
+| Danmark | Framgångsrikt grannland |
+| Storbritannien | Ofta i ekonomiska debatten, viktig exportmarknad |
+| Kina | Stor framgångsrik ekonomi |
+| Indien | Stor snabbväxande ekonomi och numera största invandrargruppen i Sverige |
+| USA | Hög levnadsstandard och stor ekonomi |
+| EU | Sveriges hemmamarknad och ofta i eknomiska debatten |
+| Japan | Framgånsrikt ekonomiskt, men inte demografiskt |
+| Thailand | Stort turistland för svenskar som många kan relatera till |
+| Pakistan | Näst största invandrarlandet |
+| Brasilien | Starka kopplingar genom bl a kungahuset och emigratio n|
+| Sydafrika | Stor vin- golf- och naturturism|
+| Irak | Stor invandring och exempel på ett problemland |
 
-
-Danmark: framgångsrikt grannland; Storbritannien: ofta i ekonomiska debatten, viktig exportmarknad; Kina: stor och mest framgångsrika ekonomi ; Indien: stor ekonomi och största invandrargruppen till Sverige; USA: hög levnadsstandard och stor ekonomi; EU: Sveriges hemmamarknad och ofta i eknomiska debatten; Japan: framgånsrikt ekonomiskt, men intefdemografiskt; Thailand: stort turistland för svenskar som många kan relatera till; Pakistan: näst största invandrarlandet; Brasilien: starka kopplingar genom bl a kungahuset; Sydafrika; stor vin-, golf-; och naturturism; Irak: stor invandring och exempel på ett problemland.
+TEST:
+| Land | Anleding | Land | Anleding |
+|----------|----------|----------|----------|
+| Danmark | Framgångsrikt grannland | Storbritannien | Ofta i ekonomiska debatten, viktig exportmarknad |
+| Kina | Stor framgångsrik ekonomi | Indien | Stor snabbväxande ekonomi och numera största invandrargruppen i Sverige |
 
 ¹ Den dynamiska justeringen har liten (positiv) inverkan på Sverige, men har större (negativ) inverkan på snabbväxande länder som Kina. USA är neutralt.  
 
