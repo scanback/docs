@@ -84,7 +84,7 @@ Grafen visar Sveriges TFP tillväxt i jämförelse med andra ekonomier. Som syne
 
 
 ## Slutsats  
-Det finns ingen ljusglimt i sifforna. Landet är vanskött. Detta är inte bara en politisk fråga, utan även en företagsfråga och en medborgarfråga. Alla har bidragit till eländet.  
+Det finns ingen ljusglimt i sifforna. Landet är vanskött. Detta är inte bara en politisk fråga utan även en företagsfråga och en medborgarfråga. Alla har bidragit till eländet.  
 
 Mer personligt så märker jag en brist på optimism och spänst när jag besöker två gånger om året. Landet är segt och tråkigt. Det saknas schvung. Men detta är en åsikt och inte fakta.  
 
