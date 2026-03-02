@@ -37,7 +37,7 @@ Nedan är arbestproduktiviteten för några utvalda ekonomier (se not).
 
 Notera att Sverige ligger under Storbritannien och långt under EU som ofta betraktas som ekonomiska problem. Vad kan ha bidraget till detta? 
 
-Jag har inga svar men ser några möjliga faktorer: flyktingvågen, brexit, pandemin, Ukrainakriget, amerikanska tariffer. Ingen av dessa kan ses som BNP-höjande. Men det finns säkert djupare skäl som är svårtydda.  
+Jag har inga svar men ser några möjliga faktorer: flyktingvågen, brexit, pandemin, Ukrainakriget, amerikanska tariffer, misslyckade gröna satsningar. Ingen av dessa kan ses som BNP-höjande. Men det finns säkert djupare skäl som är svårtydda.  
 
 ### Känslighetsanalys
 
