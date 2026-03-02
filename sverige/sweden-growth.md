@@ -11,7 +11,7 @@ Detta är en ren diagnos och jag skriver inget om potentiella åtgärder.
 > Liksom i alla mina publikationer så är graferna primära och texten sekundär. Detta är tvärtemot de flesta som skriver text stöttad av grafer.  
 
 Jag använder fyra dataserier som kombineras till relevanta mått:   
-- Bruttonationalproduct (BNP) enligt "Purchasing Power Parity" metoden (i dollar), dynamiskt justerad så att relationen till BNP i fasta dollar varierar över tiden.¹   
+- Bruttonationalproduct (BNP) enligt "Purchasing Power Parity" metoden, dynamiskt justerad så att relationen till BNP i fasta dollar varierar över tiden.¹   
 - Arbetsför befolking (AFB) istället fär total befolkning. Det är den arbestföra befolkningen som kan genera BNP.    
 - Kapitalstock beräknad från årliga fasta och FoU investeringar, avskrivna över tjugo respektive sju år och kapitaliserade.  
 - Arbete gentemot kapital mixen i varje ekonomi.  
