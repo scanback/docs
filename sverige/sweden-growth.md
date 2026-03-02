@@ -8,7 +8,7 @@ Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar ja
 
 Detta är en ren diagnos och jag skriver inget om potentiella åtgärder.  
 
-> Liksom i alla mina andra publikationer så är graferna det primära och texterna det sekundära. Detta är tvärtemot de flesta som skriver texter stöttade av grafer.
+> Liksom i alla mina publikationer så är graferna det primära och texten det sekundära. Detta är tvärtemot de flesta som skriver text stöttad av grafer.
 
 Jag använder fyra dataserier som kombineras till relevanta mått:   
 - Bruttonationalproduct (BNP) enligt "Purchasing Power Parity" metoden (i dollar), dynamiskt justerad så att relationen till BNP i fasta dollar varierar över tiden.¹   
