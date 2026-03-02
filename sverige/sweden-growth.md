@@ -8,26 +8,26 @@ Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar ja
 
 Detta är en ren diagnos och jag skriver inget om potentiella åtgärder.
 
-Jag använder fyra dataserier som kombineras till relevanta mått:  
+Jag använder fyra dataserier som kombineras till relevanta mått:   
 - BNP enligt "Purchasing Power Parity" metoden (i dollar), dynamiskt justerad så att relationen till BNP enligt växelkurs varierar över tiden.¹   
-- Arbetsför befolking (AFB) istället fär total befolkning. Det är den arbestföra befolkningen som kan genera BNP.  
-- Kapitalstock beräknad från årliga fasta kapitalinvesteringar, avskrivna över 20 år och kapitaliserade.
-- Arbete-kapital mixen i varje ekonomi som ingår i analyserna.
+- Arbetsför befolking (AFB) istället fär total befolkning. Det är den arbestföra befolkningen som kan genera BNP.    
+- Kapitalstock beräknad från årliga fasta kapitalinvesteringar, avskrivna över 20 år och kapitaliserade.  
+- Arbete-kapital mixen i varje ekonomi som ingår i analyserna.  
 
-Jag inkluderar _**inte**_ total BNP tillväxt eftersom detta inte är ett mått på ekonomisk tillväxt. BNP tillväxt är en kombination av demografisk (befolknings) tillväxt och ekonomisk tillväxt. Mycket i debatten kring EU:s ekonomiska förfall är i verkligeheten en fråga om befolkningsminskning, inte ekonomiska problem. (Dessutom: Storbritannien lämnade EU vilket ofta inte justeras för så att siffrorna ska se mer skrämmande ut).
+Jag inkluderar _**inte**_ total BNP tillväxt eftersom detta inte är ett mått på ekonomisk tillväxt. BNP tillväxt är en kombination av demografisk (befolknings) tillväxt och ekonomisk tillväxt. Mycket i debatten kring EU:s ekonomiska förfall är i verkligeheten en fråga om befolkningsminskning, inte ekonomiska problem. (Dessutom: Storbritannien lämnade EU vilket ofta inte justeras för så att siffrorna ska se mer skrämmande ut).  
 
 ## Arbetsproduktivitet
-I avancerade länder härstammar omkring 60 procent av BNP från arbete, gentemot 50 procent i andra länder (med stor variation).
+I avancerade länder härstammar omkring 60 procent av BNP från arbete, gentemot 50 procent i tillväxtländer (med stor variation).  
 
-Jag mäter arbetsproduktivitet som BNP delat med arbetsför befolkning (AFB). Varför AFB och inte de som faktiskt arbetar? Ett land har en viss mängd arbetsföra. Dessa kan arbeta för lön, studera, vara militärer, vara arbetslösa, arbeta i hemmet, arbeta många eller få timmar, vara oförmögna att arbeta, och annat. 
+Jag mäter arbetsproduktivitet som BNP delat med arbetsför befolkning (AFB). Varför AFB och inte de som faktiskt arbetar? Ett land har en viss mängd arbetsföra. Dessa kan arbeta för lön, studera, vara militärer, vara arbetslösa, arbeta i hemmet, arbeta många eller få timmar, vara oförmögna att arbeta, och annat.  
 
-Mixen av dessa kategorier är ett val för länder. Framgångsrika länder finner en god mix, andra en dålig. Mitt mått stipulerar att alla länder gör detta val. I Sveriges fall är t ex kort arbetstid ett val. I Sydkorea är värnplikten treårig vilket minskar produktiviteten. I EU:s fall ser vi ofta hög arbetslöshet. Dessa prioriteringar har skäl och konsekvenser som medborgarna i stort stöttar.
+Mixen av dessa kategorier är ett val för länder. Framgångsrika länder finner en god mix, andra en dålig. Mitt mått stipulerar att alla länder gör detta val. I Sveriges fall är t ex kort arbetstid ett val. I Sydkorea är värnplikten treårig vilket minskar produktiviteten. I EU:s fall ser vi ofta hög arbetslöshet. Dessa prioriteringar har skäl och konsekvenser som medborgarna i stort stöttar.  
 
 <p align="center">
 <img  src="assets/images/s.canback-sweden-productivity-growth-1.svg" width="450" alt="S.Canback - Growth in GDP per working-age population">
 </p>
 
-Notera att Sverige ligger under Storbritannien och långt under EU. Vad kan ha bidraget till detta. Jag har inga svar men ser några möjliga faktorer: flyktingvågen, Brexit, pandemin, Ukrainakriget, amerikanska tariffer. Ingen av dessa kan ses som BNP-höjande. Men det finns säkert djupare skäl som är svårtydda.
+Notera att Sverige ligger under Storbritannien och långt under EU. Vad kan ha bidraget till detta. Jag har inga svar men ser några möjliga faktorer: flyktingvågen, Brexit, pandemin, Ukrainakriget, amerikanska tariffer. Ingen av dessa kan ses som BNP-höjande. Men det finns säkert djupare skäl som är svårtydda.  
 
 
 
@@ -51,18 +51,24 @@ Hur skiljer sig 2015-2025 mot tidigare decennier? Det är den klart sämsta peri
 
 ## Kapitalproduktivitet
 
-Fyrtio procent av Sveriges BNP kommer från kapital (60% från arbete, ovan). Detta är något få, utom ekonomer, följer. Grafen nedan visar att Sveriges kapitalproduktivtet (BNP genererad per krona kapital), fallit under det senaste decenniet. Mer än i EU, mer än i världen i stort.
+Fyrtio procent av Sveriges BNP kommer från kapital (60% från arbete, ovan). Detta är något få, utom ekonomer, följer. Grafen nedan visar att Sveriges kapitalproduktivtet (BNP genererad per krona kapital), fallit under det senaste decenniet. Mer än i EU, mer än i världen i stort.  
 <p align="center">
 <img  src="assets/images/s.canback-sweden-productivity-growth-3.svg" width="400" alt="S.Canback - Swedish growth by decade">
 </p>
 
 ## Total faktorproduktivitet (TFP)
 
-TFP, ofta kallad Solow residual, är vad som återstår efter att arbete och kapital har använts för att förklara BNP tillväcxt. Den innehåller teknologisk utveckling, effektivitetsförbättringar, uppfinningar, m.m.³ 
+TFP, även kallad Solow residual, är vad som återstår efter att arbete och kapital har använts för att förklara BNP tillväcxt. Den innehåller teknologisk utveckling, effektivitetsförbättringar, uppfinningar, m.m.³  
 
-Den är sätt och vis ett mått på vår okunnighet, men också djupt betydelsefull eftersom den förklarar varför samhällen blir bättre.
+Den är på sätt och vis ett mått på vår okunnighet, men också djupt betydelsefull eftersom den förklarar varför samhällen blir bättre (utan att vi vet de exakta mekanismerna).
 
-Grafen visar Sveriges TFP tillväxt i jämförelse med andra ekonomier. Som synes är landets utveckling också svag med denna måttstock.
+Två exempel:
+
+- Ett lans BNP växer ned 2 procent. ABF och kaital växer ocksp med 2 procent. Då blir TFP växten 0. Ingenting händer utöver arbete och kapital. Detta kallas skalning.
+
+- Japans BNP växer med 0.7%. ABF minskar med 0.7% och kapital växer med 0.4% (bägge under BNP tillväxten). TFP växer därför med 0.8%.
+
+Grafen visar Sveriges TFP tillväxt i jämförelse med andra ekonomier. Som synes är landets utveckling också svag med denna måttstock.  
 
 <p align="center">
 <img  src="assets/images/s.canback-sweden-productivity-growth-4.svg" width="400" alt="S.Canback - Swedish growth by decade">
@@ -72,7 +78,7 @@ Grafen visar Sveriges TFP tillväxt i jämförelse med andra ekonomier. Som syne
 ## Slutsats  
 Det finns ingen ljusglimt i sifforna. Landet är vanskött. Detta är inte bara en politisk fråga, utan även en företagsfråga och en medborgarfråga. Alla har bidragit till eländet.  
 
-Mer personligt så märker jag en brist på optimism och spänst när jag besöker två gånger om året. Landet är segt och tråkigt. Det saknas schvung. Men detta är en åsikt och inte fakta.
+Mer personligt så märker jag en brist på optimism och spänst när jag besöker två gånger om året. Landet är segt och tråkigt. Det saknas schvung. Men detta är en åsikt och inte fakta.  
 
 ---
 ¹ Den dynamiska justeringen har liten (positiv) inverkan på Sverige, men har större (negativ) inverkan på snabbväxande länder som Kina. USA är neutralt.  
