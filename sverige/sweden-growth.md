@@ -4,16 +4,16 @@ description: "Sverige har haft en usel ekonomisk tillväxt de senaste tio åren.
 image: /assets/social-card-think.png
 ---
 # Uselt så det förslår: Sveriges ekonomiska tillväxt 2015–2025
-Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag utvecklingen med enklast möjliga meningsfulla mått.   Den viktigaste delen är **Total faktorproduktivitet** i den tredje sektionen.
+Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag utvecklingen med enklast möjliga meningsfulla mått. Den viktigaste delen är **Total faktorproduktivitet** i det tredje kapitlet.  
 
 Detta är en ren diagnos och jag skriver inget om potentiella åtgärder.  
 
-> Liksom i alla mina publikationer så är graferna det primära och texten det sekundära. Detta är tvärtemot de flesta som skriver text stöttad av grafer.
+> Liksom i alla mina publikationer så är graferna det primära och texten det sekundära. Detta är tvärtemot de flesta som skriver text stöttad av grafer.  
 
 Jag använder fyra dataserier som kombineras till relevanta mått:   
 - Bruttonationalproduct (BNP) enligt "Purchasing Power Parity" metoden (i dollar), dynamiskt justerad så att relationen till BNP i fasta dollar varierar över tiden.¹   
 - Arbetsför befolking (AFB) istället fär total befolkning. Det är den arbestföra befolkningen som kan genera BNP.    
-- Kapitalstock beräknad från årliga fasta och FoU investeringar, avskrivna över tjugo respektive sju år och kapitaliserat. 
+- Kapitalstock beräknad från årliga fasta och FoU investeringar, avskrivna över tjugo respektive sju år och kapitaliserat.  
 - Arbete-kapital mixen i varje ekonomi som ingår i analyserna.  
 
 Jag inkluderar _**inte**_ total BNP tillväxt eftersom detta inte är ett mått på ekonomisk tillväxt. BNP tillväxt är en kombination av demografisk (befolknings) tillväxt och ekonomisk tillväxt. Mycket i debatten kring EU:s ekonomiska förfall är i verkligeheten en fråga om befolkningsminskning, inte ekonomiska problem. (Dessutom: Storbritannien lämnade EU vilket ofta inte justeras för så att siffrorna ska se mer skrämmande ut).  
