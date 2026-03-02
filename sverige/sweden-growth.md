@@ -9,7 +9,7 @@ Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar ja
 Detta är en ren diagnos och jag skriver inget om potentiella åtgärder.
 
 Jag använder fyra dataserier som kombineras till relevanta mått:   
-- BNP enligt "Purchasing Power Parity" metoden (i dollar), dynamiskt justerad så att relationen till BNP enligt växelkurs varierar över tiden.¹   
+- Bruttonationalproduct (BNP) enligt "Purchasing Power Parity" metoden (i dollar), dynamiskt justerad så att relationen till BNP i fasta dollar varierar över tiden.¹   
 - Arbetsför befolking (AFB) istället fär total befolkning. Det är den arbestföra befolkningen som kan genera BNP.    
 - Kapitalstock beräknad från årliga fasta kapitalinvesteringar, avskrivna över 20 år och kapitaliserade.  
 - Arbete-kapital mixen i varje ekonomi som ingår i analyserna.  
@@ -19,7 +19,7 @@ Jag inkluderar _**inte**_ total BNP tillväxt eftersom detta inte är ett mått 
 ## Arbetsproduktivitet
 I avancerade länder härstammar omkring 60 procent av BNP från arbete, gentemot 50 procent i tillväxtländer (med stor variation).  
 
-Jag mäter arbetsproduktivitet som BNP delat med arbetsför befolkning (AFB). Varför AFB och inte de som faktiskt arbetar? Ett land har en viss mängd arbetsföra. Dessa kan arbeta för lön, studera, vara militärer, vara arbetslösa, arbeta i hemmet, arbeta många eller få timmar, vara oförmögna att arbeta, och annat.  
+Jag mäter arbetsproduktivitet som BNP delat med AFB. Varför AFB och inte de som faktiskt arbetar? Ett land har en viss mängd arbetsföra. Dessa kan arbeta för lön, studera, vara militärer, vara arbetslösa, arbeta i hemmet, arbeta många eller få timmar, vara oförmögna att arbeta, och annat.  
 
 Mixen av dessa kategorier är ett val för länder. Framgångsrika länder finner en god mix, andra en dålig. Mitt mått stipulerar att alla länder gör detta val. I Sveriges fall är t ex kort arbetstid ett val. I Sydkorea är värnplikten treårig vilket minskar produktiviteten. I EU:s fall ser vi ofta hög arbetslöshet. Dessa prioriteringar har skäl och konsekvenser som medborgarna i stort stöttar.  
 
