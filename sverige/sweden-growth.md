@@ -39,7 +39,7 @@ Notera att Sverige ligger under Storbritannien och långt under EU som ofta betr
 
 Jag har inga svar men ser några möjliga faktorer: flyktingvågen, brexit, pandemin, Ukrainakriget, amerikanska tariffer. Ingen av dessa kan ses som BNP-höjande. Men det finns säkert djupare skäl som är svårtydda.  
 
-#### Känslighetsanalys
+### Känslighetsanalys
 
 Tabuleringen täcker 2015-2025. Men start- och slutåren kanske var speciella och ickerepresentativa. Detta är ett vanligt problem när data presenteras.  
 
