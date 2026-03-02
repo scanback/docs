@@ -6,7 +6,9 @@ image: /assets/social-card-think.png
 # Uselt så det förslår: Sveriges ekonomiska tillväxt 2015–2025
 Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag utvecklingen med enklast möjliga meningsfulla mått.  
 
-Detta är en ren diagnos och jag skriver inget om potentiella åtgärder.
+Detta är en ren diagnos och jag skriver inget om potentiella åtgärder.  
+
+> Liksom i alla mina andra publikationer så är graferna det primära och texterna det sekundära. Detta är tvärtemot de flesta som skriver texter stöttade av grafer.
 
 Jag använder fyra dataserier som kombineras till relevanta mått:   
 - Bruttonationalproduct (BNP) enligt "Purchasing Power Parity" metoden (i dollar), dynamiskt justerad så att relationen till BNP i fasta dollar varierar över tiden.¹   
