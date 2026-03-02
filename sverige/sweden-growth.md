@@ -29,7 +29,7 @@ Mixen av dessa kategorier är ett val för länder. Framgångsrika länder finne
 
 I Sveriges fall är t ex kort arbetstid ett val. I Sydkorea är värnplikten treårig vilket minskar produktiviteten. I EU:s fall ser vi ofta hög arbetslöshet. Dessa prioriteringar har skäl och konsekvenser som medborgarna i stort stöttar.  
 
-Nedan är arbestproduktiviteten för några utvalda ekonomier (se not).
+Nedan är arbetsproduktiviteten för några utvalda ekonomier (se not).
 
 <p align="center">
 <img  src="assets/images/s.canback-sweden-productivity-growth-1.svg" width="450" alt="S.Canback - Growth in GDP per working-age population">
