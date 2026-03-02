@@ -51,7 +51,7 @@ Hur skiljer sig 2015-2025 mot tidigare decennier? Det är den klart sämsta peri
 
 ## 2. Kapitalproduktivitet
 
-Fyrtio procent av Sveriges BNP kommer från kapital (60% från arbete, ovan). Detta är något få, utom ekonomer, följer. Grafen nedan visar att Sveriges kapitalproduktivtet (BNP genererad per krona kapital), fallit under det senaste decenniet. Mer än i EU, mer än i världen i stort.  
+Fyrtio procent av Sveriges BNP kommer från kapital (60% från arbete, ovan). Detta är ett mått som få förutom ekonomer följer. Grafen nedan visar att Sveriges kapitalproduktivtet (BNP genererad per krona kapital), fallit under det senaste decenniet. Mer än i EU, mer än i världen i stort.  
 <p align="center">
 <img  src="assets/images/s.canback-sweden-productivity-growth-4.svg" width="400" alt="S.Canback - Swedish capital productivity">
 </p>
@@ -79,6 +79,8 @@ Grafen visar Sveriges TFP tillväxt i jämförelse med andra ekonomier. Som syne
 Det finns ingen ljusglimt i sifforna. Landet är vanskött. Detta är inte bara en politisk fråga, utan även en företagsfråga och en medborgarfråga. Alla har bidragit till eländet.  
 
 Mer personligt så märker jag en brist på optimism och spänst när jag besöker två gånger om året. Landet är segt och tråkigt. Det saknas schvung. Men detta är en åsikt och inte fakta.  
+
+> Detta är ett utdrag ur en global studie av företags och länders produktivitet baserad på fundamental ekonomisk teori.
 
 ---
 ¹ Den dynamiska justeringen har liten (positiv) inverkan på Sverige, men har större (negativ) inverkan på snabbväxande länder som Kina. USA är neutralt.  
