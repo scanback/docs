@@ -14,7 +14,7 @@ Jag använder fyra dataserier som kombineras till relevanta mått:
 - Bruttonationalproduct (BNP) enligt "Purchasing Power Parity" metoden (i dollar), dynamiskt justerad så att relationen till BNP i fasta dollar varierar över tiden.¹   
 - Arbetsför befolking (AFB) istället fär total befolkning. Det är den arbestföra befolkningen som kan genera BNP.    
 - Kapitalstock beräknad från årliga fasta och FoU investeringar, avskrivna över tjugo respektive sju år och kapitaliserade.  
-- Arbete-kapital mixen i varje ekonomi.  
+- Arbete gentemot kapital mixen i varje ekonomi.  
 
 Jag inkluderar _**inte**_ total BNP tillväxt eftersom detta inte är ett mått på ekonomisk tillväxt. BNP tillväxt är en kombination av demografisk (befolknings) tillväxt och ekonomisk tillväxt. 
 
