@@ -60,13 +60,13 @@ Fyrtio procent av Sveriges BNP kommer från kapital (60% från arbete, ovan). De
 
 TFP, även kallad Solow residual, är vad som återstår efter att arbete och kapital har använts för att förklara BNP tillväcxt. Den innehåller teknologisk utveckling, effektivitetsförbättringar, uppfinningar, m.m.³  
 
-Den är på sätt och vis ett mått på vår okunnighet, men också djupt betydelsefull eftersom den förklarar varför samhällen blir bättre (utan att vi vet de exakta mekanismerna).
+Den är på sätt och vis ett mått på vår okunnighet, men också djupt betydelsefull eftersom den förklarar varför samhällen blir bättre (utan att vi förstår de exakta mekanismerna). Detta är måttet vi alla ska hålla ögonen på.
 
 Två exempel:
 
-- Ett lands BNP växer ned 2 procent. ABF och kaital växer ocksp med 2 procent. Då blir TFP växten 0. Ingenting händer utöver arbete och kapital. Detta kallas skalning.
+- Ett lands BNP växer ned 2 procent. ABF och kapital växer också med 2 procent. Då blir TFP tillväxten 0. Ingenting händer utöver arbete och kapital. Detta kallas skalning.
 
-- Japans BNP växer med 0.7%. ABF minskar med 0.7% och kapital växer med 0.4% (bägge under BNP tillväxten). TFP växer därför med 0.8%.
+- Japans BNP växer med 0.7%. ABF minskar med 0.7% och kapital växer med 0.4% (bägge under BNP tillväxten). TFP växer därför med 0.8%. detta kallas förbättring.
 
 Grafen visar Sveriges TFP tillväxt i jämförelse med andra ekonomier. Som synes är landets utveckling också svag med denna måttstock.  
 
