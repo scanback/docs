@@ -93,9 +93,9 @@ Mer personligt så märker jag en brist på optimism och spänst när jag besök
 ---
 Not: Ekonomier valdes baserat på: 
 
-<span font-size=75%>
+<span style="font-size: 75%;">
   
-| Land | Anleding |
+| | |
 |----------|----------|
 | Danmark | Framgångsrikt grannland |
 | Storbritannien | Ofta i ekonomiska debatten, viktig exportmarknad |
