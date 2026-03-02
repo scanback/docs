@@ -27,7 +27,7 @@ Nedan är arbetsproduktiviteten för några utvalda ekonomier (se not).
 <img  src="assets/images/s.canback-sweden-productivity-growth-1.svg" width="450" alt="S.Canback - Growth in GDP per working-age population">
 </p>
 
-Notera att Sverige ligger under Storbritannien och långt under EU som ofta betraktas som problemamtiska ekonomier (EU har i verkligheten demografiska problem, inte ekonomiska).
+Notera att Sverige ligger under Storbritannien och långt under EU som ofta betraktas som bägge ses som problem (EU har i verkligheten demografiska problem, inte ekonomiska).
 
 Jag har inga svar på varför har så svag utveckling men ser några möjliga faktorer: flyktingvågen, brexit, pandemin, Ukrainakriget, amerikanska tariffer, misslyckade gröna satsningar. Ingen av dessa kan ses som BNP-höjande. Men det finns säkert djupare skäl som är svårtydda.  
 
