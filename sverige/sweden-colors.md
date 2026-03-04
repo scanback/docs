@@ -1,9 +1,9 @@
 ---
-title: "Svenska färgskalor baserat blå flaggblå och flaggul"
+title: "Svenska färgskalor baserat flaggblått och flaggult"
 description: "Sverige har två officiella färger enligt grundlagen. Jag behövde fyra. Vad göra? Jag konstruerade två nya färger baserat på flaggblått och flaggult. Det visar sig vara komplicerad matematik men ChatGPT löste det briljant på fem minuter. 🇸🇪"
 image: /assets/social-card-think.png
 ---
-# Svenska färgskalor baserat blå flaggblå och flaggul
+# Svenska färgskalor baserat flaggblått och flaggult
 
 Sverige har två officiella färger enligt grundlagen. Jag behövde fyra. Vad göra? Jag konstruerade två nya färger baserat på flaggblått och flaggult. Det visar sig vara komplicerad matematik men ChatGPT löste det briljant på fem minuter.
 
