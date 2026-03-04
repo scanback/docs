@@ -1,11 +1,11 @@
 ---
 title: "Material på svenska"
-description: "Artiklar med mer ämnade för svenskar och finlandssvenskar. 🇸🇪 🇫🇮"
+description: "Artiklar och annat ämnade för svenskar och finlandssvenskar. 🇸🇪 🇫🇮"
 image: /assets/social-card-think.png
 ---
 
 # Sverige m.m.
-Artiklar med mer ämnade för svenskar och finlandssvenskar. 🇸🇪 🇫🇮
+Artiklaroch annat ämnade för svenskar och finlandssvenskar. 🇸🇪 🇫🇮
 
 Mer kommer.
 
@@ -15,6 +15,9 @@ Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar ja
 
 #### [Sveriges exportmöjligheter i ett besvärligt handelsklimat](../articles-posts/sweden-exports.md)
 Hur ska ett exportberoende land som Sverige agera för att bibehålla och öka sin export? Artikeln ger ett djupt analytiskt perspektiv.
+
+#### [Svenska färgskalor baserat flaggblått och flaggult](sweden-colors.md)
+Sverige har två officiella färger enligt grundlagen. Jag behövde fyra. Vad göra? Jag konstruerade två nya färger baserat på flaggblått och flaggult. Det visar sig vara komplicerad matematik men ChatGPT löste det briljant på fem minuter.
 
 DI
 
