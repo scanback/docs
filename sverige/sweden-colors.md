@@ -18,5 +18,5 @@ I ett tvådimensionellt plan som skär genom en kub i viss vinkel är flaggblå 
 Detta var lyckat så jag expanderade till 5 färger.
 
 <p align="center">
-<img  src="assets/images/s.canback-sweden-colors-5.svg" width=350" alt="S.Canback - Swedish 5 extended colors">
+<img  src="assets/images/s.canback-sweden-colors-5.svg" width="350" alt="S.Canback - Swedish 5 extended colors">
 </p>
