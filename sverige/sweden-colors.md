@@ -5,7 +5,9 @@ image: /assets/social-card-think.png
 ---
 # Svenska färgskalor baserade på flaggblått och flaggult
 
-Sverige har två officiella färger enligt grundlagen. Jag behövde flera. Vad göra? Jag konstruerade bredare färgskalor baserade på flaggblått och flaggult. Det visar sig vara komplicerad matematik men ChatGPT löste det briljant på fem minuter (den långa tiden visar att detta är komplicerat).
+Sverige har två officiella färger enligt grundlagen. Jag behövde flera. Vad göra? Jag konstruerade bredare färgskalor baserade på flaggblått och flaggult. 
+
+Det visar sig vara komplicerad matematik men ChatGPT löste det briljant på fem minuter (den långa tiden visar att detta är komplicerat).
 
 Betrakta denna övning som ren hobbyverksamhet.
 
@@ -31,4 +33,4 @@ Slutligen, den geometriska representationen:
 <p align="center">
 <img  src="assets/images/s.canback-swedish-flag-based-color-wheel.png" width="250" alt="S.Canback - Swedish 6 extended colors">
 </p>
-Notera att 4 färger är en rektangel, inte en kvadrat. Detta för att flaggblå och flaggul är 155°, inte 180°. Av samma anledning är pentagonen och hexagonen tillplattade.
+Notera att 4 färger är en rektangel, inte en kvadrat. Detta för att flaggblå och flaggul är 155°, inte 180°. Av samma skäl är pentagonen och hexagonen tillplattade.
