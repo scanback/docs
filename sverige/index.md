@@ -17,7 +17,7 @@ Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar ja
 Hur ska ett exportberoende land som Sverige agera för att bibehålla och öka sin export? Artikeln ger ett djupt analytiskt perspektiv.
 
 #### [Svenska färgskalor baserade flaggblått och flaggult](sweden-colors.md)
-Sverige har två officiella färger enligt grundlagen. Jag behövde fyra. Vad göra? Jag konstruerade större färgskalor baserade på flaggblått och flaggult. Det visar sig vara komplicerad matematik men ChatGPT löste det briljant på fem minuter.
+Sverige har två officiella färger enligt grundlagen. Jag behövde flera. Vad göra? Jag konstruerade bredare färgskalor baserade på flaggblått och flaggult. Det visar sig vara komplicerad matematik men ChatGPT löste det briljant på fem minuter.
 
 DI
 
