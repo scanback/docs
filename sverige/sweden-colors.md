@@ -29,6 +29,6 @@ Sju färger är lätt att plocka ut ur ovan skalor. Åtta kräver ChatGPT.
 
 Slutligen, den geometriska representationen:
 <p align="center">
-<img  src="assets/images/s.canback-swedish-flag-based-colow-wheel.png" width="250" alt="S.Canback - Swedish 6 extended colors">
+<img  src="assets/images/s.canback-swedish-flag-based-color-wheel.png" width="250" alt="S.Canback - Swedish 6 extended colors">
 </p>
 Notera att 4 färger är en rektangel, inte en kvadrat. Detta för att flaggblå och flaggul är 155°, inte 180°. Av samma anledning är pentagonen och hexagonen tillplattade.
