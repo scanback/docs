@@ -9,7 +9,7 @@ Sverige har två officiella färger enligt grundlagen. Jag behövde flera. Vad g
 
 Betrakta denna övning som ren hobbyverksamhet.
 
-I ett tvådimensionellt plan som skär genom en kub i viss vinkel är flaggblå och flaggul 155° separerade. Jag skapade "ormbunke" vid 155°/2 = 77.5° och "hallon" vid 77.5°+180° = 257.5° på samma plan. I perceptuell skala (inte geometrisk).
+I ett tvådimensionellt plan som skär genom en kub i viss vinkel är flaggblå och flaggul 155° separerade. Jag skapade "ormbunke" vid 155°/2 = 77.5° och "hallon" vid 77.5°+180° = 257.5° på samma plan. Efter denna geometriska ansats gjorde jag en perceptuell finjustering men med bevarade vinklar.
 
 <p align="center">
 <img  src="assets/images/s.canback-sweden-colors-4.svg" width="280" alt="S.Canback - Swedish 4 extended colors">
