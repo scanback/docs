@@ -29,8 +29,8 @@ Detta var lyckat så jag expanderade till fler färger.
 
 Sju och nio färger är lätt att plocka ut ur ovan skalor. Åtta kräver ChatGPT.
 
-Slutligen, den geometriska representationen. Om man tittar noga så ser man att ChatGPT har gjort fel. Jag behåller detta inkorrekta färghjul som en påminnelse om att AI kan göra fel.
+Slutligen, den geometriska representationen. Om man tittar noga så ser man att ChatGPT har gjort fel. Jag behåller detta inkorrekta färghjul som en påminnelse om att AI kan göra fel. Rätt koncept, fel implementering.
 <p align="center">
 <img  src="assets/images/s.canback-swedish-flag-based-color-wheel.png" width="325" alt="S.Canback - Swedish 6 extended colors">
 </p>
-Fastän hjulet är fel så gäller detta: 4-färgs paletten är en rektangel, inte en kvadrat. Detta för att flaggblå och flaggul är 155° separerade, inte 180°. Av samma skäl är pentagonen och hexagonen tillplattade.
+Trots att hjulet är fel så gäller detta: 4-färgs paletten är en rektangel, inte en kvadrat. Detta för att flaggblå och flaggul är 155° separerade, inte 180°. Av samma skäl är pentagonen och hexagonen tillplattade.
