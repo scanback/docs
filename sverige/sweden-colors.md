@@ -24,3 +24,5 @@ Detta var lyckat så jag expanderade till fler färger.
 <p align="center">
 <img  src="assets/images/s.canback-sweden-colors-6.svg" width="420" alt="S.Canback - Swedish 6 extended colors">
 </p>
+
+Sju och nio färger är lätt att plocka ut ur ovan skalor. Åtta kräver ChatGPT.
