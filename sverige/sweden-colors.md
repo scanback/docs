@@ -35,6 +35,6 @@ Detta var lyckat så jag expanderade till fler färger.
 <img  src="assets/images/s.canback-sweden-colors-8.svg" width="448" alt="S.Canback - Swedish 8 extended colors">
 </p>
 
-Färgskalorna visas baserat på vinkelseparation. Detta används för sekventiella (t ex bra till dålig) och divergerande (t ex temperatur från +30 till minus -10) skalor. 
+Färgskalorna visas baserat på vinkelseparation. Detta används för sekventiella (t ex bra till dålig) och divergerande (t ex temperatur från +30 till -10) skalor. 
 
 För kvalitativa rangordingar som länders färg på kartor ordnas färgerna efter kontrast. Mer om detta finns på [ColorBrewer](https://colorbrewer2.org/), en fantastisk, vetenskaplig, resurs för färgval.
