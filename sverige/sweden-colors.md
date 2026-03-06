@@ -1,6 +1,6 @@
 ---
 title: "Svenska färgskalor baserade på flaggblått och flaggult"
-description: "Sverige har två officiella färger enligt grundlagen. Jag behövde flera. Vad göra? Jag konstruerade bredare färgskalor baserade på flaggblått och flaggult. Det visar sig vara komplicerad matematik men ChatGPT löste det briljant på fem minuter. 🇸🇪"
+description: "Sverige har två officiella färger enligt grundlagen. Jag behövde flera. Vad göra? Jag konstruerade bredare färgskalor baserade på flaggblått och flaggult. Det visar sig vara komplicerad matematik. 🇸🇪"
 image: /assets/social-card-think.png
 ---
 # Svenska färgskalor baserade på flaggblått och flaggult
@@ -25,6 +25,14 @@ Detta var lyckat så jag expanderade till fler färger.
 
 <p align="center">
 <img  src="assets/images/s.canback-sweden-colors-6.svg" width="420" alt="S.Canback - Swedish 6 extended colors">
+</p>
+
+<p align="center">
+<img  src="assets/images/s.canback-sweden-colors-7.svg" width="490" alt="S.Canback - Swedish 7 extended colors">
+</p>
+
+<p align="center">
+<img  src="assets/images/s.canback-sweden-colors-8.svg" width="560" alt="S.Canback - Swedish 8 extended colors">
 </p>
 
 Sju färger är lätt att plocka ut ur ovan skalor. Åtta kräver ChatGPT.
