@@ -73,7 +73,7 @@ Strukturell produktivitet är vad som återstår efter att arbete och kapital ha
 
 Den är på sätt och vis ett mått på vår okunnighet eftersom vi inte vet exakt vad som ingår, men också djupt betydelsefull eftersom den förklarar varför samhällen blir bättre (utan att vi förstår de exakta mekanismerna). _Detta är måttet vi alla ska hålla ögonen på_.
 
-Två exempel:
+Två illustrationer:
 
 - Ett lands BNP växer ned 2 procent. arbete och kapital växer också med 2 procent vardera. Då blir tillväxten i strukturproduktivitet noll. Ingenting händer utöver arbete och kapital. Detta kallas skalning.
 
@@ -98,14 +98,14 @@ Mer personligt så märker jag en brist på optimism och spänst när jag besök
 ---
 ¹²³⁴⁵⁶⁷⁸⁹⁰
 ¹ Jag använder fyra dataserier som kombineras till relevanta mått:   
-- Bruttonationalproduct (BNP) enligt "Purchasing Power Parity" metoden, dynamiskt justerad så att relationen till BNP i fasta dollar varierar över tiden.¹   
+- Bruttonationalproduct (BNP) enligt "[Purchasing Power Parity](https://www.worldbank.org/en/programs/icp)" metoden, dynamiskt justerad så att relationen till BNP i fasta dollar varierar över tiden.    
 - Arbetsför befolking (AFB) istället fär total befolkning. Det är den arbestföra befolkningen som kan genera BNP.    
-- Kapitalstock beräknad från årliga fasta och FoU investeringar, avskrivna över tjugo respektive sju år och kapitaliserade.  
-- Arbete gentemot kapital mixen i varje ekonomi.  
+- Kapitalstock beräknad från årliga fasta och FoU investeringar, avskrivna över tjugo respektive sju år och kapitaliserade. Rak avskrving, inte MIB. 
+- Arbete gentemot kapital mixen i varje ekonomi enligt [Penn Tables](https://www.rug.nl/ggdc/productivity/pwt/?lang=en).
 
 ² 
 
-³ Den dynamiska justeringen har liten (positiv) inverkan på Sverige, men har större (negativ) inverkan på snabbväxande länder som Kina. USA är neutralt.  
+³ Den dynamiska justeringen har en liten (positiv) inverkan på Sverige, men har större (negativ) inverkan på snabbväxande länder som Kina. USA är neutralt.  
 
 ⁴ *Based on IMF research and publications, GDP per working-age population is frequently used as a more precise measure of economic performance than GDP per capita.* <span>⎼🇦&ZeroWidthSpace;🇮</span>. Detta är det mått jag använt i mina publikationer i åratal.  
 
