@@ -120,4 +120,4 @@ Mer personligt så märker jag en brist på optimism och spänst när jag besök
 ⁵ Mer om TFP / Solow residual finns [här](https://en.wikipedia.org/wiki/Solow_residual). En djupare men kanske svårförståelig analys av TFP finns i [Penn Tables](https://www.rug.nl/ggdc/productivity/pwt/?lang=en).
 
 ---
-Se [Svenska färgskalor baserade på flaggblått och flaggult](sweden-colors.md) för att förstå hur färgskalorna skapades.
+Se [Svenska färgskalor baserade på flaggblått och flaggult](sweden-colors.md) för att förstå hur färgerna valdes.
