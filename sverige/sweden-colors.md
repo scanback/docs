@@ -11,7 +11,7 @@ Det visar sig vara komplicerad matematik men ChatGPT löste det briljant på fem
 
 Betrakta denna övning som ren hobbyverksamhet.
 
-I ett tvådimensionellt plan som skär genom en tredimensionell kub i viss vinkel är flaggblå och flaggul 155° separerade. Jag skapade "ormbunke" vid 155°/2 = 77.5° och "hallon" vid 77.5°+180° = 257.5° på samma plan. Efter denna geometriska ansats gjorde jag en perceptuell finjustering men med bevarade vinklar.
+I ett tvådimensionellt plan som skär genom en tredimensionell kub i viss vinkel är flaggblå och flaggul 155° separerade. Jag skapade "ormbunke" vid 155°/2 = 77.5° och "hallon" vid 77.5°+180° = 257.5° på detta plan. Från detta fann vi de nya vinklarna, Efter denna geometriska ansats gjorde vi en perceptuell finjustering men med bevarade vinklar.
 
 <p align="center">
 <img  src="assets/images/s.canback-sweden-colors-4.svg" width="280" alt="S.Canback - Swedish 4 extended colors">
@@ -31,7 +31,7 @@ Detta var lyckat så jag expanderade till fler färger.
 <img  src="assets/images/s.canback-sweden-colors-7.svg" width="490" alt="S.Canback - Swedish 7 extended colors">
 </p>
 
-Till sist, en skala för världskartor när jag delar världen i åtta regioner. Normalt är åtta färger för mycket. Hjärnan klarar inte av att hantera detta, men kartor skapar struktur bortom färgerna. Att använda många färger kallades Mickey Mouse på McKinsey och vi menade inget snällt med det.
+Till sist, en skala för världskartor när jag delar världen i åtta regioner. Normalt är åtta färger för mycket. Hjärnan klarar inte av att hantera dem, men kartor skapar struktur bortom färgerna. Att använda många färger kallades Mickey Mouse på McKinsey och vi menade inget snällt med det.
 
 <p align="center">
 <img  src="assets/images/s.canback-sweden-colors-8.svg" width="448" alt="S.Canback - Swedish 8 extended colors">
