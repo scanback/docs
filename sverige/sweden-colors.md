@@ -32,5 +32,5 @@ Detta var lyckat så jag expanderade till fler färger.
 </p>
 
 <p align="center">
-<img  src="assets/images/s.canback-sweden-colors-8.svg" width="560" alt="S.Canback - Swedish 8 extended colors">
+<img  src="assets/images/s.canback-sweden-colors-8.svg" width="448" alt="S.Canback - Swedish 8 extended colors">
 </p>
