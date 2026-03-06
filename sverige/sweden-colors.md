@@ -31,10 +31,12 @@ Detta var lyckat så jag expanderade till fler färger.
 <img  src="assets/images/s.canback-sweden-colors-7.svg" width="490" alt="S.Canback - Swedish 7 extended colors">
 </p>
 
+Till sist, en skala för världskartor när jag delar världen i åtta regioner. Normalt är åtta färger för mycket. Hjärnan klarar inte av att hantera detta, men kartor skapar struktur bortom färgerna. Att använda många färger kallades Mickey Mouse på McKinsey och vi menade inget snällt med det.
+
 <p align="center">
 <img  src="assets/images/s.canback-sweden-colors-8.svg" width="448" alt="S.Canback - Swedish 8 extended colors">
 </p>
 
 Färgskalorna visas baserat på vinkelseparation. Detta används för sekventiella (t ex bra till dålig) och divergerande (t ex temperatur från +30 till -10) skalor. 
 
-För kvalitativa rangordingar som länders färg på kartor ordnas färgerna efter kontrast. Mer om detta finns hos [ColorBrewer](https://colorbrewer2.org/), en fantastisk vetenskaplig resurs för färgval.
+För kvalitativa rangordingar som länders färger på kartor ordnas färgerna efter kontrast. Mer om detta finns hos [ColorBrewer](https://colorbrewer2.org/), en fantastisk vetenskaplig resurs för färgval.
