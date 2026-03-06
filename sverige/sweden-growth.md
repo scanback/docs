@@ -8,7 +8,7 @@ Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar ja
 
 Jag inkluderar _**inte**_ total BNP tillväxt eftersom detta inte är ett mått på ekonomisk tillväxt. BNP tillväxt är en kombination av demografisk (befolknings) tillväxt och ekonomisk tillväxt. 
 
-Detta är en ren diagnos och jag skriver inget om åtgärder.  Här är tre frågor som läsaren kan begrunda:
+Detta är en ren diagnos och jag skriver inget om åtgärder.  Här är tre frågor som läsaren kan ponera:
 
 1. Varför har utvecklingen varit så dålig?
 2. Vad borde vi ha som mål?
