@@ -56,19 +56,21 @@ Fyrtio procent av Sveriges BNP kommer från kapital (60% från arbete, ovan). De
 <img  src="assets/images/s.canback-sweden-productivity-growth-4.svg" width="400" alt="S.Canback - Swedish capital productivity">
 </p>
 
-## 3. Total faktorproduktivitet (TFP)
+## 3. Strukturell produktivitet
 
-TFP, även kallad Solow residual, är vad som återstår efter att arbete och kapital har använts för att förklara BNP tillväcxt. Den innehåller teknologisk utveckling, effektivitetsförbättringar, uppfinningar, m.m.³  
+Den viktigaste ekonomiska drivkraften är strukturell produktivitet (ofta kallad Total Factor productivity eller Solow residual).
 
-Den är på sätt och vis ett mått på vår okunnighet, men också djupt betydelsefull eftersom den förklarar varför samhällen blir bättre (utan att vi förstår de exakta mekanismerna). Detta är måttet vi alla ska hålla ögonen på.
+Strukturell produktivitet är vad som återstår efter att arbete och kapital har använts för att förklara BNP tillväxt. Den innehåller bättre management rutiner, teknologisk utveckling, effektivitetsförbättringar, uppfinningar, m.m.³  
+
+Den är på sätt och vis ett mått på vår okunnighet, men också djupt betydelsefull eftersom den förklarar varför samhällen blir bättre (utan att vi förstår de exakta mekanismerna). _Detta är måttet vi alla ska hålla ögonen på_.
 
 Två exempel:
 
-- Ett lands BNP växer ned 2 procent. ABF och kapital växer också med 2 procent. Då blir TFP tillväxten 0. Ingenting händer utöver arbete och kapital. Detta kallas skalning.
+- Ett lands BNP växer ned 2 procent. arbete och kapital växer också med 2 procent. Då blir tillväxten i strukturproduktivitet noll. Ingenting händer utöver arbete och kapital. Detta kallas skalning.
 
-- Japans BNP växer med 0.7%. ABF minskar med 0.7% och kapital växer med 0.4% (bägge under BNP tillväxten). TFP växer därför med 0.8%. detta kallas förbättring.
+- Japans BNP växer med 0.7%. Arbete minskar med 0.7% och kapital växer med 0.4% (bägge under BNP tillväxten). Strukturproduktiviteten växer därför med 0.8%. detta kallas förbättring.
 
-Grafen visar Sveriges TFP tillväxt i jämförelse med andra ekonomier. Som synes är landets utveckling också svag med denna måttstock.  
+Grafen visar Sveriges tillväxt i strukturproduktivitet jämförd med andra ekonomier. Som synes är landets utveckling också svag med denna måttstock.  
 
 <p align="center">
 <img  src="assets/images/s.canback-sweden-productivity-growth-5.svg" width="400" alt="S.Canback - Swedish total factor productivity">
@@ -118,10 +120,4 @@ Mer personligt så märker jag en brist på optimism och spänst när jag besök
 ⁵ Mer om TFP / Solow residual finns [här](https://en.wikipedia.org/wiki/Solow_residual). En djupare men kanske svårförståelig analys av TFP finns i [Penn Tables](https://www.rug.nl/ggdc/productivity/pwt/?lang=en).
 
 ---
-Sverige har två officiella färger enligt grundlagen. Jag behövde fyra. Vad göra? Jag konstruerade två nya färger baserat på flaggblått och flaggult. Det visar sig vara komplicerad matematik men ChatGPT löste det briljant på fem minuter.
-
-I ett tvådimensionellt plan som skär genom en kub i viss vinkel är flaggblå och flaggul 155° separerade. Jag skapade "lövgrön" vid 155°/2 = 77.5° och "hallonröd" vid 77.5°+180° = 257.5° på samma plan. I perceptuell skala (inte geometrisk).
-
-<p align="center">
-<img  src="assets/images/s.canback-sweden-colors.svg" width="250" alt="S.Canback - Swedish extended colors">
-</p>
+Se [Svenska färgskalor baserade på flaggblått och flaggult](sweden-colors.md) för att förstå hur färgskalorna skapades.
