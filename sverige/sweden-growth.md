@@ -92,26 +92,7 @@ Mer personligt så märker jag en brist på optimism och spänst när jag besök
 - Kapitalstock beräknad från årliga fasta och FoU investeringar, avskrivna över tjugo respektive sju år och kapitaliserade.  
 - Arbete gentemot kapital mixen i varje ekonomi.  
 
-² Ekonomier valdes baserat på: 
-
-<span style="font-size: 12px;">
-  
-| | |
-|----------|----------|
-| Danmark | Framgångsrikt grannland |
-| Storbritannien | Ofta i ekonomiska debatten, viktig exportmarknad |
-| Kina | Stor framgångsrik ekonomi |
-| Indien | Stor snabbväxande ekonomi och numera största invandrargruppen i Sverige |
-| USA | Hög levnadsstandard och stor ekonomi |
-| EU | Sveriges hemmamarknad och ofta i eknomiska debatten |
-| Japan | Framgånsrikt ekonomiskt, men inte demografiskt |
-| Thailand | Stort turistland för svenskar som många kan relatera till |
-| Pakistan | Näst största invandrarlandet |
-| Brasilien | Starka kopplingar genom bl a kungahuset och emigratio n|
-| Sydafrika | Stor vin- golf- och naturturism|
-| Irak | Stor invandring och exempel på ett problemland |
-
-</span>
+² 
 
 ³ Den dynamiska justeringen har liten (positiv) inverkan på Sverige, men har större (negativ) inverkan på snabbväxande länder som Kina. USA är neutralt.  
 
