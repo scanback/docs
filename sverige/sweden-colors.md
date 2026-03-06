@@ -7,7 +7,7 @@ image: /assets/social-card-think.png
 
 Sverige har två officiella färger enligt grundlagen. Jag behövde flera. Vad göra? Jag konstruerade bredare färgskalor baserade på flaggblått och flaggult. 
 
-Det visar sig vara komplicerad matematik men ChatGPT löste det briljant på fem minuter (den långa tiden visar att detta är komplicerat).
+Det visar sig vara komplicerad matematik men ChatGPT löste det briljant på fem minuter (den långa tiden visar att detta är icke-trivialt).
 
 Betrakta denna övning som ren hobbyverksamhet.
 
