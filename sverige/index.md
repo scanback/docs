@@ -17,10 +17,9 @@ Hur ska ett exportberoende land som Sverige agera för att bibehålla och öka s
 #### [Svenska färgskalor baserade på flaggblått och flaggult](sweden-colors.md)
 Sverige har två officiella färger enligt grundlagen. Jag behövde flera. Vad göra?
 
-DI
-
+Kommer senare:
+Svensk levnadsstandard
+Dagens Industri
 Axess
-
 Försäkringstidningen
-
-Berlingske
+Berlingske Tidende
