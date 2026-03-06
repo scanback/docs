@@ -79,7 +79,7 @@ Två illustrationer:
 
 - Japans BNP växer med 0.7%. Arbete minskar med 0.7% och kapital växer med 0.4% (bägge under BNP tillväxten). Strukturproduktiviteten växer därför med 0.8%. detta kallas förbättring.
 
-Grafen visar Sveriges tillväxt i strukturproduktivitet jämförd med andra ekonomier över det senaste decenniet. Som synes är landets utveckling också svag med denna den viktigaste måttstocken. Vi blir inte bättre som samhälle, bara något större.
+Grafen visar Sveriges tillväxt i strukturell produktivitet jämförd med andra ekonomier över det senaste decenniet. Som synes är landets utveckling också svag med denna, den viktigaste, måttstocken. Vi blir inte bättre som samhälle, bara något större.
 
 <p align="center">
 <img  src="assets/images/s.canback-sweden-productivity-growth-5.svg" width="400" alt="S.Canback - Swedish total factor productivity">
