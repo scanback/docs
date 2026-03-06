@@ -8,7 +8,7 @@ Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar ja
 
 Jag inkluderar _**inte**_ total BNP tillväxt eftersom detta inte är ett mått på ekonomisk tillväxt. BNP tillväxt är en kombination av demografisk (befolknings) tillväxt och ekonomisk tillväxt. 
 
-Detta är en ren diagnos och jag skriver inget om åtgärder.  Här är tre frågor som läsaren kan begrunda:
+Detta är en ren diagnos och jag skriver inget om åtgärder. Här är tre frågor som läsaren kan begrunda:
 
 1. Varför har utvecklingen varit så dålig?
 2. Vad borde vi ha som mål?
@@ -33,9 +33,7 @@ Nedan är arbetsproduktiviteten för några utvalda ekonomier.²
 <img  src="assets/images/s.canback-sweden-productivity-growth-1.svg" width="450" alt="S.Canback - Growth in GDP per working-age population">
 </p>
 
-Notera att Sverige ligger under Storbritannien och långt under EU som ofta ses som problem (EU har i verkligheten demografiska problem, inte ekonomiska).
-
-Jag har inga svar på varför vi har så svag utveckling men ser några möjliga faktorer: flyktingvågen, brexit, pandemin, Ukrainakriget, amerikanska tariffer, misslyckade gröna satsningar. Ingen av dessa kan ses som BNP-höjande. Men det finns säkert djupare skäl som är svårtydda.  
+Notera att Sverige ligger under Storbritannien och långt under EU som ofta ses som problem (EU har i verkligheten demografiska problem, inte ekonomiska). 
 
 ### Känslighetsanalys
 
@@ -89,7 +87,9 @@ Grafen visar Sveriges tillväxt i strukturproduktivitet jämförd med andra ekon
 
 
 ## Slutsats  
-Det finns ingen ljusglimt i sifforna. Landet är vanskött. Detta är inte bara en politisk fråga utan även en företags- och medborgarfråga. Alla har bidragit till eländet.  
+Det finns ingen ljusglimt i sifforna. Landet är vanskött. Detta är inte bara en politisk fråga utan även en företags- och medborgarfråga. Alla har bidragit till eländet. 
+
+Jag ger inga svar på varför vi har så svag utveckling men ser några möjliga faktorer: flyktingvågen, brexit, pandemin, Ukrainakriget, amerikanska tariffer, misslyckade gröna satsningar. Ingen av dessa kan ses som BNP-höjande. Men det finns säkert djupare skäl som är svåranalyserade. 
 
 Mer personligt så märker jag en brist på optimism och spänst när jag besöker två gånger om året. Landet är segt och tråkigt. Det saknas schvung. Men detta är en åsikt och inte fakta.  
 
