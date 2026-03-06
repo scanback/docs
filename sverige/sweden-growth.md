@@ -8,18 +8,24 @@ Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar ja
 
 Jag inkluderar _**inte**_ total BNP tillväxt eftersom detta inte är ett mått på ekonomisk tillväxt. BNP tillväxt är en kombination av demografisk (befolknings) tillväxt och ekonomisk tillväxt. 
 
-Detta är en ren diagnos och jag skriver inget om potentiella åtgärder.  
+Detta är en ren diagnos och jag skriver inget om åtgärder.  Här är tre frågor som läsaren kan begrunda:
 
-> Liksom i alla mina publikationer så är graferna primära och texten sekundär. Detta är tvärtemot de flesta som skriver text stöttad av grafer.  
+1. Varför har utvecklingen varit så dålig?
+2. Vad borde vi ha som mål?
+3. Vilka åtgärder krävs för att nå dit?
+
+Jag har mina egna svar men delar dem inte nu.
+
+> Liksom i alla mina publikationer så är graferna primära och texten sekundär. Det är tvärtemot de flesta, som skriver text stöttad av grafer.  
 
 ## 1. Arbetsproduktivitet
-I avancerade länder härstammar omkring 60 procent av BNP från arbete, gentemot 50 procent i tillväxtländer (med stor variation).  
+I avancerade länder härstammar omkring 60 procent av BNP från arbete, gentemot 50 procent i tillväxtländer.  
 
 Jag mäter arbetsproduktivitet som BNP delat med AFB.² Varför AFB och inte de som faktiskt arbetar? Ett land har en viss mängd arbetsföra. Dessa kan arbeta för lön, studera, vara militärer, vara arbetslösa, arbeta i hemmet, arbeta många eller få timmar, vara oförmögna att arbeta, och annat.  
 
 Mixen av dessa kategorier är ett val för länder. Framgångsrika länder finner en god mix, andra en dålig. Mitt mått stipulerar att alla länder gör detta val. 
 
-I Sveriges fall är t ex kort arbetstid ett val. I Sydkorea är värnplikten treårig vilket minskar produktiviteten. I EU:s fall ser vi ofta hög arbetslöshet. Dessa prioriteringar har skäl och konsekvenser som medborgarna i stort stöttar.  
+I Sveriges fall är t ex kort arbetstid ett val. I Sydkorea är värnplikten treårig vilket minskar produktiviteten. I EU ser vi ofta hög arbetslöshet. Dessa prioriteringar har skäl och konsekvenser som medborgarna i stort stöttar.  
 
 Nedan är arbetsproduktiviteten för några utvalda ekonomier.²
 
@@ -27,9 +33,9 @@ Nedan är arbetsproduktiviteten för några utvalda ekonomier.²
 <img  src="assets/images/s.canback-sweden-productivity-growth-1.svg" width="450" alt="S.Canback - Growth in GDP per working-age population">
 </p>
 
-Notera att Sverige ligger under Storbritannien och långt under EU som ofta betraktas som bägge ses som problem (EU har i verkligheten demografiska problem, inte ekonomiska).
+Notera att Sverige ligger under Storbritannien och långt under EU som ofta ses som problem (EU har i verkligheten demografiska problem, inte ekonomiska).
 
-Jag har inga svar på varför har så svag utveckling men ser några möjliga faktorer: flyktingvågen, brexit, pandemin, Ukrainakriget, amerikanska tariffer, misslyckade gröna satsningar. Ingen av dessa kan ses som BNP-höjande. Men det finns säkert djupare skäl som är svårtydda.  
+Jag har inga svar på varför vi har så svag utveckling men ser några möjliga faktorer: flyktingvågen, brexit, pandemin, Ukrainakriget, amerikanska tariffer, misslyckade gröna satsningar. Ingen av dessa kan ses som BNP-höjande. Men det finns säkert djupare skäl som är svårtydda.  
 
 ### Känslighetsanalys
 
@@ -51,26 +57,31 @@ Hur skiljer sig 2015-2025 mot tidigare decennier? Det är den klart sämsta peri
 
 ## 2. Kapitalproduktivitet
 
-Fyrtio procent av Sveriges BNP kommer från kapital (60% från arbete, ovan). Detta är ett mått som få förutom ekonomer följer. Grafen nedan visar att Sveriges kapitalproduktivtet (BNP genererad per dollar kapital), fallit under det senaste decenniet. Mer än i EU, mer än i världen.  
+Omkring fyrtio procent av Sveriges BNP kommer från kapital (60% från arbete). Detta är ett mått som få förutom ekonomer följer. Grafen nedan visar att Sveriges kapitalproduktivitet (BNP genererad per dollar kapital), fallit under det senaste decenniet. Mer än i EU, mer än i världen.  
+
+Kapital är här fast kapital (byggnader, maskiner, vägar. etc.) och forskings- & utvecklingskapital, tillsammans. Det fasta kapitalet skrivs av över 20 år. FoU kapitalet över 7 år. Detta är en konventionell syn.
+
+Jag uttrycker det som hur många cent av BNP som skapas av en dollar av kapitalstock. Detta eftersom kapital skapar BNP, inte tvärtom.
+
 <p align="center">
 <img  src="assets/images/s.canback-sweden-productivity-growth-4.svg" width="400" alt="S.Canback - Swedish capital productivity">
 </p>
 
 ## 3. Strukturell produktivitet
 
-Den viktigaste ekonomiska drivkraften är strukturell produktivitet (ofta kallad Total Factor productivity eller Solow residual).
+Den viktigaste ekonomiska drivkraften är strukturell produktivitet (ofta kallad Total Factor Productivity (TFP) eller Solow residual).
 
-Strukturell produktivitet är vad som återstår efter att arbete och kapital har använts för att förklara BNP tillväxt. Den innehåller bättre management rutiner, teknologisk utveckling, effektivitetsförbättringar, uppfinningar, m.m.³  
+Strukturell produktivitet är vad som återstår efter att arbete och kapital har använts för att förklara BNP tillväxt. Den innehåller bättre ledarskap, teknologisk utveckling, effektivitetsförbättringar genom nya arbetsrutiner, uppfinningar, m.m.³  
 
-Den är på sätt och vis ett mått på vår okunnighet, men också djupt betydelsefull eftersom den förklarar varför samhällen blir bättre (utan att vi förstår de exakta mekanismerna). _Detta är måttet vi alla ska hålla ögonen på_.
+Den är på sätt och vis ett mått på vår okunnighet eftersom vi inte vet exakt vad som ingår, men också djupt betydelsefull eftersom den förklarar varför samhällen blir bättre (utan att vi förstår de exakta mekanismerna). _Detta är måttet vi alla ska hålla ögonen på_.
 
 Två exempel:
 
-- Ett lands BNP växer ned 2 procent. arbete och kapital växer också med 2 procent. Då blir tillväxten i strukturproduktivitet noll. Ingenting händer utöver arbete och kapital. Detta kallas skalning.
+- Ett lands BNP växer ned 2 procent. arbete och kapital växer också med 2 procent vardera. Då blir tillväxten i strukturproduktivitet noll. Ingenting händer utöver arbete och kapital. Detta kallas skalning.
 
 - Japans BNP växer med 0.7%. Arbete minskar med 0.7% och kapital växer med 0.4% (bägge under BNP tillväxten). Strukturproduktiviteten växer därför med 0.8%. detta kallas förbättring.
 
-Grafen visar Sveriges tillväxt i strukturproduktivitet jämförd med andra ekonomier. Som synes är landets utveckling också svag med denna måttstock.  
+Grafen visar Sveriges tillväxt i strukturproduktivitet jämförd med andra ekonomier över det senaste decenniet. Som synes är landets utveckling också svag med denna den viktigaste måttstocken. Vi blir inte bättre som samhälle, bara något större.
 
 <p align="center">
 <img  src="assets/images/s.canback-sweden-productivity-growth-5.svg" width="400" alt="S.Canback - Swedish total factor productivity">
