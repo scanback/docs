@@ -16,7 +16,7 @@ Detta är en ren diagnos och jag skriver inget om åtgärder.  Här är tre frå
 
 Jag har mina egna svar men delar dem inte nu.
 
-> Liksom i alla mina publikationer så är graferna primära och texten sekundär. Detta är tvärtemot de flesta som skriver text stöttad av grafer.  
+> Liksom i alla mina publikationer så är graferna primära och texten sekundär. Det är tvärtemot de flesta, som skriver text stöttad av grafer.  
 
 ## 1. Arbetsproduktivitet
 I avancerade länder härstammar omkring 60 procent av BNP från arbete, gentemot 50 procent i tillväxtländer.  
