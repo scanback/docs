@@ -44,9 +44,9 @@ Detta reducerar den svenska inkomstnivån med 5%-enheter till 27% under USA.
 
 Min slutsatts är att de svenska hushållens inkomstnivå ligger 20-30% under de amerikanska.
 
-Om vi använt den naiva metoden i punkt 1, så ligger Sverige sist eller sist jämfört med de 50 amerikanska delstaterna, och klart sist med punkt 2 metodiken.
+Om vi använt den naiva metoden i punkt 1, så ligger Sverige sist eller n]st sist jämfört med de 50 amerikanska delstaterna, och klart sist med punkt 2 metoden.
 
-Detta är orimligt. Jag har rest i 48 delstaer med en sociologisk blick. Det är omöjligt att Sverige är fattigare än t ex West Virginia.
+Detta är orimligt. Jag har rest i 48 delstater med en sociologisk blick. Det är omöjligt att Sverige är fattigare än t ex West Virginia.
 
 Med mina justeringar ovan hamnar Severige runt 40:e plats, jämförbart med Georgia eller Michigan (som har 10-11 miljoner invånare). Detta verkar rimligt baserat på min erfarenhet.
 
