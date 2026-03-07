@@ -14,6 +14,9 @@ Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar ja
 #### [Sveriges exportmöjligheter i ett besvärligt handelsklimat](../articles-posts/sweden-exports.md)
 Hur ska ett exportberoende land som Sverige agera för att bibehålla och öka sin export? Artikeln ger ett djupt analytiskt perspektiv.
 
+#### [Dagens Industri: Fly tullkaoset – länderna med störst exportpotential](https://www.di.se/nyheter/fly-tullkaoset-landerna-med-storst-exportpotential/)
+Intervju med Staffan Canbäck i juli 2025.
+
 #### [En komplex fråga: Den svenska levnadsstandarden jämfört med den amerikanska](sweden-living-standard.md)
 Man ser ofta ytliga jämförelser av den materiella levnadsstandarden i olika länder. Här går jag på djupet.
 
