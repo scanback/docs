@@ -24,17 +24,17 @@ Jag har därför analyserat de svenska hushållens disponibla inkomstnivå med s
 
 ❷ Sveriges disponibla hushållsinkomst (DI) är 49% lägre vid en första anblick. Den 16-procentiga skillnaden reflekterar det högre skattetrycket, men också andra faktorer
 
-❸ Men det är viktigt att göra en AIC justering.² Denna innebär att staten (inkl regioner, kommuner) spenderar pengar för medborgarna som inte ingår i DI. T ex skolor och sjukvård. Denna statliga "spending on behalf of conumers" är 19% av BNP i Sverige gentemot 6% i AFS.
+❸ Men det är viktigt att göra en AIC justering.² Denna innebär att staten (inkl regioner, kommuner) spenderar pengar för medborgarna som inte ingår i DI. T ex skolor och sjukvård. Denna statliga "spending on behalf of conumers" är 19% av BNP i Sverige gentemot 6% i USA.
 
-Med denna justering är Sveriges hushållsinkomst 38% lägre än AFS:s.
+Med denna justering är Sveriges hushållsinkomst 38% lägre än USA:s.
 
 ❹ Men varför använda 2024 års växelkurs? Växelkurser går upp och ner men den lokala levnadsstandarden rör sig (i stort) inte. Det är därför bättre att använda en stabil kurs. Dessutom måste hänsyn tas till skillnader i kostnadsnivåer. 
 
 Dessa två faktorer kräver att "purchasing power parity" (PPP) används. Detta är speciellt viktigt eftersom 2023 hade en onormalt svag krona, tigigare och senare år åär mer normala.
 
-Med detta (efter en synnerligen komplicerad uträkning) hamnar Sverige 22% under AFS,
+Med detta (efter en synnerligen komplicerad uträkning) hamnar Sverige 22% under USA.
 
-❺ Slutligen, varför per capita (invånare)? Per capita måttet penaliserar länder med stora hushåll. Men ett per hushåll mått penaliserar länder med små hushåll. Ekonomer använder istållet hushållsekvivalenter (HH-ekv) som är det geometriska medelvärdet men individer och hushåll.³
+❺ Slutligen, varför per capita (invånare)? Per capita måttet penaliserar länder med stora hushåll. Men ett per hushåll mått penaliserar länder med små hushåll. Ekonomer använder istållet hushållsekvivalenter (HH-ekv) som är det geometriska medelvärdet mellan individer och hushåll.³
 
 Detta reducerar den svenska inkomstnivån med 5%-enheter till 27% under USA.
 
