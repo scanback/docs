@@ -9,7 +9,7 @@ _Dr Staffan Canbäck, Tellusant_
 
 Man ser ofta ytliga jämförelser av den materiella levnadsstandarden i olika länder. Här går jag på djupet.
 
-...
+---
 Jag och mitt företag Tellusant, Inc. har aktiverat oss i Sverige och NB8. Vi samarbetar med Kennet Rådne i Stockholm. 
 
 Jag gör därför några inlägg på svenska om regionen. Jag har inte skrivit på svenska på många år så det är en nyttig övning (38 år i USA¹). 
