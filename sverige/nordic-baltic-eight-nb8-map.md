@@ -1,6 +1,6 @@
 ---
 title: "The Emerging Significance of the Nordic-Baltic Eight"
-description: "The NB8 region is tightly integrated economically and politically and has a GDP almost of Italy's size"
+description: "The NB8 region is tightly integrated economically and politically and has a GDP almost of Italy's size."
 image: /assets/social-card-pub.png
 ---
 # The Emerging Significance of the Nordic-Baltic Eight
