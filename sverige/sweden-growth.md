@@ -4,7 +4,7 @@ description: "Sverige har haft en usel ekonomisk tillväxt de senaste tio åren.
 image: /assets/social-card-think.png
 ---
 # Uselt så det förslår: Sveriges ekonomiska tillväxt 2015–2025
-_av Staffan Canbäck, Tellusant_ <span>&#127462;&#8203;&#127470;
+_av Staffan Canbäck, Tellusant_
 </span>
 
 Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag utvecklingen med enklast möjliga meningsfulla mått.¹ Den viktigaste delen är **strukturell produktivitet** i det tredje kapitlet.  
@@ -107,7 +107,7 @@ Mer personligt så märker jag en brist på optimism och spänst när jag besök
 - Kapitalstock beräknad från årliga fasta och FoU investeringar, avskrivna över tjugo respektive sju år och kapitaliserade. Rak avskrving, inte MIB. 
 - Arbete gentemot kapital mixen i varje ekonomi enligt [Penn Tables](https://www.rug.nl/ggdc/productivity/pwt/?lang=en).
 
-² *Based on IMF research and publications, GDP per working-age population is frequently used as a more precise measure of economic performance than GDP per capita.* <span>⎼🇦&#8203;🇮</span>. Detta är det mått jag använt i mina publikationer i åratal.
+² *Based on IMF research and publications, GDP per working-age population is frequently used as a more precise measure of economic performance than GDP per capita.* <span>⎼🇦&#8203;🇮</span> <span>&#127462;&#8203;&#127470;</span>. Detta är det mått jag använt i mina publikationer i åratal.
 
 ³  Mer om strukturell produktivitet = TFP = Solow residual finns [här](https://en.wikipedia.org/wiki/Solow_residual).
 
