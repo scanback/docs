@@ -14,6 +14,9 @@ Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar ja
 #### [Sveriges exportmöjligheter i ett besvärligt handelsklimat](../articles-posts/sweden-exports.md)
 Hur ska ett exportberoende land som Sverige agera för att bibehålla och öka sin export? Artikeln ger ett djupt analytiskt perspektiv.
 
+#### [En komplex fråga: Den svenska levnadsstandarden jämfört med den amerikanska](../articles-posts/sweden-living-standard.md)
+Man ser ofta ytliga jämförelser av den materiella levnadsstandarden i olika länder. Här går jag på djupet.
+
 #### [Svenska färgskalor baserade på flaggblått och flaggult](sweden-colors.md)
 Sverige har två officiella färger enligt grundlagen. Jag behövde flera. Vad göra?
 
