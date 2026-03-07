@@ -10,9 +10,11 @@ _Dr Staffan Canbäck, Tellusant_
 Man ser ofta ytliga jämförelser av den materiella levnadsstandarden i olika länder. Här går jag på djupet.
 
 ---
-Jag och mitt företag Tellusant, Inc. har aktiverat oss i Sverige och NB8. Vi samarbetar med Kennet Rådne i Stockholm. 
+> _Jag och mitt företag Tellusant, Inc. har aktiverat oss i Sverige och NB8. Vi samarbetar med Kennet Rådne i Stockholm._
+>
+>_Jag gör därför några inlägg på svenska om landet och regionen. Jag har inte skrivit på svenska på många år så det är en nyttig övning (38 år i USA)._
 
-Jag gör därför några inlägg på svenska om regionen. Jag har inte skrivit på svenska på många år så det är en nyttig övning (38 år i USA¹). 
+**UPPDATERAS TILL BASÅR 2025 UNDER MARS 2026**
 
 Den sista tiden har det varit mycket på YouTube och andra sociala medier om hur mycket lägre de disponibla inkomsterna är i EU jämfört med USA.
 
@@ -40,15 +42,12 @@ Med detta (efter en synnerligen komplicerad uträkning) hamnar Sverige 22% under
 
 Detta reducerar den svenska inkomstnivån med 5%-enheter till 27% under USA.
 
-— — —
+<p align="center">— — —</p>
 
 Min slutsatts är att de svenska hushållens inkomstnivå ligger 20-30% under de amerikanska.
 
-Om vi använt den naiva metoden i punkt 1, så ligger Sverige sist eller n]st sist jämfört med de 50 amerikanska delstaterna, och klart sist med punkt 2 metoden.
+Om vi använt den naiva metoden i punkt 1, så ligger Sverige sist eller näst sist jämfört med de 50 amerikanska delstaterna, och klart sist med punkt 2 metoden.
 
 Detta är orimligt. Jag har rest i 48 delstater med en sociologisk blick. Det är omöjligt att Sverige är fattigare än t ex West Virginia.
 
 Med mina justeringar ovan hamnar Severige runt 40:e plats, jämförbart med Georgia eller Michigan (som har 10-11 miljoner invånare). Detta verkar rimligt baserat på min erfarenhet.
-
-
-— — —
