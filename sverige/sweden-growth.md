@@ -104,7 +104,7 @@ Mer personligt så märker jag en brist på optimism och spänst när jag besök
 ¹ Jag använder fyra dataserier som kombineras till relevanta mått:   
 - Konstant Bruttonationalproduct (BNP) enligt "[Purchasing Power Parity](https://www.worldbank.org/en/programs/icp)" metoden, dynamiskt justerad⁴ så att relationen till konstant BNP i marknadens fasta dollarkurs varierar över tiden.    
 - Arbetsför befolking (AFB) istället fär total befolkning. Det är den arbestföra befolkningen som kan genera BNP.    
-- Kapitalstock beräknad från årliga fasta och FoU investeringar, avskrivna över tjugo respektive sju år och kapitaliserade. Rak avskrving, inte MIB. 
+- Kapitalstock beräknad från årliga fasta och FoU investeringar, avskrivna över tjugo respektive sju år och kapitaliserade. Rak avskrivning, inte PIM. 
 - Arbete gentemot kapital mixen i varje ekonomi enligt [Penn Tables](https://www.rug.nl/ggdc/productivity/pwt/?lang=en).
 
 ² *Based on IMF research and publications, GDP per working-age population is frequently used as a more precise measure of economic performance than GDP per capita.* ⎼<span>&#127462;&#8203;&#127470;</span>. Detta är det mått jag använt i mina publikationer i åratal.
