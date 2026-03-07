@@ -106,9 +106,9 @@ Mer personligt så märker jag en brist på optimism och spänst när jag besök
 - Kapitalstock beräknad från årliga fasta och FoU investeringar, avskrivna över tjugo respektive sju år och kapitaliserade. Rak avskrving, inte MIB. 
 - Arbete gentemot kapital mixen i varje ekonomi enligt [Penn Tables](https://www.rug.nl/ggdc/productivity/pwt/?lang=en).
 
-² *Based on IMF research and publications, GDP per working-age population is frequently used as a more precise measure of economic performance than GDP per capita.* <span>⎼🇦 🇮</span>. Detta är det mått jag använt i mina publikationer i åratal.
+² *Based on IMF research and publications, GDP per working-age population is frequently used as a more precise measure of economic performance than GDP per capita.* <span>⎼🇦 🇮</span>. Detta är det mått jag använt i mina publikationer i åratal. <span>A&ZeroWidthSpace;B</span>
 
-³  Mer om strukturell produktivtet = TFP = Solow residual finns [här](https://en.wikipedia.org/wiki/Solow_residual).
+³  Mer om strukturell produktivitet = TFP = Solow residual finns [här](https://en.wikipedia.org/wiki/Solow_residual).
 
 ⁴ Den dynamiska justeringen har en liten (positiv) inverkan på Sverige, men har större (negativ) inverkan på snabbväxande länder som Kina. USA är neutralt.  
 
