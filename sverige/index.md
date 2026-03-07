@@ -21,7 +21,7 @@ Intervju med Staffan Canbäck i juli 2025.
 Man ser ofta ytliga jämförelser av den materiella levnadsstandarden i olika länder. Här går jag på djupet.
 
 #### [Nordic-Baltic Eight (NB8) Middle Class Map](nordic-baltic-eight-nb8-map.md)
-The NB8 region is tightly integrated economically and politically and has a GDP almost of Italy's size
+The NB8 region is tightly integrated economically and politically and has a GDP almost of Italy's size.
 
 #### [Svenska färgskalor baserade på flaggblått och flaggult](sweden-colors.md)
 Sverige har två officiella färger enligt grundlagen. Jag behövde flera. Vad göra?
