@@ -13,4 +13,4 @@ It is therefore an important market for any company that wants to succeed in Eur
 The map has totally comparable definitions and metrics between and within countries. Data are from our [TelluBase](https://tellubase.com) income distribution database.
 
 
-#### <img  src="https://tellusant.github.io/maps/assets/svg/tellusant-nordic-baltic-eight-nb8-middle-class-distribution-2025.svg" alt="Nordic-Baltic Eight (NB8) Middle Class Distribution in 2025">
+#### <img  src="https://tellusant.github.io/docs/maps/assets/svg/tellusant-nordic-baltic-eight-nb8-middle-class-distribution-2025.svg" alt="Nordic-Baltic Eight (NB8) Middle Class Distribution in 2025">
