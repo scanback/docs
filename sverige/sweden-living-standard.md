@@ -14,7 +14,7 @@ Man ser ofta ytliga jämförelser av den materiella levnadsstandarden i olika l�
 >
 >_Jag gör därför några inlägg på svenska om landet och regionen. Jag har inte skrivit på svenska på många år så det är en nyttig övning (38 år i USA)._
 
-UPPDATERAS TILL BASÅR 2025 UNDER MARS 2026
+**UPPDATERAS TILL BASÅR 2025 UNDER MARS 2026**
 
 Den sista tiden har det varit mycket på YouTube och andra sociala medier om hur mycket lägre de disponibla inkomsterna är i EU jämfört med USA.
 
