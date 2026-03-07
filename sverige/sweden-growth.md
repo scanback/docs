@@ -4,7 +4,7 @@ description: "Sverige har haft en usel ekonomisk tillväxt de senaste tio åren.
 image: /assets/social-card-think.png
 ---
 # Uselt så det förslår: Sveriges ekonomiska tillväxt 2015–2025
-Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag utvecklingen med enklast möjliga meningsfulla mått. Den viktigaste delen är **strukturell produktivitet** i det tredje kapitlet.  
+Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag utvecklingen med enklast möjliga meningsfulla mått.¹ Den viktigaste delen är **strukturell produktivitet** i det tredje kapitlet.  
 
 Jag inkluderar _**inte**_ total BNP tillväxt eftersom detta inte är ett mått på ekonomisk tillväxt. BNP tillväxt är en kombination av demografisk (befolknings) tillväxt och ekonomisk tillväxt. 
 
@@ -21,7 +21,9 @@ Jag har mina egna svar men delar dem inte nu.
 ## 1. Arbetsproduktivitet
 I avancerade länder härstammar omkring 60 procent av BNP från arbete, gentemot 50 procent i tillväxtländer.  
 
-Jag mäter arbetsproduktivitet som BNP delat med AFB.² Varför AFB och inte de som faktiskt arbetar? Ett land har en viss mängd arbetsföra. Dessa kan arbeta för lön, studera, vara militärer, vara arbetslösa, arbeta i hemmet, arbeta många eller få timmar, vara oförmögna att arbeta, och annat.  
+Jag mäter arbetsproduktivitet som BNP delat med arbetsför befolkning (AFB).² Varför AFB och inte de som faktiskt arbetar? 
+
+Ett land har en viss mängd arbetsföra. Dessa kan arbeta för lön, studera, vara militärer, vara arbetslösa, arbeta i hemmet, arbeta många eller få timmar, vara oförmögna att arbeta, och annat.  
 
 Mixen av dessa kategorier är ett val för länder. Framgångsrika länder finner en god mix, andra en dålig. Mitt mått stipulerar att alla länder gör detta val. 
 
@@ -33,7 +35,7 @@ Nedan är arbetsproduktiviteten för några utvalda ekonomier.²
 <img  src="assets/images/s.canback-sweden-productivity-growth-1.svg" width="450" alt="S.Canback - Growth in GDP per working-age population">
 </p>
 
-Notera att Sverige ligger under Storbritannien och långt under EU som ofta ses som problem (EU har i verkligheten demografiska problem, inte ekonomiska). 
+Notera att Sverige ligger under Storbritannien och långt under EU som ofta ses som problem (EU har demografiska problem, inte ekonomiska). 
 
 ### Känslighetsanalys
 
@@ -103,13 +105,13 @@ Mer personligt så märker jag en brist på optimism och spänst när jag besök
 - Kapitalstock beräknad från årliga fasta och FoU investeringar, avskrivna över tjugo respektive sju år och kapitaliserade. Rak avskrving, inte MIB. 
 - Arbete gentemot kapital mixen i varje ekonomi enligt [Penn Tables](https://www.rug.nl/ggdc/productivity/pwt/?lang=en).
 
-² 
+² *Based on IMF research and publications, GDP per working-age population is frequently used as a more precise measure of economic performance than GDP per capita.* <span>⎼🇦&ZeroWidthSpace;🇮</span>. Detta är det mått jag använt i mina publikationer i åratal.
 
 ³ Den dynamiska justeringen har en liten (positiv) inverkan på Sverige, men har större (negativ) inverkan på snabbväxande länder som Kina. USA är neutralt.  
 
-⁴ *Based on IMF research and publications, GDP per working-age population is frequently used as a more precise measure of economic performance than GDP per capita.* <span>⎼🇦&ZeroWidthSpace;🇮</span>. Detta är det mått jag använt i mina publikationer i åratal.  
+⁴  
 
-⁵ Mer om strukturell produktivtet = TFP = Solow residual finns [här](https://en.wikipedia.org/wiki/Solow_residual). En djupare men kanske svårförståelig analys av TFP finns i [Penn Tables](https://www.rug.nl/ggdc/productivity/pwt/?lang=en).
+⁵ Mer om strukturell produktivtet = TFP = Solow residual finns [här](https://en.wikipedia.org/wiki/Solow_residual).
 
 ---
 Se [Svenska färgskalor baserade på flaggblått och flaggult](sweden-colors.md) för att förstå hur färgerna valdes.
