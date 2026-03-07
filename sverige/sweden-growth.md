@@ -5,7 +5,7 @@ image: /assets/social-card-think.png
 ---
 # Uselt så det förslår: Sveriges ekonomiska tillväxt 2015–2025
 
-_av Staffan Canbäck, Tellusant_
+_Dr Staffan Canbäck, Tellusant_
 
 Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag utvecklingen med enklast möjliga meningsfulla mått.¹ Den viktigaste delen är **strukturell produktivitet** i det tredje kapitlet.  
 
