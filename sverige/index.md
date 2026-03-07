@@ -17,7 +17,7 @@ Hur ska ett exportberoende land som Sverige agera för att bibehålla och öka s
 #### [En komplex fråga: Den svenska levnadsstandarden jämfört med den amerikanska](sweden-living-standard.md)
 Man ser ofta ytliga jämförelser av den materiella levnadsstandarden i olika länder. Här går jag på djupet.
 
-#### [NB8](nordic-baltic-eight-nb8-map.md)
+#### [Nordic-Baltic Eight (NB8) Middle Class Map](nordic-baltic-eight-nb8-map.md)
 The NB8 region is tightly integrated economically and politically and has a GDP almost of Italy's size
 
 #### [Svenska färgskalor baserade på flaggblått och flaggult](sweden-colors.md)
