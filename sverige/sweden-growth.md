@@ -94,7 +94,8 @@ Grafen visar Sveriges tillväxt i strukturell produktivitet jämförd med andra 
 ## Slutsats  
 Det finns ingen ljusglimt i sifforna. Landet är vanskött. Detta är inte bara en politisk fråga utan även en företags- och medborgarfråga. Alla har bidragit till eländet. 
 
-Jag ger inga svar på varför vi har så svag utveckling men ser några möjliga faktorer: flyktingvågen, brexit, pandemin, Ukrainakriget, amerikanska tariffer, [svag exportutveckling](sweden-growth.md), misslyckade gröna satsningar. Ingen av dessa kan ses som BNP-höjande. Men det finns säkert djupare skäl som är svåranalyserade. 
+Jag ger inga svar på varför vi har så svag utveckling men ser några möjliga faktorer: flyktingvågen, brexit, pandemin, Ukrainakriget, amerikanska tariffer, [svag exportutveckling](../articles-posts
+/sweden-exports.md), misslyckade gröna satsningar. Ingen av dessa kan ses som BNP-höjande. Men det finns säkert djupare skäl som är svåranalyserade. 
 
 Mer personligt så märker jag en brist på optimism och spänst när jag besöker två gånger om året. Landet är segt och tråkigt. Det saknas schvung. Men detta är en åsikt och inte fakta.  
 
