@@ -39,6 +39,8 @@ Till sist, en skala för världskartor när jag delar världen i åtta regioner.
 <img  src="assets/images/s.canback-sweden-colors-8.svg" width="448" alt="S.Canback - Swedish 8 extended colors">
 </p>
 
-Färgskalorna visas baserat på vinkelseparation. Detta används för sekventiella (t ex bra till dålig; 0 till 100%) och divergerande (t ex temperatur från +30 till -10) skalor. 
+Färgskalorna visas organiserade efter dominerande frekvens.¹ Detta används för sekventiella (t ex bra till dålig; 0 till 100%) och divergerande (t ex temperatur från +30 till -10) skalor. 
 
 För kvalitativa rangordingar som länders färger på kartor ordnas färgerna efter kontrast. Mer om detta finns hos [ColorBrewer](https://colorbrewer2.org/), en fantastisk vetenskaplig resurs för färgval.
+
+¹ Hög frekvens / hög energi till vänster, låg frekvens / låg energi till höger. Fotonens energi E=hν. h är Plancks konstant, ν är frekvens.
