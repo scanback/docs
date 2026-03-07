@@ -59,7 +59,7 @@ Hur skiljer sig 2015-2025 mot tidigare decennier? Det är den klart sämsta peri
 
 Omkring fyrtio procent av Sveriges BNP kommer från kapital (60% från arbete). Detta är ett mått som få förutom ekonomer följer. Grafen nedan visar att Sveriges kapitalproduktivitet (BNP genererad per dollar kapital), fallit under det senaste decenniet. Mer än i EU, mer än i världen.  
 
-Kapital är här fast kapital (byggnader, maskiner, vägar. etc.) och forskings- & utvecklingskapital, tillsammans. Det fasta kapitalet skrivs av över 20 år. FoU kapitalet över 7 år. Detta är en konventionell syn.
+Kapital är här fast kapital (byggnader, maskiner, vägar. etc.) och forskings- och utvecklingskapital, tillsammans. Det fasta kapitalet skrivs av över 20 år. FoU kapitalet över 7 år. Detta är en konventionell syn.
 
 Jag uttrycker det som hur många cent av BNP som skapas av en dollar av kapitalstock. Detta eftersom kapital skapar BNP, inte tvärtom.
 
