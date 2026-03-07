@@ -27,8 +27,6 @@ The NB8 region is tightly integrated economically and politically and has a GDP 
 Sverige har två officiella färger enligt grundlagen. Jag behövde flera. Vad göra?
 
 Kommer senare:
-Svensk levnadsstandard
-Dagens Industri
-Axess
-Försäkringstidningen
-Berlingske Tidende
+- Axess
+- Försäkringstidningen (3 artiklar)
+- Berlingske Tidende
