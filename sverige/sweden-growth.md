@@ -95,7 +95,7 @@ Jag ger inga svar på varför vi har så svag utveckling men ser några möjliga
 
 Mer personligt så märker jag en brist på optimism och spänst när jag besöker två gånger om året. Landet är segt och tråkigt. Det saknas schvung. Men detta är en åsikt och inte fakta.  
 
-> Detta är ett utdrag ur vår globala studie av företags och länders produktivitet baserad på fundamental ekonomisk teori.  
+> Detta är ett utdrag ur Tellusants globala studie av företags och länders produktivitet baserad på fundamental ekonomisk teori.  
 
 ---
 ¹ Jag använder fyra dataserier som kombineras till relevanta mått:   
