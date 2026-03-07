@@ -4,7 +4,7 @@ description: "Hur ska ett exportberoende land som Sverige agera för att bibehå
 image: /assets/social-card-think.png
 ---
 # Sveriges exportmöjligheter i ett besvärligt handelsklimat
-*Dr Staffan Canbäck. Tellusant*
+*Dr Staffan Canbäck, Tellusant*
 
 ---
 
