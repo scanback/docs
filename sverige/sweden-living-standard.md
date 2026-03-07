@@ -14,11 +14,13 @@ Jag och mitt företag Tellusant, Inc. har aktiverat oss i Sverige och NB8. Vi sa
 
 Jag gör därför några inlägg på svenska om regionen. Jag har inte skrivit på svenska på många år så det är en nyttig övning (38 år i USA¹). 
 
-Det sista halvåret har det varit mycket på YouTube och andra sociala medier om hur mycket lägre de disponibla inkomsterna är i Europa jämfört med USA.
+Den sista tiden har det varit mycket på YouTube och andra sociala medier om hur mycket lägre de disponibla inkomsterna är i EU jämfört med USA.
 
 Jag har därför analyserat de svenska hushållens disponibla inkomstnivå med större precision än BNP/capita. Mitt jämförelseår är 2023 (det senaste året med rimligt stabila data).
 
-
+<p align="center">
+<img  src="assets/images/s.canback-sweden-living-standard.svg" width="500" alt="S.Canback - Swedish vs U.S. material standard of living">
+</p>
 
 ❶ BNP per capita är 31% lägre i Sverige. Men BNP har är inte inkomst och definitivt inte hushållsinkomst.
 
