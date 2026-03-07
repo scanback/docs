@@ -17,6 +17,8 @@ Hur ska ett exportberoende land som Sverige agera för att bibehålla och öka s
 #### [En komplex fråga: Den svenska levnadsstandarden jämfört med den amerikanska](sweden-living-standard.md)
 Man ser ofta ytliga jämförelser av den materiella levnadsstandarden i olika länder. Här går jag på djupet.
 
+#### [NB8](nordic-baltic-8-map]
+
 #### [Svenska färgskalor baserade på flaggblått och flaggult](sweden-colors.md)
 Sverige har två officiella färger enligt grundlagen. Jag behövde flera. Vad göra?
 
