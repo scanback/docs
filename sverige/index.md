@@ -5,7 +5,8 @@ image: /assets/social-card-think.png
 ---
 
 # Sverige m.m.
-Artiklar och annat ämnade för svenskar och finlandssvenskar. 🇸🇪 🇫🇮
+Artiklar och annat ämnade för svenskar och finlandssvenskar.  
+🇸🇪 🇫🇮  
 
 #### [Uselt så det förslår: Sveriges ekonomiska tillväxt 2015-2025](sweden-growth.md)
 Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag enklast möjliga meningsfulla mått på utvecklingen.
