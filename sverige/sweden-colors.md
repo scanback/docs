@@ -43,4 +43,4 @@ Färgskalorna visas organiserade efter dominerande frekvens.¹ Detta används f�
 
 För kvalitativa rangordingar som länders färger på kartor ordnas färgerna efter kontrast. Mer om detta finns hos [ColorBrewer](https://colorbrewer2.org/), en fantastisk vetenskaplig resurs för färgval.
 
-¹ Hög frekvens / hög energi till vänster, låg frekvens / låg energi till höger. Fotonens energi E=*hν*. *h* är Plancks konstant, *ν* är frekvens.
+¹ Hög frekvens / hög energi till vänster, låg frekvens / låg energi till höger. Fotonens energi E=*hν*. *h* är Plancks konstant, *ν* är frekvens, så hög frekvens leder linjärt till hög energi.
