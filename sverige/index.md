@@ -27,6 +27,9 @@ The NB8 region is tightly integrated economically and politically and has a GDP 
 #### [Svenska färgskalor baserade på flaggblått och flaggult](sweden-colors.md)
 Sverige har två officiella färger enligt grundlagen. Jag behövde flera. Vad göra?
 
+#### [Axess (2005):*Stora fusioner misslyckas ofta*, sida 21-24](axess.pdf)
+Axess erbjöd mig skriva denna essä mot arvode. Bakgrunden var mitt organisationsfilosofiska tänkande och artikeln hör hemma i humaniora och inte min vanliga inriktning på venetskap.  [🇪🇳](axess-en.pdf)
+
 #### [Politiken (1993): *Farvel til bosser og mastodonter*](politiken.pdf)
 Som ledande skandinavisk organisationsfilosof blev jag intervjuad av den ledande danaska tidningen Politiken: *Farvel til industriens kolosser. Farvel til de hierarkisk opbyggede og styrede kæmpe koncerner. Farvel til den magtfulde, alvidende boss. Som Sovjetunionen er brudt sammen og er splittet op, vil erhvervslivets stormagter bliver brudt op.* 🇪🇳
 
