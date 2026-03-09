@@ -27,14 +27,17 @@ The NB8 region is tightly integrated economically and politically and has a GDP 
 #### [Svenska färgskalor baserade på flaggblått och flaggult](sweden-colors.md)
 Sverige har två officiella färger enligt grundlagen. Jag behövde flera. Vad göra?
 
-#### [Försäkringstidningen (1991): Bästa bolaget vinner (del 1 av Försäkring på 90-talet)](försäkringstidningen-1.pdf)
+#### [Politiken (1993): *Farvel til bosser og mastodonter*](politiken.pdf)
+Som ledande skandinavisk organisationsfilosof blev jag intervjuad av den ledande danaska tidningen Politiken. Farvel til industriens kolosser. *Farvel til de hierarkisk opbyggede og styrede kæmpe koncerner. Farvel til den magtfulde, alvidende boss. Som Sovjetunionen er brudt sammen og er splittet op, vil erhvervslivets stormagter bliver brudt op.*
+
+#### [Försäkringstidningen (1989): *Bästa bolaget vinner (del 1 av Försäkring på 90-talet)*](försäkringstidningen-1.pdf)
 Att det bästa försäkringsbolaget blir vinnare på marknaden kan sägas vara en självklar sanning. Det finns dock inget bolag som är så bra att det inte kan bli bättre genom
 kompetensutveckling.
 
-#### [Försäkringstidningen (1991): Distributionen nyckeln till framgång på 90-talet (del 2 av Försäkring på 90-talet)](försäkringstidningen-2.pdf)
+#### [Försäkringstidningen (1990): *Distributionen nyckeln till framgång på 90-talet (del 2 av Försäkring på 90-talet)*](försäkringstidningen-2.pdf)
 Distributionen är nyckeln till framgång på morgondagens marknad. Men dagens distributionsförhållanden är inte morgondagens. De som vill räkna sig som vinnare på 90-talet måste därför starta förändringsprocessen nu.
 
-#### [Försäkringstidningen (1991): Att vinna med teknologi (del 3 av Försäkring på 90-talet)](försäkringstidningen-3.pdf)
+#### [Försäkringstidningen (1990): *Att vinna med teknologi (del 3 av Försäkring på 90-talet)*](försäkringstidningen-3.pdf)
 Informationsteknologi kostar mer än någonsin, betyder mer än någonsin och berör varje funktion, aktivitet och arbetsmoment inom försäkringsbranschen.
 
 
