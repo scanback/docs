@@ -27,7 +27,18 @@ The NB8 region is tightly integrated economically and politically and has a GDP 
 #### [Svenska färgskalor baserade på flaggblått och flaggult](sweden-colors.md)
 Sverige har två officiella färger enligt grundlagen. Jag behövde flera. Vad göra?
 
+#### [Försäkringstidningen (1991): Bästa bolaget vinner (del 1 av Försäkring på 90-talet)](försäkringstidningen-1.pdf)
+Att det bästa försäkringsbolaget blir vinnare på marknaden kan sägas vara en självklar sanning. Det finns dock inget bolag som är så bra att det inte kan bli bättre genom
+kompetensutveckling.
+
+#### [Försäkringstidningen (1991): Distributionen nyckeln till framgång på 90-talet (del 2 av Försäkring på 90-talet)](försäkringstidningen-2.pdf)
+Distributionen är nyckeln till framgång på morgondagens marknad. Men dagens distributionsförhållanden är inte morgondagens. De som vill räkna sig som vinnare på 90-talet måste därför starta förändringsprocessen nu.
+
+#### [Försäkringstidningen (1991): Att vinna med teknologi (del 3 av Försäkring på 90-talet)](försäkringstidningen-3.pdf)
+Informationsteknologi kostar mer än någonsin, betyder mer än någonsin och berör varje funktion, aktivitet och arbetsmoment inom försäkringsbranschen.
+
+
+
 Kommer senare:
 - Axess
-- Försäkringstidningen (3 artiklar)
 - Berlingske Tidende
