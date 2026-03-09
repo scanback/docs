@@ -7,7 +7,14 @@ image: /assets/social-card-think.png
 
 _Dr Staffan Canbäck, Tellusant_
 
-Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag utvecklingen med enklast möjliga meningsfulla mått.¹ Den viktigaste delen är **strukturell produktivitet** i det tredje kapitlet.  
+Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag utvecklingen med enklast möjliga meningsfulla mått.¹ 
+
+Ett lands produktivitet kan delas in i tre produktivitetsdelar:
+- Arbete
+- Kapital
+- Struktur
+
+Den viktigaste delen är **strukturproduktivitet** i det tredje kapitlet.  
 
 Jag inkluderar _**inte**_ total BNP tillväxt eftersom detta inte är ett mått på ekonomisk tillväxt. BNP tillväxt är en kombination av demografisk (befolknings) tillväxt och ekonomisk tillväxt. 
 
@@ -70,21 +77,21 @@ Jag uttrycker det som hur många cent av BNP som skapas av en dollar av kapitals
 <img  src="assets/images/s.canback-sweden-productivity-growth-4.svg" width="400" alt="S.Canback - Swedish capital productivity">
 </p>
 
-## 3. Strukturell produktivitet
+## 3. Strukturproduktivitet
 
-Den viktigaste ekonomiska drivkraften är strukturell produktivitet (ofta kallad Total Factor Productivity (TFP) eller Solow residual).
+Den viktigaste ekonomiska drivkraften är strukturproduktivitet (ofta kallad Total Factor Productivity (TFP) eller Solow residual).
 
-Strukturell produktivitet är vad som återstår efter att arbete och kapital har använts för att förklara BNP tillväxt. Den innehåller bättre ledarskap, teknologisk utveckling, effektivitetsförbättringar genom nya arbetsrutiner, uppfinningar, m.m.³  
+Strukturproduktivitet är vad som återstår efter att arbete och kapital har använts för att förklara BNP tillväxt. Den innehåller bättre ledarskap, teknisk utveckling, effektivitetsförbättringar genom nya arbetsrutiner, uppfinningar, m.m.³  
 
 Den är på sätt och vis ett mått på vår okunnighet eftersom vi inte vet exakt vad som ingår, men också djupt betydelsefull eftersom den förklarar varför samhällen blir bättre (utan att vi förstår de exakta mekanismerna). _Detta är måttet vi alla ska hålla ögonen på_.
 
-Två illustrationer:
+Två exempel för att förklara knceptet:
 
 - Ett lands BNP växer ned 2 procent. arbete och kapital växer också med 2 procent vardera. Då blir tillväxten i strukturproduktivitet noll. Ingenting händer utöver arbete och kapital. Detta kallas skalning.
 
 - Japans BNP växer med 0.7%. Arbete minskar med 0.7% och kapital växer med 0.4% (bägge under BNP tillväxten). Strukturproduktiviteten växer därför med 0.8%. detta kallas förbättring.
 
-Grafen visar Sveriges tillväxt i strukturell produktivitet jämförd med andra ekonomier över det senaste decenniet. Som synes är landets utveckling också svag med denna, den viktigaste, måttstocken. Vi blir inte bättre som samhälle, bara något större.
+Grafen visar Sveriges tillväxt i strukturproduktivitet jämförd med andra ekonomier över det senaste decenniet. Som synes är landets utveckling också svag med denna, den viktigaste, måttstocken. Vi blir inte bättre som samhälle, bara något större.
 
 <p align="center">
 <img  src="assets/images/s.canback-sweden-productivity-growth-5.svg" width="400" alt="S.Canback - Swedish total factor productivity">
