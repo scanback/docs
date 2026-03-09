@@ -11,12 +11,11 @@ Artiklar och annat ämnade för svenskar och finlandssvenskar.
 #### [Uselt så det förslår: Sveriges ekonomiska tillväxt 2015-2025](sweden-growth.md)
 Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag enklast möjliga meningsfulla mått på utvecklingen.
 
-
 #### [Sveriges exportmöjligheter i ett besvärligt handelsklimat](../articles-posts/sweden-exports.md)
 Hur ska ett exportberoende land som Sverige agera för att bibehålla och öka sin export? Artikeln ger ett djupt analytiskt perspektiv.
 
-#### [Dagens Industri: *Fly tullkaoset – länderna med störst exportpotential*](https://www.di.se/nyheter/fly-tullkaoset-landerna-med-storst-exportpotential/)
-Intervju med Staffan Canbäck i juli 2025.
+#### [Dagens Industri (2025): *Fly tullkaoset – länderna med störst exportpotential*](https://www.di.se/nyheter/fly-tullkaoset-landerna-med-storst-exportpotential/)
+Intervju med Staffan Canbäck baserat på hans forskning kring Sveriges exportmöjligheter.
 
 #### [En komplex fråga: Den svenska levnadsstandarden jämfört med den amerikanska](sweden-living-standard.md)
 Man ser ofta ytliga jämförelser av den materiella levnadsstandarden i olika länder. Här går jag på djupet.
@@ -26,6 +25,9 @@ The NB8 region is tightly integrated economically and politically and has a GDP 
 
 #### [Svenska färgskalor baserade på flaggblått och flaggult](sweden-colors.md)
 Sverige har två officiella färger enligt grundlagen. Jag behövde flera. Vad göra?
+
+---
+## Äldre artiklar
 
 #### [Axess (2005): *Stora fusioner misslyckas ofta*, sida 21-24](axess.pdf)
 Axess erbjöd mig skriva denna essä mot arvode. Bakgrunden var mitt organisationsfilosofiska tänkande och artikeln hör hemma i humaniora och inte min vanliga inriktning på venetskap.  [🇪🇳](axess-en.pdf)
