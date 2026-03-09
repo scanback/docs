@@ -11,7 +11,7 @@ Det visar sig vara komplicerad matematik men ChatGPT löste det briljant på fem
 
 Betrakta denna övning som ren hobbyverksamhet.
 
-I ett tvådimensionellt plan som skär genom en tredimensionell kub i viss vinkel är flaggblå och flaggul 155° separerade. Jag skapade "ormbunke" vid 155°/2 = 77.5° och "hallon" vid 77.5°+180° = 257.5° på detta plan. Efter denna geometriska ansats gjorde jag en perceptuell finjustering men med bevarade vinklar.
+I ett tvådimensionellt plan som skär genom en tredimensionell kub i viss vinkel är flaggblå och flaggul 155° separerade. Jag skapade "ormbunke" vid 155°/2<span>&nbsp;</span>=<span>&nbsp;</span>77.5° och "hallon" vid 77.5°+180°<span>&nbsp;</span>=<span>&nbsp;</span>257.5° på detta plan. Efter denna geometriska ansats gjorde jag en perceptuell finjustering men med bevarade vinklar.
 
 > Jag blev förvånad när ChatGPT sa detta utan prompt: _The Swedish flag colors happen to sit at a good asymmetric position on the hue circle. Many national flag pairs (red–blue, red–green, etc.) do not produce this property._ En helt spontan AI slutsats utanför vår interaktion.
 
@@ -43,6 +43,6 @@ Färgskalorna visas organiserade efter dominerande frekvens.¹ Detta används f�
 
 För kvalitativa rangordingar som länders färger på kartor ordnas färgerna efter kontrast. Mer om detta finns hos [ColorBrewer](https://colorbrewer2.org/), en fantastisk vetenskaplig resurs för färgval.
 
-¹ Hög frekvens / hög energi till vänster, låg frekvens / låg energi till höger. Fotonens energi *E = hν*. *h* är Plancks konstant, *ν* är frekvens, så hög frekvens leder linjärt till hög energi.
+¹ Hög frekvens / hög energi till vänster, låg frekvens / låg energi till höger. Fotonens energi *E<span>&nbsp;</span>=<span>&nbsp;</span>hν*. *h* är Plancks konstant, *ν* är frekvens, så hög frekvens leder linjärt till hög energi.
 
 Higgs boson har en extremt hög frekvens och ligger långt till vänster om lila. Långt till höger om röd ligger t ex mobiltelefoni, sedan FM radio (VHF), kortvåg (HF), mellanvåg (MF) och långvåg (LF).
