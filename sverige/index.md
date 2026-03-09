@@ -38,6 +38,8 @@ Kort uttdrag ur Affärsvärldens intervju med mig om management konsultbranschen
 #### [Politiken (1993): *Farvel til bosser og mastodonter*](politiken.pdf)
 Som ledande skandinavisk organisationsfilosof blev jag intervjuad av den ledande danaska tidningen Politiken: *Farvel til industriens kolosser. Farvel til de hierarkisk opbyggede og styrede kæmpe koncerner. Farvel til den magtfulde, alvidende boss. Som Sovjetunionen er brudt sammen og er splittet op, vil erhvervslivets stormagter bliver brudt op.* [🇪🇳](politiken-en.pdf)
 
+#### Jag skrev en artikelserie som ansvarig partner för McKinseys Insurance Practice i Norden:
+
 #### [Försäkringstidningen (1989): *Bästa bolaget vinner (del 1 av Försäkring på 90-talet)*](försäkringstidningen-1.pdf)
 Att det bästa försäkringsbolaget blir vinnare på marknaden kan sägas vara en självklar sanning. Det finns dock inget bolag som är så bra att det inte kan bli bättre genom
 kompetensutveckling. [🇪🇳](försäkringstidningen-1-en.pdf)
