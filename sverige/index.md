@@ -36,7 +36,7 @@ Axess erbjöd mig skriva denna essä mot arvode. Bakgrunden var mitt organisatio
 Kort uttdrag ur Affärsvärldens intervju med mig om management konsultbranschens utveckling  [🇪🇳](affärsvärlden-en.pdf)
 
 #### [Politiken (1993): *Farvel til bosser og mastodonter*](politiken.pdf)
-Som ledande skandinavisk organisationsfilosof blev jag intervjuad av den ledande danaska tidningen Politiken: *Farvel til industriens kolosser. Farvel til de hierarkisk opbyggede og styrede kæmpe koncerner. Farvel til den magtfulde, alvidende boss. Som Sovjetunionen er brudt sammen og er splittet op, vil erhvervslivets stormagter bliver brudt op.* [🇪🇳](politiken-en.pdf)
+Som ledande skandinavisk organisationsfilosof blev jag intervjuad av den ledande danska tidningen Politiken: *Farvel til industriens kolosser. Farvel til de hierarkisk opbyggede og styrede kæmpe koncerner. Farvel til den magtfulde, alvidende boss. Som Sovjetunionen er brudt sammen og er splittet op, vil erhvervslivets stormagter bliver brudt op.* [🇪🇳](politiken-en.pdf)
 
 #### Jag skrev en artikelserie som ansvarig partner för McKinseys Insurance Practice i Norden:
 
