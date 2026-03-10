@@ -233,7 +233,10 @@ Sveriges storhetstid inom export är sedan länge svunnen. Kvar finns bara tron 
 ---
 ¹ Tidigare kallat den gemensamma marknaden. Schweiz är i många avseenden en del av den inre marknaden, men inte fullt ut.  
 
-² Mätt med ett Herfindahl-Hirschman index (HHI) som här kvantifierar koncentrations- / diversifieringsgraden inom länder.  
+² Mätt med ett Herfindahl-Hirschman index (HHI) som här kvantifierar koncentrations- / diversifieringsgraden inom länder. 
+
+---
+[Mer om Sverige och NB8](../sverige/index.md)
 
 ³ Data kommer från Tellusants [TelluBase](https://tellubase.com) databas som bygger på många källor som har behandlats statistiskt. Våra index skiljer sig från, men har en liknande inriktning, som Hofstedes berömda kulturdimensioner.
 
