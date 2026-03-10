@@ -51,7 +51,7 @@ Notera att Sverige ligger under Storbritannien och långt under EU som ofta ses 
 
 Tabuleringen täcker 2015-2025. Men start- och slutåren kanske var speciella och ickerepresentativa. Detta är ett vanligt problem när data presenteras.  
 
-Nedan syns svensk tillväxt fär andra start- och slutår. 2015-2025 ligger obetydligt under medianen. Den lilla skillanden gör att 2015-2025 ska ses som representativt.  
+Nedan syns svensk tillväxt för andra start- och slutår. 2015-2025 ligger obetydligt under medianen. Den lilla skillnaden gör att 2015-2025 ska ses som representativt.  
 
 <p align="center">
 <img  src="assets/images/s.canback-sweden-productivity-growth-2.svg" width="250" alt="S.Canback - Swedish growth - sensitivity analysis">
@@ -69,7 +69,7 @@ Hur skiljer sig 2015-2025 mot tidigare decennier? Det är den klart sämsta peri
 
 Omkring fyrtio procent av Sveriges BNP kommer från kapital (60% från arbete). Detta är ett mått som få förutom ekonomer följer. Grafen nedan visar att Sveriges kapitalproduktivitet (BNP genererad per dollar kapital), fallit under det senaste decenniet. Mer än i EU, mer än i världen.  
 
-Kapital är här fast kapital (byggnader, maskiner, vägar. etc.) och forskings- och utvecklingskapital, tillsammans. Det fasta kapitalet skrivs av över 20 år. FoU kapitalet över 7 år. Detta är en konventionell syn.
+Kapital är här fast kapital (byggnader, maskiner, vägar. etc.) och forsknings- och utvecklingskapital, tillsammans. Det fasta kapitalet skrivs av över 20 år. FoU kapitalet över 7 år. Detta är en konventionell syn.
 
 Jag uttrycker det som hur många cent av BNP som skapas av en dollar av kapitalstock. Detta eftersom kapital skapar BNP, inte tvärtom.
 
@@ -85,7 +85,7 @@ Strukturproduktivitet är vad som återstår efter att arbete och kapital har an
 
 Den är på sätt och vis ett mått på vår okunnighet eftersom vi inte vet exakt vad som ingår, men också djupt betydelsefull eftersom den förklarar varför samhällen blir bättre (utan att vi förstår de exakta mekanismerna). _Detta är måttet vi alla ska hålla ögonen på_.
 
-Två exempel för att förklara knceptet:
+Två exempel för att förklara konceptet:
 
 - Ett lands BNP växer ned 2 procent. arbete och kapital växer också med 2 procent vardera. Då blir tillväxten i strukturproduktivitet noll. Ingenting händer utöver arbete och kapital. Detta kallas skalning.
 
@@ -99,7 +99,7 @@ Grafen visar Sveriges tillväxt i strukturproduktivitet jämförd med andra ekon
 
 
 ## Slutsats  
-Det finns ingen ljusglimt i sifforna. Landet är vanskött. Detta är inte bara en politisk fråga utan även en företags- och medborgarfråga. Alla har bidragit till eländet. 
+Det finns ingen ljusglimt i siffrorna. Landet är vanskött. Detta är inte bara en politisk fråga utan även en företags- och medborgarfråga. Alla har bidragit till eländet. 
 
 Jag ger inga svar på varför vi har så svag utveckling men ser några möjliga faktorer: flyktingvågen, brexit, pandemin, Ukrainakriget, amerikanska tariffer, [svag exportutveckling](../articles-posts/sweden-exports.md), misslyckade gröna satsningar. Ingen av dessa kan ses som BNP-höjande. Men det finns säkert djupare skäl som är svåranalyserade. 
 
@@ -110,7 +110,7 @@ Mer personligt så märker jag en brist på optimism och spänst när jag besök
 ---
 ¹ Jag använder fyra dataserier som kombineras till relevanta mått:   
 - Konstant Bruttonationalproduct (BNP) enligt "[Purchasing Power Parity](https://www.worldbank.org/en/programs/icp)" metoden, dynamiskt justerad⁴ så att relationen till konstant BNP i marknadens fasta dollarkurs varierar över tiden.    
-- Arbetsför befolking (AFB) istället fär total befolkning. Det är den arbestföra befolkningen som kan genera BNP.    
+- Arbetsför befolkning (AFB) istället för total befolkning. Det är den arbetsföra befolkningen som kan genera BNP.    
 - Kapitalstock beräknad från årliga fasta och FoU investeringar, avskrivna över tjugo respektive sju år och kapitaliserade. Rak avskrivning, inte PIM. 
 - Arbete gentemot kapital mixen i varje ekonomi enligt [Penn Tables](https://www.rug.nl/ggdc/productivity/pwt/?lang=en).
 
