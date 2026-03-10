@@ -43,6 +43,7 @@ Färgskalorna visas organiserade efter dominerande frekvens.¹ Detta används f�
 
 För kvalitativa rangordningar som länders färger på kartor ordnas färgerna efter kontrast. Mer om detta finns hos [ColorBrewer](https://colorbrewer2.org/), en fantastisk vetenskaplig resurs för färgval.
 
+---
 ¹ Hög frekvens / hög energi till vänster, låg frekvens / låg energi till höger. Fotonens energi *E<span>&nbsp;</span>=<span>&nbsp;</span>hν*. *h* är Plancks konstant, *ν* är frekvens, så hög frekvens leder linjärt till hög energi.
 
 Higgs boson har en extremt hög frekvens och ligger långt till vänster om lila. Långt till höger om röd ligger t ex mobiltelefoni, sedan FM radio (VHF), kortvåg (HF), mellanvåg (MF) och långvåg (LF).
