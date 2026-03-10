@@ -53,5 +53,4 @@ Detta är orimligt. Jag har rest i 48 delstater med en sociologisk blick. Det ä
 Med mina justeringar ovan hamnar Severige runt 40:e plats, jämförbart med Georgia eller Michigan (som har 10-11 miljoner invånare). Detta verkar rimligt baserat på min erfarenhet.
 
 ---
----
 [Mer om Sverige och NB8](../sverige/index.md)
