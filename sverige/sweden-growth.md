@@ -126,5 +126,5 @@ Mer personligt så märker jag en brist på optimism och spänst när jag besök
 ⁵⁶⁷
 
 ---
-Se [Svenska färgskalor baserade på flaggblått och flaggult](sweden-colors.md) för att förstå hur färgerna valdes.
+Se [Svenska färgskalor baserade på flaggblått och flaggult](sweden-colors.md) för att förstå hur färgerna valdes.  
 [Mer om Sverige och NB8](../sverige/index.md)
