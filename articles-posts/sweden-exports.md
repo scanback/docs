@@ -235,11 +235,11 @@ Sveriges storhetstid inom export är sedan länge svunnen. Kvar finns bara tron 
 
 ² Mätt med ett Herfindahl-Hirschman index (HHI) som här kvantifierar koncentrations- / diversifieringsgraden inom länder. 
 
----
-[Mer om Sverige och NB8](../sverige/index.md)
-
 ³ Data kommer från Tellusants [TelluBase](https://tellubase.com) databas som bygger på många källor som har behandlats statistiskt. Våra index skiljer sig från, men har en liknande inriktning, som Hofstedes berömda kulturdimensioner.
 
 Artikeln finns även på [LinkedIn](https://www.linkedin.com/pulse/sveriges-exportm%C3%B6jligheter-i-ett-besv%C3%A4rligt-dr-staffan-canback-e5lwe). 
 
 Staffans efternamn är Canbäck på svenska och Canback på engelska.
+
+---
+[Mer om Sverige och NB8](../sverige/index.md)
