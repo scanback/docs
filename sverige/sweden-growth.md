@@ -7,8 +7,8 @@ image: /assets/social-card-think.png
 
 _Dr. Staffan Canbäck, Tellusant_
 
-***Sveriges tillväxt diskuteras ofta i dramatiska termer.
-Men vad säger de mest grundläggande ekonomiska måtten om utvecklingen de senaste decennierna?***
+**Sveriges tillväxt diskuteras ofta i dramatiska termer.
+Men vad säger de mest grundläggande ekonomiska måtten om utvecklingen de senaste decennierna?**
 
 Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag utvecklingen med de enklast möjliga meningsfulla måtten.¹ 
 
