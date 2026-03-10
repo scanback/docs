@@ -29,7 +29,7 @@ Sverige har två officiella färger enligt grundlagen. Jag behövde flera. Vad g
 ---
 ## Äldre artiklar
 
-#### [Axess (2005): *Stora fusioner misslyckas ofta*, sida 21-24](axess.pdf)
+#### [Axess (2005): *Stora fusioner misslyckas ofta*, ss. 21-24](axess.pdf)
 Axess erbjöd mig skriva denna essä mot arvode. Bakgrunden var mitt organisationsfilosofiska tänkande och artikeln hör hemma i humaniora och inte min vanliga inriktning på venetskap.  [🇪🇳](axess-en.pdf)
 
 #### [Affärsvärlden (2005): *Hotade mångsysslare*](affärsvärlden-en.pdf)
