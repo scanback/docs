@@ -17,7 +17,7 @@ I also added some other common search terms: Taylor Swift (pop culture), Donald 
 AI has clearly captured the nation’s attention. In my own work the effect has been striking: I use ChatGPT two to three hours a day and gain enormous efficiencies—either by completing tasks faster or by pursuing analyses I would not otherwise attempt.
 
 <p align="center">
-<img  src="assets/images/s.canback-tellusant-google-trends-ai-sports-other.svg" width="400" alt="S.Canback-Tellusant - Google trends for AI, sports, and more">
+<img  src="assets/images/s.canback-tellusant-google-trends-ai-sports-other.svg" width="450" alt="S.Canback-Tellusant - Google trends for AI, sports, and more">
 </p>
 
 > Note: The scale is an index with no meaning except to show the relative positions. It is a consequence of Google Trends' way of presenting data.
