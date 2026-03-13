@@ -6,11 +6,13 @@ image: /assets/social-card-think.png
 
 # Google Trends Analysis of AI, Sports, and More in the United States
 In less than five years, AI and its key players have catapulted to the top of Google search rankings.
-How large the surge has been becomes clear when looking at Google Trends data for the United States.
+How large the surge has been becomes clear when looking at Google Trends data for the United States. In my analysis, only YouTube and (American) football surpass AI.
 
-The graph shows the trend for the most popular AI search terms. Not in the graph are Copilot, Perpexity and Grok because they hardly register.
+The graph shows trends for the most popular AI search terms. Copilot, Perplexity, and Grok are not included because they hardly register.
 
-I also added bars for other search terms to give a sense of scale. I found sports relevant because like AI it skews male (maybe as high as 70%). I also added some other common search terms: Taylor Swift (pop culture), Donald Trump (politics), YouTube (the most-searched site) Iphone (previous leader in search rankings), and crypto (an entertainment phenomenon).
+I also added bars for other search terms to give a sense of scale. I included sports because, like AI, interest skews male.
+
+I also added some other common search terms: Taylor Swift (pop culture), Donald Trump (politics), YouTube (the most-searched site) Iphone (previous leader in search rankings), and crypto (an entertainment phenomenon).
 
 AI has clearly captured the nation’s attention. In my own work the effect has been striking: I use ChatGPT two to three hours a day and gain enormous efficiencies—either by completing tasks faster or by pursuing analyses I would not otherwise attempt.
 
