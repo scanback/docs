@@ -13,7 +13,7 @@ Betrakta denna övning som ren hobbyverksamhet.
 
 I ett tvådimensionellt plan som skär genom en tredimensionell kub i viss vinkel är flaggblå och flaggul 155° separerade. Jag skapade färgen "ormbunke" vid 155°/2<span>&nbsp;</span>=<span>&nbsp;</span>77,5° och "hallon" vid 77,5°+180°<span>&nbsp;</span>=<span>&nbsp;</span>257,5° på detta plan. Efter denna geometriska ansats gjorde jag en perceptuell finjustering men med bevarade vinklar.
 
->> Jag blev förvånad när ChatGPT sa detta utan prompt: _The Swedish flag colors happen to sit at a good asymmetric position on the hue circle. Many national flag pairs (red–blue, red–green, etc.) do not produce this property._ En helt spontan AI-slutsats utanför vår interaktion.
+> Jag blev förvånad när ChatGPT sa detta utan prompt: _The Swedish flag colors happen to sit at a good asymmetric position on the hue circle. Many national flag pairs (red–blue, red–green, etc.) do not produce this property._ En helt spontan AI-slutsats utanför vår interaktion.
 
 <p align="center">
 <img  src="assets/images/s.canback-sweden-colors-4.svg" width="280" alt="S.Canback - Swedish 4 extended colors">
