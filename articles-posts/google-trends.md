@@ -17,3 +17,4 @@ It is clear that AI has overwhelmed the nation in its novelty. In a positive way
 <img  src="assets/images/s.canback-tellusant-google-trends-ai-sports-other.svg" width="400" alt="S.Canback-Tellusant - Google trends for AI, sports, and more">
 </p>
 
+Note: The scale is an index with no meaning except to show the relative positions. It is a consequencw of Google Trends way of presenting data.
