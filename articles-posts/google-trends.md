@@ -11,10 +11,10 @@ The graph shows the trend for the most popular AI search terms. Not in the graph
 
 I also added bars for other search terms to give a sense of scale. I found sports relevant because like AI it skews male (maybe as high as 70%). I also added some other common search terms: Taylor Swift because she leads in pop culture, Donald Trump as president, YouTube as the most searched site, Iphone as a previous leader in search, and crypto as an entertainment phenomenon.
 
-It is clear that AI has overwhelmed the nation in its novelty. In a positive way is my opinion. I use ChatGPT 2-3 hours a day and get immense efficiencies out of it. Either by getting things done faster, or doing new things I would not have pursued before.
+It is clear that AI has overwhelmed the nation with its novelty. In a positive way in my opinion. I use ChatGPT 2-3 hours a day and get immense efficiencies out of it. Either by getting things done faster or doing new things I would not have pursued before.
 
 <p align="center">
 <img  src="assets/images/s.canback-tellusant-google-trends-ai-sports-other.svg" width="400" alt="S.Canback-Tellusant - Google trends for AI, sports, and more">
 </p>
 
-Note: The scale is an index with no meaning except to show the relative positions. It is a consequencw of Google Trends way of presenting data.
+Note: The scale is an index with no meaning except to show the relative positions. It is a consequence of Google Trends way of presenting data.
