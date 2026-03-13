@@ -3,6 +3,9 @@ I have hundreds of LinkedIn and Medium articles and posts that are lost because 
 
 ## Recent
 
+#### [Google Trends Analysis of AI, Sports, and More in the United States](google-trends.md)
+How much have AI-related search terms grown since the introduction of ChatGPT? In less than five years, AI and its key players have catapulted to the very top of search terms. Only YouTube and (American) football surpass AI in my analysis.
+
 #### [South Africa Economic Sentiment Analysis Using AI](economic-sentiment-zaf.md)
 This article shows how to perform semantic analysis of qualitative reports using automated parsing, scoring and weighting, leveraging a custom-trained AI model.
 
