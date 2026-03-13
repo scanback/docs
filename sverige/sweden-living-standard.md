@@ -51,3 +51,6 @@ Om vi använt den naiva metoden i punkt 1, så ligger Sverige sist eller näst s
 Detta är orimligt. Jag har rest i 48 delstater med en sociologisk blick. Det är omöjligt att Sverige är fattigare än t ex West Virginia.
 
 Med mina justeringar ovan hamnar Severige runt 40:e plats, jämförbart med Georgia eller Michigan (som har 10-11 miljoner invånare). Detta verkar rimligt baserat på min erfarenhet.
+
+---
+[Mer om Sverige och NB8](../sverige/index.md)

@@ -5,7 +5,7 @@ image: /assets/social-card-think.png
 ---
 
 # Sverige m.m.
-Artiklar och annat ämnade för svenskar och finlandssvenskar.  
+Artiklar och annat avsedda för svenskar och finlandssvenskar.  
 🇸🇪 🇫🇮  
 
 #### [Uselt så det förslår: Sveriges ekonomiska tillväxt 2015-2025](sweden-growth.md)
@@ -29,14 +29,14 @@ Sverige har två officiella färger enligt grundlagen. Jag behövde flera. Vad g
 ---
 ## Äldre artiklar
 
-#### [Axess (2005): *Stora fusioner misslyckas ofta*, sida 21-24](axess.pdf)
-Axess erbjöd mig skriva denna essä mot arvode. Bakgrunden var mitt organisationsfilosofiska tänkande och artikeln hör hemma i humaniora och inte min vanliga inriktning på venetskap.  [🇪🇳](axess-en.pdf)
+#### [Axess (2005): *Stora fusioner misslyckas ofta*, ss. 21-24](axess.pdf)
+*Axess* erbjöd mig att skriva denna essä mot arvode. Bakgrunden var mitt organisationsfilosofiska tänkande och artikeln hör hemma i humaniora och inte min vanliga inriktning på vetenskap.  [🇪🇳](axess-en.pdf)
 
 #### [Affärsvärlden (2005): *Hotade mångsysslare*](affärsvärlden-en.pdf)
-Kort uttdrag ur Affärsvärldens intervju med mig om management konsultbranschens utveckling  [🇪🇳](affärsvärlden-en.pdf)
+Ett kort utdrag ur *Affärsvärldens* intervju med mig om managementkonsultbranschens utveckling.  [🇪🇳](affärsvärlden-en.pdf)
 
 #### [Politiken (1993): *Farvel til bosser og mastodonter*](politiken.pdf)
-Som ledande skandinavisk organisationsfilosof blev jag intervjuad av den ledande danaska tidningen Politiken: *Farvel til industriens kolosser. Farvel til de hierarkisk opbyggede og styrede kæmpe koncerner. Farvel til den magtfulde, alvidende boss. Som Sovjetunionen er brudt sammen og er splittet op, vil erhvervslivets stormagter bliver brudt op.* [🇪🇳](politiken-en.pdf)
+Som ledande skandinavisk organisationsfilosof blev jag intervjuad av den ledande danska dagstidningen *Politiken*: *Farvel til industriens kolosser. Farvel til de hierarkisk opbyggede og styrede kæmpe koncerner. Farvel til den magtfulde, alvidende boss. Som Sovjetunionen er brudt sammen og er splittet op, vil erhvervslivets stormagter bliver brudt op.* [🇪🇳](politiken-en.pdf)
 
 #### Jag skrev en artikelserie som ansvarig partner för McKinseys Insurance Practice i Norden:
 
