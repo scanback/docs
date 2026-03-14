@@ -21,4 +21,5 @@ We have switched to open access platforms rather than LinkedIn or Medium, emulat
 Well done **Alphabet** and other scientifically, math-oriented companies like Amazon, Microsoft, Meta, and Nvidia! In the end, mathematical and technological advances are the only things that give sustainable competitive advantage.  
 
 ---
-[2025-10-06]
+[2025-10-06]  
+[Find more articles and posts](index.md)
