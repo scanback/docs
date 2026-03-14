@@ -63,3 +63,5 @@ I included colonies and territories for relevant years. E.g., the Philippines is
 I first published this analysis in 2017 on LinkedIn and have now updated it till 2025.
 
 [2026-01-17]
+
+[Find more articles and posts](index.md)
