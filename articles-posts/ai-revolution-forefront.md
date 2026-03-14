@@ -28,4 +28,5 @@ Internally, we work with AI 25-50% of the day, sometimes 100%. In addition to th
 We also have a pipeline of future AI based solutions. Examples are [EMIO](https://tellusant.github.io/docs/papers/Canback-Burginyoung-Strategic-Planning-Tellusant-Synthesis.pdf), our strategy development and strategic planning framework, which will become automatically populated; and our **Innovation Apparatus**, which predicts success or failure for potential consumer goods innovation. 
 
 ---
-[2025-08-29]
+[2025-08-29]  
+[Find more articles and posts](index.md)
