@@ -21,3 +21,6 @@ AI has clearly captured the nation’s attention. In my own work the effect has 
 </p>
 
 > Note: The scale is an index with no meaning except to show the relative positions. It is a consequence of Google Trends' way of presenting data.
+
+---
+[Find more articles and posts](index.md)
