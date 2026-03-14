@@ -45,5 +45,7 @@ Note: *Signals* are in this case information and data.
 ² Per consultant is not a relevant metric when one of the firms is majority non-consultant.  
 ³ **is-value** and **wish-value** are from control theory. The terms are my translation of the Swedish terms *är-värde* and *bör-värde*, which have a nice ring to them. Properly called actual value and reference (or setpoint) value in English. See, e.g., [Stefan Simrock: Control Theory](https://cds.cern.ch/record/1100534/files/p73.pdf).  
 
-[2022-03-12]
+---
+[2022-03-12]  
+[Find more articles and posts](index.md)
 
