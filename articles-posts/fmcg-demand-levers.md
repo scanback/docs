@@ -32,4 +32,4 @@ Tellusant, Inc.'s strategic forecasting app hashtag#PolusSim takes these levers 
 We have worked with these levers since the 2000s, so this is not a "I got inspired at the white board" type of framework. In fact, we wrote about it in 2022 in light of high inflation: [Pricing Mechanisms for Managing Through Inflation](https://medium.com/tellusant/pricing-mechanisms-for-managing-through-inflation-8e9eb1d9f33). We have also used it in a myriad of client discussions.
 
 ---
-Return to Home
+[Find more articles and posts](index.md)
