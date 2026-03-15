@@ -27,3 +27,5 @@ He has more than 750 academic, business, and media citations to his name.
 $\int_{\partial \Omega} \omega = \int_{\Omega} d\omega$
 
 $$\int_{\partial \Omega} \omega = \int_{\Omega} d\omega$$
+
+$e^x$
