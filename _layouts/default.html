@@ -18,6 +18,19 @@
     </main>
 
     {% include footer.html %}
+
+          <!-- LATEX -->
+    <script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    }
+  };
+</script>
+<script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+    <!-- END LATEX -->
    
     <script>
 document.addEventListener("scroll", function () {
@@ -40,7 +53,9 @@ document.addEventListener("scroll", function () {
     startOnLoad: true,
     securityLevel: "strict"
   });
-</script>
+</script
+
+  <!-- END MERMAID -->
     
   </body>
 </html>
