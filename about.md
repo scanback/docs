@@ -23,3 +23,7 @@ Staffan earned a Civ.Ing. and Master of Science in Electrical Engineering from t
 He is a **Fulbright Scholar**; a **Wallenberg Scholar**; and the first prize winner of the **best European doctoral dissertation in management awarded in 2003** by the *European Doctoral Programmes Association in Management & Business Administration* (EDAMBA).
 
 He has more than 750 academic, business, and media citations to his name.
+
+$\int_{\partial \Omega} \omega = \int_{\Omega} d\omega$
+
+$$\int_{\partial \Omega} \omega = \int_{\Omega} d\omega$$
