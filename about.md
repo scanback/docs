@@ -24,6 +24,9 @@ He is a **Fulbright Scholar**; a **Wallenberg Scholar**; and the first prize win
 
 He has more than 750 academic, business, and media citations to his name.
 
+---
+Test of LaTeX in markdown
+
 $\int_{\partial \Omega} \omega = \int_{\Omega} d\omega$
 
 $$\int_{\partial \Omega} \omega = \int_{\Omega} d\omega$$
