@@ -1,6 +1,7 @@
 ---
 title: "Uselt så det förslår: Sveriges ekonomiska tillväxt 2015-2025"
-description: "Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag utvecklingen med enklast möjliga meningsfulla mått. 🇸🇪"
+description: "Sveriges tillväxt diskuteras ofta i dramatiska termer.
+Men vad säger de mest grundläggande ekonomiska måtten om utvecklingen de senaste decennierna? 🇸🇪"
 image: /assets/social-card-think.png
 ---
 # Uselt så det förslår: Sveriges ekonomiska tillväxt 2015–2025
