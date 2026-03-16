@@ -90,7 +90,7 @@ Den är på sätt och vis ett mått på vår okunnighet eftersom vi inte vet exa
 
 Två exempel för att förklara konceptet:
 
-- Ett lands BNP växer med 2 procent. arbete och kapital växer också med 2 procent vardera. Då blir tillväxten i strukturproduktivitet noll. Ingenting händer utöver arbete och kapital. Detta kallas skalning.
+- Ett lands BNP växer med 2 procent. Arbete och kapital växer också med 2 procent vardera. Då blir tillväxten i strukturproduktivitet noll. Ingenting händer utöver arbete och kapital. Detta kallas skalning.
 
 - Japans BNP växer med 0.7%. Arbete minskar med 0.7% och kapital växer med 0.4% (bägge under BNP tillväxten). Strukturproduktiviteten växer därför med 0.8%. Detta kallas förbättring.
 
@@ -119,7 +119,7 @@ Mer personligt så märker jag en brist på optimism och spänst när jag besök
 
 ² *Based on IMF research and publications, GDP per working-age population is frequently used as a more precise measure of economic performance than GDP per capita.* ⎼<span>&#127462;&#8203;&#127470;</span>. Detta är det mått jag använt i mina publikationer i åratal.
 
-³  Mer om strukturell produktivitet = TFP = Solow residual finns [här](https://en.wikipedia.org/wiki/Solow_residual).
+³  Mer om [strukturell produktivitet = TFP = Solow residual finns här](https://en.wikipedia.org/wiki/Solow_residual).
 
 ⁴ Den dynamiska justeringen har en liten (positiv) inverkan på Sverige, men har större (negativ) inverkan på snabbväxande länder som Kina. USA är neutralt.  
 
