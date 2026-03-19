@@ -3,45 +3,69 @@ title: "My Personal Legitimacy"
 description: "I asked ChatGPT and Gemini to assess my legitimacy so readers can judge my standing"
 image: /assets/social-card-think.png
 ---
-# My Personal Legitimacy
+# My Personal Legitimacy  
 
-I asked ChatGPT and Gemini to assess my legitimacy.
+## Experience  
+**Tellusant (2020-)**  
+Executive Chairman & Co-Founder  
+**Canback Consulting (2004-2020)**  
+Managing Director & Founder  
+**Monitor Company (1995-2003)**  
+Partner  
+**McKinsey & Company (1984-1995)**  
+Partner  
 
-## Professional Legitimacy
+## Education
+- Doctor of Business Administration - Henley Business School  
+- Master in Business Administration - Harvard Business School  
+- Master of Science in Electrical Engineering - KTH Royal Institute of Technology  
 
-TBD. For the time being, see [About](../about.md)
+## Awards
+- Fulbright Scholar  
+- Wallenberg Scholar  
+- EDAMBA: First Prize in best European doctoral dissertation in management, 2002  
 
-## Academic Legitimacy
+## Lived in  
+- United States  
+- Sweden  
+- Denmark
+- Mexico
+- United Kingdom
+- India
 
-From an academic perspective, Dr. Staffan Canback is best known for his work applying Transaction Cost Economics (TCE) to organizational structures, specifically focusing on the theoretical and empirical limits of how large a firm can grow (diseconomies of scale).  
+## Significant Clients
+Not including confidential Tellusant clients.
+|||
+|---|---|
+|ABB|Mastercard|
+|AB InBev|Mediclinic|
+|AT&T|Mondelez|
+|Colgate-Palmolive|Maersk|
+|Diageo|PepsiCo|
+|Distell|Pfizer|
+|Efes|Pohjola|
+|Electrolux|Procter & Gamble|
+|Ericsson|Saab|
+|Essity|Scandinavian Airlines|
+|FEMSA|SEB|
+|Fiskars|Skandia|
+|Gloria|Suntory|
+|Grupo Lala|Swedbank|
+|Hasselblad|Telia|
+|HSBC|T-Mobile|
+|Imperial Brands|USPS|
+|Kraft Heinz|Volvo|
+||Walmart|
 
-He has more than 750 academic, business, and media citations to his name. Here are the primary citations and publications associated with his work, which are frequently referenced in business and economic literature:  
+## Academic Publishing  
+41 contributions listed on Figshare. Notable:  
 
-### Key Publications & Citations
-#### 1. On the Limits of Firm Size (Most Cited Work)
-This is his seminal work, often cited in discussions regarding "diseconomies of scale" and why mega-corporations eventually face efficiency hurdles.  
+***Bureaucratic Limits of Firm Size***. Seminal work cited hundreds of times. On diseconomies of scale.  
 
-- **Citation**: Canbäck, S. (2002). *Bureaucratic Limits of Firm Size: Empirical Evidence from the U.S. Economy*. Henley Business Schoole / University of Reading.
-- **Key Concept**: He argues that while economies of scale exist, bureaucratic costs increase disproportionately as a firm grows, eventually negating the benefits of size. He draws heavily on the work of Oliver Williamson and Ronald Coase.  
+***The Logic of Management Consulting***. Most used course material at universities globally for consulting courses.  
 
-#### 2. On Management Consulting Theory
-Canbäck has written extensively on why management consulting exists as an industry from an economic perspective.  
+***Where in The World Is the Market?*** Demonstrates how to analyze global markets based on distributional economics.  
 
-- **Citation**: Canbäck, S. (1998). "*The Logic of Management Consulting (part 1)*." Journal of Management Consulting, 10(2), 3-11.  
-- **Citation**: Canbäck, S. (1999). "*The Logic of Management Consulting (Part 2)*." Journal of Management Consulting, 10(3).  
+## Citations
+More than 750 citations spanning academia, commerce, media, government, nonprofit.
 
-#### 3. Transaction Cost Theory Applications
-
-- **Citation**: Canbäck, S. (2005). "*Transaction Cost Theory and Management Consulting*." In Structure and Dynamics in the Management of the 21st Century.  
-- **Abstract**: This work analyzes the existence of management consulting firms through the lens of transaction costs—specifically, why firms choose to "buy" knowledge externally rather than "make" it internally.  
-
-#### 4. Other Notable Papers/Working Papers
-
-**Citation**: Canbäck, S., Samouel, P., & Price, D. (2006). "Do Diseconomies of Scale Impact Firm Size and Performance? A Theoretical and Empirical Overview." Journal of Managerial Economics, 4(1).  
-
-### Context for Researchers
-If you are using these citations for academic research, Staffan Canbäck is typically referenced in the following contexts:  
-
-**Oliver Williamson / Ronald Coase studies**: Testing the real-world application of their theories.  
-**Diseconomies of Scale**: Arguments against the "bigger is better" philosophy in M&A (Mergers and Acquisitions).  
-**Make-or-Buy Decisions**: Specifically related to professional services and consulting.  
