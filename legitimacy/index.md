@@ -58,11 +58,11 @@ Not including confidential Tellusant clients.
 ||Walmart|
 
 ## Academic Publishing  
-41 contributions listed on Figshare. Notable:  
+[41 contributions listed on Figshare](https://figshare.com/authors/Staffan_Canback/20547296). Notable:  
 
-***Bureaucratic Limits of Firm Size***. Seminal work cited hundreds of times. Doctoral resarch on diseconomies of scale in large enterprises.  
+***[Bureaucratic Limits of Firm Size](../papers/Canback-Bureaucratic-Limits-of-Firm-Size-Doctoral-Dissertation.pdf)***. Seminal work cited hundreds of times. Doctoral resarch on diseconomies of scale in large enterprises.  
 
-***The Logic of Management Consulting [Part 1](Canback-The-Logic-of-Management-Consulting-Part-1.pdf) & [Part 2](Canback-The-Logic-of-Management-Consulting-Part-2.pdf)***. Most used course material at universities globally for consulting courses.  
+***The Logic of Management Consulting [Part 1](../papers/Canback-The-Logic-of-Management-Consulting-Part-1.pdf) & [Part 2](../papers/Canback-The-Logic-of-Management-Consulting-Part-2.pdf)***. Most used course material at universities globally for consulting courses.  
 
 [***Where in The World Is the Market?***](../papers/Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf) Demonstrates how to analyze global markets based on distributional economics.  
 
