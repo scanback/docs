@@ -61,6 +61,7 @@ Not including confidential Tellusant clients.
 |Kraft Heinz|Volvo|
 ||Walmart|
 
+
 ## Academic Publishing  
 [41 contributions listed on Figshare](https://figshare.com/authors/Staffan_Canback/20547296). Notable:  
 
