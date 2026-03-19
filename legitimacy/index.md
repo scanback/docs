@@ -62,10 +62,10 @@ Not including confidential Tellusant clients.
 
 ***Bureaucratic Limits of Firm Size***. Seminal work cited hundreds of times. Doctoral resarch on diseconomies of scale in large enterprises.  
 
-***The Logic of Management Consulting***. Most used course material at universities globally for consulting courses.  
+***The Logic of Management Consulting [Part 1](Canback-The-Logic-of-Management-Consulting-Part-1.pdf) & [Part 2](Canback-The-Logic-of-Management-Consulting-Part-2.pdf)***. Most used course material at universities globally for consulting courses.  
 
-***Where in The World Is the Market?*** Demonstrates how to analyze global markets based on distributional economics.  
+[***Where in The World Is the Market?***](../papers/Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf) Demonstrates how to analyze global markets based on distributional economics.  
 
 ## Citations
-More than 750 citations spanning academia, commerce, media, government, nonprofit.
+More than [750 personal citations](../citations/index.md) spanning academia, commerce, media, government, nonprofit.
 
