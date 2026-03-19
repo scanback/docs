@@ -1,10 +1,10 @@
 ---
 title: "My Personal Legitimacy"
-description: "I asked ChatGPT and Gemini to assess my legitimacy so readers can judge my standing"
+description: "To understand whether SCANBACK think is worth exploring, hear is my legitimacy."
 image: /assets/social-card-think.png
 ---
 # My Personal Legitimacy  
-
+To understand whether **SCANBACK** ***think*** is worth exploring, hear is my legitimacy.
 ## Experience  
 **Tellusant (2020-)**  
 Executive Chairman & Co-Founder  
