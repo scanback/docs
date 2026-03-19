@@ -39,7 +39,7 @@ Partner
 ## Significant Clients
 Not including confidential Tellusant clients.   
 | | |
-|---|---|
+|----------|----------|
 |ABB|Mastercard|
 |AB InBev|Mediclinic|
 |AT&T|Mondelez|
