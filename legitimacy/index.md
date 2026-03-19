@@ -60,7 +60,7 @@ Not including confidential Tellusant clients.
 ## Academic Publishing  
 41 contributions listed on Figshare. Notable:  
 
-***Bureaucratic Limits of Firm Size***. Seminal work cited hundreds of times. On diseconomies of scale.  
+***Bureaucratic Limits of Firm Size***. Seminal work cited hundreds of times. Doctoral resarch on diseconomies of scale in large enterprises.  
 
 ***The Logic of Management Consulting***. Most used course material at universities globally for consulting courses.  
 
