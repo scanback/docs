@@ -8,10 +8,13 @@ To understand whether **SCANBACK** ***think*** is worth exploring, hear is my le
 ## Experience  
 **Tellusant (2020-)**  
 Executive Chairman & Co-Founder  
+
 **Canback Consulting (2004-2020)**  
 Managing Director & Founder  
+
 **Monitor Company (1995-2003)**  
 Partner  
+
 **McKinsey & Company (1984-1995)**  
 Partner  
 
@@ -34,8 +37,8 @@ Partner
 - India
 
 ## Significant Clients
-Not including confidential Tellusant clients.
-|||
+Not including confidential Tellusant clients.   
+| | |
 |---|---|
 |ABB|Mastercard|
 |AB InBev|Mediclinic|
