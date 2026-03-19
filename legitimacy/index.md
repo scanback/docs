@@ -72,5 +72,5 @@ Not including confidential Tellusant clients.
 [***Where in The World Is the Market?***](../papers/Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf) Demonstrates how to analyze global markets based on distributional economics.  
 
 ## Citations
-More than [750 personal citations](../citations/index.md) spanning academia, commerce, media, government, nonprofit.
+More than [750 citations](../citations/index.md) spanning academia, commerce, media, government, nonprofit.
 
