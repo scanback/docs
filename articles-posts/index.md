@@ -6,7 +6,7 @@ I have hundreds of LinkedIn and Medium articles and posts that are lost because 
 #### [The Nexus Organization: A New Way to Organize Enterprises](nexus-organization.md)
 tbd
 
-#### [The Fabric of Executive Teams: A Quantification](fabric-of-executive-teams.md)
+#### [The Fabric of Executive Teams: Quantified Tenure, Education and Gender Metrics](fabric-of-executive-teams.md)
 What is the composition of executive teams in the United States? A few years ago I took a look at 844 senior executives of the 50 largest U.S. companies.
 
 #### [Google Trends Analysis of AI, Sports and More in the United States](google-trends.md)
