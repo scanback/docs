@@ -4,11 +4,6 @@
 
 # The Nexus Organization: The 4th Wave of Corporate Structure
 
-WORK-IN-PROGRESS
-
-
-s.canback-nexus-organization-matrix
-
 Since the advent of the large corporation in the 1850s, companies have evolved their organizational structures to meet the requirements of higher competencies, globalization, diversification, and automation.
 
 This article discusses how this evolution happened, with a focus on the latest innovation, the nexus organization.
@@ -17,28 +12,33 @@ A key aspect of the nexus organization is that a company is more than the incorp
 
 Below is a graph with the four dominant forms of organizational structure plotted over time for large companies (>20,000 employees). The vertical axis shows the share of each form based on my survey of academic literature and personal observations.
 
+<p align="center"><strong></b>ORGANIZATIONAL ERAS</strong></p>
 <p align="center">
-<img  src="assets/images/nexus/s.canback-nexus-organization-eras.svg" width="600" alt="banner">
+<img  src="assets/images/nexus/s.canback-nexus-organization-eras.svg" width="550" alt="banner">
 </p>
 
 Before discussing the characteristics of the nexus organization, I review the three preceding forms: functional, multi-divisional, and matrix organizations.
 
-## Functional organization
+## Functional Organization
 In the 1850s, organization as we think of it today was innovated at the the newly formed transcontinental railroad companies. There was a need for coordination and specialization of people at a scale not seen in the earlier days of industrialism.
 
-[g]
+<p align="center">
+<img  src="assets/images/nexus/s.canback-nexus-organization-functional.svg" width="400" alt="banner">
+</p>
 
 The benefits of functional organization were immense. But it made companies rigid. It was hard to add products and coordination between departments was increasingly difficult as companies grew. Also, a functional organization by definition only integrates revenue and cost into profits at the CEO level.
 
 Still, functional organizations monopolized management thinking for 70 years,
 
-## Multi-divisional organization
+## Multi-Divisional Organization
 
 In 1919, Alfred Sloan, then a second level executive at General Motors, wrote what is arguably the most influential business text ever: the "Organization Study."²
 
 He argued to his fellow GM executives that the company should adopt a multi-divisional form (M-form) of organization. Each division would be a profit center.
 
-[g]
+<p align="center">
+<img  src="assets/images/nexus/s.canback-nexus-organization-multidivisional.svg" width="400" alt="banner">
+</p>
 
 GM adopted M-form in 1921 and changed from chaos to order. It quickly overtook Ford as the largest automotive company.
 
@@ -46,19 +46,21 @@ The benefits of M-form were evident not only to GM, but to large companies aroun
 
 The main reason was the effect on profitability. It has been estimated that M-form has a 2 percentage point advantage over functional form in return on equity, If ROE is 10% for functional form, this is a 20% advantage. An astronomical number in competitive markets.
 
-## Matrix organization
+## Matrix Organization
 
 M-form had its limitations though. As companies grew into multinationals, they started having three dimensions: a new geographic dimension, the product dimension, and the functional dimension. Needs for coordination increased.
 
 The solution was the matrix organization which became popular in the 1970s, and still is. Matrixes are much maligned, but as one observer said: "no one talks about matrixes, but most large companies have them." Below is one variant of the matrix (there are others).
 
-[g]
+<p align="center">
+<img  src="assets/images/nexus/s.canback-nexus-organization-matrix.svg" width="400" alt="banner">
+</p>
 
 The matrix allows for better coordination and use of resources. But it comes at cost. The matrix succeeds only if managerial skills are built to work in an ambiguous setting where people report in several directions. Building such skills is difficult.
 
 Nevertheless, almost all global companies are organized in some form of matrix today. Sometimes the dominant dimension is the product, other times geography, seldom is it function.
 
-## Nexus organization
+## Nexus Organization
 
 In 1976, Michael Jensen and William Meckling introduced the notion of the firm as a nexus of contracts in one of the top 5 most-read economics papers ever.³ It is theoretical and took some time to be converted into language and ideas useful to management teams.
 
@@ -72,13 +74,15 @@ It is the task of senior management to optimize those contracts so that a) the m
 
 The graph below shows that the nexus corporation itself, but as the nexus of all the expertise available to it.
 
-[g]
+<p align="center">
+<img  src="assets/images/nexus/s.canback-nexus-organization-nexus.svg" width="400" alt="banner">
+</p>
 
 Importantly, professional services firms are key to maximizing corporate performance. For example, the old mindset of "real companies do things themselves, we do not use consultants" is fading and only laggard companies think like this nowadays.
 
 The new paradigm is instead: "we do as little as possible internally and weave professional services firms into our fabric when they provide skill or other advantages." Hence the incredible growth of professional services since 1980--much higher than in, for example, the tech sector.
 
-### Benefits and drawbacks
+### Benefits and Drawbacks
 
 The nexus organization carries major benefits:  
 
@@ -97,7 +101,7 @@ Rather than endlessly debating whether unit A should report to Division B or Geo
 
 This last point is of utmost importance. While no respectable professional services firm allows client information to be shared outside the client service team. However, they tend to share generalized ideas internally, and good ideas later show up at competitors. The nexus company seeking true competitive advantage needs to make sure this does not happen.
 
-### Implications from my vantage point
+### Implications from my Vantage Point
 
 I have 34 years of management consulting experience and have by now seen most management issues one can think of. I am struck by the variability in nexus thinking.
 
