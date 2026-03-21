@@ -4,9 +4,7 @@ I have hundreds of LinkedIn and Medium articles and posts that are lost because 
 ## Recent
 
 #### [The Nexus Organization: The 4th Wave of Corporate Structure](nexus-organization.md)
-Since the advent of the large corporation in the 1850s, companies have evolved their organizational structures to meet the requirements of higher competencies, globalization, diversification, and automation.
-
-This article discusses how this evolution happened, with a focus on the latest innovation, the nexus organization.
+Since the advent of the large corporation in the 1850s, companies have evolved their organizational structures to meet the requirements of higher competencies, globalization, diversification, and automation. This article discusses how this evolution happened, with a focus on the latest innovation, the nexus organization.
 
 #### [The Fabric of Executive Teams: Quantified Tenure, Education and Gender Metrics](fabric-of-executive-teams.md)
 What is the composition of executive teams in the United States? A few years ago I took a look at 844 senior executives of the 50 largest U.S. companies.
