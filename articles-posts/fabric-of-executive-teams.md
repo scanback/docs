@@ -6,7 +6,9 @@ image: /assets/social-card-think.png
 
 # The Fabric of Executive Teams: A Quantification
 
-What is the composition of executive teams in the United States? A few years ago I took a look at 844 senior executives of the 50 largest companies in the United States. The analysis covers:
+What is the composition of executive teams in the United States? A few years ago I took a look at 844 senior executives of the 50 largest companies in the United States. I doubt there has been major collective change since, but individual companies have moved. 
+
+The analysis covers:
 
 - Tenure with company
 - Educational background
