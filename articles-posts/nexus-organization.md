@@ -1,8 +1,12 @@
+<p align="center">
+<img  src="assets/images/nexus/s.canback-nexus-organization-banner.jpg" width="500" alt="banner">
+</p>
+
 # The Nexus Organization: The 4th Wave of Corporate Structure
 
 WORK-IN-PROGRESS
 
-[g]
+
 s.canback-nexus-organization-matrix
 
 Since the advent of the large corporation in the 1850s, companies have evolved their organizational structures to meet the requirements of higher competencies, globalization, diversification, and automation.
@@ -13,7 +17,9 @@ A key aspect of the nexus organization is that a company is more than the incorp
 
 Below is a graph with the four dominant forms of organizational structure plotted over time for large companies (>20,000 employees). The vertical axis shows the share of each form based on my survey of academic literature and personal observations.
 
-[g]
+<p align="center">
+<img  src="assets/images/nexus/s.canback-nexus-organization-eras.svg" width="600" alt="banner">
+</p>
 
 Before discussing the characteristics of the nexus organization, I review the three preceding forms: functional, multi-divisional, and matrix organizations.
 
