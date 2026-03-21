@@ -7,7 +7,7 @@ image: /assets/social-card-think.png
 # The Fabric of Executive Teams: A Quantification
 
 <p align="center">
-<img  src="assets/images/fabric/banner.jpg" width="400" alt="banner">
+<img  src="assets/images/fabric/s.canback-fabric-of-executive-teams-banner.svg" width="400" alt="banner">
 </p>
 
 What is the composition of executive teams in the United States? A few years ago I took a look at 844 senior executives of the 50 largest companies in the United States. I doubt there has been major collective change since, but individual companies have moved. 
@@ -28,7 +28,7 @@ In my [doctoral dissertation](https://bura.brunel.ac.uk/bitstream/2438/9030/1/Fu
 Below is a histogram with the average tenure of executive teams.
 
 <p align="center">
-<img  src="assets/images/fabric/tenure.jpg" width="600" alt="tenure">
+<img  src="assets/images/fabric/s.canback-fabric-of-executive-teams-tenure.svg" width="600" alt="tenure">
 </p>
 
 Among the 50 companies, the vast majority have reasonable average tenure. But the boards of, e.g., Procter & Gamble and ExxonMobil should ask themselves if they are remiss in monitoring the tenure dimension.
@@ -40,7 +40,7 @@ Not surprisingly, having a well educated work force pays off. This should also h
 While just about all senior executives hold at least a bachelor's degree, they have attended universities that differ widely in global rankings as seen in the graph below. We tagged matched each executive's university against the renowned Top 500 University ranking of [ARWU Shanghai Ranking](https://www.shanghairanking.com/rankings/arwu/2025).²
 
 <p align="center">
-<img  src="assets/images/fabric/education.jpg" width="600" alt="education">
+<img  src="assets/images/fabric/s.canback-fabric-of-executive-teams-education.svg" width="600" alt="education">
 </p>
 
 Is there a plan behind having executives from higher or lower ranked universities? Most likely not, but there should be. Many companies talk about winning based on intellectual capital, and this presumably requires having executives from higher ranked universities. Otherwise, it will be hard to recruit talented people from top universities.
@@ -53,7 +53,7 @@ There is more and more evidence suggesting that equal gender balance in executiv
 Below is a histogram with the percent of women at the 50 companies. Overall, the share of women remains low. Presumably, if there are companies with no women at the top, there should also exist companies with all women at the top. What we have is a maximum of 45% women.
 
 <p align="center">
-<img  src="assets/images/fabric/gender.jpg" width="600" alt="gender">
+<img  src="assets/images/fabric/s.canback-fabric-of-executive-teams-gender.svg.jpg" width="600" alt="gender">
 </p>
 
 At around 1/3 of the companies women are severely underrepresented at senior levels. The dotted curve shows what the female representation should be under equality (peaking at 50% to the right of the graph). It is sad, but not surprising. It to see a photo on one company website with 5 people, a tall man in the middle flanked by two women on each side. This company is among the lower bins above.
