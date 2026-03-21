@@ -1,6 +1,6 @@
 ---
 title: "The Fabric of Executive Teams: A Quantification"
-description: "What is the composition of executive teams in the United States? A few years ago I took a look at 844 senior executives of the 50 largest companies in the United States."
+description: "What is the composition of executive teams in the United States? A few years ago I took a look at 844 senior executives of the 50 largest U.S. companies."
 image: /assets/social-card-think.png
 ---
 
@@ -72,4 +72,5 @@ The composition of executive teams is a strategic issue spanning the entire comp
 ³ People should work where their skills and education add the most value. For graduates from top-ranked schools, this usually does not mean joining companies in mature industries.
 ¹²³
 
-[2018-02-20]
+[2018-02-20]  
+[Find more articles and posts](index.md)
