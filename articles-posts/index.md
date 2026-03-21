@@ -3,7 +3,10 @@ I have hundreds of LinkedIn and Medium articles and posts that are lost because 
 
 ## Recent
 
-#### [Google Trends Analysis of AI, Sports, and More in the United States](google-trends.md)
+#### [The Fabric of Executive Teams: A Quantification](fabric-of-executive-teams.md)
+What is the composition of executive teams in the United States? A few years ago I took a look at 844 senior executives of the 50 largest U.S. companies.
+
+#### [Google Trends Analysis of AI, Sports and More in the United States](google-trends.md)
 In less than five years, AI and its key players have catapulted to the top of Google search rankings. How large the surge has been becomes clear when looking at Google Trends data for the United States.
 
 #### [South Africa Economic Sentiment Analysis Using AI](economic-sentiment-zaf.md)
