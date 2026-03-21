@@ -1,5 +1,10 @@
+---
+title: "The Fabric of Executive Teams: A Quantification"
+description: "What is the composition of executive teams in the United States? A few years ago I took a look at 844 senior executives of the 50 largest companies in the United States."
+image: /assets/social-card-think.png
+---
 
-# The Fabric of Executive Teams
+# The Fabric of Executive Teams: A Quantification
 
 What is the composition of executive teams in the United States? A few years ago I took a look at 844 senior executives of the 50 largest companies in the United States. The analysis covers:
 
