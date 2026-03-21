@@ -60,7 +60,7 @@ At around 1/3 of the companies women are severely underrepresented at senior lev
 
 <p align="center">— — —</p>
 
-The resource-based view of the firm is becoming more and more dominant in strategic thinking. One aspect of RBV is how to optimize senior executive resources. This article puts metrics against this.
+The [resource-based view of the firm](https://en.wikipedia.org/wiki/Resource-based_view) is becoming more and more dominant in strategic thinking. One aspect of RBV is how to optimize senior executive resources. This article puts metrics against this.
 
 The composition of executive teams is a strategic issue spanning the entire company, and should not only be seen as a functional human resource issue.
 
