@@ -18,15 +18,15 @@ This article shows how to perform semantic analysis of qualitative reports using
 #### [The Might of Nations](might-of-nations.md)
 With current geopolitical tensions, it is interesting to see how the might of nations has changed over time and where we are now. I use the concept of relative market share, translated to relative economic might, to show the trend.
 
+<br/>
+
+## Past
+
 #### [The Palmer Penguins and their Role in Business](palmer-penguins.md)
 Penguins are an unlikely influence on management science, but this dataset has had a profound impact on emerging business practices.  
 
 #### [Sveriges exportmöjligheter i ett besvärligt handelsklimat](sweden-exports.md)
 Hur ska ett exportberoende land som Sverige agera för att bibehålla och öka sin export? Artikeln ger ett djupt analytiskt perspektiv.
-
-<br/>
-
-## Past
 
 #### [The Triple-A Method for Market Sizing](triple-a.md)
 The Addressable – Available – Actual market sizing method provides a logical way to understand not only current market size, but also the latent market opportunities.  
