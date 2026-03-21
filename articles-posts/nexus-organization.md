@@ -12,7 +12,7 @@ A key aspect of the nexus organization is that a company is more than the incorp
 
 Below is a graph with the four dominant forms of organizational structure plotted over time for large companies (>20,000 employees). The vertical axis shows the share of each form based on my survey of academic literature and personal observations.
 
-<p align="center"><strong></b>ORGANIZATIONAL ERAS</strong></p>
+<p align="center"><strong>ORGANIZATIONAL ERAS</strong></p>
 <p align="center">
 <img  src="assets/images/nexus/s.canback-nexus-organization-eras.svg" width="550" alt="banner">
 </p>
