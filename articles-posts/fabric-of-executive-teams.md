@@ -37,7 +37,7 @@ Among the 50 companies, the vast majority have reasonable average tenure. But th
 
 Not surprisingly, having a well educated work force pays off. This should also hold for the educational background of senior executives.
 
-While just about all senior executives hold at least a bachelor's degree, they have attended universities that differ widely in global rankings as seen in the graph below. We tagged matched each executive's university against the renowned Top 500 University ranking of ARWU.²
+While just about all senior executives hold at least a bachelor's degree, they have attended universities that differ widely in global rankings as seen in the graph below. We tagged matched each executive's university against the renowned Top 500 University ranking of [ARWU Shanghai Ranking](https://www.shanghairanking.com/rankings/arwu/2025).²
 
 <p align="center">
 <img  src="assets/images/fabric/education.jpg" width="600" alt="education">
