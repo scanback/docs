@@ -2,6 +2,8 @@
 
 WORK-IN-PROGRESS
 
+[g]
+
 Since the advent of the large corporation in the 1850s, companies have evolved their organizational structures to meet the requirements of higher competencies, globalization, diversification, and automation.
 
 This article discusses how this evolution happened, with a focus on the latest innovation, the nexus organization.
