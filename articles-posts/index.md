@@ -3,7 +3,7 @@ I have hundreds of LinkedIn and Medium articles and posts that are lost because 
 
 ## Recent
 
-#### [The Fabric of Executive Teams: A Quantification](fabric-of-executive-teams)
+#### [The Fabric of Executive Teams: A Quantification](fabric-of-executive-teams,md)
 What is the composition of executive teams in the United States? A few years ago I took a look at 844 senior executives of the 50 largest companies in the United States.
 
 #### [Google Trends Analysis of AI, Sports, and More in the United States](google-trends.md)
