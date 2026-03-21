@@ -8,7 +8,7 @@ Since the advent of the large corporation in the 1850s, companies have evolved t
 
 This article discusses how this evolution happened, with a focus on the latest innovation, the nexus organization.
 
-A key aspect of the nexus organization is that a company is more than the incorporated unit. It is the collective competence of a) the company b) and the external advisers.* Some large companies understand this and take actions accordingly , but most do not.
+A key aspect of the nexus organization is that a company is more than the incorporated unit. It is the collective competence of a) the company b) and the external advisers.¹ Some large companies understand this and take actions accordingly , but most do not.
 
 Below is a graph with the four dominant forms of organizational structure plotted over time for large companies (>20,000 employees). The vertical axis shows the share of each form based on my survey of academic literature and personal observations.
 
@@ -27,7 +27,7 @@ Still, functional organizations monopolized management thinking for 70 years,
 
 ## Multi-divisional organization
 
-In 1919, Alfred Sloan, then a second level executive at General Motors, wrote what is arguably the most influential business text ever: the "Organization Study."**
+In 1919, Alfred Sloan, then a second level executive at General Motors, wrote what is arguably the most influential business text ever: the "Organization Study."²
 
 He argued to his fellow GM executives that the company should adopt a multi-divisional form (M-form) of organization. Each division would be a profit center.
 
@@ -53,7 +53,7 @@ Nevertheless, almost all global companies are organized in some form of matrix t
 
 ## Nexus organization
 
-In 1976, Michael Jensen and William Meckling introduced the notion of the firm as a nexus of contracts in one of the top 5 most-read economics papers ever.*** It is theoretical and took some time to be converted into language and ideas useful to management teams.
+In 1976, Michael Jensen and William Meckling introduced the notion of the firm as a nexus of contracts in one of the top 5 most-read economics papers ever.³ It is theoretical and took some time to be converted into language and ideas useful to management teams.
 
 I have been a management consultant since the 1980s and I started observing large companies thinking in nexus terms around the turn of the century. So what is it?
 
@@ -107,10 +107,13 @@ The nexus organization is here to stay. It today represents around 15% of large 
 Senior executives at large corporations, as well as partners at professional services firms, are advised to pay attention to this development and to act deliberately to optimize the benefits of managing the nexus of contracts.
 
 ---
-* Suppliers and distributors also play a role, but less so.
+¹ Suppliers and distributors also play a role, but less so.
 
-** 1) Sloan could not recall if he wrote the memo in December 1919 or January 1920 when he wrote his memoir. 2) Beyond leading GM for many years, MIT's business school is named in his honor.
+² 1) Sloan could not recall if he wrote the memo in December 1919 or January 1920 when he wrote his memoir. 2) Beyond leading GM for many years, MIT's business school is named in his honor.
 
-*** Jensen and Meckling (1976): Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure. Journal of Financial Economics: Volume 3, Issue 4, Pages 305-360. "Nexus of contracts" now gives 91,000 Google hits.
+³ Jensen and Meckling (1976): Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure. Journal of Financial Economics: Volume 3, Issue 4, Pages 305-360. "Nexus of contracts" now gives 91,000 Google hits.
+
+¹²³⁴
+
 
 Note: this article builds on various parts of my academic research and my experience as a management consultant to large corporations.
