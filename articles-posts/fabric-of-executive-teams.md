@@ -23,7 +23,7 @@ These three dimensions have an impact on company profitability and growth.
 ## Tenure
 Bureaucratic insularity among executives is one of the four contributors to diseconomies of scale in management. Insularity means that executives are inward looking and do not have a full appreciation of customer and competitive dynamics.
 
-In my doctoral dissertation, I found that how long executives have been with a company is a strong indicator of this insularity. It affects both growth and profitability negatively beyond a certain tenure average executive team tenure.¹
+In my [doctoral dissertation](https://bura.brunel.ac.uk/bitstream/2438/9030/1/FullTextThesis.pdf), I found that how long executives have been with a company is a strong indicator of this insularity. It affects both growth and profitability negatively beyond a certain tenure average executive team tenure.¹
 
 Below is a histogram with the average tenure of executive teams.
 
