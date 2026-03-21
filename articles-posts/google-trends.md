@@ -4,7 +4,7 @@ description: "In less than five years, AI and its key players have catapulted to
 image: /assets/social-card-think.png
 ---
 
-# Google Trends Analysis of AI, Sports, and More in the United States
+# Google Trends Analysis of AI, Sports and More in the United States
 In less than five years, AI and its key players have catapulted to the top of Google search rankings.
 How large the surge has been becomes clear when looking at Google Trends data for the United States. In my analysis, only YouTube and (American) football surpass AI.
 
