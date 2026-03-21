@@ -122,7 +122,7 @@ Senior executives at large corporations, as well as partners at professional ser
 
 ² 1) Sloan could not recall if he wrote the memo in December 1919 or January 1920 when he wrote his memoir. 2) Beyond leading GM for many years, MIT's business school is named in his honor.
 
-³ Jensen and Meckling (1976): Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure. Journal of Financial Economics: Volume 3, Issue 4, Pages 305-360. "Nexus of contracts" now gives 91,000 Google hits.
+³ Jensen and Meckling (1976): Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure. Journal of Financial Economics: Volume 3, Issue 4, Pages 305-360. "Nexus of contracts" now gives 121,000 Google hits.
 
 ¹²³⁴
 
