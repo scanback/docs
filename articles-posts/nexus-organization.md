@@ -3,6 +3,7 @@
 WORK-IN-PROGRESS
 
 [g]
+s.canback-nexus-organization-matrix
 
 Since the advent of the large corporation in the 1850s, companies have evolved their organizational structures to meet the requirements of higher competencies, globalization, diversification, and automation.
 
