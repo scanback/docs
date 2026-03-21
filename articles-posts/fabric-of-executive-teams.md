@@ -1,10 +1,10 @@
 ---
-title: "The Fabric of Executive Teams: A Quantification"
+title: "The Fabric of Executive Teams: Quantified Tenure, Education and Gender Metrics"
 description: "What is the composition of executive teams in the United States? A few years ago I took a look at 844 senior executives of the 50 largest U.S. companies."
 image: /assets/social-card-think.png
 ---
 
-# The Fabric of Executive Teams: A Quantification
+# The Fabric of Executive Teams: Quantified Tenure, Education and Gender Metrics
 
 <p align="center">
 <img  src="assets/images/fabric/s.canback-fabric-of-executive-teams-banner.svg" width="400" alt="banner">
