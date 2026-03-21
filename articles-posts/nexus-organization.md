@@ -111,7 +111,7 @@ Sophisticated clients have a different mindset. They think long and hard about h
 
 The latter approach is much more powerful than the former. When I think about where I want to add value, those are the companies I prioritize.
 
-<p align="center"><strong></b>— — —</strong></p>
+<p align="center"><strong>— — —</strong></p>
 
 The nexus organization is here to stay. It today represents around 15% of large companies, but the development has only started.
 
