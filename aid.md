@@ -5,7 +5,8 @@
 $$y = \frac{x - x_{\min}}{x_{\max} - x_{\min}} \cdot (y_{\max} - y_{\min}) + y_{\min}$$  
 
 <p align="center">
-if this is for regression purposes, consider logit  
+if this is for regression purposes, consider logit:
+<br/>
 create odds function z=y/(1-y)  
 </p>
 
@@ -34,5 +35,5 @@ $$c=-a=y_{\min}-y_{\max}$$
 $$d=x_{\max}-x_{\min}-x_{\max}y_{\min}+x_{\min}y_{\max}$$  
 
 <p align="center">
-take logarithm of this to get logit
+take logarithm of z to get logit
 </p>
