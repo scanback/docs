@@ -1,6 +1,6 @@
 # Method aid etc.
 
-#### Spread x interval over y interval (rescaling):  
+### Spread x interval over y interval (rescaling):  
 
 $$y = \frac{x - x_{\min}}{x_{\max} - x_{\min}} \cdot (y_{\max} - y_{\min}) + y_{\min}$$  
 
