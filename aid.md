@@ -1,6 +1,16 @@
-# Method aid etc.
+# Methods aid etc.
 
-### Spread x interval over y interval (rescaling):  
+## The General Linear Forecasting Model
+
+This is the equation for a "raw" regression:
+
+$$\Delta y_t= \alpha+ \sum_{k \in \mathcal{LF}} \beta_k(L)\,\Delta x_{k,t}+ \sum_{j \in \mathcal{HF}} \gamma_j(L)\,w_{j,t}+ u_t,\quad u_t \sim \text{ARIMA}$$
+
+I prefer to run a detrended, stationary model in differences which has a slight modification in the timeseries part:
+
+$$\Delta y_t= \alpha+ \sum_{k \in \mathcal{LF}} \beta_k(L)\,\Delta x_{k,t}+ \sum_{j \in \mathcal{HF}} \gamma_j(L)\,w_{j,t}+ u_t,\quad u_t \sim \text{ARMA}$$
+
+## Spread x interval over y interval (rescaling):  
 
 $$y = \frac{x - x_{\min}}{x_{\max} - x_{\min}} \cdot (y_{\max} - y_{\min}) + y_{\min}$$  
 
