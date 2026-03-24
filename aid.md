@@ -2,6 +2,13 @@
 
 ## The General Linear Forecasting Model for Demand
 
+<p align="center">
+<figure>
+<img  src="assets/images/tellusant-general-demand-equation.svg" width="500" alt="Equation">
+<figcaption class="unseen">General Linear Forecasting Model</figcaption>
+</figure>
+</p>
+
 tellusant-general-demand-equation.svg
 
 This is the equation for a "raw" regression:
