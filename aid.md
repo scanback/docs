@@ -2,6 +2,15 @@
 
 ## The General Linear Forecasting Model for Demand
 
+<p align="center">
+<figure>
+<img  src="assets/images/tellusant-general-demand-equation.svg" width="500" alt="Equation">
+<figcaption class="unseen">General Linear Forecasting Model</figcaption>
+</figure>
+</p>
+
+tellusant-general-demand-equation.svg
+
 This is the equation for a "raw" regression:
 
 $$\Delta y_t= \alpha+ \sum_{k \in \mathcal{LF}} \beta_k(L)\,\Delta x_{k,t}+ \sum_{j \in \mathcal{HF}} \gamma_j(L)\,w_{j,t}+ u_t,\quad u_t \sim \text{ARIMA(p,d,q)}$$
