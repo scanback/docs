@@ -16,7 +16,7 @@ Note that *LF* or *HF* coefficients may be calculated in a separate model and el
 
 These are ARIMAX equations, but with a clear distinction between long-term and short-term independent variables.
 
-Once one of this basic equations are understood
+Once one of this basic equations are understood, more complex models may be pursued.
 
 ## Spread x interval over y interval (rescaling):  
 
