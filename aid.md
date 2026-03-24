@@ -1,4 +1,4 @@
-# Methods aid etc.
+# Methods Aid etc.
 
 ## The General Linear Forecasting Model for Demand
 
