@@ -10,7 +10,13 @@ I prefer to run a detrended, stationary model in differences which has a slight 
 
 $$\Delta y_t= \alpha+ \sum_{k \in \mathcal{LF}} \beta_k(L)\,\Delta x_{k,t}+ \sum_{j \in \mathcal{HF}} \gamma_j(L)\,w_{j,t}+ u_t,\quad u_t \sim \text{ARMA(p,q)}$$
 
+*(L)* means that a lag term may be included. *LF* = Low frequency (long-term influences on demand) such as population growth; *HF* = High Frequency (short-term influences on demand) such as unemployment. Price often shows up as both *LF* and *HF*  with *HF* usually more important.
+
+Note that *LF* or *HF* may coefficients may be calculated in a seprate model and elasticities then set as statics.
+
 These are ARIMAX equations, but with a clear distinction between long-term and short-term independent variables.
+
+Once one of this basic equations are understood
 
 ## Spread x interval over y interval (rescaling):  
 
