@@ -10,7 +10,7 @@ I prefer to run a detrended, stationary model in differences which has a slight 
 
 $$\Delta y_t= \alpha+ \sum_{k \in \mathcal{LF}} \beta_k(L)\,\Delta x_{k,t}+ \sum_{j \in \mathcal{HF}} \gamma_j(L)\,w_{j,t}+ u_t,\quad u_t \sim \text{ARMA(p,q)}$$
 
-These are ARIMAX equations.
+These are ARIMAX equations, but with a clear distinction between long-term and short-term independent variables.
 
 ## Spread x interval over y interval (rescaling):  
 
