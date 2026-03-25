@@ -56,3 +56,5 @@ $$d=x_{\max}-x_{\min}-x_{\max}y_{\min}+x_{\min}y_{\max}$$
 <p align="center">
 take logarithm of z to get logit
 </p>
+
+The steps with z are in practice unnecessary. It is better to create two colums. The first y, the second with y/(1-y). z folds this into one column, but what's the point. Columns are cheap.
