@@ -57,4 +57,4 @@ $$d=x_{\max}-x_{\min}-x_{\max}y_{\min}+x_{\min}y_{\max}$$
 take logarithm of z to get logit
 </p>
 
-The steps with z are in practice unnecessary. It is better to create two colums. The first with y, the second with logit(z)=ln(y/(1-y)). The shown z folds this into one column, but what's the point. Columns are cheap.
+The steps with z are in practice unnecessary. It is better to create two colums. The first with y, the second with logit(z)=ln(y/(1-y)). The shown z folds this into one column, but what's the point? Columns are cheap.
