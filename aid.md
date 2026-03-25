@@ -1,31 +1,23 @@
 # Methods Aid Etc.
 
-## The General Linear Forecasting Model for Demand
+## The General Linear Forecasting Model for Demand  
+This is the equation for a "raw" regression:  
 
-<p align="center">
-<figure>
-<img  src="assets/images/tellusant-general-demand-equation.svg" width="500" alt="Equation">
-<figcaption class="unseen">General Linear Forecasting Model</figcaption>
-</figure>
-</p>
+$$(1) \quad \Delta y_t= \alpha+ \sum_{k \in \mathcal{LF}} \beta_k(L)\,\Delta x_{k,t}+ \sum_{j \in \mathcal{HF}} \gamma_j(L)\,\Delta w_{j,t}+ u_t,\quad u_t \sim \text{ARIMA(p,d,q)}$$  
 
-tellusant-general-demand-equation.svg
+We often prefer to run a de-trended, stationary model in differences which has a slight modification in the timeseries part:  
 
-This is the equation for a "raw" regression:
+$$(2) \quad \Delta y_t= \alpha+ \sum_{k \in \mathcal{LF}} \beta_k(L)\,\Delta x_{k,t}+ \sum_{j \in \mathcal{HF}} \gamma_j(L)\,w_{j,t}+ u_t,\quad u_t \sim \text{ARMA(p,q)}$$  
 
-$$\Delta y_t= \alpha+ \sum_{k \in \mathcal{LF}} \beta_k(L)\,\Delta x_{k,t}+ \sum_{j \in \mathcal{HF}} \gamma_j(L)\,w_{j,t}+ u_t,\quad u_t \sim \text{ARIMA(p,d,q)}$$
+*(L)* means that a lag term may be included. *LF* = Low frequency (long-term influences on demand) such as population growth; *HF* = High frequency (short-term influences on demand) such as unemployment. Price often shows up as both *LF* and *HF*  with *HF* usually more important.  
 
-I prefer to run a detrended, stationary model in differences which has a slight modification in the timeseries part:
+Note the subtle variations: *(1)* has *Δw* while (2) has *w* since it is already differenced. *(1)* has *ARIMA(p,d,q)* while (2) has *ARMA(p,q)* since *d* disappears when differencing.  
 
-$$\Delta y_t= \alpha+ \sum_{k \in \mathcal{LF}} \beta_k(L)\,\Delta x_{k,t}+ \sum_{j \in \mathcal{HF}} \gamma_j(L)\,w_{j,t}+ u_t,\quad u_t \sim \text{ARMA(p,q)}$$
+Note that *LF* or *HF* coefficients may be calculated in a separate model and elasticities then set as static.
 
-*(L)* means that a lag term may be included. *LF* = Low frequency (long-term influences on demand) such as population growth; *HF* = High Frequency (short-term influences on demand) such as unemployment. Price often shows up as both *LF* and *HF*  with *HF* usually more important.
+These are ARIMAX equations, but with a clear distinction between long-term and short-term independent variables and the timeseries component.
 
-Note that *LF* or *HF* coefficients may be calculated in a separate model and elasticities then set as statics.
-
-These are ARIMAX equations, but with a clear distinction between long-term and short-term independent variables.
-
-Once one of this basic equations are understood, more complex models may be pursued.
+Do not use more advanced models such as ECM / ARDL unless truly necessary. It quickly becomes analysis for its own sake with little value added and requires PhD expertise.
 
 ## Spread x interval over y interval (rescaling):  
 
@@ -64,3 +56,5 @@ $$d=x_{\max}-x_{\min}-x_{\max}y_{\min}+x_{\min}y_{\max}$$
 <p align="center">
 take logarithm of z to get logit
 </p>
+
+The steps with z are in practice unnecessary. It is better to create two colums. The first with y, the second with logit(z)=ln(y/(1-y)). The shown z folds this into one column, but what's the point? Columns are cheap.
