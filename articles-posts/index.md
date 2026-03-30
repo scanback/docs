@@ -3,7 +3,7 @@ I have hundreds of LinkedIn and Medium articles and posts that are lost because 
 
 ## Recent
 
-### [Should AI Be Cited? No. Should AI Be Mentioned? Yes.](ai-cite-mention.md))
+### [Should AI Be Cited? No. Should AI Be Mentioned? Yes.](ai-cites-mentions.md)
 Two tips on how to make your AI use known.
 
 ### [The Nexus Organization: The 4th Wave of Corporate Structure](nexus-organization.md)
