@@ -8,7 +8,7 @@ When writing or analyzing in collaboration with AI, I recommend these simple pra
     - AI was used for brainstorming.  
     - AI was used for spelling and grammar editing, but not document structure or tone.  
     - AI was used to generate all text.  
-or
-  - AI was not used.
 
-This is the honest aproach n 2026. In a few years these recommendations will look quaint because then it is assumed that everything except the creative process is AI.
+or write "AI was not used."
+
+This is the honest aproach in 2026. In a few years these recommendations will look quaint because then it will be assumed that everything except the creative process is AI.
