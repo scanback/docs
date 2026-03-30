@@ -1,3 +1,8 @@
+---
+title: "Should AI Be Cited? No. Should AI Be Mentioned? Yes."
+description: "When writing or analyzing in collaboration with AI, I recommend these simple practices."
+image: /assets/social-card-think.png
+---
 # Should AI Be Cited? No. Should AI Be Mentioned? Yes.
 
 When writing or analyzing in collaboration with AI, I recommend these simple practices.  
