@@ -16,6 +16,10 @@ When writing or analyzing in collaboration with AI, I recommend these simple pra
 
 3. Or write *AI was not used.*
 
+In the future, a simplied system may emerge such as:
+⓿ = No AI ❶ = Slight AI ❷ = Moderate AI ❸ = Deep AI
+
+
 The same applies to other uses of AI such as coding and quantitative analysis.
 
 This is the honest aproach in 2026. In a few years these recommendations will look quaint because then it will be assumed that everything except perhaps the creative process is AI.
