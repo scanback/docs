@@ -17,7 +17,7 @@ When writing or analyzing in collaboration with AI, I recommend these simple pra
 3. Or write *AI was not used.*
 
 In the future, a simplied system may emerge such as:  
-⓿ = No AI ❶ = Slight AI ❷ = Moderate AI ❸ = Deep AI
+⓪ = No AI &nbsp;&nbsp;&nbsp;&nbsp; ① = Slight AI &nbsp;&nbsp;&nbsp;&nbsp; ② = Moderate AI &nbsp;&nbsp;&nbsp;&nbsp; ③ = Deep AI
 
 
 The same applies to other uses of AI such as coding and quantitative analysis.
