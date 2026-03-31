@@ -5,7 +5,7 @@ image: /assets/social-card-think.png
 ---
 # Should AI Be Cited? No. Should AI Be Mentioned? Yes.
 
-When writing or analyzing in collaboration with AI, I recommend these simple practices.  
+When writing in collaboration with AI, I recommend these simple practices.  
 
 1. Never cite AI or refer to it as a source. Everything AI does is a derivative of other sources, so AI cannot be a source. You may ask it what the underlying source is, and then cite this.  
 
@@ -18,7 +18,6 @@ When writing or analyzing in collaboration with AI, I recommend these simple pra
 
 In the future, a simplied system may emerge such as:  
 ⓪ = No AI &nbsp;&nbsp;&nbsp;&nbsp; ① = Slight AI &nbsp;&nbsp;&nbsp;&nbsp; ② = Moderate AI &nbsp;&nbsp;&nbsp;&nbsp; ③ = Deep AI
-
 
 The same applies to other uses of AI such as coding and quantitative analysis.
 
