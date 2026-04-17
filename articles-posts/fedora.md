@@ -75,7 +75,7 @@ flowchart TD
     T -->|⠀if correct⠀| V
     O --> V
 
-linkStyle F stroke:transparent,stroke-width:0;
+linkStyle 10 stroke:blue,stroke-width:1;
 
 
 %% ========= STYLES =========
