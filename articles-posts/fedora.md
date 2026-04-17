@@ -14,43 +14,43 @@ flowchart TD
 
     A["`**New Beige Book Release**`"]:::blue
 
-    subgraph S1["`**1. Ingestion**`"]
+    subgraph S1["`***1. Ingestion***`"]
         B["`**Fetch Beige Book** (HTML / PDF)`"]
         C["`**Store Source & Metadata**`"]
     end
 
-    subgraph S2["`**2. Extraction**`"]
+    subgraph S2["`***2. Extraction***`"]
         D["`**Parse District Sections**`"]
         E["`**Extract First Sentences**`"]
         F["`**Extract Full District Text**`"]
     end
 
-    subgraph S3["3. Scoring"]
+    subgraph S3["***3. Scoring***"]
         G["`**Apply Growth LUT** (First Sentence)`"]
         H["`**Apply Semantic LUT** (Full Text)`"]
         I["`**Generate District Scores**`"]
     end
 
-    subgraph S4["`4. Aggregation`"]
+    subgraph S4["`***4. Aggregation***`"]
         J["`**Apply GDP Weights (from Workbook)**`"]
         K["`**Compute Metrics: Weighted Mean, DI, WDI**`"]
         L["`**Compute Semantic Indices**`"]
         M["`**Compute Composite Macro Index**`"]
     end
 
-    subgraph S5["`**5. Output**`"]
+    subgraph S5["`***5. Output***`"]
         N["`**Write to Workbook (Main, Semantic, History)**`"]
         O["`**Generate Tellusant Summary**`"]
         P["`**Generate Charts (Python)**`"]
         Q["`**Store Audit Trail**`"]
     end
 
-    subgraph S6["`**0. Automation**`"]
+    subgraph S6["`***0. Automation***`"]:::grey
         R["`**Scheduled Trigger (GitHub Actions)**`"]
         S["`**Check for New Release**`"]
     end
 
-    subgraph S7["`**6. Feedback Loop**`"]
+    subgraph S7["`***6. Feedback Loop***`"]
         T["`**Human Review**`"]:::green
         U["`**Update LUTs in Workbook**`"]
     end
