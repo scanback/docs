@@ -55,6 +55,8 @@ flowchart TD
         U["`**Update in Workbook**`"]:::base
     end
 
+        V["`**Human Review**`"]:::blue
+        
     R --> S --> A
     A --> B --> C --> D --> E
     D --> F
@@ -68,6 +70,7 @@ flowchart TD
     N --> P
     N --> Q
     Q --> T -->|⠀if error⠀| U --> G
+    T -->|⠀no error⠀| V
 
 %% ========= STYLES =========
 classDef green   fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
