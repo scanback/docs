@@ -45,12 +45,12 @@ flowchart TD
         Q["Store Audit Trail"]
     end
 
-    subgraph S6["6. Automation"]
+    subgraph S6["0. Automation"]
         R["Scheduled Trigger (GitHub Actions)"]
         S["Check for New Release"]
     end
 
-    subgraph S7["7. Feedback Loop"]
+    subgraph S7["6. Feedback Loop"]
         T["Human Review"]
         U["Update LUTs in Workbook"]
     end
