@@ -67,7 +67,7 @@ flowchart TD
     N --> O
     N --> P
     N --> Q
-    Q --> T --> U --> G
+    Q --> T -->|⠀if error⠀| U --> G
 
 %% ========= STYLES =========
 classDef green   fill:#E8F5E9,stroke:#1B5E20,stroke-width:2px,color:#111;
