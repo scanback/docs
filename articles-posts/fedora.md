@@ -74,8 +74,10 @@ flowchart TD
     Q --> T -->|⠀if error⠀| U --> G
     T -->|⠀if correct⠀| V
     O --> V
-
-linkStyle 10 stroke:blue,stroke-width:1;
+    
+linkStyle 24 stroke:blue,stroke-width:1;
+linkStyle 25 stroke:blue,stroke-width:1;
+linkStyle 26 stroke:blue,stroke-width:1;
 
 
 %% ========= STYLES =========
