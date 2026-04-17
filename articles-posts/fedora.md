@@ -12,7 +12,7 @@ How can a previously manual workflow be automated with AI and other components? 
 
 flowchart TD
 
-    A["`**New Beige Book Release**`"]
+    A["`**New Beige Book Release**`"]:::blue
 
     subgraph S1["1. Ingestion"]
         B["Fetch Beige Book (HTML / PDF)"]
