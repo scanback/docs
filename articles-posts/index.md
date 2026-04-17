@@ -3,6 +3,9 @@ I have hundreds of LinkedIn and Medium articles and posts that are lost because 
 
 ## Recent
 
+### [Semantic Analysis Wprkflow: The Fedora Example](fedora.md)
+How can a previously manual workflow be automated with AI and other components? I use our Fed Beige Book analysis as a case study to show the now automated workflow.
+
 ### [Should AI Be Cited? No. Should AI Be Mentioned? Yes.](ai-cites-mentions.md)
 Two tips on how to make your AI use known.
 
