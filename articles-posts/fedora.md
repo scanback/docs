@@ -12,61 +12,16 @@ How can a previously manual workflow be automated with AI and other components? 
 
 flowchart TD
 
-    A[New Beige Book Release]
+    A["New Beige Book Release"]
 
-           B[Fetch Beige Book (HTML / PDF)]
-        C[Store Source & Metadata]
+           B["Fetch Beige Book (HTML / PDF)"]
+        C["Store Source & Metadata"]
   
 
   
-        D[Parse District Sections]
-        E[Extract First Sentences]
-        F[Extract Full District Text]
- 
-
-
-        G[Apply Growth LUT (First Sentence)]
-        H[Apply Semantic LUT (Full Text)]
-        I[Generate District Scores]
-   
-
-
-        J[Apply GDP Weights (from Workbook)]
-        K[Compute Metrics: Weighted Mean, DI, WDI]
-        L[Compute Semantic Indices]
-        M[Compute Composite Macro Index]
- 
-
-  
-        N[Write to Workbook (Main, Semantic, History)]
-        O[Generate Tellusant Summary]
-        P[Generate Charts (Python)]
-        Q[Store Audit Trail]
-   
 
    
-        R[Scheduled Trigger (GitHub Actions)]
-        S[Check for New Release]
- 
-
-   
-        T[Human Review]
-        U[Update LUTs in Workbook]
-  
-
-    R --> S --> A
-    A --> B --> C --> D --> E
-    D --> F
-    E --> G --> I
-    F --> H --> I
-    I --> J --> K
-    I --> L --> M
-    K --> N
-    M --> N
-    N --> O
-    N --> P
-    N --> Q
-    Q --> T --> U --> G
+    A --> B --> C
 
     </div>
     
