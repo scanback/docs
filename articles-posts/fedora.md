@@ -76,8 +76,7 @@ flowchart TD
     O --> V
     
 linkStyle 24 stroke:blue,stroke-width:1;
-linkStyle 25 stroke:blue,stroke-width:1;
-linkStyle 26 stroke:blue,stroke-width:1;
+linkStyle 26 stroke:transparent,stroke-width:0;
 
 
 %% ========= STYLES =========
