@@ -4,7 +4,7 @@ description: "How can a previously manual workflow be automated with AI and othe
 image: /assets/social-card-think.png
 ---
 # Semantic Analysis Workflow: The Fedora Example
-How can a previously manual workflow be automated with AI and other components? I use our Fed Beige Book analysis as a case study to show the new automated workflow.
+How can a previously manual workflow be automated with AI and other components? I use our [Fed Beige Book analysis called Fedora](https://tellusant.github.io/docs/nowcasts-ongoing-analyses/beige-book.html) as a case study to show the new automated workflow.
 
 <div class="mermaid">
 
