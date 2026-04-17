@@ -1,3 +1,5 @@
+<div class="mermaid">
+
 flowchart TD
 
     A[New Beige Book Release]
@@ -56,3 +58,5 @@ flowchart TD
     N --> P
     N --> Q
     Q --> T --> U --> G
+
+    </div>
