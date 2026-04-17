@@ -26,33 +26,33 @@ flowchart TD
     end
 
     subgraph S3["`**3. Scoring**`"]
-        G["`**Apply Growth LUT** (First Sentence)`"]:::base
-        H["`**Apply Semantic LUT** (Full Text)`"]:::base
+        G["`**Apply Growth LUT**<br/>First Sentence`"]:::base
+        H["`**Apply Semantic LUT**<br/>Full Text`"]:::base
         I["`**Generate District Scores**`"]:::base
     end
 
     subgraph S4["`**4. Aggregation**`"]
-        J["`**Apply GDP Weights (from Workbook)**`"]:::base
+        J["`**Apply GDP Weights<br/>from Workbook**`"]:::base
         K["`**Compute Metrics: Weighted Mean, DI, WDI**`"]:::base
         L["`**Compute Semantic Indices**`"]:::base
         M["`**Compute Composite Macro Index**`"]:::base
     end
 
     subgraph S5["`**5. Output**`"]
-        N["`**Write to Workbook (Main, Semantic, History)**`"]:::base
+        N["`**Write to Workbook**<br/>Main, Semantic, History`"]:::base
         O["`**Generate Tellusant Summary**`"]:::base
         P["`**Generate Charts (Python)**`"]:::base
         Q["`**Store Audit Trail**`"]:::base
     end
 
     subgraph S6["`**0. Automation**`"]
-        R["`**Scheduled Trigger (GitHub Actions)**`"]:::base
+        R["`**Scheduled Trigger**<br/>GitHub Actions`"]:::base
         S["`**Check for New Release**`"]:::base
     end
 
     subgraph S7["`**6. Feedback Loop**`"]
         T["`**Human Review**`"]:::green
-        U["`**Update LUTs in Workbook**`"]:::base
+        U["`**Update in Workbook**`"]:::base
     end
 
     R --> S --> A
