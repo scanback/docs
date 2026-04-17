@@ -69,6 +69,10 @@ flowchart TD
     N --> O
     N --> P
     N --> Q
+
+    O --> T
+    P --> T
+    
     Q --> T -->|⠀if error⠀| U --> G
     T -->|⠀if correct⠀| V
     
