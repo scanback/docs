@@ -14,43 +14,43 @@ flowchart TD
 
     A["`**New Beige Book Release**`"]:::blue
 
-    subgraph S1["`**1. Ingestion**`"]
+    subgraph S1["`*1. Ingestion*`"]
         B["`**Fetch Beige Book**<br/>HTML / PDF`"]:::base
         C["`**Store Source & Metadata**`"]:::base
     end
 
-    subgraph S2["`**2. Extraction**`"]
+    subgraph S2["`*2. Extraction*`"]
         D["`**Parse District Sections**`"]:::base
         E["`**Extract First Sentences**`"]:::base
         F["`**Extract Full District Text**`"]:::base
     end
 
-    subgraph S3["`**3. Scoring**`"]
+    subgraph S3["`*3. Scoring*`"]
         G["`**Apply Growth LUT**<br/>First Sentence`"]:::base
         H["`**Apply Semantic LUT**<br/>Full Text`"]:::base
         I["`**Generate District Scores**`"]:::base
     end
 
-    subgraph S4["`**4. Aggregation**`"]
+    subgraph S4["`*4. Aggregation*`"]
         J["`**Apply GDP Weights<br/>from Workbook**`"]:::base
         K["`**Compute Metrics: Weighted Mean, DI, WDI**`"]:::base
         L["`**Compute Semantic Indices**`"]:::base
         M["`**Compute Composite Macro Index**`"]:::base
     end
 
-    subgraph S5["`**5. Output**`"]
+    subgraph S5["`*5. Output*`"]
         N["`**Write to Workbook**<br/>Main, Semantic, History`"]:::base
         O["`**Generate Tellusant Summary**`"]:::base
         P["`**Generate Charts (Python)**`"]:::base
         Q["`**Store Audit Trail**`"]:::base
     end
 
-    subgraph S6["`**0. Automation**`"]
+    subgraph S6["`*0. Automation*`"]
         R["`**Scheduled Trigger**<br/>GitHub Actions`"]:::base
         S["`**Check for New Release**`"]:::base
     end
 
-    subgraph S7["`**6. Feedback Loop**`"]
+    subgraph S7["`*6. Feedback Loop*`"]
         T["`**Human Review**`"]:::green
         U["`**Update in Workbook**`"]:::base
     end
