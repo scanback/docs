@@ -69,15 +69,12 @@ flowchart TD
     N --> O
     N --> P
     N --> Q
-
     O --> T
     P --> T
-    
     Q --> T -->|⠀if error⠀| U --> G
     T -->|⠀if correct⠀| V
-    
     O --> V
-linkStyle 2 stroke:transparent,stroke-width:0;
+
 linkStyle 16 stroke:transparent,stroke-width:0;
 
 
