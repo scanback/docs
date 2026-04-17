@@ -1,3 +1,8 @@
+---
+title: "Fedora"
+description: "How can a previously manual workflow be automated with AI and other components? I use our Fed Beige Book analysis as a case study to show the now automated workflow."
+image: /assets/social-card-think.png
+---
 # Fedora
 How can a previously manual workflow be automated with AI and other components? I use our Fed Beige Book analysis as a case study to show the now automated workflow.
 
