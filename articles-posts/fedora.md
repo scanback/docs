@@ -15,7 +15,7 @@ flowchart TD
     A["`**New Beige Book Release**`"]:::blue
 
     subgraph S1["`**1. Ingestion**`"]
-        B["`**Fetch Beige Book** (HTML / PDF)`"]:::base
+        B["`**Fetch Beige Book**<br/>HTML / PDF`"]:::base
         C["`**Store Source & Metadata**`"]:::base
     end
 
