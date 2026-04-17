@@ -12,31 +12,11 @@ How can a previously manual workflow be automated with AI and other components? 
 
 flowchart TD
 
-    A["New Beige Book Release"]
+    A[`"**New Beige Book Release**`"]
 
-           B["Fetch Beige Book (HTML / PDF)"]
-        C["Store Source & Metadata"]
-  
-
-  
-
-   
-    A --> B --> C
-
-    </div>
-    
----
-<div class="mermaid">
-
-%%{init: {'themeVariables': { 'fontFamily': 'Arial'}}}%%
-
-flowchart TD
-
-    A["New Beige Book Release"]
-
-    subgraph S1["1. Ingestion"]
-        B["Fetch Beige Book (HTML / PDF)"]
-        C["Store Source & Metadata"]
+    subgraph S1["`**1. Ingestion**`"]:::grey
+        B["`**Fetch Beige Book**<br/> (HTML / PDF)`"]::::blue
+        C["`**Store Source & Metadata**`"]:::blue
     end
 
     subgraph S2["2. Extraction"]
