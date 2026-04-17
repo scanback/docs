@@ -1,9 +1,9 @@
 ---
-title: "Fedora"
+title: "Semantic Analysis Workflow: The Fedora Example"
 description: "How can a previously manual workflow be automated with AI and other components? I use our Fed Beige Book analysis as a case study to show the new automated workflow."
 image: /assets/social-card-think.png
 ---
-# Fedora
+# Semantic Analysis Workflow: The Fedora Example
 How can a previously manual workflow be automated with AI and other components? I use our Fed Beige Book analysis as a case study to show the new automated workflow.
 
 <div class="mermaid">
