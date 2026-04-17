@@ -8,6 +8,8 @@ How can a previously manual workflow be automated with AI and other components? 
 
 <div class="mermaid">
 
+%%{init: {'themeVariables': { 'fontFamily': 'Arial'}}}%%
+
 flowchart TD
 
     A[New Beige Book Release]
