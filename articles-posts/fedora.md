@@ -15,44 +15,44 @@ flowchart TD
     A["`**New Beige Book Release**`"]:::blue
 
     subgraph S1["`**1. Ingestion**`"]
-        B["`**Fetch Beige Book** (HTML / PDF)`"]
-        C["`**Store Source & Metadata**`"]
+        B["`**Fetch Beige Book** (HTML / PDF)`"]:::base
+        C["`**Store Source & Metadata**`"]:::base
     end
 
     subgraph S2["`**2. Extraction**`"]
-        D["`**Parse District Sections**`"]
-        E["`**Extract First Sentences**`"]
-        F["`**Extract Full District Text**`"]
+        D["`**Parse District Sections**`"]:::base
+        E["`**Extract First Sentences**`"]:::base
+        F["`**Extract Full District Text**`"]:::base
     end
 
-    subgraph S3["**3. Scoring**"]
-        G["`**Apply Growth LUT** (First Sentence)`"]
-        H["`**Apply Semantic LUT** (Full Text)`"]
-        I["`**Generate District Scores**`"]
+    subgraph S3["`**3. Scoring**`"]
+        G["`**Apply Growth LUT** (First Sentence)`"]:::base
+        H["`**Apply Semantic LUT** (Full Text)`"]:::base
+        I["`**Generate District Scores**`"]:::base
     end
 
     subgraph S4["`**4. Aggregation**`"]
-        J["`**Apply GDP Weights (from Workbook)**`"]
-        K["`**Compute Metrics: Weighted Mean, DI, WDI**`"]
-        L["`**Compute Semantic Indices**`"]
-        M["`**Compute Composite Macro Index**`"]
+        J["`**Apply GDP Weights (from Workbook)**`"]:::base
+        K["`**Compute Metrics: Weighted Mean, DI, WDI**`"]:::base
+        L["`**Compute Semantic Indices**`"]:::base
+        M["`**Compute Composite Macro Index**`"]:::base
     end
 
     subgraph S5["`**5. Output**`"]
-        N["`**Write to Workbook (Main, Semantic, History)**`"]
-        O["`**Generate Tellusant Summary**`"]
-        P["`**Generate Charts (Python)**`"]
-        Q["`**Store Audit Trail**`"]
+        N["`**Write to Workbook (Main, Semantic, History)**`"]:::base
+        O["`**Generate Tellusant Summary**`"]:::base
+        P["`**Generate Charts (Python)**`"]:::base
+        Q["`**Store Audit Trail**`"]:::base
     end
 
     subgraph S6["`**0. Automation**`"]
-        R["`**Scheduled Trigger (GitHub Actions)**`"]
-        S["`**Check for New Release**`"]
+        R["`**Scheduled Trigger (GitHub Actions)**`"]:::base
+        S["`**Check for New Release**`"]:::base
     end
 
     subgraph S7["`**6. Feedback Loop**`"]
         T["`**Human Review**`"]:::green
-        U["`**Update LUTs in Workbook**`"]
+        U["`**Update LUTs in Workbook**`"]:::base
     end
 
     R --> S --> A
