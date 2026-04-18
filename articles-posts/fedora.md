@@ -38,14 +38,14 @@ flowchart TD
         M["`**Compute Composite Macro Index**`"]:::base
     end
 
-    subgraph S5["`   *5. Output*`"]
+    subgraph S5["⠀⠀⠀*5. Output*`"]
         N["`**Write to Workbook**<br/>Main, Semantic, History`"]:::base
         O["`**Generate Tellusant Summary**`"]:::base
         P["`**Generate Charts (Python)**`"]:::base
         Q["`**Store Audit Trail**`"]:::base
     end
 
-    subgraph S6["`   *0. Automation*`"]
+    subgraph S6["`⠀⠀⠀*0. Automation*`"]
         R["`**Scheduled Trigger**<br/>GitHub Actions`"]:::base
         S["`**Check for New Release**`"]:::base
     end
