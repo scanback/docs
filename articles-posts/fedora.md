@@ -38,7 +38,7 @@ flowchart TD
         M["`**Compute Composite Macro Index**`"]:::base
     end
 
-    subgraph S5["`⠀⠀⠀*5. Output*`"]
+    subgraph S5["`⠀⠀⠀⠀⠀⠀*5. Output*`"]
         N["`**Write to Workbook**<br/>Main, Semantic, History`"]:::base
         O["`**Generate Tellusant Summary**`"]:::base
         P["`**Generate Charts (Python)**`"]:::base
@@ -50,7 +50,7 @@ flowchart TD
         S["`**Check for New Release**`"]:::base
     end
 
-    subgraph S7["`⠀⠀⠀*6. Feedback Loop*`"]
+    subgraph S7["`⠀⠀⠀⠀⠀⠀*6. Feedback Loop*`"]
         T["`**Human Review**`"]:::green
         U["`**Update in Workbook**`"]:::base
     end
