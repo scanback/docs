@@ -4,7 +4,9 @@ description: "How can a previously manual workflow be automated with AI and othe
 image: /assets/social-card-think.png
 ---
 # Semantic Analysis Workflow: The Fedora Example
-How can a previously manual workflow be automated with AI and other components? I use our [Fed Beige Book analysis agent called Fedora](https://tellusant.github.io/docs/nowcasts-ongoing-analyses/beige-book.html) as a case study to show the new automated workflow.
+How can a previously manual workflow be automated with AI and other components? I use our [Fed Beige Book analysis agent called Fedora](https://tellusant.github.io/docs/nowcasts-ongoing-analyses/beige-book.html) as a case study to show the new automated workflow in GPT. No human need to be involved in the process any more, except for the occasional quality control.  
+
+Just like the workflow is automated, the workflow graph generation is also automated using Mermaid v11.  
 
 <div class="mermaid">
 
@@ -89,3 +91,16 @@ classDef base    fill:#ECECFF,stroke:#9370DB,stroke-width:2px,color:#111;
 classDef clear   fill:transparent,stroke:transparent;
 
     </div>
+
+The details of the workflow is best understand by studying the graph.  
+
+Instead, what is interesting is whether the GPT generated workflow corresponds to my own cognitive process. It does exactley, with two additions.  
+
+1. I trained the model in a series of steps a sesqui-month ago and now. It is interesting to see that GPT's work steps exactly mimics mine. It did not suggest another approach even thoug I asked it to improve the process if it could.  
+
+I suppose I could get a job at GPT as an agent.  
+
+2. It added two steps:
+  - 
+
+
