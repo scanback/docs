@@ -52,7 +52,7 @@ flowchart TD
         S["`**Check for New Release**`"]:::base
     end
 
-    subgraph S7["`⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀*6. Feedback Loop*`"]
+    subgraph S7["`⠀⠀⠀⠀⠀⠀⠀*6. Feedback Loop*`"]
         T["`**Human Review**`"]:::green
         U["`**Update in Workbook**`"]:::base
     end
