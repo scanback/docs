@@ -100,8 +100,8 @@ Instead, what is interesting is whether the GPT generated workflow corresponds t
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I suppose I could get a job at GPT as an agent.  
 
-- It added two steps:
-  - The *full text sematic analysis* task. In my manual version I did not have this because it was too time consuming and too arbitrary (since it involved my judgment). My more limited effort took 10 minutes every sesqui-month, which I thought was fair for an insightful piece of work. The full text analysis would take hours.
+- It added two steps:<br/>
+  - The *full text sematic analysis* task. In my manual version I did not have this because it was too time consuming and too arbitrary (since it involved my judgment). My more limited effort took 10 minutes every sesqui-month, which I thought was fair for an insightful piece of work. The full text analysis would take hours.<br/>
   - GPT added *Store audit trail*. As almost all humans I was sloppy with this. Having the trail is a benefit, especially for the new *full text semantic analysis*.
 
 
