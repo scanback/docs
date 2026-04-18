@@ -96,9 +96,9 @@ The details of the workflow is best understand by studying the graph.
 
 Instead, what is interesting is whether the GPT generated workflow corresponds to my own cognitive process. It does exactley, with two additions.  
 
-1. I trained the model in a series of steps a sesqui-month ago and now. It is interesting to see that GPT's work steps exactly mimics mine. It did not suggest another approach even thoug I asked it to improve the process if it could.  
+- I trained the model in a series of steps a sesqui-month ago and now. It is interesting to see that GPT's work steps exactly mimics mine. It did not suggest another approach even thoug I asked it to improve the process if it could.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I suppose I could get a job at GPT as an agent.  
+I suppose I could get a job at GPT as an agent.  
 
 - It added two steps:<br/>
   - The *full text sematic analysis* task. In my manual version I did not have this because it was too time consuming and too arbitrary (since it involved my judgment). My more limited effort took 10 minutes every sesqui-month, which I thought was fair for an insightful piece of work. The full text analysis would take hours.<br/>
