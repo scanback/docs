@@ -38,7 +38,7 @@ flowchart TD
         M["`**Compute Composite Macro Index**`"]:::base
     end
 
-    subgraph S5["⠀⠀⠀*5. Output*`"]
+    subgraph S5["`⠀⠀⠀*5. Output*`"]
         N["`**Write to Workbook**<br/>Main, Semantic, History`"]:::base
         O["`**Generate Tellusant Summary**`"]:::base
         P["`**Generate Charts (Python)**`"]:::base
