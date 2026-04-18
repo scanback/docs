@@ -98,7 +98,7 @@ Instead, what is interesting is whether the GPT generated workflow corresponds t
 
 1. I trained the model in a series of steps a sesqui-month ago and now. It is interesting to see that GPT's work steps exactly mimics mine. It did not suggest another approach even thoug I asked it to improve the process if it could.  
 
-&nbsp;&nbsp:I suppose I could get a job at GPT as an agent.  
+&nbsp;&nbsp;I suppose I could get a job at GPT as an agent.  
 
 2. It added two steps:
   - 
