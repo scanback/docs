@@ -103,5 +103,11 @@ I suppose I could get a job at GPT as an agent.
 - It added two steps:<br/>
   - The *full text semantic analysis* task. In my manual version I did not have this because it was too time consuming and too arbitrary (since it involved my judgment). My more limited effort took 10 minutes every sesqui-month, which I thought was fair for an insightful piece of work. The full text analysis would take hours.<br/>
   - GPT added *Store audit trail*. As almost all humans I was sloppy with this. Having the trail is a benefit, especially for the new *full text semantic analysis*.
+ 
+My conclusion is that GPT mimics the cognitive paths of a logical person. If this was all, it would be an effiency tool only.
+
+But it also expands on the tasks. It does what a person cannot do. Not because it is an innovation, but because it has more capacity.
+
+How long before it innovates for real? I estimate in 2-3 years.
 
 
