@@ -13,4 +13,4 @@ Henley Business School: 39th Anniversary DBA Research Colloquium - July 20 2022
 Masters degree candidates at Lund University, School of Economics and Management - May 4, 2024
 
 #### ["The Hidden Structure of Global Markets" poster](https://sites.tufts.edu/ibgc/dr-staffan-canback/) and [workshop view](https://sites.tufts.edu/ibgc/dr-staffan-canback/)
-Masters Degree candidates at Fletcher School at Tufts University - April 9, 2026
+Masters Degree candidates at Fletcher School of Tufts University - April 9, 2026
