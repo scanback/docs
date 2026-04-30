@@ -10,4 +10,7 @@ Bits and pieces such as event posters.
 Henley Business School: 39th Anniversary DBA Research Colloquium - July 20 2022
 
 #### [Agenda for "The Lund Lecture: Where in the World Is the Market?"](S.Canback-Lund-Lecture-Agenda.pdf)
-Lund University School of Economics and Management - May 4, 2024
+Masters degree candidates at Lund University, School of Economics and Management - May 4, 2024
+
+#### ["The Hidden Structure of Global Markets" poster](https://sites.tufts.edu/ibgc/dr-staffan-canback/) and [workshop view](https://sites.tufts.edu/ibgc/dr-staffan-canback/)
+Masters Degree candidates at Fletcher School at Tufts University - April 9, 2026
