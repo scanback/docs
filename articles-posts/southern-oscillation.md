@@ -12,12 +12,12 @@ Agricultural yields and commodity prices are heavily influenced by the Southern 
 
 The recent report by [The World Meteorological Organization (UN)](https://wmo.int/resources/publication-series/el-ninola-nina-updates/el-ninola-nina-update-february-2026) suggests a high probability of a new EL Nino this northern summer / southern winter.
 
-We track the Southern Oscillation systematically becuase some of our clients have an intense interest in how it evolves. The graph below shows the trend since 1950. We do not yet see evidence of an EL Nino when we study the detailed data behind the graph, but we are amateurs compared to the WMO.
+I track the Southern Oscillation systematically because some of our clients have an intense interest in how it evolves. The graph below shows the trend since 1950. We do not yet see evidence of an EL Nino when we study the detailed data behind the graph, but we are amateurs compared to the WMO.
 
-What we do know, is that once there are measurable signs of an El Niño, not only modelled data, it is easy to predict commodity prices. This is surely known by commodities future speculators like John W. Henry & Company, but such firms would be fools to divulge their models. We do not neither.
+What I do know is that once there are measurable signs of an El Niño (not only modelled data) it is easy to predict commodity prices. This is surely known by commodities future speculators like John W. Henry & Company, but such firms would be fools to divulge their models. Neither do I.
 
-Broadly, you can be sure that if you get a stock tip, commodity tip, currency tip, from someone, it is of no value. Anyone who has a true insight will keep it to themselves and get rich. Never act on recommendations of this kind, if they work it is random. 
+Broadly, you can be sure that if you get a stock tip, commodity tip, currency tip, from someone, it is of no value. Anyone who has a true insight will keep it to themselves and get rich. Never act on recommendations of this kind. If they work it is random. 
 
-The key exception is of you get a tip from a friendly insider, but to act on this is illegal (not that this has stopped Trump and his sycophants).
+The key exception is if you get a tip from a friendly insider, but to act on this is illegal (not that this has stopped Trump and his sycophants).
 
 [southern oscillation](assets/images/s.canback-tellusant-southern-oscillation.svg)
