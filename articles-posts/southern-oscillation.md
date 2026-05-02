@@ -16,6 +16,6 @@ We track the Southern Oscillation systematically becuase some of our clients hav
 
 What we do know, is that once there are measurable signs of an El Niño, not only modelled data, it is easy to predict commodity prices. This is surely known by commodities future speculators like John W. Henry & Company, but such firms would be fools to divulge their models. We do not neither.
 
-Broadly, you can be sure that if you get a stock tip, commodity tip, currency tip, from someone, it is of no value. Anyone who has a true insight will keep it to themselves and get rich. Never act on recommendations of this kind, if they work it is random.
+Broadly, you can be sure that if you get a stock tip, commodity tip, currency tip, from someone, it is of no value. Anyone who has a true insight will keep it to themselves and get rich. Never act on recommendations of this kind, if they work it is random. The key exception is of you get a tip from a friendly insider, but this is illegal (not that this has stopped Trump and his sycophants).
 
 [southern oscillation](assets/images/s.canback-tellusant-southern-oscillation.svg)
