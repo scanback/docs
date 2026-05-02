@@ -1,10 +1,10 @@
 ---
 title: "Are We Facing a Strong El Niño? The Southern Oscillation Conundrum"
-description: "El Niño and El Niño are notoriously unpredictable, almost chaotic. But a serious new report predicts a strong El Niño starting this summer. What do I see?"
+description: "El Niño and La Niña are notoriously unpredictable, almost chaotic. But a serious new report predicts a strong El Niño starting this summer. What do I see?"
 image: /assets/social-card-think.png
 ---
 # Are We Facing a Strong El Niño? The Southern Oscillation Conundrum
-El Niño and La Niña are notoriously unpredictable, almost chaotic. But a serious new report predicts a strong El Niño starting this summer. What do I see?
+El Niño and La Niña are notoriously unpredictable, almost chaotic. But a solid new report predicts a strong El Niño starting this summer. What do I see?
 
 ### Southern Oscillation Characteristics
 
@@ -19,16 +19,16 @@ I track the Southern Oscillation systematically because some of our clients have
 <p align="center">
 <img  src="assets/images/s.canback-tellusant-southern-oscillation.svg" width="500" alt="S.Canback, Tellusant: Southern oscillation">
 </p>
-[The full Southern Oscillation series starting in 1950 is available here.](assets/images/s.canback-tellusant-southern-oscillation-long.svg)
+[`The full Southern Oscillation graph 1950– is available here.`](southern-oscillation-long-graph.md)
 
 ### Predicting Commodities Prices
 
 What I do know is that once there are measurable signs of an El Niño (not only modelled data) it is easy to predict commodity prices.
 
-Formally, with ENSO being El Nino Southern Oscillation, *E* being evidence of the event, and *δ*
+> Formally, with ENSO being El Nino Southern Oscillation, *E* being evidence of the event, and *δ*
 the historical price shock for the event:
-
-$$\Delta P_{t+h} = \mathbb{P}(\text{ENSO} \mid E_t) \cdot \delta_{\text{strong}} + \mathbb{P}(\text{ENSO} \mid E_t)^c \cdot \delta_{\text{weak}}$$
+>
+> $$\Delta P_{t+h} = \mathbb{P}(\text{ENSO} \mid E_t) \cdot \delta_{\text{strong}} + \mathbb{P}(\text{ENSO} \mid E_t)^c \cdot \delta_{\text{weak}}$$
 
 This is surely known to commodities futures traders like John W. Henry & Company, just as I know it.
 
@@ -36,20 +36,23 @@ This is surely known to commodities futures traders like John W. Henry & Company
 
 Having the price insight tradeable for a gain in a futures contract is a different thing. Traders have a second ***secret*** insight that they combine with the ENSO insight.
 
-Formally, with *S* being the secret, this takes the form: 
+> Formally, with *S* being the secret, this takes the form: 
+>
+> $$\Delta P_{t+h} = \mathbb{P}(\text{ENSO} \cap S \mid E_t) \cdot \delta_{\text{strong}} + \mathbb{P}(\text{ENSO} \cap S \mid E_t)^c \cdot \delta_{\text{weak}}$$  
+>
+> or, if *S* is contingent on the ENSO event:</p>
+> 
+> $$\Delta P_{t+h} = \underbrace{\left[ \mathbb{P}(S \mid \text{ENSO}) \cdot \mathbb{P}(\text{ENSO} \mid E_t) \right]}_{\text{Joint contingency}} \cdot \delta_{\text{strong}} + \left[ \mathbb{P}(S \cap \text{ENSO} \mid E_t) \right]^c \cdot \delta_{\text{weak}}$$  
 
-$$\Delta P_{t+h} = \mathbb{P}(\text{ENSO} \cap S \mid E_t) \cdot \delta_{\text{strong}} + \mathbb{P}(\text{ENSO} \cap S \mid E_t)^c \cdot \delta_{\text{weak}}$$  
-
-or, if *S* is contingent on the ENSO event:</p>
-
-$$\Delta P_{t+h} = \underbrace{\left[ \mathbb{P}(S \mid \text{ENSO}) \cdot \mathbb{P}(\text{ENSO} \mid E_t) \right]}_{\text{Joint contingency}} \cdot \delta_{\text{strong}} + \left[ \mathbb{P}(S \cap \text{ENSO} \mid E_t) \right]^c \cdot \delta_{\text{weak}}$$  
-
-This is what futures traders act on. Such firms would be fools to divulge their secrets *S*. Neither do I.
+This is what futures traders act on. Such firms would be fools to divulge their secrets (*S*). Neither do I.
 
 ### Caution on Trading Tips
 
 Broadly, you can be sure that if you get a stock tip, commodity tip, or currency tip from someone, it is of no value. Anyone who has a true insight will keep it to themselves and get rich. Never act on recommendations of this kind. If they work it is random. 
 
 The key exception is if you get a tip from a friendly insider, but to act on this is illegal (not that this has stopped Trump and his sycophants).
+
+---
+[2026-05-02]
 
 
