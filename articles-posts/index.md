@@ -3,11 +3,11 @@ I have hundreds of LinkedIn and Medium articles and posts that are lost because 
 
 ## Recent
 
+### [Are We Facing a Strong El Niño? The Southern Oscillation Conundrum](southern-oscillation.md)
+El Niño and El Niño are notoriously unpredictable, almost chaotic. But a serious new report predicts a strong El Niño starting this summer. What do I see?
+
 ### [Semantic Analysis Workflow: The Fedora Example](fedora.md)
 How can a previously manual workflow be automated with AI and other components? I use our Fed Beige Book analysis as a case study to show the new automated workflow.
-
-### [Should AI Be Cited? No. Should AI Be Mentioned? Yes.](ai-cites-mentions.md)
-Two tips on how to make your AI use known.
 
 ### [The Nexus Organization: The 4th Wave of Corporate Structure](nexus-organization.md)
 Since the advent of the large corporation in the 1850s, companies have evolved their organizational structures to meet the requirements of higher competencies, globalization, diversification, and automation. This article discusses how this evolution happened, with a focus on the latest innovation, the nexus organization.
@@ -18,15 +18,18 @@ What is the composition of executive teams in the United States? A few years ago
 ### [Google Trends Analysis of AI, Sports and More in the United States](google-trends.md)
 In less than five years, AI and its key players have catapulted to the top of Google search rankings. How large the surge has been becomes clear when looking at Google Trends data for the United States.
 
+<br/>
+
+## Past
+
+### [Should AI Be Cited? No. Should AI Be Mentioned? Yes.](ai-cites-mentions.md)
+Two tips on how to make your AI use known.
+
 ### [South Africa Economic Sentiment Analysis Using AI](economic-sentiment-zaf.md)
 This article shows how to perform semantic analysis of qualitative reports using automated parsing, scoring and weighting, leveraging a custom-trained AI model.
 
 ### [The Might of Nations](might-of-nations.md)
 With current geopolitical tensions, it is interesting to see how the might of nations has changed over time and where we are now. I use the concept of relative market share, translated to relative economic might, to show the trend.
-
-<br/>
-
-## Past
 
 ### [The Palmer Penguins and their Role in Business](palmer-penguins.md)
 Penguins are an unlikely influence on management science, but this dataset has had a profound impact on emerging business practices.  
