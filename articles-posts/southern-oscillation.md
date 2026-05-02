@@ -14,7 +14,9 @@ The recent report by [The World Meteorological Organization (UN)](https://wmo.in
 
 I track the Southern Oscillation systematically because some of our clients have an intense interest in how it evolves. The graph below shows the trend since 1950. I do not yet see evidence of an EL Nino when I study the detailed data behind the graph, but I aam an amateur compared to the WMO.  
 
-![southern oscillation](assets/images/s.canback-tellusant-southern-oscillation.svg)
+<p align="center">
+<img  src="assets/images/s.canback-tellusant-southern-oscillation.svg" width="500" alt="S.Canback, Tellusant: Southern oscillation">
+</p>
 
 What I do know is that once there are measurable signs of an El Niño (not only modelled data) it is easy to predict commodity prices.
 
