@@ -8,4 +8,4 @@
 |    |    |
 | **Timezone**&nbsp;  | Eastern Time |
 |    |    |
-| **Websites** | [canback.net](https://canback.net) <br/> [tellusant.com](https://tellusant.com) <br/> [tellubase.com](https://tellubase.com) <br/> [Tellusant Publications Repository](https://tellusant.github.io/docs/) |
+| **Websites** | [canback.net](https://canback.net) <br/> [Figshare Repository]([https://canback.net](https://figshare.com/authors/Staffan_Canback/20547296)) <br/> [tellusant.com](https://tellusant.com) <br/> [tellubase.com](https://tellubase.com) <br/> [Tellusant Publications Repository](https://tellusant.github.io/docs/) |
