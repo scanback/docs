@@ -19,7 +19,7 @@ I track the Southern Oscillation systematically because some of our clients have
 <p align="center">
 <img  src="assets/images/s.canback-tellusant-southern-oscillation.svg" width="500" alt="S.Canback, Tellusant: Southern oscillation">
 </p>
-[`The full Southern Oscillation graph 1950– is available here.`](assets/images/s.canback-tellusant-southern-oscillation-long.svg)
+[`The full Southern Oscillation graph 1950– is available here.`](southern-oscillation-long-graph.md)
 
 ### Predicting Commodities Prices
 
