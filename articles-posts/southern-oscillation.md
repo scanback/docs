@@ -24,7 +24,8 @@ $$\Delta P_{t+h} = \mathbb{P}(\text{ENSO} \cap S \mid E_t) \cdot \delta_{\text{s
 
 $$\Delta P_{t+h} = \left[ \mathbb{P}(\text{ENSO} \mid E_t) \cdot \mathbb{P}(S) \right] \cdot \delta_{\text{strong}} + \left[ 1 - \left( \mathbb{P}(\text{ENSO} \mid E_t) \cdot \mathbb{P}(S) \right) \right] \cdot \delta_{\text{weak}}$$  
 
-Formally $\Delta P_{t+h} = \underbrace{\left[ \mathbb{P}(S \mid \text{ENSO}) \cdot \mathbb{P}(\text{ENSO} \mid E_t) \right]}_{\text{Joint Contingency}} \cdot \delta_{\text{strong}} + \left[ \mathbb{P}(S \cap \text{ENSO} \mid E_t) \right]^c \cdot \delta_{\text{weak}}$  
+Formally  
+$$\Delta P_{t+h} = \underbrace{\left[ \mathbb{P}(S \mid \text{ENSO}) \cdot \mathbb{P}(\text{ENSO} \mid E_t) \right]}_{\text{Joint Contingency}} \cdot \delta_{\text{strong}} + \left[ \mathbb{P}(S \cap \text{ENSO} \mid E_t) \right]^c \cdot \delta_{\text{weak}}$$  
 
 This is surely known by commodities futures traders like John W. Henry & Company, but such firms would be fools to divulge their models. Neither do I.
 
