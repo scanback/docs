@@ -16,7 +16,7 @@ I track the Southern Oscillation systematically because some of our clients have
 
 What I do know is that once there are measurable signs of an El Niño (not only modelled data) it is easy to predict commodity prices.
 
-Formally 
+Formally  
 $$\mathbb{E}[\Delta P_{t+h} \mid E_t] = P( \text{ENSO}_{\text{strong}} \mid E_t ) \cdot \delta_{s} + \left[ 1 - P( \text{ENSO}_{\text{strong}} \mid E_t ) \right] \cdot \delta_{n}$$
 
 
