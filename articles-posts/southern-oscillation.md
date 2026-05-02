@@ -52,4 +52,7 @@ Broadly, you can be sure that if you get a stock tip, commodity tip, or currency
 
 The key exception is if you get a tip from a friendly insider, but to act on this is illegal (not that this has stopped Trump and his sycophants).
 
+---
+[2026-05-02]
+
 
