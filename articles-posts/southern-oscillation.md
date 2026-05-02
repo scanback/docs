@@ -23,7 +23,7 @@ What I do know is that once there are measurable signs of an El Niño (not only 
 Formally, with ENSO being El Nino Southern Oscillation, *E* being evidence of the event, and *δ*
 the historical price shock for the event:
 
-$\Delta P_{t+h} = \mathbb{P}(\text{ENSO} \mid E_t) \cdot \delta_{\text{strong}} + \mathbb{P}(\text{ENSO} \mid E_t)^c \cdot \delta_{\text{weak}}$
+$$\Delta P_{t+h} = \mathbb{P}(\text{ENSO} \mid E_t) \cdot \delta_{\text{strong}} + \mathbb{P}(\text{ENSO} \mid E_t)^c \cdot \delta_{\text{weak}}$$
 
 This is surely known by commodities futures traders like John W. Henry & Company, just as I know it.
 
@@ -37,7 +37,7 @@ $$\Delta P_{t+h} = \mathbb{P}(\text{ENSO} \cap S \mid E_t) \cdot \delta_{\text{s
 
 $$\Delta P_{t+h} = \underbrace{\left[ \mathbb{P}(S \mid \text{ENSO}) \cdot \mathbb{P}(\text{ENSO} \mid E_t) \right]}_{\text{Joint contingency}} \cdot \delta_{\text{strong}} + \left[ \mathbb{P}(S \cap \text{ENSO} \mid E_t) \right]^c \cdot \delta_{\text{weak}}$$  
 
-This is what futures traders like John W. Henry & Company trade on in some secret form. Such firms would be fools to divulge their models. Neither do I.
+This is what futures traders trade on. Such firms would be fools to divulge their secrets *S*. Neither do I.
 
 Broadly, you can be sure that if you get a stock tip, commodity tip, or currency tip from someone, it is of no value. Anyone who has a true insight will keep it to themselves and get rich. Never act on recommendations of this kind. If they work it is random. 
 
