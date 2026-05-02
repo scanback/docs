@@ -26,7 +26,7 @@ Formally, this takes the form
 
 $$\Delta P_{t+h} = \mathbb{P}(\text{ENSO} \cap S \mid E_t) \cdot \delta_{\text{strong}} + \mathbb{P}(\text{ENSO} \cap S \mid E_t)^c \cdot \delta_{\text{weak}}$$  
 
-or
+<p style="center">or</p>
 
 $$\Delta P_{t+h} = \underbrace{\left[ \mathbb{P}(S \mid \text{ENSO}) \cdot \mathbb{P}(\text{ENSO} \mid E_t) \right]}_{\text{Joint contingency}} \cdot \delta_{\text{strong}} + \left[ \mathbb{P}(S \cap \text{ENSO} \mid E_t) \right]^c \cdot \delta_{\text{weak}}$$  
 
