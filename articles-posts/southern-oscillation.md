@@ -12,11 +12,15 @@ Agricultural yields and commodity prices are heavily influenced by the Southern 
 
 The recent report by [The World Meteorological Organization (UN)](https://wmo.int/resources/publication-series/el-ninola-nina-updates/el-ninola-nina-update-february-2026) suggests a high probability of a new EL Nino this northern summer / southern winter.
 
-I track the Southern Oscillation systematically because some of our clients have an intense interest in how it evolves. The graph below shows the trend since 1950. I do not yet see evidence of an EL Nino when I study the detailed data behind the graph, but I aam an amateur compared to the WMO.
+I track the Southern Oscillation systematically because some of our clients have an intense interest in how it evolves. The graph below shows the trend since 1950. I do not yet see evidence of an EL Nino when I study the detailed data behind the graph, but I aam an amateur compared to the WMO.  
+
+[southern oscillation](assets/images/s.canback-tellusant-southern-oscillation.svg)
 
 What I do know is that once there are measurable signs of an El Niño (not only modelled data) it is easy to predict commodity prices.
 
-Formally $\Delta P_{t+h} = \mathbb{P}(\text{ENSO} \mid E_t) \cdot \delta_{\text{strong}} + \mathbb{P}(\text{ENSO} \mid E_t)^c \cdot \delta_{\text{weak}}$
+Formally  
+
+$\Delta P_{t+h} = \mathbb{P}(\text{ENSO} \mid E_t) \cdot \delta_{\text{strong}} + \mathbb{P}(\text{ENSO} \mid E_t)^c \cdot \delta_{\text{weak}}$
 
 This is surely known by commodities futures traders like John W. Henry & Company, just as I know it.
 
@@ -36,4 +40,4 @@ Broadly, you can be sure that if you get a stock tip, commodity tip, or currency
 
 The key exception is if you get a tip from a friendly insider, but to act on this is illegal (not that this has stopped Trump and his sycophants).
 
-[southern oscillation](assets/images/s.canback-tellusant-southern-oscillation.svg)
+
