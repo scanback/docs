@@ -26,7 +26,7 @@ $\Delta P_{t+h} = \mathbb{P}(\text{ENSO} \mid E_t) \cdot \delta_{\text{strong}} 
 
 This is surely known by commodities futures traders like John W. Henry & Company, just as I know it.
 
-Having the price insight tradeable for a gain in a futures contract is a different thing. Traders have a second secret insight that they combine with the ENSO insight.
+Having the price insight tradeable for a gain in a futures contract is a different thing. Traders have a second *secret* insight that they combine with the ENSO insight.
 
 Formally, with S being the secret, this takes the form: 
 
