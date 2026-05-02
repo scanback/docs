@@ -29,7 +29,7 @@ the historical price shock for the event:
 
 $$\Delta P_{t+h} = \mathbb{P}(\text{ENSO} \mid E_t) \cdot \delta_{\text{strong}} + \mathbb{P}(\text{ENSO} \mid E_t)^c \cdot \delta_{\text{weak}}$$
 
-This is surely known by commodities futures traders like John W. Henry & Company, just as I know it.
+This is surely known to commodities futures traders like John W. Henry & Company, just as I know it.
 
 ### Trading on Commodities Prices
 
