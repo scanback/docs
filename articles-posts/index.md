@@ -4,7 +4,7 @@ I have hundreds of LinkedIn and Medium articles and posts that are lost because 
 ## Recent
 
 ### [Are We Facing a Strong El Niño? The Southern Oscillation Conundrum](southern-oscillation.md)
-El Niño and La Niña are notoriously unpredictable, almost chaotic. But a serious new report predicts a strong El Niño starting this summer. What do I see?
+El Niño and La Niña are notoriously unpredictable, almost chaotic. But a solid new report predicts a strong El Niño starting this summer. What do I see?
 
 ### [Semantic Analysis Workflow: The Fedora Example](fedora.md)
 How can a previously manual workflow be automated with AI and other components? I use our Fed Beige Book analysis as a case study to show the new automated workflow.
