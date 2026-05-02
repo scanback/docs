@@ -18,7 +18,7 @@ I track the Southern Oscillation systematically because some of our clients have
 
 What I do know is that once there are measurable signs of an El Niño (not only modelled data) it is easy to predict commodity prices.
 
-Formally  
+Formally:  
 
 $\Delta P_{t+h} = \mathbb{P}(\text{ENSO} \mid E_t) \cdot \delta_{\text{strong}} + \mathbb{P}(\text{ENSO} \mid E_t)^c \cdot \delta_{\text{weak}}$
 
@@ -26,7 +26,7 @@ This is surely known by commodities futures traders like John W. Henry & Company
 
 Having the price insight tradeable for a gain in a futures contract is a different thing. Traders have a second secret (S) insight that they combine with the ENSO insight.
 
-Formally, this takes the form 
+Formally, this takes the form: 
 
 $$\Delta P_{t+h} = \mathbb{P}(\text{ENSO} \cap S \mid E_t) \cdot \delta_{\text{strong}} + \mathbb{P}(\text{ENSO} \cap S \mid E_t)^c \cdot \delta_{\text{weak}}$$  
 
