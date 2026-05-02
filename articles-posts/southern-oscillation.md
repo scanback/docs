@@ -18,6 +18,14 @@ What I do know is that once there are measurable signs of an El Niño (not only 
 
 Formally $\Delta P_{t+h} = \mathbb{P}(\text{ENSO} \mid E_t) \cdot \delta_{\text{strong}} + \mathbb{P}(\text{ENSO} \mid E_t)^c \cdot \delta_{\text{weak}}$
 
+=====
+
+$$\Delta P_{t+h} = \mathbb{P}(\text{ENSO} \cap S \mid E_t) \cdot \delta_{\text{strong}} + \mathbb{P}(\text{ENSO} \cap S \mid E_t)^c \cdot \delta_{\text{weak}}$$  
+
+$$\Delta P_{t+h} = \left[ \mathbb{P}(\text{ENSO} \mid E_t) \cdot \mathbb{P}(S) \right] \cdot \delta_{\text{strong}} + \left[ 1 - \left( \mathbb{P}(\text{ENSO} \mid E_t) \cdot \mathbb{P}(S) \right) \right] \cdot \delta_{\text{weak}}$$  
+
+Formally $\Delta P_{t+h} = \underbrace{\left[ \mathbb{P}(S \mid \text{ENSO}) \cdot \mathbb{P}(\text{ENSO} \mid E_t) \right]}_{\text{Joint Contingency}} \cdot \delta_{\text{strong}} + \left[ \mathbb{P}(S \cap \text{ENSO} \mid E_t) \right]^c \cdot \delta_{\text{weak}}$  
+
 This is surely known by commodities futures traders like John W. Henry & Company, but such firms would be fools to divulge their models. Neither do I.
 
 Broadly, you can be sure that if you get a stock tip, commodity tip, currency tip, from someone, it is of no value. Anyone who has a true insight will keep it to themselves and get rich. Never act on recommendations of this kind. If they work it is random. 
