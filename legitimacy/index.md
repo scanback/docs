@@ -1,10 +1,10 @@
 ---
 title: "My Personal Legitimacy"
-description: "To understand whether SCANBACK think is worth exploring, hear is my legitimacy."
+description: "To understand whether CANBACK think is worth exploring, hear is my legitimacy."
 image: /assets/social-card-think.png
 ---
 # My Personal Legitimacy  
-To understand whether **SCANBACK** ***think*** is worth exploring, hear is my legitimacy.
+To understand whether **CANBACK** ***think*** is worth exploring, hear is my legitimacy.
 ## Experience  
 **Tellusant (2020-)**  
 Executive Chairman & Co-Founder  
