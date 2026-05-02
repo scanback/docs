@@ -4,6 +4,18 @@ description: "El Niño and El Niño are notoriously unpredictable, almost chaoti
 image: /assets/social-card-think.png
 ---
 # Are We Facing a Strong El Niño? The Southern Oscillation Conundrum
-El Niño and El Niño are notoriously unpredictable, almost chaotic. But a serious new report predicts a strong El Niño starting this summer. What do I see?
+El Niño and La Niña are notoriously unpredictable, almost chaotic. But a serious new report predicts a strong El Niño starting this summer. What do I see?
+
+The Southern Oscillation is the shifting currents in the Pacific Ocean near South America. Depending on how it shifts you get a warm weather phenomenon called  El Niño or a cold weather phenomenon called La Niña. It affects not only South America, but also North America and Africa, and sometimes beyond.
+
+Agricultural yields and commodity prices are heavily influenced by the Southern Oscillation for many crops. In 2024, cocoa prices spiked because of a strong El Niño impacting production in west Africa.
+
+The recent report by [The World Meteorological Organization (UN)](https://wmo.int/resources/publication-series/el-ninola-nina-updates/el-ninola-nina-update-february-2026) suggests a high probability of a new EL Nino this northern summer / southern winter.
+
+We track the Southern Oscillation systematically becuase some of our clients have an intense interest in how it evolves. The graph below shows the trend since 1950. We do not yet see evidence of an EL Nino when we study the detailed data behind the graph, but we are amateurs compared to the WMO.
+
+What we do know, is that once there are measurable signs of an El Niño, not only modelled data, it is easy to predict commodity prices. This is surely known by commodities future speculators like John W. Henry & Company, but such firms would be fools to divulge their models. We do not neither.
+
+Broadly, you can be sure that if you get a stock tip, commodity tip, currency tip, from someone, it is of no value. Anyone who has a true insight will keep it to themselves and get rich. Never act on recommendations of this kind, if they work it is random.
 
 [southern oscillation](assets/images/s.canback-tellusant-southern-oscillation.svg)
