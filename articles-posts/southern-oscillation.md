@@ -19,6 +19,9 @@ What I do know is that once there are measurable signs of an El Niño (not only 
 Formally  
 $$\mathbb{E}[\Delta P_{t+h} \mid E_t] = P( \text{ENSO}_{\text{strong}} \mid E_t ) \cdot \delta_{s} + \left[ 1 - P( \text{ENSO}_{\text{strong}} \mid E_t ) \right] \cdot \delta_{n}$$
 
+$$\Delta P_{t+h} = \mathbb{P}(\text{ENSO} \mid E_t) \cdot \delta_{\text{strong}} + \left[ 1 - \mathbb{P}(\text{ENSO} \mid E_t) \right] \cdot \delta_{\text{weak}}$$
+
+
 
 
 This is surely known by commodities future speculators like John W. Henry & Company, but such firms would be fools to divulge their models. Neither do I.
