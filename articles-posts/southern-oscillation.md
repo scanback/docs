@@ -43,7 +43,7 @@ $$\Delta P_{t+h} = \mathbb{P}(\text{ENSO} \cap S \mid E_t) \cdot \delta_{\text{s
 
 $$\Delta P_{t+h} = \underbrace{\left[ \mathbb{P}(S \mid \text{ENSO}) \cdot \mathbb{P}(\text{ENSO} \mid E_t) \right]}_{\text{Joint contingency}} \cdot \delta_{\text{strong}} + \left[ \mathbb{P}(S \cap \text{ENSO} \mid E_t) \right]^c \cdot \delta_{\text{weak}}$$  
 
-This is what futures traders trade on. Such firms would be fools to divulge their secrets *S*. Neither do I.
+This is what futures traders act on. Such firms would be fools to divulge their secrets *S*. Neither do I.
 
 ### Caution on Trading Tips
 
