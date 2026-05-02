@@ -35,11 +35,11 @@ This is surely known to commodities futures traders like John W. Henry & Company
 
 Having the price insight tradeable for a gain in a futures contract is a different thing. Traders have a second ***secret*** insight that they combine with the ENSO insight.
 
-Formally, with S being the secret, this takes the form: 
+Formally, with *S* being the secret, this takes the form: 
 
 $$\Delta P_{t+h} = \mathbb{P}(\text{ENSO} \cap S \mid E_t) \cdot \delta_{\text{strong}} + \mathbb{P}(\text{ENSO} \cap S \mid E_t)^c \cdot \delta_{\text{weak}}$$  
 
-<p style="text-align: center;">or, if S is contingent on the ENSO event:</p>
+<p style="text-align: center;">or, if *S* is contingent on the ENSO event:</p>
 
 $$\Delta P_{t+h} = \underbrace{\left[ \mathbb{P}(S \mid \text{ENSO}) \cdot \mathbb{P}(\text{ENSO} \mid E_t) \right]}_{\text{Joint contingency}} \cdot \delta_{\text{strong}} + \left[ \mathbb{P}(S \cap \text{ENSO} \mid E_t) \right]^c \cdot \delta_{\text{weak}}$$  
 
