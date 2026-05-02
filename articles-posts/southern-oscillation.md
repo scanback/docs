@@ -4,7 +4,7 @@ description: "El Niño and El Niño are notoriously unpredictable, almost chaoti
 image: /assets/social-card-think.png
 ---
 # Are We Facing a Strong El Niño? The Southern Oscillation Conundrum
-El Niño and La Niña are notoriously unpredictable, almost chaotic. But a serious new report predicts a strong El Niño starting this summer. What do I see?
+El Niño and La Niña are notoriously unpredictable, almost chaotic. But a solid new report predicts a strong El Niño starting this summer. What do I see?
 
 ### Southern Oscillation Characteristics
 
@@ -19,7 +19,7 @@ I track the Southern Oscillation systematically because some of our clients have
 <p align="center">
 <img  src="assets/images/s.canback-tellusant-southern-oscillation.svg" width="500" alt="S.Canback, Tellusant: Southern oscillation">
 </p>
-[The full Southern Oscillation graph starting in 1950 is available here.](assets/images/s.canback-tellusant-southern-oscillation-long.svg)
+[`The full Southern Oscillation graph starting in 1950 is available here.`](assets/images/s.canback-tellusant-southern-oscillation-long.svg)
 
 ### Predicting Commodities Prices
 
