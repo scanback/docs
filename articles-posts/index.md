@@ -3,7 +3,7 @@ I have hundreds of LinkedIn and Medium articles and posts that are lost because 
 
 ## Recent
 
-### [El nino](southern-oscillation.md)
+### [Are We Facing a Strong El Niño? The Southern Oscillation Conundrum](southern-oscillation.md)
 El Niño and El Niño are notoriously unpredictable, almost chaotic. But a serious new report predicts a strong El Niño starting this summer. What do I see?
 
 ### [Semantic Analysis Workflow: The Fedora Example](fedora.md)
