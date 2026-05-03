@@ -3,7 +3,7 @@ title: "𝗖𝗔𝗡𝗕𝗔𝗖𝗞 𝙩𝙝𝙞𝙣𝙠"
 description: "This personal website will contain my published works. They range from scientific papers to social media posts."
 image: /assets/social-card-think.png
 ---
-# <span align="center">CANBACK <span style="color: #B00000;"><i>think</i></span></span>
+# <p align="center">CANBACK <span style="color: #B00000;"><i>think</i></span></p>
 
 This personal website will contain my published works. They range from scientific papers to social media posts. Much is already here.
 
