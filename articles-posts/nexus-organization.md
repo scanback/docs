@@ -101,7 +101,7 @@ Rather than endlessly debating whether unit A should report to Division B or Geo
 
 This last point is of utmost importance. While no respectable professional services firm allows client information to be shared outside the client service team. However, they tend to share generalized ideas internally, and good ideas later show up at competitors. The nexus company seeking true competitive advantage needs to make sure this does not happen.
 
-### Implications from my Vantage Point
+### Implications from My Vantage Point
 
 I have 34 years of management consulting experience and have by now seen most management issues one can think of. I am struck by the variability in nexus thinking.
 
