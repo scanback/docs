@@ -4,6 +4,8 @@
 |    |    |
 | **Company** | Tellusant, Inc. <br/> 240 Elm Street, Suite 200 <br/> Somerville MA 02144 <br/> United States |
 |    |    |
+| **Orcid**   | [Profile](https://orcid.org/0009-0006-9892-398X) |
+|    |    |
 | **Email** | [scanback@outlook.com](scanback@outlook.com) |
 |    |    |
 | **Timezone**&nbsp;  | Eastern Time |
