@@ -6,7 +6,7 @@ image: /assets/social-card-think.png
 # Are We Facing a Strong El Niño? The Southern Oscillation Conundrum
 El Niño and La Niña are notoriously unpredictable, almost chaotic. But a solid new report predicts a strong El Niño starting this summer. What do I see?
 
-### Southern Oscillation Characteristics
+## Southern Oscillation Characteristics
 
 The Southern Oscillation is the shifting currents in the Pacific Ocean near South America. Depending on how it shifts you get a warm weather phenomenon called  El Niño or a cold weather phenomenon called La Niña. It affects not only South America, but also North America and Africa, and sometimes beyond.
 
@@ -21,7 +21,7 @@ I track the Southern Oscillation systematically because some of our clients have
 </p>
 [`The full Southern Oscillation graph 1950– is available here.`](southern-oscillation-long-graph.md)
 
-### Predicting Commodities Prices
+## Predicting Commodities Prices
 
 What I do know is that once there are measurable signs of an El Niño (not only modelled data) it is easy to predict commodity prices.
 
@@ -32,7 +32,7 @@ the historical price shock for the event:
 
 This is surely known to commodities futures traders like John W. Henry & Company, just as I know it.
 
-### Trading on Commodities Prices
+## Trading on Commodities Prices
 
 Having the price insight tradeable for a gain in a futures contract is a different thing. Traders have a second ***secret*** insight that they combine with the ENSO insight.
 
@@ -46,7 +46,7 @@ Having the price insight tradeable for a gain in a futures contract is a differe
 
 This is what futures traders act on. Such firms would be fools to divulge their secrets (*S*). Neither do I.
 
-### Caution on Trading Tips
+## Caution on Trading Tips
 
 Broadly, you can be sure that if you get a stock tip, commodity tip, or currency tip from someone, it is of no value. Anyone who has a true insight will keep it to themselves and get rich. Never act on recommendations of this kind. If they work it is random. 
 
