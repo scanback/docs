@@ -80,7 +80,7 @@ The graph below shows that the nexus corporation itself, but as the nexus of all
 
 Importantly, professional services firms are key to maximizing corporate performance. For example, the old mindset of "real companies do things themselves, we do not use consultants" is fading and only laggard companies think like this nowadays.
 
-The new paradigm is instead: "we do as little as possible internally and weave professional services firms into our fabric when they provide skill or other advantages." Hence the incredible growth of professional services since 1980--much higher than in, for example, the tech sector.
+The new paradigm is instead: "we do as little as possible internally and weave professional services firms into our fabric when they provide skill or other advantages." Hence the incredible growth of professional services since 1980--higher than in, for example, the tech sector.
 
 ### 4.2 Benefits and Drawbacks
 
@@ -103,7 +103,7 @@ This last point is of utmost importance. While no respectable professional servi
 
 ### 4.4 Implications from My Vantage Point
 
-I have 34 years of management consulting experience and have by now seen most management issues one can think of. I am struck by the variability in nexus thinking.
+I have more than 40 years of management consulting experience and have by now seen most management issues one can think of. I am struck by the variability in nexus thinking.
 
 Some clients view me and my firm as a fungible resource. They retain us on an arms-length basis for an ad hoc issue. There is no thought given to how the relationship is optimized in the long run. Things just happen.
 
