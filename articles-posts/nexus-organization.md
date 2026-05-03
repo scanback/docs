@@ -62,7 +62,7 @@ Nevertheless, almost all global companies are organized in some form of matrix t
 
 ## 4. Nexus Organization
 
-In 1976, Michael Jensen and William Meckling introduced the notion of the firm as a nexus of contracts in one of the top 5 most-read economics papers ever.³ It is theoretical and took some time to be converted into language and ideas useful to management teams.
+In 1976, Michael Jensen and William Meckling introduced the notion of the firm as a nexus of contracts in one of the top 5 most-read economics papers ever.³ It is theoretical and took some time to be converted into language and ideas useful to management teams. *The Firm as a Nexus of Treaties*⁴ summarized the thinking as of 1990. So these are not new ideas.
 
 I have been a management consultant since the 1980s and I started observing large companies thinking in nexus terms around the turn of the century. So what is it?
 
@@ -122,7 +122,9 @@ Senior executives at large corporations, as well as partners at professional ser
 
 ² 1) Sloan could not recall if he wrote the memo in December 1919 or January 1920 when he wrote his memoir. 2) Beyond leading GM for many years, MIT's business school is named in his honor.
 
-³ Jensen and Meckling (1976): Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure. Journal of Financial Economics: Volume 3, Issue 4, Pages 305-360. "Nexus of contracts" now gives 121,000 Google hits.
+³ Jensen and Meckling (1976): *Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure*. Journal of Financial Economics: Volume 3, Issue 4, Pages 305-360. "Nexus of contracts" now gives 121,000 Google hits.
+
+⁴ Aoki and Mexkling (eds.) (1990): *The Firm as a Nexus of Treaties*. SAGE Publications
 
 ¹²³⁴
 
