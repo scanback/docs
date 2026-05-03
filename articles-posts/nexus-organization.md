@@ -113,7 +113,7 @@ The latter approach is much more powerful than the former. When I think about wh
 
 <p align="center"><strong>— — —</strong></p>
 
-The nexus organization is here to stay. It today represents around 15% of large companies, but the development has only started.
+The nexus organization is here to stay. It today represents maybe 10% of large companies, but the development has only started.
 
 Senior executives at large corporations, as well as partners at professional services firms, are advised to pay attention to this development and to act deliberately to optimize the benefits of managing the nexus of contracts.
 
