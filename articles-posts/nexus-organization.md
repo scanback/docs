@@ -1,5 +1,5 @@
 <p align="center">
-<img  src="assets/images/nexus/s.canback-nexus-organization-banner.jpg" width="500" alt="banner">
+<img  src="assets/images/nexus/s.canback-nexus-organization-banner.svg" width="500" alt="Nexus banner">
 </p>
 
 # The Nexus Organization: The 4th Wave of Corporate Structure
