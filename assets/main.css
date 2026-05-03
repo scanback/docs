@@ -171,8 +171,9 @@ h1, h2, h4, h5 {
   margin-bottom: 0rem;
 }
 h3 {
-  font-weight: 400;
+  font-weight: 500;
   color: #222;
+  font-style: italic;
   margin-top: 0rem;
   margin-bottom: 0rem;
 }
