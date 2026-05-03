@@ -3,9 +3,9 @@ title: "𝗖𝗔𝗡𝗕𝗔𝗖𝗞 𝙩𝙝𝙞𝙣𝙠"
 description: "This personal website will contain my published works. They range from scientific papers to social media posts."
 image: /assets/social-card-think.png
 ---
-# CANBACK *think*
+# CANBACK <span style="color: red;"><i>think</i></span>
 
-This personal website will, before the end of 2026, contain my published works. They range from scientific papers to social media posts.  
+This personal website will contain my published works. They range from scientific papers to social media posts. Much is already here.
 
 Why **CANBACK** ***think***? The term is drawn from George Orwell's *Newspeak* in **1984**. *Newspeak* was aimed at dumbing down people's critical thinking, so it's ill chosen by me. Yet it has an aesthetic beauty with its mangled grammar that I wanted to capture. A longer title would be "Staffan Canback's thoughts on management, economic and philosophical issues".  
 
