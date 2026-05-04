@@ -14,7 +14,7 @@ jobs:
       - name: Submit changed pages to IndexNow
         shell: bash
         env:
-          HOST: scanback.github.io
+          HOST: canback.net
           BASE_PATH: /docs
           INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
         run: |
