@@ -1,3 +1,5 @@
+# Contact Information
+
 |  |  |
 |---|---|
 | **Location** | Greater Boston, Massachusetts |
