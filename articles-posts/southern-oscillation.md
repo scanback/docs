@@ -1,6 +1,6 @@
 ---
 title: "Are We Facing a Strong El Niño? The Southern Oscillation Conundrum"
-description: "El Niño and La Niña are notoriously unpredictable, almost chaotic. But a solid new report predicts a strong El Niño starting this summer. What do I see?"
+description: "El Niño and La Niña are notoriously unpredictable, almost chaotic. But a solid new report predicts a strong El Niño starting this northern summer. What do I see?"
 image: /assets/social-card-think.png
 ---
 # Are We Facing a Strong El Niño? The Southern Oscillation Conundrum
