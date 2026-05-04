@@ -23,7 +23,7 @@ I track the Southern Oscillation systematically because some of our clients have
 
 ## Predicting Commodities Prices
 
-What I do know is that once there are measurable signs of an El Niño (not only modelled data) it is easy to predict commodity prices.
+What I do know is that once there are measurable signs of an El Niño (not only modelled signs) it is easy to predict commodity prices.
 
 > Formally, with ENSO being El Nino Southern Oscillation, *E* being evidence of the event, and *δ*
 the historical price shock for the event:
