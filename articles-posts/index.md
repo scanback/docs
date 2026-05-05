@@ -22,8 +22,8 @@ In less than five years, AI and its key players have catapulted to the top of Go
 
 ## Past
 
-### [Should AI Be Cited? No. Should AI Be Mentioned? Yes.](ai-cites-mentions.md)
-Two tips on how to make your AI use known.
+### [Should AI Be Cited? No. Should AI Be Mentioned? Sometimes.](ai-cites-mentions.md)
+Two tips on how to make your AI use known. Only mention truly material AI use.
 
 ### [South Africa Economic Sentiment Analysis Using AI](economic-sentiment-zaf.md)
 This article shows how to perform semantic analysis of qualitative reports using automated parsing, scoring and weighting, leveraging a custom-trained AI model.
