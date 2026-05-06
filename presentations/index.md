@@ -6,7 +6,7 @@ image: /assets/social-card-think.png
 
 # Public Presentations
 
-Here you find various PowerPoint presentations that are not client confidential.
+My public speeches, lectures and other presentations.
 
 #### [Staffan Canback (1991): *Of Coase and Chaos: A Personal Perspective on the Decreasing Management Challenge.* McKinsey & Company](S.Canback-Of-Coase-and-Chaos-A-Personal-Perspective-on-the-Decreasing-Management-Challenge.pdf)
 This presentation made me globally famous for a short period in the early 1990s. I was then a partner at McKinsey which gave me unparalleled reach.
