@@ -4,7 +4,7 @@ I have hundreds of LinkedIn and Medium articles and posts that are lost because 
 ## Recent
 
 ### [Are We Facing a Strong El Niño? The Southern Oscillation Conundrum](southern-oscillation.md)
-El Niño and La Niña are notoriously unpredictable, almost chaotic. But a solid new report predicts a strong El Niño starting this summer. What do I see?
+El Niño and La Niña are notoriously unpredictable, almost chaotic. But a nevertheless new report predicts a strong El Niño starting this northern summer. What do I see?
 
 ### [Semantic Analysis Workflow: The Fedora Example](fedora.md)
 How can a previously manual workflow be automated with AI and other components? I use our Fed Beige Book analysis as a case study to show the new automated workflow.
@@ -22,8 +22,8 @@ In less than five years, AI and its key players have catapulted to the top of Go
 
 ## Past
 
-### [Should AI Be Cited? No. Should AI Be Mentioned? Yes.](ai-cites-mentions.md)
-Two tips on how to make your AI use known.
+### [Should AI Be Cited? No. Should AI Be Mentioned? Sometimes.](ai-cites-mentions.md)
+Two tips on how to make your AI use known. Only mention truly material AI use.
 
 ### [South Africa Economic Sentiment Analysis Using AI](economic-sentiment-zaf.md)
 This article shows how to perform semantic analysis of qualitative reports using automated parsing, scoring and weighting, leveraging a custom-trained AI model.

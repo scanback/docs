@@ -1,3 +1,5 @@
+# Contact Information
+
 |  |  |
 |---|---|
 | **Location** | Greater Boston, Massachusetts |
@@ -6,7 +8,7 @@
 |    |    |
 | **Orcid**   | [Profile](https://orcid.org/0009-0006-9892-398X) |
 |    |    |
-| **Email** | [scanback@outlook.com](scanback@outlook.com) |
+| **Email** | [scanback@outlook.com](mailto:scanback@outlook.com) |
 |    |    |
 | **Timezone**&nbsp;  | Eastern Time |
 |    |    |

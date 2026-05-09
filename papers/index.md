@@ -12,7 +12,7 @@ This page covers Staffan Canback's academic papers, written since the 1990s.
 > The response, really well written by ChatGPT, is [here](chatgpt-example-canback-critique-of-klier.md).
 
 ---
-### Doctoral Research
+## Doctoral Research
 
 #### [Staffan Canback (2002): *Bureaucratic Limits of Firm Size: Empirical Analysis Using Transaction Cost Economics.* Henley Business School](Canback-Bureaucratic-Limits-of-Firm-Size-Doctoral-Dissertation.pdf)  
 Dr. Canback's seminal dissertation outlines a theory of scale diseconomies in large firms and quantifies the drivers of those disceconomies and mitigating factors. It won first prize in [EDAMBA's](https://edamba.eu/) competition for best European doctoral dissertation in management science in 2003.  
@@ -34,7 +34,7 @@ This was the third required working paper. Before writing the research proposal,
 This was the fourth required submission. A solid research proposal has to be approved by the advisors. Mine took a few iterations and delayed my progress by 1-2 years. But in the end it was all for the good.
 
 ---
-### Papers Derived from My Doctoral Dissertation
+## Papers Derived from My Doctoral Dissertation
 
 #### [Canback, Staffan, Phillip Samouel & David Price (2006): *Do Diseconomies of Scale Impact Firm Size and Performance - A Theoretical and Empirical Overview.* Journal of Managerial Economics](Canback-Samouel-Price-Do-Diseconomies-of-Scale-Impact-Firm-Size-and-Performance.pdf)  
 This is an oft-cited summary of my dissertation, written by me and my dissertation advisors.
@@ -49,7 +49,7 @@ This is a summary of my dissertation *Bureaucratic Limits of Firm Size*, written
 My advisors and I wrote this short summary of the dissertation at the request Henley Business School.
 
 ---
-### Beyond My Doctoral Research
+## Beyond My Doctoral Research
 
 #### [Staffan Canback & Frank D'Agnese: *Where in the World Is the Market?* Problems and Perspectives in Management](Canback-D'Agnese-Where-in-the-World-Is-the-Market.pdf)
 Finding, measuring and capturing market opportunities in emerging countries are critical tasks for multinational consumer goods companies. Central to these tasks is the need to collect and analyze income distribution data within a globally coherent framework and to move beyond income metrics based on national averages.  

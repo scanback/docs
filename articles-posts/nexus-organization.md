@@ -1,5 +1,5 @@
 <p align="center">
-<img  src="assets/images/nexus/s.canback-nexus-organization-banner.svg" width="500" alt="Nexus banner">
+<img  src="assets/images/nexus/s.canback-nexus-organization-banner.svg" width="300" alt="Nexus banner">
 </p>
 
 # The Nexus Organization: The 4th Wave of Corporate Structure
@@ -19,7 +19,7 @@ Below is a graph with the four dominant forms of organizational structure plotte
 
 Before discussing the characteristics of the nexus organization, I review the three preceding forms: functional, multi-divisional, and matrix organizations.
 
-## Functional Organization
+## 1. Functional Organization
 In the 1850s, organization as we think of it today was innovated at the the newly formed transcontinental railroad companies. There was a need for coordination and specialization of people at a scale not seen in the earlier days of industrialism.
 
 <p align="center">
@@ -30,7 +30,7 @@ The benefits of functional organization were immense. But it made companies rigi
 
 Still, functional organizations monopolized management thinking for 70 years,
 
-## Multi-Divisional Organization
+## 2. Multi-Divisional Organization
 
 In 1919, Alfred Sloan, then a second level executive at General Motors, wrote what is arguably the most influential business text ever: the "Organization Study."²
 
@@ -46,7 +46,7 @@ The benefits of M-form were evident not only to GM, but to large companies aroun
 
 The main reason was the effect on profitability. It has been estimated that M-form has a 2 percentage point advantage over functional form in return on equity, If ROE is 10% for functional form, this is a 20% advantage. An astronomical number in competitive markets.
 
-## Matrix Organization
+## 3. Matrix Organization
 
 M-form had its limitations though. As companies grew into multinationals, they started having three dimensions: a new geographic dimension, the product dimension, and the functional dimension. Needs for coordination increased.
 
@@ -60,13 +60,13 @@ The matrix allows for better coordination and use of resources. But it comes at 
 
 Nevertheless, almost all global companies are organized in some form of matrix today. Sometimes the dominant dimension is the product, other times geography, seldom is it function.
 
-## Nexus Organization
+## 4. Nexus Organization
 
-In 1976, Michael Jensen and William Meckling introduced the notion of the firm as a nexus of contracts in one of the top 5 most-read economics papers ever.³ It is theoretical and took some time to be converted into language and ideas useful to management teams.
+In 1976, Michael Jensen and William Meckling introduced the notion of the firm as a nexus of contracts in one of the top 5 most-read economics papers ever.³ It is theoretical and took some time to be converted into language and ideas useful to management teams. *The Firm as a Nexus of Treaties*⁴ summarized the thinking as of 1990. So these are not new ideas.
 
 I have been a management consultant since the 1980s and I started observing large companies thinking in nexus terms around the turn of the century. So what is it?
 
-### Definition
+### 4.1 Definition
 
 The nexus organization views itself as a bundle of contracts. Those contracts can be explicit (e.g., third parties), or implicit (e.g., a sales force sells the products coming out of manufacturing).
 
@@ -80,9 +80,9 @@ The graph below shows that the nexus corporation itself, but as the nexus of all
 
 Importantly, professional services firms are key to maximizing corporate performance. For example, the old mindset of "real companies do things themselves, we do not use consultants" is fading and only laggard companies think like this nowadays.
 
-The new paradigm is instead: "we do as little as possible internally and weave professional services firms into our fabric when they provide skill or other advantages." Hence the incredible growth of professional services since 1980--much higher than in, for example, the tech sector.
+The new paradigm is instead: "we do as little as possible internally and weave professional services firms into our fabric when they provide skill or other advantages." Hence the incredible growth of professional services since 1980--higher than in, for example, the tech sector.
 
-### Benefits and Drawbacks
+### 4.2 Benefits and Drawbacks
 
 The nexus organization carries major benefits:  
 
@@ -94,16 +94,16 @@ Further, it reduces fixed cost and makes it easier to expand or contract with th
 
 However, there are drawbacks. The most important is that it requires new skills at the corporate center to manage the wider network. Building an institutional nexus capability is more than negotiating contracts. It affects the values and priorities of the company.
 
-### Implications for Corporations
+### 4.3 Implications for Corporations
 Developing the next organizational structure should not be an inward-focused task. Instead, the taskforces and steering committees should devote as much effort or more to optimizing the external relationships--to make the nexus a reality.
 
 Rather than endlessly debating whether unit A should report to Division B or Geography C, senior executives should determine which professional services firms should be retained for which tasks, what the contractual relationship should be, and how to safeguard that proprietary methods stays within the corporation and do not leak to competitors.
 
 This last point is of utmost importance. While no respectable professional services firm allows client information to be shared outside the client service team. However, they tend to share generalized ideas internally, and good ideas later show up at competitors. The nexus company seeking true competitive advantage needs to make sure this does not happen.
 
-### Implications from my Vantage Point
+### 4.4 Implications from My Vantage Point
 
-I have 34 years of management consulting experience and have by now seen most management issues one can think of. I am struck by the variability in nexus thinking.
+I have more than 40 years of management consulting experience and have by now seen most management issues one can think of. I am struck by the variability in nexus thinking.
 
 Some clients view me and my firm as a fungible resource. They retain us on an arms-length basis for an ad hoc issue. There is no thought given to how the relationship is optimized in the long run. Things just happen.
 
@@ -113,7 +113,7 @@ The latter approach is much more powerful than the former. When I think about wh
 
 <p align="center"><strong>— — —</strong></p>
 
-The nexus organization is here to stay. It today represents around 15% of large companies, but the development has only started.
+The nexus organization is here to stay. It today represents maybe 10% of large companies, but the development has only started.
 
 Senior executives at large corporations, as well as partners at professional services firms, are advised to pay attention to this development and to act deliberately to optimize the benefits of managing the nexus of contracts.
 
@@ -122,7 +122,9 @@ Senior executives at large corporations, as well as partners at professional ser
 
 ² 1) Sloan could not recall if he wrote the memo in December 1919 or January 1920 when he wrote his memoir. 2) Beyond leading GM for many years, MIT's business school is named in his honor.
 
-³ Jensen and Meckling (1976): Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure. Journal of Financial Economics: Volume 3, Issue 4, Pages 305-360. "Nexus of contracts" now gives 121,000 Google hits.
+³ Jensen and Meckling (1976): *Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure*. Journal of Financial Economics: Volume 3, Issue 4, Pages 305-360. "Nexus of contracts" now gives 121,000 Google hits.
+
+⁴ Aoki and Mexkling (eds.) (1990): *The Firm as a Nexus of Treaties*. SAGE Publications
 
 ¹²³⁴
 
