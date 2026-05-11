@@ -8,6 +8,8 @@ El Niño and La Niña are notoriously unpredictable, almost chaotic. But a new r
 
 ## Southern Oscillation Characteristics
 
+*Updated May 10, 2026*
+
 The Southern Oscillation is the shifting currents in the Pacific Ocean near South America. Depending on how it shifts you get a warm weather phenomenon called El Niño or a cold weather phenomenon called La Niña. It affects not only South America, but also North America and Africa, and sometimes beyond.
 
 Agricultural yields and commodity prices are heavily influenced by the Southern Oscillation for many crops. In 2024, cocoa prices spiked because of a strong El Niño negatively impacting production in west Africa.
