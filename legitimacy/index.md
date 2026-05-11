@@ -26,7 +26,12 @@ Partner
 ## Awards
 - Fulbright Scholar  
 - Wallenberg Scholar  
-- EDAMBA: First Prize in best European doctoral dissertation in management, 2002  
+- EDAMBA: First Prize in best European doctoral dissertation in management, 2002
+
+## Volunteer Work
+- Member of the Board of Advisors: The Fletcher School at Tufts University.The Digital Planet initiative, funded by the Gates Foundation.  
+- Class Secretary: Harvard Business School. MBA Class of 1983 Section I.  
+- Reunion Volunteer: Harvard Business School. MABA Class of 1983.  
 
 ## Lived in  
 - United States  
