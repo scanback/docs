@@ -17,7 +17,7 @@ The graph below gives a fascinating perspective. City spending varies widely.
 Typically, northern cities spend much more than southern cities. In fact, by a factor of 2.3 when aggregating by region, with middle England being slightly below northern cities.
 
 <p align="center">
-<img  src="assets/images/football/s.canback-relative-football-payroll-by-region.svg" width="450" alt="English relative football payroll 2025-2026">  
+<img  src="assets/images/football/s.canback-relative-football-payroll-by-region.svg" width="350" alt="English relative football payroll 2025-2026">  
 </p>
 
 Why do we see these differences. One important factor is where football started. The graph below shows the first division participants as of the year 1900, 12 years after the league started.
