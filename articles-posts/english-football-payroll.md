@@ -1,5 +1,5 @@
 ---
-title: "How Much Do English Cities Spend on Football Payroll?"
+title: "How Much Do English Cities Spend on Football?"
 description: "Club payroll spending on football is well known. But how much does this correspond to relative to city economy size?"
 image: /assets/social-card-think.png
 ---
