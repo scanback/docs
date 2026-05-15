@@ -3,7 +3,7 @@ I have hundreds of LinkedIn and Medium articles and posts that are lost because 
 
 ## Recent
 
-### [English Football](english-football-payroll.md)  
+### [How Much Do English Cities Spend on Football Payroll?](english-football-payroll.md)  
 Club payroll spending on football is well known. But how much does this correspond to relative to city economy size? I doubt anyone knows (until now).  
 
 ### [Are We Facing a Strong El Niño? The Southern Oscillation Conundrum](southern-oscillation.md)  
