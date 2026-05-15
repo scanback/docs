@@ -15,7 +15,7 @@ The Southern Oscillation is the shifting currents in the Pacific Ocean near Sout
 
 Agricultural yields and commodity prices are heavily influenced by the Southern Oscillation for many crops. In 2024, cocoa prices spiked because of a strong El Niño negatively impacting production in west Africa.
 
-The recent report by [The World Meteorological Organization (UN)](https://wmo.int/resources/publication-series/el-ninola-nina-updates/el-ninola-nina-update-february-2026) suggests a high probability of a new EL Nino this northern summer / southern winter.
+The recent report by [The World Meteorological Organization (UN)](https://wmo.int/publication-series/el-ninola-nina-updates) suggests a high probability of a new EL Nino this northern summer / southern winter.
 
 I track the Southern Oscillation systematically because some of our clients have an intense interest in how it evolves. The graph below shows the trend since 1950. I do not yet see evidence of an EL Nino when I study the detailed data behind the graph, but I aam an amateur compared to the WMO.  
 
