@@ -1,5 +1,5 @@
 tbd  
 
-[Payroll](s.canback-relative-football-payroll-by-city.svg)  
+[Payroll](assets/images/football/s.canback-relative-football-payroll-by-city.svg)  
 
-[Roots](s.canback-english-football-roots.svg)
+[Roots](assets/images/football/s.canback-english-football-roots.svg)
