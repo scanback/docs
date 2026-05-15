@@ -3,6 +3,9 @@ I have hundreds of LinkedIn and Medium articles and posts that are lost because 
 
 ## Recent
 
+### [English Football](english-football-payroll.md)
+tbd
+
 ### [Are We Facing a Strong El Niño? The Southern Oscillation Conundrum](southern-oscillation.md)
 El Niño and La Niña are notoriously unpredictable, almost chaotic. But a nevertheless new report predicts a strong El Niño starting this northern summer. What do I see?
 
