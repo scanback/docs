@@ -3,11 +3,11 @@ I have hundreds of LinkedIn and Medium articles and posts that are lost because 
 
 ## Recent
 
-### [English Football](english-football-payroll.md)
-tbd
+### [English Football](english-football-payroll.md)  
+Club payroll spending on football is well known. But how much does this correspond to relative to city economy size? I doubt anyone knows (until now).  
 
-### [Are We Facing a Strong El Niño? The Southern Oscillation Conundrum](southern-oscillation.md)
-El Niño and La Niña are notoriously unpredictable, almost chaotic. But a nevertheless new report predicts a strong El Niño starting this northern summer. What do I see?
+### [Are We Facing a Strong El Niño? The Southern Oscillation Conundrum](southern-oscillation.md)  
+El Niño and La Niña are notoriously unpredictable, almost chaotic. But a nevertheless new report predicts a strong El Niño starting this northern summer. What do I see?  
 
 ### [Semantic Analysis Workflow: The Fedora Example](fedora.md)
 How can a previously manual workflow be automated with AI and other components? I use our Fed Beige Book analysis as a case study to show the new automated workflow.
