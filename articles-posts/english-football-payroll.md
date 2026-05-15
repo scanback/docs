@@ -4,7 +4,7 @@ description: "Club payroll spending on football is well known. But how much does
 image: /assets/social-card-think.png
 ---
 # How Much Do English Cities Spend on Football Payroll?
-Club payroll spending on football is well known. But how much does this correspond to relative to city economy size? I doubt anyone knows.  
+Club payroll spending on football is well known. But how much does this correspond to relative to city economy size? I doubt anyone knows (until now).  
 
 I took club 2025-26 payroll data provided by [Capology](https://www.capology.com/uk/premier-league/salaries/), aggregated up the clubs to their corresponding cities (UN definition), and combined this with disposable income of the lower middle class and above. I did not use GDP because many GDP categories have nothing to do with consumer spending power.
 
