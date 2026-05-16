@@ -26,7 +26,7 @@ Why do these differences exist?
 
 One important factor is historical path dependence: football began as a distinctly northern sport. The figure below shows First Division participants in 1900, 12 years after the Football League was founded. Note that there was not a single southern team.
 
-Football was — and arguably still is — deeply embedded in the social fabric of northern England, where populations have long shown a willingness to devote significant economic resources to sustaining their clubs. Liverpool is perhaps the clearest example.  
+Football was — and arguably still is — deeply embedded in the social fabric of northern England, where populations have long shown a willingness to devote significant economic resources to sustaining their clubs. Liverpool is the clearest example.  
 
 <p align="center">
 <img  src="assets/images/football/s.canback-english-football-roots.svg" width="400" alt="English football roots 1900">  
