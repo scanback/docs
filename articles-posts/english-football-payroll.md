@@ -16,7 +16,7 @@ The map shows the 28 cities hosting the 44 clubs in the 2025-26 season. Bubble a
 <img  src="assets/images/football/s.canback-english-football-city-map.svg" width="600" alt="English football cities map 2025-26">  
 </p>
 
-From this follows a fascinating perspective on English football economics when this is overlaid by clubs' payroll. Relative football spending varies enormously across cities.  
+From this follows a fascinating perspective on English football economics when this is overlaid with clubs' payroll. Relative football spending varies enormously across cities as seen in the graph below.
 
 <p align="center">
 <img  src="assets/images/football/s.canback-relative-football-payroll-by-city.svg" width="500" alt="English relative football payroll 2025-2026">  
