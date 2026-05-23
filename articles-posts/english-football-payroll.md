@@ -13,7 +13,7 @@ I did not use GDP. Many components of GDP have little to do with consumer spendi
 The map shows the 28 cities hosting the 44 clubs in the 2025-26 season. Bubble areas are proportional to lower middle class (and above) disposable income in the city.
 
 <p align="center">
-<img  src="assets/images/football/s.canback-english-football-city-map.svg" width="600" alt="English football cities map 2025-26">  
+<img  src="assets/images/football/s.canback-english-football-city-map.svg" width="500" alt="English football cities map 2025-26">  
 </p>
 
 From this follows a fascinating perspective on English football economics when this is overlaid with clubs' payroll. Relative football spending varies enormously across cities as seen in the graph below.
@@ -40,7 +40,7 @@ Football was — and arguably still is — deeply embedded in the social fabric 
 
 English football is not simply a sports industry. In many northern cities, it remains a disproportionately large economic and cultural commitment relative to local consumer resources.
 
-Much more could be said from an economic and business perspective, but I will stop here.
+Much more could be said from an economic and business perspective, but I will stop here. Except, what is not shown is also interesting. Which cities do not have clubs but should, given middle class income: 1) Cardiff, which recently slipped up; and 2) Exeter, which is under-managed and has been in and out of bankruptcy. Football also is second to rugby in the city. Yet, the catchment area is large enough for a Premier League team.
 
 ---
 [2026-05-15]
