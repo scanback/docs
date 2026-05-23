@@ -40,7 +40,7 @@ Football was — and arguably still is — deeply embedded in the social fabric 
 
 English football is not simply a sports industry. In many northern cities, it remains a disproportionately large economic and cultural commitment relative to local consumer resources.
 
-Much more could be said from an economic and business perspective, but I will stop here.
+Much more could be said from an economic and business perspective, but I will stop here. Except, what is not shown is also interesting. Which cities do not have clubs but should, given middle class income: 1) Cardiff, which recently slipped up; and 2) Exeter, which is under-managed and has been in and out of bankruptcy. Football also is second to rugby in the city.
 
 ---
 [2026-05-15]
