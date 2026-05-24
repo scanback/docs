@@ -43,4 +43,6 @@ English football is not simply a sports industry. In many northern cities, it re
 Much more could be said from an economic and business perspective, but I will stop here.  
 
 ---
+[A PDF version is found here.](assets/pdf/s.canback-english-football-spending-by-city)
+
 [2026-05-15]
