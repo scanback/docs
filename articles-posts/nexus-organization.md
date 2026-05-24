@@ -126,7 +126,7 @@ Senior executives at large corporations, as well as partners at professional ser
 
 ⁴ Aoki and Mexkling (eds.) (1990): *The Firm as a Nexus of Treaties*. SAGE Publications
 
-¹²³⁴
+<p align="center">———</p>
 
 
 Note: this article builds on various parts of my academic research and my experience as a management consultant to large corporations.
