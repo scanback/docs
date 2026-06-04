@@ -16,7 +16,7 @@ image: /assets/social-card-think.png
 **OM FÖRFATTAREN**  
 
 > Dr Staffan Canbäck är svensk strategikonsult och företagsledare bosatt i Boston, Massachusetts sedan 1993. Han är arbetande styrelseordförande för Tellusant, Inc. Han var dessförinnan VD för Canback Consulting, en global strategikonsult firma i Boston, som han sålde till The Economist Group 2015. Innan dess var han partner hos McKinsey & Company och Monitor Company.  
-
+>  
 > Canbäck erhöll en doktorshatt från Henley Business School 2002 baserat på forskning kring skalnackdelar inom storföretag. Han har dessutom en MBA examen från Harvard Business School och en civilingenjörsexamen (elektro) från KTH. Canbäck är Fulbright Scholar, Wallenbergstipendiat, och vann första pris i EDAMBA:s tävling om Europas bästa  doktorsavandling inom företagsekonomi 2003.  
     
 
