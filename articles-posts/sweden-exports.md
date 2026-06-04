@@ -33,7 +33,7 @@ Den svenska exportutvecklingen har varit under förväntan de sista 25 åren. P�
 **Graf 1**  
 <img  src="assets/images/tellusant-sweden-exports-01.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 1"> 
 
-Gentemot den inre marknaden (EU plus Norge, Island, Liechtenstein och Schweiz).¹ har vår export vuxit snabbare än mottagarländernas BNP.  
+Gentemot den inre marknaden (EU plus Norge, Island, Liechtenstein och Schweiz)¹ har vår export vuxit snabbare än mottagarländernas BNP.  
 
 Inte oväntat eftersom ett syfte med den inre markanden är att stimulera intern handel. Den inre marknaden står nu för två-tredjedelar av svensk export.  
 
@@ -148,7 +148,7 @@ Andra starka framgångsländer är t ex Förenade Arabemiraten (AE), Egypten (EG
 
 Däremot går det trögt i exempelvis USA (US), Tyskland (DE) och Schweiz (CH). Att många länder i den inre marknaden ligger långt under diagonalen är bekymrande. Att gå med i eurosamarbetet kan inte vara en nackdel.
 
-Detta ger ett intryck av de relativa resultaten. Hälften av de 209 länderna ligger över diagonalen 0ch kan ses som framgångar, Hälften ligger under, med mer att önska.
+Detta ger ett intryck av de relativa resultaten. Hälften av de 209 länderna ligger över diagonalen och kan ses som framgångar, Hälften ligger under, med mer att önska.
 
 Graf 9 sätter siffor på de relativa exportframgångarna.
 
