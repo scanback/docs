@@ -16,7 +16,7 @@ Man ser ofta ytliga jämförelser av den materiella levnadsstandarden i olika l�
 
 **UPPDATERAS TILL BASÅR 2025 UNDER 2026**
 
-Den sista tiden har det varit mycket på YouTube och andra sociala medier om hur mycket lägre de disponibla inkomsterna är i EU jämfört med USA.
+Den senaste tiden har det varit mycket på YouTube och andra sociala medier om hur mycket lägre de disponibla inkomsterna är i EU jämfört med USA.
 
 Jag har därför analyserat de svenska hushållens disponibla inkomstnivå med större precision än BNP/capita. Mitt jämförelseår är 2023 (det senaste året med rimligt stabila data).
 
