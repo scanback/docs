@@ -48,7 +48,7 @@ För kvalitativa rangordningar som länders färger på kartor ordnas färgerna 
 
 Higgs boson har en extremt hög frekvens och ligger långt till vänster om lila. Långt till höger om lingon ligger t ex mobiltelefoni, sedan FM radio (VHF), kortvåg (HF), mellanvåg (MF) och långvåg (LF).
 
-För kopierieng av RGB siffor:
+*För kopierieng av RGB siffor:*  
 flaggblå #006AA7  
 Flaggul #FECC02  
 Ormbunke #5FAF4A  
