@@ -18,21 +18,20 @@ Find my academic papers and doctoral dissertation. They cover diseconomies of sc
 ## [Public Presentations](presentations/index.md)
 My public speeches, lectures and other presentations.
 
+## [Sverige m.m.](sverige/index.md)
+Artiklar med mer ämnade för svenskar och finlandssvenskar. 🇸🇪 🇫🇮
+
 ## [Quick Reads](quick-reads/index.md)
 I'm the main contributor to Tellusant Quick Reads. Find all of them here.  
 
 ## [Videos](videos/index.md)
 My videos are a combination of analytical topics, TV interviews, and travel memories.
 
-## [Travel Stories and Photos](travel/index.md)
-I have worked on the ground in 90 countries and visited over 100. FORTHCOMING.
-
-## [Sverige m.m.](sverige/index.md)
-Artiklar med mer ämnade för svenskar och finlandssvenskar. 🇸🇪 🇫🇮
-
-
 ## [Citations of My Work](citations/index.md)
 I have over 750 academic, business, and media citations to my name.  
+
+## [Travel Stories and Photos](travel/index.md)
+I have worked on the ground in 90 countries and visited over 100. FORTHCOMING.
 
 ## [Other Materials](other/index.md)
 Bits and pieces such as event posters.

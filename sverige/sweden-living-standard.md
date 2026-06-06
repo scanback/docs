@@ -1,9 +1,9 @@
 ---
-title: "En komplex fråga: Den svenska levnadsstandarden jämfört med den amerikanska"
+title: "En komplex fråga: Den svenska levnadsstandarden jämförd med den amerikanska"
 Description: "Man ser ofta ytliga jämförelser av den materiella levnadsstandarden i olika länder. Här går jag på djupet. 🇸🇪"
 image: /assets/social-card-think.png
 ---
-# En komplex fråga: Den svenska levnadsstandarden jämfört med den amerikanska
+# En komplex fråga: Den svenska levnadsstandarden jämförd med den amerikanska
 
 _Dr Staffan Canbäck, Tellusant_
 
@@ -16,7 +16,7 @@ Man ser ofta ytliga jämförelser av den materiella levnadsstandarden i olika l�
 
 **UPPDATERAS TILL BASÅR 2025 UNDER 2026**
 
-Den sista tiden har det varit mycket på YouTube och andra sociala medier om hur mycket lägre de disponibla inkomsterna är i EU jämfört med USA.
+Den senaste tiden har det varit mycket på YouTube och andra sociala medier om hur mycket lägre de disponibla inkomsterna är i EU jämfört med USA.
 
 Jag har därför analyserat de svenska hushållens disponibla inkomstnivå med större precision än BNP/capita. Mitt jämförelseår är 2023 (det senaste året med rimligt stabila data).
 
@@ -50,7 +50,7 @@ Om vi använt den naiva metoden i punkt 1, så ligger Sverige sist eller näst s
 
 Detta är orimligt. Jag har rest i 48 delstater med en sociologisk blick. Det är omöjligt att Sverige är fattigare än t ex West Virginia.
 
-Med mina justeringar ovan hamnar Severige runt 40:e plats, jämförbart med Georgia eller Michigan (som har 10-11 miljoner invånare). Detta verkar rimligt baserat på min erfarenhet.
+Med mina justeringar ovan hamnar Severige runt 40:e plats, jämförbart med Georgia eller Michigan (som bägge dessutom råkar ha 10-11 miljoner invånare). Detta verkar rimligt baserat på min erfarenhet.
 
 ---
 [Mer om Sverige och NB8](../sverige/index.md)
