@@ -8,6 +8,10 @@ image: /assets/social-card-think.png
 Artiklar och annat avsedda för svenskar och finlandssvenskar.  
 🇸🇪 🇫🇮  
 
+#### [Affärsvärlden (2026): *Inget att fira: ”Hela landet måste skärpa sig – svenskar är lata”* ](https://www.affarsvarlden.se/artikel/inget-att-fira-hela-landet-maste-skarpa-sig)
+Jag intervjuades av Affärsvärlden för denna nationaldagsartikel. Den bygger vidare på min [Uselt så det förslår](sweden-growth.md) analys nedan.
+
+
 #### [Uselt så det förslår: Sveriges ekonomiska tillväxt 2015-2025](sweden-growth.md)
 Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag enklast möjliga meningsfulla mått på utvecklingen.
 
