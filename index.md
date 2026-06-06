@@ -7,7 +7,7 @@ image: /assets/social-card-think.png
 
 This personal website will contain my published works. They range from scientific papers to social media posts. Much is already here.
 
-Why **CANBACK** <span style="color: #B00000;"><b><i>think</i></b></span>? The term is drawn from George Orwell's *Newspeak* in **1984**. *Newspeak* was aimed at dumbing down people's critical thinking, so it's ill chosen by me. Yet it has an aesthetic beauty with its mangled grammar that I wanted to capture.  
+Why **CANBACK** <span style="color: #B00000;"><b><i>think</i></b></span>? The *think* term is drawn from George Orwell's *Newspeak* in **1984**. *Newspeak* was aimed at dumbing down people's critical thinking, so it's ill chosen by me. Yet it has an aesthetic beauty with its mangled grammar that I wanted to capture.  
 
 ## [Articles & Posts](articles-posts/index.md)  
 I have hundreds of LinkedIn and Medium articles and posts that are lost because of the ephemeral character of social media. I gradually save them for posterity here. This page will be built out during 2026.  
@@ -22,7 +22,7 @@ My public speeches, lectures and other presentations.
 I'm the main contributor to Tellusant Quick Reads. Find all of them here.  
 
 ## [Videos](videos/index.md)
-My videos are a combination of analytical topics, TV interviews, and travel memoroie.
+My videos are a combination of analytical topics, TV interviews, and travel memories.
 
 ## [Travel Stories and Photos](travel/index.md)
 I have worked on the ground in 90 countries and visited over 100. FORTHCOMING.

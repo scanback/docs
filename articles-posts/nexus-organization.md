@@ -111,7 +111,7 @@ Sophisticated clients have a different mindset. They think long and hard about h
 
 The latter approach is much more powerful than the former. When I think about where I want to add value, those are the companies I prioritize.
 
-<p align="center"><strong>— — —</strong></p>
+<p align="center">———</p>
 
 The nexus organization is here to stay. It today represents maybe 10% of large companies, but the development has only started.
 
@@ -126,7 +126,7 @@ Senior executives at large corporations, as well as partners at professional ser
 
 ⁴ Aoki and Mexkling (eds.) (1990): *The Firm as a Nexus of Treaties*. SAGE Publications
 
-¹²³⁴
+<p align="center">———</p>
 
 
 Note: this article builds on various parts of my academic research and my experience as a management consultant to large corporations.

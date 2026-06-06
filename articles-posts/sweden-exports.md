@@ -1,6 +1,6 @@
 ---
 title: "Sveriges exportmöjligheter i ett besvärligt handelsklimat"
-description: "Hur ska ett exportberoende land som Sverige agera för att bibehålla och öka sin export? Artikeln ger ett djupt analytisk lösning perspektiv 🇸🇪"
+description: "Hur ska ett exportberoende land som Sverige agera för att bibehålla och öka sin export? Artikeln ger ett djupt analytisk perspektiv 🇸🇪"
 image: /assets/social-card-think.png
 ---
 # Sveriges exportmöjligheter i ett besvärligt handelsklimat
@@ -16,7 +16,7 @@ image: /assets/social-card-think.png
 **OM FÖRFATTAREN**  
 
 > Dr Staffan Canbäck är svensk strategikonsult och företagsledare bosatt i Boston, Massachusetts sedan 1993. Han är arbetande styrelseordförande för Tellusant, Inc. Han var dessförinnan VD för Canback Consulting, en global strategikonsult firma i Boston, som han sålde till The Economist Group 2015. Innan dess var han partner hos McKinsey & Company och Monitor Company.  
-
+>  
 > Canbäck erhöll en doktorshatt från Henley Business School 2002 baserat på forskning kring skalnackdelar inom storföretag. Han har dessutom en MBA examen från Harvard Business School och en civilingenjörsexamen (elektro) från KTH. Canbäck är Fulbright Scholar, Wallenbergstipendiat, och vann första pris i EDAMBA:s tävling om Europas bästa  doktorsavandling inom företagsekonomi 2003.  
     
 
@@ -33,7 +33,7 @@ Den svenska exportutvecklingen har varit under förväntan de sista 25 åren. P�
 **Graf 1**  
 <img  src="assets/images/tellusant-sweden-exports-01.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 1"> 
 
-Gentemot den inre marknaden (EU plus Norge, Island, Liechtenstein och Schweiz).¹ har vår export vuxit snabbare än mottagarländernas BNP.  
+Gentemot den inre marknaden (EU plus Norge, Island, Liechtenstein och Schweiz)¹ har vår export vuxit snabbare än mottagarländernas BNP.  
 
 Inte oväntat eftersom ett syfte med den inre markanden är att stimulera intern handel. Den inre marknaden står nu för två-tredjedelar av svensk export.  
 
@@ -148,7 +148,7 @@ Andra starka framgångsländer är t ex Förenade Arabemiraten (AE), Egypten (EG
 
 Däremot går det trögt i exempelvis USA (US), Tyskland (DE) och Schweiz (CH). Att många länder i den inre marknaden ligger långt under diagonalen är bekymrande. Att gå med i eurosamarbetet kan inte vara en nackdel.
 
-Detta ger ett intryck av de relativa resultaten. Hälften av de 209 länderna ligger över diagonalen 0ch kan ses som framgångar, Hälften ligger under, med mer att önska.
+Detta ger ett intryck av de relativa resultaten. Hälften av de 209 länderna ligger över diagonalen och kan ses som framgångar, Hälften ligger under, med mer att önska.
 
 Graf 9 sätter siffor på de relativa exportframgångarna.
 

@@ -12,7 +12,7 @@ To start, the map shows the 28 cities hosting the 44 clubs in the 2025-26 season
 <img  src="assets/images/football/s.canback-english-football-city-map.svg" width="500" alt="English football cities map 2025-26">  
 </p>
 
-Payroll data for the 2025–26 season from [Capology](https://www.capology.com/uk/premier-league/salaries/) was then aggregated by club to their corresponding cities (using the UN urban definition) and compared with the disposable income of the lower middle class and above, [accessed from TelluBase](https://tellubase.com).    
+Payroll data for the 2025–26 season from [Capology](https://www.capology.com/uk/premier-league/salaries/) was then aggregated by club to their corresponding cities (using the UN urban definition) and compared with the disposable income of the lower middle class and above, [accessed from TelluBase](https://tellubase.com).  
 
 The result gives a fascinating perspective on English football economics. Relative football spending varies enormously between cities.  
 
@@ -28,9 +28,7 @@ A striking pattern emerges. Northern cities spend substantially more on football
 
 Why do these differences exist?  
 
-One crucial factor is historical path dependence: football began as a distinctly northern sport. The graph below shows First Division participants in 1900, 12 years after the Football League was founded. Note that there was *not a single southern team during the first 12 years*.  
-
-Football was — and arguably still is — deeply embedded in the social fabric of northern England, where populations have long shown a willingness to devote significant economic resources to sustaining their clubs. Liverpool is the clearest example.  
+One crucial factor is historical path dependence: football began as a distinctly northern sport. The graph below shows first division participants in 1900, 12 years after the football league was founded. Note that there was *not a single southern team during the first 12 years*.  
 
 <p align="center">
 <img  src="assets/images/football/s.canback-english-football-roots.svg" width="400" alt="English football roots 1900">  
@@ -39,9 +37,8 @@ Football was — and arguably still is — deeply embedded in the social fabric 
 Football was — and still is — deeply embedded in the social fabric of northern England, where populations have long shown a willingness to devote significant economic resources to sustaining their clubs. Liverpool is the clearest example.  
 
 English football is not simply a sports industry. In many northern cities, it remains a disproportionately large economic and cultural commitment relative to local consumer resources.  
-  
 
 ---
-[A PDF version is found here.](assets/pdf/s.canback-english-football-spending-by-city.pdf)
+[A PDF version is found here.](assets/pdf/s.canback-english-football-spending-by-city.pdf)  
 
-[2026-05-15]
+[2026-05-15]  
