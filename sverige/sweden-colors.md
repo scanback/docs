@@ -48,5 +48,23 @@ För kvalitativa rangordningar som länders färger på kartor ordnas färgerna 
 
 Higgs boson har en extremt hög frekvens och ligger långt till vänster om lila. Långt till höger om lingon ligger t ex mobiltelefoni, sedan FM radio (VHF), kortvåg (HF), mellanvåg (MF) och långvåg (LF).
 
+För kopierieng av RGB siffor:
+flaggblå #006AA7  
+Flaggul #FECC02  
+Ormbunke #5FAF4A  
+Hallon #C15F8C  
+Plommon #BD77DA  
+Nypon #EA6B68  
+Lila #B96AD6  
+Rönnbär #F08A5A  
+Rallarros #D76479  
+Sjö #00AEAF  
+Lind #53B153  
+
+
+
+
+
+
 ---
 [Mer om Sverige och NB8](../sverige/index.md)
