@@ -24,6 +24,10 @@ Jag har därför analyserat de svenska hushållens disponibla inkomstnivå med s
 <img  src="assets/images/s.canback-sweden-living-standard.svg" width="500" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
+<p align="center">
+<img  src="assets/images/living-standard/s.canback-sweden-living-standard-1.svg" width="500" alt="S.Canback - Swedish vs U.S. material standard of living">
+</p>
+
 ❶ BNP per capita är 31% lägre i Sverige. Men BNP har är inte inkomst och definitivt inte hushållsinkomst.
 
 ❷ Sveriges disponibla hushållsinkomst (DI) är 49% lägre vid en första anblick. Den 16-procentiga skillnaden reflekterar det högre skattetrycket, men också andra faktorer
