@@ -25,20 +25,36 @@ Jag har därför analyserat de svenska hushållens disponibla inkomstnivå med s
 </p>
 
 <p align="center">
-<img  src="assets/images/living-standard/s.canback-sweden-living-standard-1.svg" width="500" alt="S.Canback - Swedish vs U.S. material standard of living">
+<img  src="assets/images/living-standard/s.canback-sweden-living-standard-1.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
 ❶ BNP per capita är 31% lägre i Sverige. Men BNP har är inte inkomst och definitivt inte hushållsinkomst.
 
-❷ Sveriges disponibla hushållsinkomst (DI) är 49% lägre vid en första anblick. Den 16-procentiga skillnaden reflekterar det högre skattetrycket, men också andra faktorer
+<p align="center">
+<img  src="assets/images/living-standard/s.canback-sweden-living-standard-2.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
+</p>
 
-❸ Men det är viktigt att göra en AIC justering.² Denna innebär att staten (inkl regioner, kommuner) spenderar pengar för medborgarna som inte ingår i DI. T ex skolor och sjukvård. Denna statliga "spending on behalf of conumers" är 19% av BNP i Sverige gentemot 6% i USA.
+Sveriges disponibla hushållsinkomst (DI) är 49% lägre vid en första anblick. Den 16-procentiga skillnaden reflekterar det högre skattetrycket, men också andra faktorer
+
+<p align="center">
+<img  src="assets/images/living-standard/s.canback-sweden-living-standard-3.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
+</p>
+
+Men det är viktigt att göra en AIC justering.² Denna innebär att staten (inkl regioner, kommuner) spenderar pengar för medborgarna som inte ingår i DI. T ex skolor och sjukvård. Denna statliga "spending on behalf of conumers" är 19% av BNP i Sverige gentemot 6% i USA.
+
+<p align="center">
+<img  src="assets/images/living-standard/s.canback-sweden-living-standard-4.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
+</p>
 
 Med denna justering är Sveriges hushållsinkomst 38% lägre än USA:s.
 
 ❹ Men varför använda 2024 års växelkurs? Växelkurser går upp och ner men den lokala levnadsstandarden rör sig (i stort) inte. Det är därför bättre att använda en stabil kurs. Dessutom måste hänsyn tas till skillnader i kostnadsnivåer. 
 
 Dessa två faktorer kräver att "purchasing power parity" (PPP) används. Detta är speciellt viktigt eftersom 2023 hade en onormalt svag krona, tigigare och senare år åär mer normala.
+
+<p align="center">
+<img  src="assets/images/living-standard/s.canback-sweden-living-standard-5.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
+</p>
 
 Med detta (efter en synnerligen komplicerad uträkning) hamnar Sverige 22% under USA.
 
