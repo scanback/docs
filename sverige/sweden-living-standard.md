@@ -32,9 +32,9 @@ Jag har därför analyserat de svenska hushållens disponibla inkomstnivå med s
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-2.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-3. Men det är viktigt att göra en AIC justering.² Denna innebär att staten (inkl regioner, kommuner) spenderar pengar för medborgarna som inte ingår i disponibel inkomst. T ex skolor och sjukvård. Denna statliga *spending on behalf of consumers* är 19% av BNP i Sverige gentemot 6% i USA.
-<br/>
-Med denna justering är Sveriges hushållsinkomst 38% lägre än USA:s. 
+3. Men det är viktigt att göra en AIC justering.² Denna innebär att staten (inkl regioner, kommuner) spenderar pengar för medborgarna som inte ingår i disponibel inkomst. T ex skolor och sjukvård. Denna statliga *spending on behalf of consumers* är 19% av BNP i Sverige gentemot 6% i USA.  
+
+Med denna justering är Sveriges hushållsinkomst 38% lägre än USA:s.  
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-3.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
@@ -50,7 +50,7 @@ Med detta (efter en synnerligen komplicerad uträkning) hamnar Sverige 22% under
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-4.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-5. Slutligen, varför per invånare? Per capita måttet penaliserar länder med stora hushåll. Men ett per hushåll mått penaliserar länder med små hushåll. Ekonomer använder istållet hushållsekvivalenter (HH-ekv) som är det geometriska medelvärdet mellan individer och hushåll.³
+5. Slutligen, varför per invånare? Per invånar-måttet penaliserar länder med stora hushåll. Men ett per hushåll mått penaliserar länder med små hushåll. Ekonomer använder istållet hushållsekvivalenter (HH-ekv) som är det geometriska medelvärdet mellan individer och hushåll.³
 
 Detta reducerar den svenska inkomstnivån med 5 procentenheter till 27% under USA.
 
