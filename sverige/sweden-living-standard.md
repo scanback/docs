@@ -10,9 +10,9 @@ _Dr Staffan Canbäck, Tellusant_
 Man ser ofta ytliga jämförelser av den materiella levnadsstandarden i olika länder. Här går jag på djupet.
 
 ---
-> _Jag och mitt företag Tellusant, Inc. har aktiverat oss i Sverige och NB8. Vi samarbetar med Kennet Rådne i Stockholm._
+> Jag och mitt företag Tellusant, Inc. har aktiverat oss i Sverige och Nordic-Baltic 8. Vi samarbetar med Kennet Rådne i Stockholm.
 >
->_Jag gör därför några inlägg på svenska om landet och regionen. Jag har inte skrivit på svenska på många år så det är en nyttig övning (38 år i USA)._
+Jag gör därför några inlägg på svenska om landet och regionen. Jag har inte skrivit på svenska på många år så det är en nyttig övning (38 år i USA).
 
 ***UPPDATERAS TILL BASÅR 2025 UNDER 2026***
 
@@ -32,7 +32,7 @@ Jag har därför analyserat de svenska hushållens inkomstnivå i detalj. Mitt j
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-2.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-3. Men det är viktigt att göra en AIC justering.² Denna innebär att staten (inkl regioner, kommuner) spenderar pengar för medborgarna som inte ingår i disponibel inkomst. T ex skolor och sjukvård. Denna statliga *government spending on behalf of consumers* (som Världsbanken uttrycker det) är 19% av BNP i Sverige gentemot 6% i USA.  
+3. Men det är viktigt att göra en AIC justering.¹ Denna innebär att staten (inkl regioner, kommuner) spenderar pengar för medborgarna som inte ingår i disponibel inkomst. T ex skolor och sjukvård. Denna *government spending on behalf of consumers* (som Världsbanken uttrycker det) är 19% av BNP i Sverige gentemot 6% i USA.  
 
 Efter denna justering är Sveriges hushållsinkomst 38% lägre än USA:s.  
 
@@ -50,7 +50,7 @@ Med detta (efter en synnerligen komplicerad uträkning) hamnar Sverige 22% under
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-4.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-5. Slutligen, varför per invånare? Per invånar-måttet penaliserar länder med stora hushåll. Men ett per hushåll mått penaliserar länder med små hushåll. Ekonomer använder istållet hushållsekvivalenter (HH-ekv) som är det geometriska medelvärdet mellan individer och hushåll.
+5. Slutligen, varför per invånare? Per invånar-måttet penaliserar länder med stora hushåll. Men ett per hushåll mått penaliserar länder med små hushåll. Ekonomer använder istållet hushållsekvivalenter (HH-ekv) som är det geometriska medelvärdet mellan individer och hushåll.²
 
 Detta reducerar den svenska inkomstnivån med 5 procentenheter till 27% under USA.
 
@@ -70,7 +70,8 @@ Med mina justeringar ovan hamnar Severige runt 40:e plats, jämförbart med Geor
 
 ---
 Källa för samtliga grafer: S.Canbäck (Tellusant) analys; [TelluBase](https://tellubase.com)
-¹ Se t ex Rainwater, L. (1970): *What Money Buys: Inequality and the Social Meanings of Income*
+¹ Actual Individual Consumption
+² Se t ex Rainwater, L. (1970): *What Money Buys: Inequality and the Social Meanings of Income*
 
 ---
 [Mer om Sverige](../sverige/index.md)
