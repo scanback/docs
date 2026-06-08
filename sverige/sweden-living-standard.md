@@ -12,7 +12,7 @@ Man ser ofta ytliga jämförelser av den materiella levnadsstandarden i olika l�
 ---
 > Jag och mitt företag Tellusant, Inc. har aktiverat oss i Sverige och Nordic-Baltic 8. Vi samarbetar med Kennet Rådne i Stockholm.
 >
-Jag gör därför några inlägg på svenska om landet och regionen. Jag har inte skrivit på svenska på många år så det är en nyttig övning (38 år i USA).
+> Jag gör därför några inlägg på svenska om landet och regionen. Jag har inte skrivit på svenska på många år så det är en nyttig övning (38 år i USA).
 
 ***UPPDATERAS TILL BASÅR 2025 UNDER 2026***
 
