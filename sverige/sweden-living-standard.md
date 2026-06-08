@@ -16,9 +16,9 @@ Man ser ofta ytliga jämförelser av den materiella levnadsstandarden i olika l�
 
 **UPPDATERAS TILL BASÅR 2025 UNDER 2026**
 
-Den senaste tiden har det varit mycket på YouTube och andra sociala medier om hur mycket lägre de disponibla inkomsterna är i EU jämfört med USA.  
+Den senaste tiden har det publicerats mycket på YouTube och andra sociala medier om hur mycket lägre inkomsterna är i EU jämfört med USA.  
 
-Jag har därför analyserat de svenska hushållens disponibla inkomstnivå med större precision än BNP/capita. Mitt jämförelseår är 2023 (det senaste året med rimligt stabila data).  
+Jag har därför analyserat de svenska hushållens inkomstnivå i detalj. Mitt jämförelseår är 2023 (det senaste året med rimligt stabila data). Nedan följer stegen i analysen.
 
 1. BNP per capita är 31% lägre i Sverige. Men BNP har är inte inkomst och definitivt inte hushållsinkomst.  
 
@@ -32,15 +32,15 @@ Jag har därför analyserat de svenska hushållens disponibla inkomstnivå med s
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-2.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-3. Men det är viktigt att göra en AIC justering.² Denna innebär att staten (inkl regioner, kommuner) spenderar pengar för medborgarna som inte ingår i disponibel inkomst. T ex skolor och sjukvård. Denna statliga *spending on behalf of consumers* är 19% av BNP i Sverige gentemot 6% i USA.  
+3. Men det är viktigt att göra en AIC justering.² Denna innebär att staten (inkl regioner, kommuner) spenderar pengar för medborgarna som inte ingår i disponibel inkomst. T ex skolor och sjukvård. Denna statliga *government spending on behalf of consumers* (som Världsbanken uttrycker det) är 19% av BNP i Sverige gentemot 6% i USA.  
 
-Med denna justering är Sveriges hushållsinkomst 38% lägre än USA:s.  
+Efter denna justering är Sveriges hushållsinkomst 38% lägre än USA:s.  
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-3.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
- 4.  Men varför använda 2024 års växelkurs? Växelkurser går upp och ner men den lokala levnadsstandarden rör sig (i stort) inte. Det är därför bättre att använda en stabil kurs. Dessutom måste hänsyn tas till skillnader i kostnadsnivåer. 
+ 4. Men varför använda 2024 års växelkurs? Växelkurser går upp och ner men den lokala levnadsstandarden rör sig (i stort) inte. Det är därför bättre att använda en stabil kurs. Dessutom måste hänsyn tas till skillnader i kostnadsnivåer. 
 
 Dessa två faktorer kräver att "purchasing power parity" (PPP) används. Detta är speciellt viktigt eftersom 2023 hade en onormalt svag krona, tidigare och senare år är mer normala.  
 
@@ -50,7 +50,7 @@ Med detta (efter en synnerligen komplicerad uträkning) hamnar Sverige 22% under
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-4.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-5. Slutligen, varför per invånare? Per invånar-måttet penaliserar länder med stora hushåll. Men ett per hushåll mått penaliserar länder med små hushåll. Ekonomer använder istållet hushållsekvivalenter (HH-ekv) som är det geometriska medelvärdet mellan individer och hushåll.³
+5. Slutligen, varför per invånare? Per invånar-måttet penaliserar länder med stora hushåll. Men ett per hushåll mått penaliserar länder med små hushåll. Ekonomer använder istållet hushållsekvivalenter (HH-ekv) som är det geometriska medelvärdet mellan individer och hushåll.
 
 Detta reducerar den svenska inkomstnivån med 5 procentenheter till 27% under USA.
 
@@ -67,6 +67,10 @@ Om vi använt den naiva metoden i punkt 1, så ligger Sverige sist eller näst s
 Detta är orimligt. Jag har rest i 48 delstater med en sociologisk blick. Det är omöjligt att Sverige är fattigare än t ex West Virginia.
 
 Med mina justeringar ovan hamnar Severige runt 40:e plats, jämförbart med Georgia eller Michigan (som bägge dessutom råkar ha 10-11 miljoner invånare). Detta verkar rimligt baserat på min erfarenhet.
+
+---
+Källa för samtliga grafer: S.Canbäck (Tellusant) analys; [TelluBase](https://tellubase.com)
+¹ Se t ex Rainwater, L. (1970): *What Money Buys: Inequality and the Social Meanings of Income*
 
 ---
 [Mer om Sverige](../sverige/index.md)
