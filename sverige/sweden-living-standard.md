@@ -26,41 +26,41 @@ Jag har därför analyserat de svenska hushållens disponibla inkomstnivå med s
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-1.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-2. Sveriges disponibla hushållsinkomst (DI) är 49% lägre vid en första anblick. Den 16-procentiga skillnaden reflekterar det högre skattetrycket, men också andra faktorer.  
+2. Sveriges disponibla hushållsinkomst (DI) är 49% lägre vid en första anblick. Den 18-procentiga skillnaden mot BNP reflekterar det högre skattetrycket, men också andra faktorer.  
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-2.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-3. Men det är viktigt att göra en AIC justering.² Denna innebär att staten (inkl regioner, kommuner) spenderar pengar för medborgarna som inte ingår i DI. T ex skolor och sjukvård. Denna statliga "spending on behalf of conumers" är 19% av BNP i Sverige gentemot 6% i USA.  
+3. Men det är viktigt att göra en AIC justering.² Denna innebär att staten (inkl regioner, kommuner) spenderar pengar för medborgarna som inte ingår i disponibel inkomst. T ex skolor och sjukvård. Denna statliga *spending on behalf of consumers* är 19% av BNP i Sverige gentemot 6% i USA.
+<br/>
+Med denna justering är Sveriges hushållsinkomst 38% lägre än USA:s. 
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-3.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-4. Med denna justering är Sveriges hushållsinkomst 38% lägre än USA:s.  
+ 4.  Men varför använda 2024 års växelkurs? Växelkurser går upp och ner men den lokala levnadsstandarden rör sig (i stort) inte. Det är därför bättre att använda en stabil kurs. Dessutom måste hänsyn tas till skillnader i kostnadsnivåer. 
+
+Dessa två faktorer kräver att "purchasing power parity" (PPP) används. Detta är speciellt viktigt eftersom 2023 hade en onormalt svag krona, tidigare och senare år är mer normala.  
+
+Med detta (efter en synnerligen komplicerad uträkning) hamnar Sverige 22% under USA.  
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-4.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-5.  Men varför använda 2024 års växelkurs? Växelkurser går upp och ner men den lokala levnadsstandarden rör sig (i stort) inte. Det är därför bättre att använda en stabil kurs. Dessutom måste hänsyn tas till skillnader i kostnadsnivåer. 
+5. Slutligen, varför per invånare? Per capita måttet penaliserar länder med stora hushåll. Men ett per hushåll mått penaliserar länder med små hushåll. Ekonomer använder istållet hushållsekvivalenter (HH-ekv) som är det geometriska medelvärdet mellan individer och hushåll.³
 
-Dessa två faktorer kräver att "purchasing power parity" (PPP) används. Detta är speciellt viktigt eftersom 2023 hade en onormalt svag krona, tigigare och senare år är mer normala.
+Detta reducerar den svenska inkomstnivån med 5%-enheter till 27% under USA.
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-5.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-Med detta (efter en synnerligen komplicerad uträkning) hamnar Sverige 22% under USA.
-
-❺ Slutligen, varför per capita (invånare)? Per capita måttet penaliserar länder med stora hushåll. Men ett per hushåll mått penaliserar länder med små hushåll. Ekonomer använder istållet hushållsekvivalenter (HH-ekv) som är det geometriska medelvärdet mellan individer och hushåll.³
-
-Detta reducerar den svenska inkomstnivån med 5%-enheter till 27% under USA.
-
 <p align="center">— — —</p>
 
-Min slutsatts är att de svenska hushållens inkomstnivå ligger 20-30% under de amerikanska.
+Min slutsats är att de svenska hushållens inkomstnivå ligger 20-30% under de amerikanska.
 
 Om vi använt den naiva metoden i punkt 1, så ligger Sverige sist eller näst sist jämfört med de 50 amerikanska delstaterna, och klart sist med punkt 2 metoden.
 
@@ -69,4 +69,4 @@ Detta är orimligt. Jag har rest i 48 delstater med en sociologisk blick. Det ä
 Med mina justeringar ovan hamnar Severige runt 40:e plats, jämförbart med Georgia eller Michigan (som bägge dessutom råkar ha 10-11 miljoner invånare). Detta verkar rimligt baserat på min erfarenhet.
 
 ---
-[Mer om Sverige och NB8](../sverige/index.md)
+[Mer om Sverige](../sverige/index.md)
