@@ -57,9 +57,7 @@ Jag har därför analyserat de svenska hushållens inkomstnivå i detalj. Mitt j
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-5.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
-
-<p align="center">— — —</p>
-
+<br/>
 Min slutsats är att de svenska hushållens inkomstnivå ligger 20–30% under de amerikanska.
 
 Om vi använt den naiva metoden i punkt 1, så ligger Sverige sist eller näst sist jämfört med de 50 amerikanska delstaterna, och klart sist med punkt 2 metoden.
