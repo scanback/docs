@@ -32,9 +32,7 @@ Jag har därför analyserat de svenska hushållens inkomstnivå i detalj. Mitt j
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-2.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-3. Men det är viktigt att göra en AIC justering.¹ Denna innebär att staten (inkl regioner, kommuner) spenderar pengar för medborgarna som inte ingår i disponibel inkomst. T ex skolor och sjukvård. Denna *government spending on behalf of consumers* (som Världsbanken uttrycker det) är 19% av BNP i Sverige gentemot 6% i USA.  
-
-    Efter denna justering är Sveriges hushållsinkomst 38% lägre än USA:s.  
+3. Men det är viktigt att göra en AIC justering.¹ Denna innebär att staten (inkl regioner, kommuner) spenderar pengar för medborgarna som inte ingår i disponibel inkomst. T ex skolor och sjukvård. Denna *government spending on behalf of consumers* (som Världsbanken uttrycker det) är 19% av BNP i Sverige gentemot 6% i USA.<br/><br/>Efter denna justering är Sveriges hushållsinkomst 38% lägre än USA:s.  
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-3.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
