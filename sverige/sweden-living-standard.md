@@ -52,7 +52,7 @@ Med detta (efter en synnerligen komplicerad uträkning) hamnar Sverige 22% under
 
 5. Slutligen, varför per invånare? Per capita måttet penaliserar länder med stora hushåll. Men ett per hushåll mått penaliserar länder med små hushåll. Ekonomer använder istållet hushållsekvivalenter (HH-ekv) som är det geometriska medelvärdet mellan individer och hushåll.³
 
-Detta reducerar den svenska inkomstnivån med 5%-enheter till 27% under USA.
+Detta reducerar den svenska inkomstnivån med 5 procentenheter till 27% under USA.
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-5.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
@@ -60,7 +60,7 @@ Detta reducerar den svenska inkomstnivån med 5%-enheter till 27% under USA.
 
 <p align="center">— — —</p>
 
-Min slutsats är att de svenska hushållens inkomstnivå ligger 20-30% under de amerikanska.
+Min slutsats är att de svenska hushållens inkomstnivå ligger 20–30% under de amerikanska.
 
 Om vi använt den naiva metoden i punkt 1, så ligger Sverige sist eller näst sist jämfört med de 50 amerikanska delstaterna, och klart sist med punkt 2 metoden.
 
