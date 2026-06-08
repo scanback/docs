@@ -20,37 +20,31 @@ Den senaste tiden har det publicerats mycket på YouTube och andra sociala medie
 
 Jag har därför analyserat de svenska hushållens inkomstnivå i detalj. Mitt jämförelseår är 2023 (det senaste året med rimligt stabila data). Nedan följer stegen i analysen.  
 
-1. BNP per capita är 31% lägre i Sverige. Men BNP har är inte inkomst och definitivt inte hushållsinkomst.  
+- BNP per capita är 31% lägre i Sverige. Men BNP har är inte inkomst och definitivt inte hushållsinkomst.  
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-1.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-2. Sveriges disponibla hushållsinkomst (DI) är 49% lägre vid en första anblick. Den 18-procentiga skillnaden mot BNP reflekterar det högre skattetrycket, men också andra faktorer.  
+- Sveriges disponibla hushållsinkomst (DI) är 49% lägre vid en första anblick. Den 18-procentiga skillnaden mot BNP reflekterar det högre skattetrycket, men också andra faktorer.  
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-2.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-3. Men det är viktigt att göra en AIC justering.¹ Denna innebär att staten (inkl regioner, kommuner) spenderar pengar för medborgarna som inte ingår i disponibel inkomst. T ex skolor och sjukvård. Denna *government spending on behalf of consumers* (som Världsbanken uttrycker det) är 19% av BNP i Sverige gentemot 6% i USA.<br/><br/>Efter denna justering är Sveriges hushållsinkomst 38% lägre än USA:s.  
+- Men det är viktigt att göra en AIC justering.¹ Denna innebär att staten (inkl regioner, kommuner) spenderar pengar för medborgarna som inte ingår i disponibel inkomst. T ex skolor och sjukvård. Denna *government spending on behalf of consumers* (som Världsbanken uttrycker det) är 19% av BNP i Sverige gentemot 6% i USA.<br/><br/>Efter denna justering är Sveriges hushållsinkomst 38% lägre än USA:s.  
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-3.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
- 4. Men varför använda 2024 års växelkurs? Växelkurser går upp och ner men den lokala levnadsstandarden rör sig (i stort) inte. Det är därför bättre att använda en stabil kurs. Dessutom måste hänsyn tas till skillnader i kostnadsnivåer.  
-
-    Dessa två faktorer kräver att "purchasing power parity" (PPP) används. Detta är speciellt viktigt eftersom 2023 hade en onormalt svag krona, tidigare och senare år är mer normala.  
-
-    Med detta (efter en synnerligen komplicerad uträkning) hamnar Sverige 22% under USA.  
+- Men varför använda 2024 års växelkurs? Växelkurser går upp och ner men den lokala levnadsstandarden rör sig (i stort) inte. Det är därför bättre att använda en stabil kurs. Dessutom måste hänsyn tas till skillnader i kostnadsnivåer.<br/><br/>Dessa två faktorer kräver att "purchasing power parity" (PPP) används. Detta är speciellt viktigt eftersom 2023 hade en onormalt svag krona, tidigare och senare år är mer normala.<br/><br/>Med detta (efter en synnerligen komplicerad uträkning) hamnar Sverige 22% under USA.  
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-4.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-5. Slutligen, varför per invånare? Per invånar-måttet penaliserar länder med stora hushåll. Men ett per hushåll mått penaliserar länder med små hushåll. Ekonomer använder istållet hushållsekvivalenter (HH-ekv) som är det geometriska medelvärdet mellan individer och hushåll.²  
-
-    Detta reducerar den svenska inkomstnivån med 5 procentenheter till 27% under USA.  
+- Slutligen, varför per invånare? Per invånar-måttet penaliserar länder med stora hushåll. Men ett per hushåll mått penaliserar länder med små hushåll. Ekonomer använder istållet hushållsekvivalenter (HH-ekv) som är det geometriska medelvärdet mellan individer och hushåll.²<br/><br/>Detta reducerar den svenska inkomstnivån med 5 procentenheter till 27% under USA.  
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-5.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
