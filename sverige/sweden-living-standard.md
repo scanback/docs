@@ -16,37 +16,33 @@ Man ser ofta ytliga jämförelser av den materiella levnadsstandarden i olika l�
 
 **UPPDATERAS TILL BASÅR 2025 UNDER 2026**
 
-Den senaste tiden har det varit mycket på YouTube och andra sociala medier om hur mycket lägre de disponibla inkomsterna är i EU jämfört med USA.
+Den senaste tiden har det varit mycket på YouTube och andra sociala medier om hur mycket lägre de disponibla inkomsterna är i EU jämfört med USA.  
 
-Jag har därför analyserat de svenska hushållens disponibla inkomstnivå med större precision än BNP/capita. Mitt jämförelseår är 2023 (det senaste året med rimligt stabila data).
+Jag har därför analyserat de svenska hushållens disponibla inkomstnivå med större precision än BNP/capita. Mitt jämförelseår är 2023 (det senaste året med rimligt stabila data).  
 
-<p align="center">
-<img  src="assets/images/s.canback-sweden-living-standard.svg" width="500" alt="S.Canback - Swedish vs U.S. material standard of living">
-</p>
+BNP per capita är 31% lägre i Sverige. Men BNP har är inte inkomst och definitivt inte hushållsinkomst.
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-1.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-❶ BNP per capita är 31% lägre i Sverige. Men BNP har är inte inkomst och definitivt inte hushållsinkomst.
+Sveriges disponibla hushållsinkomst (DI) är 49% lägre vid en första anblick. Den 16-procentiga skillnaden reflekterar det högre skattetrycket, men också andra faktorer.
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-2.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-Sveriges disponibla hushållsinkomst (DI) är 49% lägre vid en första anblick. Den 16-procentiga skillnaden reflekterar det högre skattetrycket, men också andra faktorer
+Men det är viktigt att göra en AIC justering.² Denna innebär att staten (inkl regioner, kommuner) spenderar pengar för medborgarna som inte ingår i DI. T ex skolor och sjukvård. Denna statliga "spending on behalf of conumers" är 19% av BNP i Sverige gentemot 6% i USA.
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-3.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-Men det är viktigt att göra en AIC justering.² Denna innebär att staten (inkl regioner, kommuner) spenderar pengar för medborgarna som inte ingår i DI. T ex skolor och sjukvård. Denna statliga "spending on behalf of conumers" är 19% av BNP i Sverige gentemot 6% i USA.
+Med denna justering är Sveriges hushållsinkomst 38% lägre än USA:s.
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-4.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
-
-Med denna justering är Sveriges hushållsinkomst 38% lägre än USA:s.
 
 ❹ Men varför använda 2024 års växelkurs? Växelkurser går upp och ner men den lokala levnadsstandarden rör sig (i stort) inte. Det är därför bättre att använda en stabil kurs. Dessutom måste hänsyn tas till skillnader i kostnadsnivåer. 
 
