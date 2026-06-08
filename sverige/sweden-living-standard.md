@@ -19,7 +19,7 @@ Den senaste tiden har det publicerats mycket på YouTube och andra sociala medie
 
 Jag har därför analyserat de svenska hushållens inkomstnivå i detalj. Mitt jämförelseår är 2023 (det senaste året med rimligt stabila data). Nedan följer stegen i analysen.  
 
-- BNP per capita är 31% lägre i Sverige. Men BNP har är inte inkomst och definitivt inte hushållsinkomst.  
+- BNP per capita är 31% lägre i Sverige. Men BNP är inte inkomst och definitivt inte hushållsinkomst.  
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-1.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
