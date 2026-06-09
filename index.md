@@ -5,9 +5,7 @@ image: /assets/social-card-think.png
 ---
 <h1 style="text-align: center;">CANBACK <span style="color: #B00000;"><i>think</i></span></h1>
 
-This personal website will contain my published works. They range from scientific papers to social media posts. Much is already here.
-
-Why **CANBACK** <span style="color: #B00000;"><b><i>think</i></b></span>? The *think* term is drawn from George Orwell's *Newspeak* in **1984**. *Newspeak* was aimed at dumbing down people's critical thinking, so it's ill chosen by me. Yet it has an aesthetic beauty with its mangled grammar that I wanted to capture.  
+This personal website contains my published works. They range from scientific papers to social media posts.
 
 ## [Articles & Posts](articles-posts/index.md)  
 I have hundreds of LinkedIn and Medium articles and posts that are lost because of the ephemeral character of social media. I gradually save them for posterity here. This page will be built out during 2026.  
@@ -39,3 +37,6 @@ Bits and pieces such as event posters.
 ---
 ## [My Legitimacy](legitimacy/index.md)
 What gives me the right to publish the kind of deep intellectual materials you find here? I asked ChatGPT and Gemini to summarize my credentials.  
+
+---
+Why **CANBACK** <span style="color: #B00000;"><b><i>think</i></b></span>? The *think* term is drawn from George Orwell's *Newspeak* in **1984**. *Newspeak* was aimed at dumbing down people's critical thinking, so it's ill chosen by me. Yet it has an aesthetic beauty with its mangled grammar that I wanted to capture.  
