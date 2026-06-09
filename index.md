@@ -5,7 +5,7 @@ image: /assets/social-card-think.png
 ---
 <h1 style="text-align: center;">CANBACK <span style="color: #B00000;"><i>think</i></span></h1>
 
-This personal website contains my published works. They range from scientific papers to social media posts.
+This personal website contains my published works. They range from scientific papers to social media posts. These works stem from 40 years of experience as managemen consultant, having worked on the ground in 90+ plus, countries, and having a deep educational academic research background.
 
 ## [Articles & Posts](articles-posts/index.md)  
 I have hundreds of LinkedIn and Medium articles and posts that are lost because of the ephemeral character of social media. I gradually save them for posterity here. This page will be built out during 2026.  
