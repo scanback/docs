@@ -1,6 +1,6 @@
 ---
 title: "𝗖𝗔𝗡𝗕𝗔𝗖𝗞 𝙩𝙝𝙞𝙣𝙠"
-description: "This personal website will contain my published works. They range from scientific papers to social media posts."
+description: "This personal website contains my published works. They range from scientific papers to social media posts."
 image: /assets/social-card-think.png
 ---
 <h1 style="text-align: center;">CANBACK <span style="color: #B00000;"><i>think</i></span></h1>
