@@ -19,7 +19,7 @@ The recent report by [The World Meteorological Organization (UN)](https://wmo.in
 
 I track the Southern Oscillation systematically because some of our clients have an intense interest in how it evolves. The graph below shows the trend since 1950. There is emerging evidence of an Niño. There is been a sharp increase in water temperature since November 2025 from −0.55 to +0.48. The rate of change is consistent with an approaching El Niño.  
 
-Note though that temperarures are not yet in El Niño territory which starts at +0.5.
+Note though that temperarures are not yet in El Niño territory which by convention starts at +0.5.
 
 <p align="center">
 <img  src="assets/images/s.canback-tellusant-southern-oscillation.svg" width="500" alt="S.Canback, Tellusant: Southern oscillation">
