@@ -36,7 +36,7 @@ Sverige har två officiella färger enligt grundlagen. Jag behövde flera. Vad g
 ## Äldre artiklar
 
 ### [Affärsvärlden (2006): *Strunta i synergierna*](https://www.affarsvarlden.se/artikel/strunta-i-synergierna-6729067)
-This extensive article on synergies in M&A draws on several of my research efforts. The article perhaps misrepresents my thinking a bit, but it is nevertheless interesting and many of the points attributed to me are correct.
+Denna extensiva artikel om synergier inom M&A bygger på flera av mina forskningsrapporter. Artikeln är inte helt representativ för mitt tänkande men innehåller trots det många av mina idéer.
 
 ### [Axess (2005): *Stora fusioner misslyckas ofta*, ss. 21-24](axess.pdf)
 *Axess* erbjöd mig att skriva denna essä mot arvode. Bakgrunden var mitt organisationsfilosofiska tänkande och artikeln hör hemma i humaniora och inte min vanliga inriktning på vetenskap.  [🇪🇳](axess-en.pdf)
