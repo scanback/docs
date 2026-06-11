@@ -35,11 +35,14 @@ Sverige har två officiella färger enligt grundlagen. Jag behövde flera. Vad g
 ---
 ## Äldre artiklar
 
+### [Affärsvärlden (2006): *Strunta i synergierna*](https://www.affarsvarlden.se/artikel/strunta-i-synergierna-6729067)
+Denna extensiva artikel om synergier inom M&A bygger på flera av mina forskningsrapporter. Artikeln är inte helt representativ för mitt tänkande men innehåller trots det många av mina idéer.
+
 ### [Axess (2005): *Stora fusioner misslyckas ofta*, ss. 21-24](axess.pdf)
 *Axess* erbjöd mig att skriva denna essä mot arvode. Bakgrunden var mitt organisationsfilosofiska tänkande och artikeln hör hemma i humaniora och inte min vanliga inriktning på vetenskap.  [🇪🇳](axess-en.pdf)
 
-### [Affärsvärlden (2005): *Hotade mångsysslare*](affärsvärlden-en.pdf)
-Ett kort utdrag ur *Affärsvärldens* intervju med mig om managementkonsultbranschens utveckling.  [🇪🇳](affärsvärlden-en.pdf)
+### [Affärsvärlden (2005): *Hotade mångsysslare*](https://www.affarsvarlden.se/artikel/hotade-mangsysslare-6757791)
+Ett kort utdrag ur *Affärsvärldens* intervju med mig om managementkonsultbranschens utveckling.  [🇪🇳 excerpt](affärsvärlden-en.pdf)  
 
 ### [Politiken (1993): *Farvel til bosser og mastodonter*](politiken.pdf)
 Som ledande skandinavisk organisationsfilosof blev jag intervjuad av den ledande danska dagstidningen *Politiken*: *Farvel til industriens kolosser. Farvel til de hierarkisk opbyggede og styrede kæmpe koncerner. Farvel til den magtfulde, alvidende boss. Som Sovjetunionen er brudt sammen og er splittet op, vil erhvervslivets stormagter bliver brudt op.* [🇪🇳](politiken-en.pdf)
