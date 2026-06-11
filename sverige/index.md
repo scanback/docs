@@ -41,8 +41,8 @@ This extensive article on synergies in M&A draws on several of my research effor
 ### [Axess (2005): *Stora fusioner misslyckas ofta*, ss. 21-24](axess.pdf)
 *Axess* erbjöd mig att skriva denna essä mot arvode. Bakgrunden var mitt organisationsfilosofiska tänkande och artikeln hör hemma i humaniora och inte min vanliga inriktning på vetenskap.  [🇪🇳](axess-en.pdf)
 
-### [Affärsvärlden (2005): *Hotade mångsysslare*](affärsvärlden-en.pdf)
-Ett kort utdrag ur *Affärsvärldens* intervju med mig om managementkonsultbranschens utveckling.  [🇪🇳](affärsvärlden-en.pdf)
+### [Affärsvärlden (2005): *Hotade mångsysslare*](https://www.affarsvarlden.se/artikel/hotade-mangsysslare-6757791)
+Ett kort utdrag ur *Affärsvärldens* intervju med mig om managementkonsultbranschens utveckling.  [🇪🇳 extract](affärsvärlden-en.pdf)  
 
 ### [Politiken (1993): *Farvel til bosser og mastodonter*](politiken.pdf)
 Som ledande skandinavisk organisationsfilosof blev jag intervjuad av den ledande danska dagstidningen *Politiken*: *Farvel til industriens kolosser. Farvel til de hierarkisk opbyggede og styrede kæmpe koncerner. Farvel til den magtfulde, alvidende boss. Som Sovjetunionen er brudt sammen og er splittet op, vil erhvervslivets stormagter bliver brudt op.* [🇪🇳](politiken-en.pdf)
