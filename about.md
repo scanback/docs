@@ -23,3 +23,6 @@ Staffan earned a Civ.Ing. and Master of Science in Electrical Engineering from t
 He is a **Fulbright Scholar**; a **Wallenberg Scholar**; and the first prize winner of the [**best European doctoral dissertation in management awarded in 2003**](https://www.uibk.ac.at/archive/ipoint/kopf_der_woche/1111.html) by the *European Doctoral Programmes Association in Management & Business Administration* (EDAMBA).
 
 He has more than 750 academic, business, and media citations to his name.
+
+---
+Staffan Canbäck in Swedish.
