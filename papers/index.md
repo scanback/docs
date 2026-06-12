@@ -36,16 +36,16 @@ This was the fourth required submission. A solid research proposal has to be app
 ---
 ## Papers Derived from My Doctoral Dissertation
 
-#### [Canback, Staffan, Phillip Samouel & David Price (2006): *Do Diseconomies of Scale Impact Firm Size and Performance - A Theoretical and Empirical Overview.* Journal of Managerial Economics](Canback-Samouel-Price-Do-Diseconomies-of-Scale-Impact-Firm-Size-and-Performance.pdf)  
+#### [Canbäck, Staffan, Phillip Samouel & David Price (2006): *Do Diseconomies of Scale Impact Firm Size and Performance - A Theoretical and Empirical Overview.* Journal of Managerial Economics](Canback-Samouel-Price-Do-Diseconomies-of-Scale-Impact-Firm-Size-and-Performance.pdf)  
 This is an oft-cited summary of my dissertation, written by me and my dissertation advisors.
 
 #### [Staffan Canbäck: *Bureaucratic Limits of Firm Size - Practitioners' Summary.* Henley Business School](Canback-Bureaucratic-Limits-of-Firm-Size-Practitioners-Summary.pdf)  
 This is an easy to digest summary of the dissertation void of any quantitative analysis.
 
-#### [Staffan Canback (2004): *EDAMBA First Prize 2003 - Bureaucratic Limits of Firm Size.* EDAMBA Journal](Canback-EDAMBA-First-Prize-Bureaucratic-Limits-of-Firm-Size.pdf)  
+#### [Staffan Canbäck (2004): *EDAMBA First Prize 2003 - Bureaucratic Limits of Firm Size.* EDAMBA Journal](Canback-EDAMBA-First-Prize-Bureaucratic-Limits-of-Firm-Size.pdf)  
 This is a summary of my dissertation *Bureaucratic Limits of Firm Size*, written for the EDAMBA Journal. It was contributed to commemorate my First Prize in the 2003 competition for best European doctoral dissertation in management and business administration, awarded by the [European Doctoral Programmes Association in Management and Business Administration](https://edamba.eu) (EDAMBA).
 
-#### [Canback, Staffan, Phillip Samouel, and David Price (2006): *Strategy and Structure in Interaction: What Determines the Boundaries of the Firm.* Henley Business School](Canback-Samouel-Price-Strategy-and-Structure-in-Interaction-What-Determines-the-Boundaries-of-the-Firm.pdf)
+#### [Canbäck, Staffan, Phillip Samouel, and David Price (2006): *Strategy and Structure in Interaction: What Determines the Boundaries of the Firm.* Henley Business School](Canback-Samouel-Price-Strategy-and-Structure-in-Interaction-What-Determines-the-Boundaries-of-the-Firm.pdf)
 My advisors and I wrote this short summary of the dissertation at the request Henley Business School.
 
 ---
