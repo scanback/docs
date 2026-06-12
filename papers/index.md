@@ -7,30 +7,30 @@ image: /assets/social-card-think.png
 # Academic Papers et Plus
 This page covers Staffan Canback's academic papers, written since the 1990s.
 
-> The way to gain insights from this extensive library is to ask ChatGPT or similar to create summaries. Example: "Can you summarize in 2 pages the document "*Staffan Canback (1997): Critique of Thesis by T.H. Klier, Michigan State. Henley Business School*" at `https://scanback.github.io/docs/papers/`"
+> The way to gain insights from this extensive library is to ask ChatGPT or similar to create summaries. Example: "Can you summarize in 2 pages the document "*Staffan Canbäck (1997): Critique of Thesis by T.H. Klier, Michigan State. Henley Business School*" at `https://scanback.github.io/docs/papers/`"
 >
 > The response, really well written by ChatGPT, is [here](chatgpt-example-canback-critique-of-klier.md).
 
 ---
 ## Doctoral Research
 
-#### [Staffan Canback (2002): *Bureaucratic Limits of Firm Size: Empirical Analysis Using Transaction Cost Economics.* Henley Business School](Canback-Bureaucratic-Limits-of-Firm-Size-Doctoral-Dissertation.pdf)  
+#### [Staffan Canbäck (2002): *Bureaucratic Limits of Firm Size: Empirical Analysis Using Transaction Cost Economics.* Henley Business School](Canback-Bureaucratic-Limits-of-Firm-Size-Doctoral-Dissertation.pdf)  
 Dr. Canback's seminal dissertation outlines a theory of scale diseconomies in large firms and quantifies the drivers of those disceconomies and mitigating factors. It won first prize in [EDAMBA's](https://edamba.eu/) competition for best European doctoral dissertation in management science in 2003.  
 
 In addition to the subject matter, the dissertation deploys *sophisticated statistical analysis methods later used within Tellusant*. In particular, structural equation modeling.
 
 > The awarding of the doctorate is not only based on a well-defended dissertation. There are several other required papers that each partially fulfills the doctoral award requirements.
 
-#### [Staffan Canback (1997): *Critique of Thesis by T.H. Klier, Michigan State.* Henley Business School](Canback-Critique-of-Thesis-by-T.H.-Klier-Michigan-State.pdf)
+#### [Staffan Canbäck (1997): *Critique of Thesis by T.H. Klier, Michigan State.* Henley Business School](Canback-Critique-of-Thesis-by-T.H.-Klier-Michigan-State.pdf)
 This was the first required working paper. By writing a critique, we learned how to structure our own dissertations.
 
-#### [Staffan Canback (1997): *Transaction Cost Theory and Management Consulting: Why Do Management Consultants Exist?* Henley Business School](Canback-Transaction-Cost-Theory-and-Management-Consulting-Why-Do-Management-Consultants-Exist.pdf)
+#### [Staffan Canbäck (1997): *Transaction Cost Theory and Management Consulting: Why Do Management Consultants Exist?* Henley Business School](Canback-Transaction-Cost-Theory-and-Management-Consulting-Why-Do-Management-Consultants-Exist.pdf)
 This was the second required working paper. It allowed me to learn about TCE while applying it to a topic I was familiar with.
 
-#### [Staffan Canback (1997): *Literature Survey and Hypotheses Based on Transaction Cost Economics.* Henley Business School](Canback-Limits-of-Firm-Size-Literature-Survey-and-Hypotheses-Based-on-Transaction-Cost-Economics.pdf)  
+#### [Staffan Canbäck (1997): *Literature Survey and Hypotheses Based on Transaction Cost Economics.* Henley Business School](Canback-Limits-of-Firm-Size-Literature-Survey-and-Hypotheses-Based-on-Transaction-Cost-Economics.pdf)  
 This was the third required working paper. Before writing the research proposal, it is important to establish what the precedents by the authorities are. Read-read-read.
 
-#### [Staffan Canback (1998): *Proposal for a Test of the Transaction-Cost Explanation of Diseconomies of Scale.* Henley Business School](Canback-Proposal-for-a-Test-of-the-Transaction-Cost-Explanation-of-Diseconomies-of-Scale.pdf)  
+#### [Staffan Canbäck (1998): *Proposal for a Test of the Transaction-Cost Explanation of Diseconomies of Scale.* Henley Business School](Canback-Proposal-for-a-Test-of-the-Transaction-Cost-Explanation-of-Diseconomies-of-Scale.pdf)  
 This was the fourth required submission. A solid research proposal has to be approved by the advisors. Mine took a few iterations and delayed my progress by 1-2 years. But in the end it was all for the good.
 
 ---
@@ -39,7 +39,7 @@ This was the fourth required submission. A solid research proposal has to be app
 #### [Canback, Staffan, Phillip Samouel & David Price (2006): *Do Diseconomies of Scale Impact Firm Size and Performance - A Theoretical and Empirical Overview.* Journal of Managerial Economics](Canback-Samouel-Price-Do-Diseconomies-of-Scale-Impact-Firm-Size-and-Performance.pdf)  
 This is an oft-cited summary of my dissertation, written by me and my dissertation advisors.
 
-#### [Staffan Canback: *Bureaucratic Limits of Firm Size - Practitioners' Summary.* Henley Business School](Canback-Bureaucratic-Limits-of-Firm-Size-Practitioners-Summary.pdf)  
+#### [Staffan Canbäck: *Bureaucratic Limits of Firm Size - Practitioners' Summary.* Henley Business School](Canback-Bureaucratic-Limits-of-Firm-Size-Practitioners-Summary.pdf)  
 This is an easy to digest summary of the dissertation void of any quantitative analysis.
 
 #### [Staffan Canback (2004): *EDAMBA First Prize 2003 - Bureaucratic Limits of Firm Size.* EDAMBA Journal](Canback-EDAMBA-First-Prize-Bureaucratic-Limits-of-Firm-Size.pdf)  
