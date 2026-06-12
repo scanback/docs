@@ -20,15 +20,6 @@ Privately, Staffan is a family-oriented person, married to Charlotte, and with t
 
 Staffan earned a Civ.Ing. and Master of Science in Electrical Engineering from the **KTH Royal Institute of Technology**, where he graduated at the top of his class; a Master in Business Administration from **Harvard Business School**; and a Doctor of Business Administration from **Henley Business School**.
 
-He is a **Fulbright Scholar**; a **Wallenberg Scholar**; and the first prize winner of the **best European doctoral dissertation in management awarded in 2003** by the *European Doctoral Programmes Association in Management & Business Administration* (EDAMBA).
+He is a **Fulbright Scholar**; a **Wallenberg Scholar**; and the first prize winner of the [**best European doctoral dissertation in management awarded in 2003**](https://www.uibk.ac.at/archive/ipoint/kopf_der_woche/1111.html) by the *European Doctoral Programmes Association in Management & Business Administration* (EDAMBA).
 
 He has more than 750 academic, business, and media citations to his name.
-
----
-Test of LaTeX in markdown
-
-$\int_{\partial \Omega} \omega = \int_{\Omega} d\omega$
-
-$$\int_{\partial \Omega} \omega = \int_{\Omega} d\omega$$
-
-$e^x$
