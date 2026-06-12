@@ -26,7 +26,7 @@ Partner
 ## Awards
 - Fulbright Scholar  
 - Wallenberg Scholar  
-- EDAMBA: First Prize in best European doctoral dissertation in management, 2002
+- [EDAMBA: First Prize in best European doctoral dissertation in management, 2003](https://www.uibk.ac.at/archive/ipoint/kopf_der_woche/1111.html)
 
 ## Volunteer Work
 - Member of the Board of Advisors: The Fletcher School at Tufts University.The Digital Planet initiative, funded by the Gates Foundation.  
