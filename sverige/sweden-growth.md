@@ -13,11 +13,12 @@ Men vad säger de mest grundläggande ekonomiska måtten om utvecklingen de sena
 
 Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag utvecklingen med de enklast möjliga meningsfulla måtten.¹ 
 
-Ett lands produktivitet kan delas in i tre produktivitetsdelar:
-- Arbete
-- Kapital
+Ett lands produktivitet kan delas in i tre produktivitetsdelar:  
+- Arbete  
+- Kapital  
 - Struktur
-[Ekvationerna bakom beräkningarna har jag dokumenterat här.](https://docs.tellusant.com/work-notes/cobb-douglas-decomposition)
+
+[(Ekvationerna bakom beräkningarna har jag dokumenterat här.)](https://docs.tellusant.com/work-notes/cobb-douglas-decomposition)  
 
 Den viktigaste delen är **strukturproduktivitet** i det tredje kapitlet.  
 
