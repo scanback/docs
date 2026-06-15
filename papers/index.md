@@ -15,7 +15,7 @@ This page covers Staffan Canback's academic papers, written since the 1990s.
 ## Doctoral Research
 
 #### [Staffan Canbäck (2002): *Bureaucratic Limits of Firm Size: Empirical Analysis Using Transaction Cost Economics.* Henley Business School](Canback-Bureaucratic-Limits-of-Firm-Size-Doctoral-Dissertation.pdf)  
-Dr. Canback's seminal dissertation outlines a theory of scale diseconomies in large firms and quantifies the drivers of those disceconomies and mitigating factors. It won [first prize in EDAMBA's competition for best European doctoral dissertation in management science in 2003](https://edamba.eu/). In addition, [praise by Prof. Robert Axtell is found here.](axtell-praise).
+Dr. Canback's seminal dissertation outlines a theory of scale diseconomies in large firms and quantifies the drivers of those disceconomies and mitigating factors. It won [first prize in EDAMBA's competition for best European doctoral dissertation in management science in 2003](https://edamba.eu/). In addition, [praise by Prof. Robert Axtell is found here.](axtell-praise.md).
 
 In addition to the subject matter, the dissertation deploys *sophisticated statistical analysis methods later used within Tellusant*. In particular, structural equation modeling.
 
