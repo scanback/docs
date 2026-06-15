@@ -19,19 +19,19 @@ Dr. Canback's seminal dissertation outlines a theory of scale diseconomies in la
 
 In addition to the subject matter, the dissertation deploys *sophisticated statistical analysis methods later used within Tellusant*. In particular, structural equation modeling.
 
-> The awarding of the doctorate is not only based on a well-defended dissertation. There are several other required papers that each partially fulfills the doctoral award requirements.
+> The awarding of the doctorate is not only based on a well-defended dissertation. There are several other required papers that each partially fulfills the doctoral award requirements:
 
 #### [Staffan Canbäck (1997): *Critique of Thesis by T.H. Klier, Michigan State.* Henley Business School](Canback-Critique-of-Thesis-by-T.H.-Klier-Michigan-State.pdf)
-This was the first required working paper. By writing a critique, we learned how to structure our own dissertations.
+This was the **first** required working paper. By writing a critique, we learned how to structure our own dissertations.
 
 #### [Staffan Canbäck (1997): *Transaction Cost Theory and Management Consulting: Why Do Management Consultants Exist?* Henley Business School](Canback-Transaction-Cost-Theory-and-Management-Consulting-Why-Do-Management-Consultants-Exist.pdf)
-This was the second required working paper. It allowed me to learn about TCE while applying it to a topic I was familiar with.
+This was the **second** required working paper. It allowed me to learn about TCE while applying it to a topic I was familiar with.
 
 #### [Staffan Canbäck (1997): *Literature Survey and Hypotheses Based on Transaction Cost Economics.* Henley Business School](Canback-Limits-of-Firm-Size-Literature-Survey-and-Hypotheses-Based-on-Transaction-Cost-Economics.pdf)  
-This was the third required working paper. Before writing the research proposal, it is important to establish what the precedents by the authorities are. Read-read-read.
+This was the **third** required working paper. Before writing the research proposal, it is important to establish what the precedents by the authorities are. Read-read-read.
 
 #### [Staffan Canbäck (1998): *Proposal for a Test of the Transaction-Cost Explanation of Diseconomies of Scale.* Henley Business School](Canback-Proposal-for-a-Test-of-the-Transaction-Cost-Explanation-of-Diseconomies-of-Scale.pdf)  
-This was the fourth required submission. A solid research proposal has to be approved by the advisors. Mine took a few iterations and delayed my progress by 1-2 years. But in the end it was all for the good.
+This was the **fourth** required submission. A solid research proposal has to be approved by the advisors. Mine took a few iterations and delayed my progress by 1-2 years. But in the end it was all for the good.
 
 ---
 ## Papers Derived from My Doctoral Dissertation
