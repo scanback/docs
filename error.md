@@ -7,7 +7,7 @@
 
 flowchart TD
 
-A[Classical Foundations]  
+A["Classical Foundations"]  
 P["Plato<br/>Error as ignorance"]  
 AR["Aristotle<br/>Logic"]  
 B["Bacon<br/>Sources of error"]  
