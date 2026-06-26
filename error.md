@@ -72,6 +72,7 @@ End test 1
 
 ---
 ## Test 2
+
 <div class="mermaid">
 
 flowchart TD
