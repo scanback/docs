@@ -15,6 +15,33 @@ flowchart TD
     H["Hume<br/>Limits of induction"]
     K["Kant<br/>Limits of reason"]
     Downsides["dn test"]
+    SHE["Shewhart"]
+    DEM["Deming"]
+    JUR["Juran"]
+    TOY["Toyota Production System"]
+    SPC["Statistical Process Control"]
+    LEAN["Lean"]
+    KANBAN["Kanban"]
+    PDCA["PDCA"]
+    QT["Quality Trilogy"]
+    TQM["TQM"]
+    LEANM["Lean Management"]
+    SIX["Six Sigma"]
+    MODERN["Learning Organizations"]
+    GOAL["Reduced Error<br/>Better Decisions<br/>Human Flourishing"]
+
+    subgraph N["Necessary Error School"]
+        NI["Nietzsche"]
+        KU["Kuhn"]
+     Downsides --> N
+    end
+
+    subgraph E["Error Elimination School"]
+        PE["Peirce"]
+        PO["Popper"]
+        RE["Rescher"]
+        WI["Wiener"]
+    end
 
     A --> P
     A --> AR
@@ -30,18 +57,7 @@ flowchart TD
     H --> N
     K --> N
 
-    subgraph N["Necessary Error School"]
-        NI["Nietzsche"]
-        KU["Kuhn"]
-     Downsides --> N
-    end
-
-    subgraph E["Error Elimination School"]
-        PE["Peirce"]
-        PO["Popper"]
-        RE["Rescher"]
-        WI["Wiener"]
-    end
+  
 
     N --> DEM
     N --> TOY
@@ -50,21 +66,6 @@ flowchart TD
     E --> DEM
     E --> JUR
     E --> TOY
-
-    SHE["Shewhart"]
-    DEM["Deming"]
-    JUR["Juran"]
-    TOY["Toyota Production System"]
-    SPC["Statistical Process Control"]
-    LEAN["Lean"]
-    KANBAN["Kanban"]
-    PDCA["PDCA"]
-    QT["Quality Trilogy"]
-    TQM["TQM"]
-    LEANM["Lean Management"]
-    SIX["Six Sigma"]
-    MODERN["Learning Organizations"]
-    GOAL["Reduced Error<br/>Better Decisions<br/>Human Flourishing"]
 
     SHE --> SPC["Statistical Process Control"]
 
