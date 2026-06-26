@@ -240,7 +240,7 @@ end
 BG --> PE
 
 PL --> NI
-%% nAR[" "]:::hidden
+ nAR[" "]:::hidden
 %% AR --> PO
 %% DE --> PO
 %% HU --> CS
