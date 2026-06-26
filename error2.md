@@ -236,7 +236,7 @@ subgraph PE["II. Philosophers of Error<br/><i>Modern Perspectives</i>"]
     COG["Cognitive Scientists — Kahneman, Tversky, etc. — Systematic biases"]
 end
 
-BG --> PE
+
 
 
 </div>
