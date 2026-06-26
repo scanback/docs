@@ -236,18 +236,19 @@ subgraph PE["II. Philosophers of Error<br/><i>Modern Perspectives</i>"]
     COG["Cognitive Scientists — Kahneman, Tversky, etc. — Systematic biases"]
 end
 
+
 BG --> PE
 
 PL --> NI
 nAR[""]:::hidden
-AR --> PO
-DE --> PO
-HU --> CS
-KA --> RE
+%% AR --> PO
+%% DE --> PO
+%% HU --> CS
+%% KA --> RE
 
-NS --> DEN
-PR --> DEN
-SI --> COG
+%% NS --> DEN
+%% PR --> DEN
+%% SI --> COG
 
 
 
