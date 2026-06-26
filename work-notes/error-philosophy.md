@@ -202,7 +202,7 @@ Quality Trilogy
 
 ---
 
-## Toyota Production System
+## Kanban (Toyota Production System)
 
 - Taiichi Ohno
 - Shigeo Shingo
@@ -226,7 +226,7 @@ Error reduction through
 
 ---
 
-## Six Sigma
+## Six Sigma (Motorola)
 
 Error becomes statistical.
 
@@ -240,9 +240,9 @@ Reduce process variation until defects become extremely rare.
 
 Examples:
 
-- Peter Senge
-- Chris Argyris
+- Chris Argyris (action science)
 - Donald Schön
+- Peter Senge
 
 Organizations become learning systems.
 
