@@ -76,10 +76,16 @@ End test 1
 
 flowchart TD
 
-A[Classical Foundations]
+A[Classical Foundations]  
+P["Plato<br/>Error as ignorance"]  
+AR["Aristotle<br/>Logic"]  
+B["Bacon<br/>Sources of error"]  
+D["Descartes<br/>Judgment"]  
+H["Hume<br/>Limits of induction"]  
+K["Kant<br/>Limits of reason"]  
 
 A --> P["Plato<br/>Error as ignorance"]
-A --> AR"[Aristotle<br/>Logic"]
+A --> AR["Aristotle<br/>Logic"]
 A --> B["Bacon<br/>Sources of error"]
 A --> D["Descartes<br/>Judgment"]
 A --> H["Hume<br/>Limits of induction"]
