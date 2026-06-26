@@ -30,19 +30,6 @@ flowchart TD
     MODERN["Learning Organizations"]
     GOAL["Reduced Error<br/>Better Decisions<br/>Human Flourishing"]
 
-    subgraph N["Necessary Error School"]
-        NI["Nietzsche"]
-        KU["Kuhn"]
-     Downsides --> N
-    end
-
-    subgraph E["Error Elimination School"]
-        PE["Peirce"]
-        PO["Popper"]
-        RE["Rescher"]
-        WI["Wiener"]
-    end
-
     A --> P
     A --> AR
     A --> B
@@ -67,23 +54,7 @@ flowchart TD
     E --> JUR
     E --> TOY
 
-    SHE --> SPC["Statistical Process Control"]
-
-    DEM --> PDCA["PDCA"]
-    JUR --> QT["Quality Trilogy"]
-    TOY --> LEAN["Lean"]
-    TOY --> KANBAN["Kanban"]
-
-    PDCA --> TQM["TQM"]
-    LEAN --> LEANM["Lean Management"]
-    KANBAN --> LEANM
-    QT --> SIX["Six Sigma"]
-
-    LEANM --> MODERN["Learning Organizations"]
-    TQM --> MODERN
-    SIX --> MODERN
-
-    MODERN --> GOAL["Reduced Error<br/>Better Decisions<br/>Human Flourishing"]
+   
     
 </div>
 
