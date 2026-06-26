@@ -1,3 +1,7 @@
+# Error
+
+## Test 1
+
 <div class="mermaid">
 
 flowchart TD
@@ -62,9 +66,12 @@ SIX --> MODERN
 
 MODERN --> GOAL[Reduced Error<br/>Better Decisions<br/>Human Flourishing]
 
-<\div>
+<\div>  
+
+End test 1
 
 ---
+## Test 2
 <div class="mermaid">
 
 flowchart TD
@@ -129,4 +136,6 @@ SIX --> MODERN
 
 MODERN --> GOAL["Reduced Error<br/>Better Decisions<br/>Human Flourishing"]
 
-<\div>
+<\div>  
+
+End test 2
