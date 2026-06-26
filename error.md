@@ -14,6 +14,8 @@ B["Bacon<br/>Sources of error"]
 D["Descartes<br/>Judgment"]  
 H["Hume<br/>Limits of induction"]  
 K["Kant<br/>Limits of reason"]  
+N["N test"]
+E["E test"]
 
 A --> P["Plato<br/>Error as ignorance"]
 A --> AR["Aristotle<br/>Logic"]
