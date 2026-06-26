@@ -4,7 +4,10 @@
 
 This chart shows how philosophical ideas about error can be connected to modern management, quality, and learning systems. It is not meant as a strict timeline. Instead, it shows an intellectual evolution from foundational views of knowledge and error, through modern philosophies of error, into practical methods for reducing error, improving reliability, and supporting better decisions.
 
-```mermaid
+Sart 1
+
+<div class="mermaid">
+    
 flowchart TD
 
 %% =====================================================
@@ -175,3 +178,6 @@ Possible additional methods:
 
 > Civilization advances by developing increasingly sophisticated mechanisms for detecting, interpreting, reducing, correcting, tolerating, or productively using error.
 
+</div>
+
+End 1
