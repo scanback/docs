@@ -289,6 +289,7 @@ the philosophy of error asks
 > "Which errors matter, which are unavoidable, and which can be reduced?"
 
 ```
+<div class="mermaid">
 
 ## Mermaid
 
@@ -355,3 +356,6 @@ SIX --> MODERN
 
 MODERN --> GOAL[Reduced Error<br/>Better Decisions<br/>Human Flourishing]
 ```
+
+<\div>
+
