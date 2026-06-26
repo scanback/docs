@@ -195,6 +195,18 @@ flowchart TD
 
 Title["The Evolution of the Philosophy of Error into Practice<br/><i>From philosophical foundations to practical methods</i>"]
 
+%% -----------------------------------------------------
+%% I. BACKGROUND PHILOSOPHERS
+%% -----------------------------------------------------
+
+subgraph BG["I. Background Philosophers<br/><i>Foundations of Knowledge and Error</i>"]
+    PL["Plato<br/><br/>Ignorance of forms;<br/>seek truth through knowledge"]
+    AR["Aristotle<br/><br/>Error from false reasoning<br/>or perception;<br/>use logic"]
+    DE["Descartes<br/><br/>Limited intellect;<br/>will outruns evidence;<br/>use reason"]
+    HU["Hume<br/><br/>Limits of inference<br/>and habit;<br/>be skeptical"]
+    KA["Kant<br/><br/>Exceeding bounds of reason;<br/>know the limits"]
+end
+
 </div>
 
 End 2
