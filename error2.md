@@ -253,24 +253,6 @@ SI --> COG
 %% III. PRACTITIONERS
 %% -----------------------------------------------------
 
-subgraph PRAC["III. Practitioners<br/><i>Drawing on Philosophical Insights</i>"]
-    DEM["W. Edwards Deming<br/><br/>System variation;<br/>PDCA;<br/>deep knowledge;<br/>continual learning"]
-    JUR["Joseph Juran<br/><br/>Quality planning;<br/>cost of quality;<br/>improvement trilogy"]
-    OHN["Taiichi Ohno<br/><br/>Toyota Production System;<br/>eliminate waste;<br/>respect people"]
-    SHI["Shigeo Shingo<br/><br/>Zero defects;<br/>SMED;<br/>poka-yoke;<br/>built-in quality"]
-    TAG["Genichi Taguchi<br/><br/>Robust design;<br/>reduce variation;<br/>parameter design"]
-    OTH["Others<br/><br/>Imai, Feigenbaum,<br/>Ishikawa, Crosby,<br/>Walton, Drucker,<br/>Senge, etc."]
-end
-
-DEN --> DEM
-DEN --> JUR
-PR --> DEM
-PR --> JUR
-PR --> OHN
-SI --> SHI
-SI --> TAG
-COG --> OTH
-
 </div>
 
 End 2
