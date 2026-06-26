@@ -207,6 +207,35 @@ subgraph BG["I. Background Philosophers<br/><i>Foundations of Knowledge and Erro
     KA["Kant<br/><br/>Exceeding bounds of reason;<br/>know the limits"]
 end
 
+Title --> BG
+
+%% -----------------------------------------------------
+%% II. PHILOSOPHERS OF ERROR
+%% -----------------------------------------------------
+
+subgraph PE["II. Philosophers of Error<br/><i>Modern Perspectives</i>"]
+
+    subgraph NS["Nietzsche School<br/><i>Necessary Error</i>"]
+        NI["Friedrich Nietzsche<br/><br/>Perspectivism;<br/>useful illusions;<br/>life-enhancing constructions"]
+        PN["Post-Nietzschean Thinkers<br/><br/>Perspectival realism;<br/>hermeneutics;<br/>life-affirming interpretations"]
+    end
+
+    subgraph PR["Popper / Rescher School<br/><i>Error Elimination</i>"]
+        PO["Karl Popper<br/><br/>Conjecture and refutation;<br/>criticize and eliminate errors"]
+        RE["Nicholas Rescher<br/><br/>Fallibility is inevitable;<br/>manage error through fallibilism"]
+    end
+
+    subgraph SI["Systems & Inquiry School<br/><i>Understanding and Correction</i>"]
+        CS["C. S. Peirce<br/><br/>Inquiry as communal<br/>elimination of doubt"]
+        KU["Thomas Kuhn<br/><br/>Anomalies lead to<br/>paradigm shifts"]
+        HA["Friedrich Hayek<br/><br/>Decentralized knowledge;<br/>error correction via markets"]
+        WI["Norbert Wiener<br/><br/>Feedback;<br/>measure deviation;<br/>correct"]
+    end
+
+    DEN["Daniel Dennett — Evolution as error-correcting process"]
+    COG["Cognitive Scientists — Kahneman, Tversky, etc. — Systematic biases"]
+end
+
 </div>
 
 End 2
