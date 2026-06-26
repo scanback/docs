@@ -181,3 +181,20 @@ Possible additional methods:
 </div>
 
 End 1
+
+---
+Start 2
+
+<div class="mermaid">
+    
+flowchart TD
+
+%% =====================================================
+%% THE EVOLUTION OF THE PHILOSOPHY OF ERROR INTO PRACTICE
+%% =====================================================
+
+Title["The Evolution of the Philosophy of Error into Practice<br/><i>From philosophical foundations to practical methods</i>"]
+
+</div>
+
+End 2
