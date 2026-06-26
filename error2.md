@@ -238,6 +238,17 @@ end
 
 BG --> PE
 
+PL --> NI
+nAR[""]:::hidden
+AR --> PO
+DE --> PO
+HU --> CS
+KA --> RE
+
+NS --> DEN
+PR --> DEN
+SI --> COG
+
 
 
 
