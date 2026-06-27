@@ -44,6 +44,56 @@ flowchart TD
 
 </div>
 
+Or, arguably better:
+
+<div class="memaid">
+       
+flowchart TD
+
+    A["Error as Inefficiency<br/>Late 19th Century"]
+
+    A --> B["Scientific Management"]
+
+    B --> C["Taylor<br/>Scientific Management"]
+    C --> D["Gilbreths<br/>Motion & Fatigue Studies"]
+
+    D --> E["Shewhart<br/>Statistical Thinking<br/>Variation as the Fundamental Problem"]
+
+    E --> F["Systems Thinking"]
+
+    F --> G["Production Systems"]
+    F --> H["Organizational Systems"]
+    F --> I["Learning Systems"]
+
+%% Production
+
+    G --> G1["Deming<br/>Management of Variation"]
+    G1 --> G2["Juran<br/>Quality Planning & Improvement"]
+    G2 --> G3["Toyota / Ohno<br/>Lean Production"]
+    G3 --> G4["Taguchi"]
+    G4 --> G5["Six Sigma"]
+
+%% Organization
+
+    H --> H1["Barnard<br/>Cooperation & Authority"]
+    H1 --> H2["Coase<br/>Why Firms Exist"]
+    H2 --> H3["Simon<br/>Bounded Rationality"]
+    H3 --> H4["Cyert & March"]
+    H4 --> H5["Williamson"]
+
+%% Learning
+
+    I --> I1["Argyris & Schön<br/>Double-Loop Learning"]
+    I1 --> I2["Senge<br/>Learning Organization"]
+
+%% Modern synthesis
+
+    G5 --> Z["Modern Theory of Error Reduction"]
+    H5 --> Z
+    I2 --> Z
+
+</div>
+
 ## Initial Classification
 
 | Production Cost | Transaction Cost |
