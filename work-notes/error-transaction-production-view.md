@@ -46,7 +46,7 @@ flowchart TD
 
 Or, arguably better:
 
-<div class="memaid">
+<div class="mermaid">
        
 flowchart TD
 
