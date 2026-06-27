@@ -11,6 +11,39 @@ This is not intended as a replacement for the broader philosophy of error develo
 
 ---
 
+## Historical Evolution
+
+The following flowchart illustrates the two historical streams as discussed during this work note. It should be viewed as a first draft rather than a definitive taxonomy.
+
+<div class="mermaid">
+       
+flowchart TD
+    A["Error as inefficiency<br/>late 19th–early 20th c."] --> B["Production-cost tradition"]
+    A --> C["Transaction-cost tradition"]
+
+    B --> B1["Taylor<br/>scientific management"]
+    B1 --> B2["Gilbreths<br/>motion, fatigue, work design"]
+    B2 --> B3["Shewhart<br/>statistical control of variation"]
+    B3 --> B4["Deming & Juran<br/>quality as management system"]
+    B4 --> B5["Toyota / Ohno<br/>waste, flow, kaizen"]
+    B5 --> B6["Taguchi / Six Sigma<br/>robust design, defect reduction"]
+
+    C --> C1["Coase<br/>why firms exist"]
+    C1 --> C2["Barnard<br/>cooperation and authority"]
+    C2 --> C3["Simon<br/>bounded rationality"]
+    C3 --> C4["Cyert & March<br/>behavioral theory of the firm"]
+    C4 --> C5["Williamson<br/>governance, opportunism, asset specificity"]
+    C5 --> C6["Argyris & Schön<br/>error detection, defensive routines, double-loop learning"]
+    C6 --> C7["Senge and learning organization<br/>systems thinking"]
+
+    B6 --> D["Modern operational excellence"]
+    C7 --> E["Modern organizational learning / governance"]
+
+    D --> F["Error as cost of failed execution"]
+    E --> G["Error as cost of failed coordination"]
+
+</div>
+
 ## Initial Classification
 
 | Production Cost | Transaction Cost |
