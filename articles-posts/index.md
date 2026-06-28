@@ -4,7 +4,7 @@ I have hundreds of LinkedIn and Medium articles and posts that are lost because 
 ## Recent
 
 ### [How Much Can English Cities Afford Football? A New Measure Based on Local Consumer Income Distribution](english-football-affordability.md)  
-Football club payroll spending is well known. But how large is that spending relative to the economic size of the cities that support the clubs? Surprisingly, very little has been written about this.  
+Football club payroll spending is well known. But how large is that spending relative to the middle class consumer income base of the cities that support the clubs? I doubt anyone knows — until now. 
 
 ### [Are We Facing a Strong El Niño? The Southern Oscillation Conundrum](southern-oscillation.md)  
 El Niño and La Niña are notoriously unpredictable, almost chaotic. But a nevertheless new report predicts a strong El Niño starting this northern summer. What do I see?  
