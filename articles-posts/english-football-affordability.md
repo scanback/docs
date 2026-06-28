@@ -39,6 +39,6 @@ Football was — and still is — deeply embedded in the social fabric of northe
 English football is not simply a sports industry. In many northern cities, it remains a disproportionately large economic and cultural commitment relative to local consumer resources.  
 
 ---
-[A PDF version is found here.](assets/pdf/s.canback-english-football-spending-by-city.pdf)  
+[A PDF version is found here.](assets/pdf/s.canback-english-football-affordability-by-city.pdf)  
 
 [2026-05-15]  
