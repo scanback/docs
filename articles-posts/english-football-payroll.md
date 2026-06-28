@@ -4,7 +4,7 @@ description: "Football club payroll spending is well known. But how large is tha
 image: /assets/social-card-think.png
 ---
 # How Much Can English Cities Afford Football? A New Measure Based on Local Consumer Income Distribution  
-Football club payroll spending is well known. But how large is that spending relative to the economic size of the cities that support the clubs? Surprisingly, little is known about this.  
+Football club payroll spending is well known. But how large is that spending relative to the middle class consumer income base of the cities that support the clubs? I doubt anyone knows — until now.
 
 To start, the map shows the 28 cities hosting the 44 clubs in the 2025-26 season. Bubble areas are proportional to lower middle class (and above) disposable income in the city.  
 
@@ -12,7 +12,7 @@ To start, the map shows the 28 cities hosting the 44 clubs in the 2025-26 season
 <img  src="assets/images/football/s.canback-english-football-city-map.svg" width="500" alt="English football cities map 2025-26">  
 </p>
 
-Payroll data for the 2025–26 season from [Capology](https://www.capology.com/uk/premier-league/salaries/) was then aggregated by club to their corresponding cities (using the UN urban definition) and compared with the disposable income of the lower middle class and above, [accessed from TelluBase](https://tellubase.com).  
+Payroll data for the 2025–26 season from [Capology](https://www.capology.com/uk/premier-league/salaries/) was then aggregated by club to their corresponding cities (using the UN urban definition) and compared with the disposable income of the lower middle class and above, [using income bracket data from TelluBase](https://tellubase.com).  
 
 The result gives a fascinating perspective on English football economics. Relative football spending varies enormously between cities.  
 
