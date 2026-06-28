@@ -1,10 +1,10 @@
 ---
 title: "How Much Can English Cities Afford Football? A New Measure Based on Local Consumer Income Distribution"
-description: "Football club payroll spending is well known. But how large is that spending relative to the economic size of the cities that support the clubs?"
+description: "Football club payroll spending is well known. But how large is that spending relative to the economic size of the cities that host the clubs?"
 image: /assets/social-card-think.png
 ---
 # How Much Can English Cities Afford Football? A New Measure Based on Local Consumer Income Distribution  
-Football club payroll spending is well known. But how large is that spending relative to the middle class consumer income base of the cities that support the clubs? I doubt anyone knows — until now.
+Football club payroll spending is well known. But how large is that spending relative to the middle class consumer income base of the cities that host the clubs? I doubt anyone knows — until now.
 
 To start, the map shows the 28 cities hosting the 44 clubs in the 2025-26 season. Bubble areas are proportional to lower middle class (and above) disposable income in the city.  
 
