@@ -113,7 +113,7 @@ Invest Africa (2015): *The Machine Behind the Man: why Nigeria’s optimists sho
 #### [LEEM (2014): *Le marché pharmaceutique en Afrique subsaharienne*](assets/pdf/leem-marche-pharmaceutique-en-afrique-subsaharienne.pdf)
 #### [Liberty Holdings (2013): *Liberty Holdings: Analyst day*](assets/pdf/liberty_analyst_day_2013.pdf)
 #### [Management Today: *The Problem with Size*](https://www.managementtoday.co.uk/problem-size/article/757880)
-#### [Marticello, Daniel N. (2012): *Complexity within the Air Force acquisition system: Gaining insight from a theory of collapse.*](https://www.semanticscholar.org/paper/Complexity-within-the-Air-Force-acquisition-system-Marticello/edbc7b29b7e5e571d641282f1e9919094a1bae07)
+#### [Massachusetts Institute of Technology (2012): *Complexity within the Air Force acquisition system: Gaining insight from a theory of collapse.*](https://dspace.mit.edu/entities/publication/be15c675-aa46-4be3-b360-11af730ee51d)
 #### [Massachusetts, University of (2019): *Urban biodiversity Experience and exposure*](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1774&context=masters_theses_2)
 #### [MasterCard (2013): *African cities growth index 2013*](https://www.researchgate.net/publication/260185819_MasterCard_African_Cities_Growth_Index_2013)
 #### [MasterCard (2014): *Mapping the path to future prosperity—Emerging markets inclusive growth index*](assets/pdf/mastercard_prosperity.pdf)
