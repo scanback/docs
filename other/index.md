@@ -18,7 +18,8 @@ Presentation to the inaugural meeting of the Business Leaders Special Interest G
 #### [Poster for "The Hidden Structure of Global Markets" workshop](S.Canback-Fletcher-Tufts-Workshop-Poster.pdf) and a [session view](https://sites.tufts.edu/ibgc/dr-staffan-canback/)
 Masters Degree candidates at Fletcher School of Tufts University - April 9, 2026
 
-#### [Washington University, Olin School of Business: Africa Business Club features ‘rising trend’ on the continent during 2nd forum](https://olin.washu.edu/about/news-and-media/news/2019/05/africa-business-club-features-rising-trend-on-the-continent-during-2nd-forum.php)
+#### [Washington University, Olin School of Business: *Africa Business Club Features ‘Rising Trend’ on the Continent During 2nd Forum*](https://olin.washu.edu/about/news-and-media/news/2019/05/africa-business-club-features-rising-trend-on-the-continent-during-2nd-forum.php)
 I was invited to speak about my experiences in Africa in a couple of sessions.
 
-#### [Gordon TBD]()
+#### [Tufts University, Gordon Institute: *Global Economy and Geo-Politics in Transition*](https://gordon.tufts.edu/news-events/news/global-economy-and-geo-politics-transition)
+I participated as a panelist in a wide-ranging discuiion.
