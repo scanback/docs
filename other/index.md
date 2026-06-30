@@ -22,4 +22,4 @@ Masters Degree candidates at Fletcher School of Tufts University - April 9, 2026
 I was invited to speak about my experiences in Africa in a couple of sessions.
 
 #### [Tufts University, Gordon Institute: *Global Economy and Geo-Politics in Transition*](https://gordon.tufts.edu/news-events/news/global-economy-and-geo-politics-transition)
-I participated as a panelist in a wide-ranging discuiion.
+I participated as a panelist in a wide-ranging discussion on geo-politics.
