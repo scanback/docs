@@ -3,7 +3,7 @@ I have hundreds of LinkedIn and Medium articles and posts that are lost because 
 
 ## Recent
 
-### [World Cup Performance 2022–2026](world-cup.md)
+### [World Cup Performance 2002–2026](world-cup.md)
 How have countries performed at the World Cup this century? A composite score by country is created by applying the Zipf distribution.
 
 ### [How Much Can English Cities Afford Football? A New Measure Based on Local Consumer Income Distribution](english-football-affordability.md)  
