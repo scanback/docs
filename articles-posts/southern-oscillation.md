@@ -19,7 +19,7 @@ The recent report by [The World Meteorological Organization (UN)](https://wmo.in
 
 I track the Southern Oscillation systematically because some of our clients have an intense interest in how it evolves. The graph below shows the trend since 1950. There is emerging evidence of an Niño. There is been a sharp increase in water temperature since November 2025 from −0.55 to +0.98. The rate of change is consistent with an approaching El Niño.  
 
-Note though that temperatures are not yet consistently in El Niño territory which by convention starts at +0.5. We will lnow four months from now, but it looks likely.
+Note though that temperatures are not yet consistently in El Niño territory which by convention starts at +0.5. We will know four months from now, but it looks likely.
 
 <p align="center">
 <img  src="assets/images/s.canback-tellusant-southern-oscillation.svg" width="500" alt="S.Canback, Tellusant: Southern oscillation">
@@ -60,5 +60,4 @@ Broadly, you can be sure that if you get a stock tip, commodity tip, or currency
 The key exception is if you get a tip from a friendly insider, but to act on this is illegal (not that this has stopped Trump and his sycophants).
 
 ---
-[2026-05-02]
 
