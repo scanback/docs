@@ -18,15 +18,15 @@ How can a previously manual workflow be automated with AI and other components? 
 ### [The Nexus Organization: The 4th Wave of Corporate Structure](nexus-organization.md)
 Since the advent of the large corporation in the 1850s, companies have evolved their organizational structures to meet the requirements of higher competencies, globalization, diversification, and automation. This article discusses how this evolution happened, with a focus on the latest innovation, the nexus organization.
 
+<br/>
+
+## Past
+
 ### [The Fabric of Executive Teams: Quantified Tenure, Education and Gender Metrics](fabric-of-executive-teams.md)
 What is the composition of executive teams in the United States? A few years ago I took a look at 844 senior executives of the 50 largest U.S. companies.
 
 ### [Google Trends Analysis of AI, Sports and More in the United States](google-trends.md)
 In less than five years, AI and its key players have catapulted to the top of Google search rankings. How large the surge has been becomes clear when looking at Google Trends data for the United States.
-
-<br/>
-
-## Past
 
 ### [Should AI Be Cited? No. Should AI Be Mentioned? Sometimes.](ai-cites-mentions.md)
 Two tips on how to make your AI use known. Only mention truly material AI use.
