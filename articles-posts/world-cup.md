@@ -1,7 +1,7 @@
 ---
 title: "A Scientific Evaluation of World Cup Performance by Country 2002–2026"
 description: "How have countries performed at the World Cup this century? A composite score by country is created by applying the Zipf distribution."
-image: /assets/social-card-pub.png
+image: /assets/social-card-think.png
 ---
 # A Scientific Evaluation of World Cup Performance by Country 2002–2026
 *Dr. Staffan Canback, Tellusant*  
@@ -10,7 +10,7 @@ How have countries performed at the World Cup this century? A composite score by
 
 The Zipf distribution is a wonderful tool. It is, for example, used to understand the size-distribution of cities, of companies, and of words. Datasets where the smallest value is zero are often Zipf-distributed.  
 
-The formula is simple. The largest item has the weight 1; the second largest 1/2, third 1/3, and so on till the nth item with weight 1/n.²  
+The formula is simple. The largest item has the weight 1; the second largest 1/2, third 1/3, and so on till the nth item with weight 1/n.²
 
 We applied this in **two ways** to football performance over the seven world cups this century.  
 
@@ -18,7 +18,7 @@ We applied this in **two ways** to football performance over the seven world cup
 
 - The most recent year (2026) was given weight 1, down to the most distant year (2002) with weight 1/7.
 
-The two dimensions were finally combined to create a total score by country. Higher placement in recent years get the highest score.
+The two dimensions were finally combined to create a total score by country. Higher placement in recent years get the highest score. The sum across all countries is 1000 and if a country had won all seven world cups, it would have 296 points.
 
 The Zipf distribution strongly favors high placement and recency. Some may argue too strongly. Alternative distributions are, e.g., half-life and rectangular distributions. We have found Zipf often have the best characteristics. Zipf is also theoretically grounded.
 
