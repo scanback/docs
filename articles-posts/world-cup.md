@@ -1,7 +1,7 @@
 ---
 title: "A Scientific Evaluation of World Cup Performance by Country 2002–2026"
 description: "How have countries performed at the World Cup this century? A composite score by country is created by applying the Zipf distribution."
-image: /assets/social-card-pub.png
+image: /assets/social-card-think.png
 ---
 # A Scientific Evaluation of World Cup Performance by Country 2002–2026
 *Dr. Staffan Canback, Tellusant*  
