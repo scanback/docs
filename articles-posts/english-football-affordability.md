@@ -10,6 +10,7 @@ To start, the map shows the 28 cities hosting the 44 clubs in the 2025-26 season
 
 <p align="center">
 <img  src="assets/images/football/s.canback-english-football-city-map.svg" width="500" alt="English football cities map 2025-26">  
+
 </p>
 
 Payroll data for the 2025–26 season from [Capology](https://www.capology.com/uk/premier-league/salaries/) was then aggregated by club to their corresponding cities (using the UN urban definition) and compared with the disposable income of the lower middle class and above, using [income bracket data from TelluBase](https://tellubase.com).  
@@ -42,3 +43,6 @@ English football is not simply a sports industry. In many northern cities, it re
 [A PDF version is found here.](assets/pdf/s.canback-english-football-affordability-by-city.pdf)  
 
 [2026-05-15]  
+
+---
+[More on football](world-cup.md)
