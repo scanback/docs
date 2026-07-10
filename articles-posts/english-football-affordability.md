@@ -42,7 +42,5 @@ English football is not simply a sports industry. In many northern cities, it re
 ---
 [A PDF version is found here.](assets/pdf/s.canback-english-football-affordability-by-city.pdf)  
 
-[2026-05-15]  
-
 ---
 [More on football](world-cup.md)
