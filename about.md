@@ -2,6 +2,8 @@
 
 Dr. Staffan Canback is the Executive Chairman of **Tellusant, Inc.** and a co-founder of the company.  
 
+Over the years, I have learned that I have a unique skill set unmatched by anyone in the world. I deploy this when the situation is right. I am at an age where I chose to work with executives with superior intellect who stand a chance of understanding my reasoning and findings in management and economics.
+
 Over four decades, Staffan has worked as a management consultant and business leader around the world. His career started with **McKinsey & Company** in Scandinavia where he was a partner. He then joined **Monitor Company** in Boston, continuing his management consulting career as a partner.  
 
 In 2004, he decided to form a new type of consulting firm, **Canback Consulting**, which was more deeply focused on the quantitative aspects of strategy development. In 2015 he sold the firm to The Economist Group and stayed on as managing director till 2020.  
