@@ -33,3 +33,6 @@ This post is primarily about illustrating Zipf's usefulness. We applied it to a 
 ---
 ¹ Zipf is the ranked, discrete form of the continuous Pareto distribution. They describe the same underlying phenomena.  
 ² Well, not that simple: There is also a normalization constant $\frac{1}{H_N}$ where $H_N = \sum_{k=1}^{N} \frac{1}{k}$. In this post I multiplied by 1000 to make the scores range from 0 to 1000. Thus, $H_N = 1000 \sum_{k=1}^{N} \frac{1}{k}$
+
+---
+[More on football](english-football-affordability.md)
