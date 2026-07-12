@@ -6,6 +6,8 @@ image: /assets/social-card-think.png
 # A Scientific Evaluation of World Cup Performance by Country 2002–2026
 *Dr. Staffan Canback, Tellusant*  
 
+**Updated  on July 12, 2026 with quarterfinal results**
+
 How have countries performed at the World Cup this century? A composite score by country is created by applying the Zipf distribution.¹  
 
 The Zipf distribution is a wonderful tool. It is, for example, used to understand the size-distribution of cities, of companies, and of words. Datasets where the smallest value is zero are often Zipf-distributed.  
@@ -22,7 +24,7 @@ The two dimensions were finally combined to create a total score by country. Hig
 
 The Zipf distribution strongly favors high placement and recency. Some may argue too strongly. Alternative distributions are, e.g., half-life and rectangular distributions. We have found Zipf often have the best characteristics. Zipf is also theoretically grounded.
 
-The graph shows the ranking before the 2026 quarterfinals are played. All other data is final. This means that there will be some movement and we will update the graph after quarterfinals, semifinals, and final.
+The graph shows the ranking after the 2026 quarterfinals. All other data is final. This means that there will be some movement and we will update the graph after quarterfinals, semifinals, and final. [The pre-quarterfinals ranking reported earlier is found here](assets/images/s.canback-tellusant-world-cup-performance-pre-quarter.svg)
 
 <p align="center">
 <img  src="https://canback.net/docs/articles-posts/assets/images/s.canback-tellusant-world-cup-performance.svg" width="450" alt="S.Canback-Tellusant - World Cup performance">
