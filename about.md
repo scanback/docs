@@ -1,3 +1,9 @@
+---
+title: "About Staffan Canback"
+description: "Dr. Staffan Canback is the Executive Chairman of Tellusant, Inc. and a co-founder of the company. Throughout my career, I have developed and refined an unusually broad and deep analytical capability. It enables me to see connections, develop frameworks, and solve problems that often elude conventional approaches."
+image: /assets/social-card-think.png
+---
+
 # About Staffan Canback
 
 Dr. Staffan Canback is the Executive Chairman of **Tellusant, Inc.** and a co-founder of the company.  
