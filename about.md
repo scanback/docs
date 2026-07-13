@@ -1,8 +1,16 @@
+---
+title: "About Staffan Canback"
+description: "Dr. Staffan Canback is the Executive Chairman of Tellusant, Inc. and a co-founder of the company. Throughout my career, I have developed and refined an unusually broad and deep analytical capability. It enables me to see connections, develop frameworks, and solve problems that often elude conventional approaches."
+image: /assets/social-card-think.png
+---
+
 # About Staffan Canback
 
 Dr. Staffan Canback is the Executive Chairman of **Tellusant, Inc.** and a co-founder of the company.  
 
-Over the years, I have learned that I have a unique skill set unmatched by anyone in the world. I deploy this when the situation is right. I am at an age where I chose to work with executives with superior intellect who stand a chance of understanding my reasoning and findings in management and economics.
+Throughout my career, I have developed and refined an unusually broad and deep analytical capability. It enables me to see connections, develop frameworks, and solve problems that often elude conventional approaches.  
+
+Today, I reserve that capability for leaders who are intellectually curious, willing to challenge accepted wisdom, and committed to making better decisions through rigorous reasoning and evidence.  
 
 Over four decades, I have worked as a management consultant and business leader around the world. My career started with **McKinsey & Company** in Scandinavia where I was a partner. I then joined **Monitor Company** in Boston, continuing my management consulting career as a partner.  
 
