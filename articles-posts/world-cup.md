@@ -24,13 +24,16 @@ The two dimensions were finally combined to create a total score by country. Hig
 
 The Zipf distribution strongly favors high placement and recency. Some may argue too strongly. Alternative distributions are, e.g., half-life and rectangular distributions. We have found Zipf often have the best characteristics. Zipf is also theoretically grounded.
 
-The graph shows the ranking after the 2026 quarterfinals. All other data is final. This means that there will be some movement and we will update the graph after quarterfinals, semifinals, and final. [The pre-quarterfinals ranking reported earlier is found here](assets/images/s.canback-tellusant-world-cup-performance-pre-quarter.svg)
+The graph shows the ranking after the 2026 semifinals. This means that there will be some movement and I will update the graph after the final. 
 
 <p align="center">
-<img  src="https://canback.net/docs/articles-posts/assets/images/s.canback-tellusant-world-cup-performance.svg" width="450" alt="S.Canback-Tellusant - World Cup performance">
+<img  src="https://canback.net/docs/articles-posts/assets/images/footballs.canback-tellusant-world-cup-performance.svg" width="450" alt="S.Canback-Tellusant - World Cup performance">
 </p>
 
-This post is primarily about illustrating Zipf's usefulness. We applied it to a popular topic to make it more enjoyable.
+[The post-quarterfinals ranking reported earlier is found here](assets/images/football/s.canback-tellusant-world-cup-performance-quarter.svg)
+[The pre-quarterfinals ranking reported earlier is found here](assets/images/football/s.canback-tellusant-world-cup-performance-pre-quarter.svg)
+
+This post is primarily about illustrating Zipf's usefulness. I applied it to a popular topic to make it more enjoyable.
 
 ---
 ¹ Zipf is the ranked, discrete form of the continuous Pareto distribution. They describe the same underlying phenomena.  
