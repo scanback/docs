@@ -31,7 +31,7 @@ The graph shows the ranking after the 2026 semifinals. This means that there wil
 </p>
 
 [The post-quarterfinals ranking reported earlier is found here](assets/images/football/s.canback-tellusant-world-cup-performance-quarter.svg)  
-`[The pre-quarterfinals ranking reported earlier is found here](assets/images/football/s.canback-tellusant-world-cup-performance-pre-quarter.svg)  
+[The pre-quarterfinals ranking reported earlier is found here](assets/images/football/s.canback-tellusant-world-cup-performance-pre-quarter.svg)  
 
 This post is primarily about illustrating Zipf's usefulness. I applied it to a popular topic to make it more enjoyable.
 
