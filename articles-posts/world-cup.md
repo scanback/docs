@@ -6,7 +6,7 @@ image: /assets/social-card-think.png
 # A Scientific Evaluation of World Cup Performance by Country 2002–2026
 *Dr. Staffan Canback, Tellusant*  
 
-**Updated  on July 12, 2026 with quarterfinal results**
+**Updated  on July 15, 2026 with semifinal results**
 
 How have countries performed at the World Cup this century? A composite score by country is created by applying the Zipf distribution.¹  
 
