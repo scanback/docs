@@ -27,11 +27,11 @@ The Zipf distribution strongly favors high placement and recency. Some may argue
 The graph shows the ranking after the 2026 semifinals. This means that there will be some movement and I will update the graph after the final. 
 
 <p align="center">
-<img  src="https://canback.net/docs/articles-posts/assets/images/footballs.canback-tellusant-world-cup-performance.svg" width="450" alt="S.Canback-Tellusant - World Cup performance">
+<img  src="https://canback.net/docs/articles-posts/assets/images/football/s.canback-tellusant-world-cup-performance.svg" width="450" alt="S.Canback-Tellusant - World Cup performance">
 </p>
 
-[The post-quarterfinals ranking reported earlier is found here](assets/images/football/s.canback-tellusant-world-cup-performance-quarter.svg)
-[The pre-quarterfinals ranking reported earlier is found here](assets/images/football/s.canback-tellusant-world-cup-performance-pre-quarter.svg)
+[The post-quarterfinals ranking reported earlier is found here](assets/images/football/s.canback-tellusant-world-cup-performance-quarter.svg)  
+`[The pre-quarterfinals ranking reported earlier is found here](assets/images/football/s.canback-tellusant-world-cup-performance-pre-quarter.svg)  
 
 This post is primarily about illustrating Zipf's usefulness. I applied it to a popular topic to make it more enjoyable.
 
