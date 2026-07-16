@@ -37,13 +37,13 @@ Jag har därför analyserat de svenska hushållens inkomstnivå i detalj. Mitt j
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-3.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-4. Men varför använda 2025 års marknadsväxelkurs? Växelkurser går upp och ner men den lokala levnadsstandarden rör sig (i stort) inte. Det är därför bättre att använda en stabil kurs. Dessutom måste hänsyn tas till skillnader i kostnadsnivåer.<br/><br/>Dessa två faktorer kräver att "purchasing power parity" (PPP) används. Med detta (efter en synnerligen komplicerad uträkning) hamnar Sverige 22% under USA.  
+4. Men varför använda 2025 års marknadsväxelkurs? Växelkurser går upp och ner men den lokala levnadsstandarden rör sig (i stort) inte. Det är därför bättre att använda en stabil kurs. Dessutom måste hänsyn tas till skillnader i kostnadsnivåer.<br/><br/>Dessa två faktorer kräver att "purchasing power parity" (PPP) används. Med detta (efter en synnerligen komplicerad uträkning) hamnar Sverige 29% under USA.  
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-4.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-5. Är inkomst per invånare det bästa måttet? Per invånar-måttet penaliserar länder med stora hushåll. Men ett per hushåll mått penaliserar länder med små hushåll. Ekonomer använder istållet hushållsekvivalenter (HH-ekv) som är det geometriska medelvärdet mellan individer och hushåll.²<br/><br/>Detta reducerar den svenska inkomstnivån med 5 procentenheter till 35% under USA.  
+5. Är inkomst per invånare det bästa måttet? Stora hushåll med t ex många barn har skalekonomier. Per invånar-måttet säger implicit att alla medlemmar har samma konsumtion. Men ett per hushåll mått säger att det gör detsamma hur många som bor i hushållet. Ekonomer använder istållet hushållsekvivalenter (HH-ekv) som är det geometriska medelvärdet mellan individer och hushåll.²<br/><br/>Detta reducerar den svenska inkomstnivån till 35% under USA.  
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-5.svg" width="450" alt="S.Canback - Swedish vs U.S. material standard of living">
@@ -61,7 +61,7 @@ Min slutsats är att de svenska hushållens inkomstnivå ligger 25–30% under d
 
 ## Jämförelse med amerikanska delstater
 
-Går det ett att jämföra ett litet land som Sverige med ett stort land som USA? Jag hävdar att det är en falsk jämförelse. Lät oss istället jämföra med de amrikanska delstaterna.
+Går det ett att jämföra ett litet land som Sverige med ett stort land som USA? Jag hävdar att det är en falsk jämförelse. Lät oss istället jämföra med de amerikanska delstaterna.
 
 Om vi använt den naiva metoden i punkt 1, så ligger Sverige sist eller näst sist jämfört med de 50 amerikanska delstaterna, och klart sist med punkt 2 metoden.  
   
