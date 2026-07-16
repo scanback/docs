@@ -17,6 +17,8 @@ Den senaste tiden har det publicerats mycket på YouTube och andra sociala medie
 
 Jag har därför analyserat de svenska hushållens inkomstnivå i detalj. Mitt jämförelseår är 2025. Nedan följer stegen i analysen.  
 
+## Länderna emellan
+
 - BNP per capita är 28% lägre i Sverige. Men BNP är inte inkomst och definitivt inte hushållsinkomst så siffran säger ingenting.
 
 <p align="center">
@@ -41,21 +43,25 @@ Jag har därför analyserat de svenska hushållens inkomstnivå i detalj. Mitt j
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-4.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-- Men, varför per invånare? Per invånar-måttet penaliserar länder med stora hushåll. Men ett per hushåll mått penaliserar länder med små hushåll. Ekonomer använder istållet hushållsekvivalenter (HH-ekv) som är det geometriska medelvärdet mellan individer och hushåll.²<br/><br/>Detta reducerar den svenska inkomstnivån med 5 procentenheter till 35% under USA.  
+- Är inkomst per invånare det bästa måttet? Per invånar-måttet penaliserar länder med stora hushåll. Men ett per hushåll mått penaliserar länder med små hushåll. Ekonomer använder istållet hushållsekvivalenter (HH-ekv) som är det geometriska medelvärdet mellan individer och hushåll.²<br/><br/>Detta reducerar den svenska inkomstnivån med 5 procentenheter till 35% under USA.  
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-5.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 <br/>
 
-Slutligen, varför jömföra genomsnittsinkomsten? Ett bättre mått är medianinkomsten some bättre reflekterar huer folk is stort har det. Med medianinkomst är Sveriges materiella levnadsstandard 
+Slutligen, varför jömföra genomsnittsinkomsten? Ett bättre mått är medianinkomsten some bättre reflekterar huer folk is stort har det. Med medianinkomst är Sveriges materiella levnadsstandard 29% under den amerikanska.
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-6.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 <br/>
 
-Min slutsats är att de svenska hushållens inkomstnivå ligger 20–30% under de amerikanska.  
+Min slutsats är att de svenska hushållens inkomstnivå ligger 25–30% under de amerikanska.  
+
+## Jämförelse med amerikanska delstater
+
+Går det ett att jämföra ett litet land som Sverige med ett stort land som USA? Jag hävdar att det är en falsk jämförelse. Lät oss istället jämföra med de amrikanska delstaterna.
 
 Om vi använt den naiva metoden i punkt 1, så ligger Sverige sist eller näst sist jämfört med de 50 amerikanska delstaterna, och klart sist med punkt 2 metoden.  
   
