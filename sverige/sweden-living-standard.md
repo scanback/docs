@@ -37,7 +37,7 @@ Jag har därför analyserat de svenska hushållens inkomstnivå i detalj. Mitt j
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-3.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-- Men varför använda 2025 års marknadsväxelkurs? Växelkurser går upp och ner men den lokala levnadsstandarden rör sig (i stort) inte. Det är därför bättre att använda en stabil kurs. Dessutom måste hänsyn tas till skillnader i kostnadsnivåer.<br/><br/>Dessa två faktorer kräver att "purchasing power parity" (PPP) används.<br/><br/>Med detta (efter en synnerligen komplicerad uträkning) hamnar Sverige 22% under USA.  
+- Men varför använda 2025 års marknadsväxelkurs? Växelkurser går upp och ner men den lokala levnadsstandarden rör sig (i stort) inte. Det är därför bättre att använda en stabil kurs. Dessutom måste hänsyn tas till skillnader i kostnadsnivåer.<br/><br/>Dessa två faktorer kräver att "purchasing power parity" (PPP) används. Med detta (efter en synnerligen komplicerad uträkning) hamnar Sverige 22% under USA.  
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-4.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
