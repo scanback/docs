@@ -46,14 +46,14 @@ Jag har därför analyserat de svenska hushållens inkomstnivå i detalj. Mitt j
 - Är inkomst per invånare det bästa måttet? Per invånar-måttet penaliserar länder med stora hushåll. Men ett per hushåll mått penaliserar länder med små hushåll. Ekonomer använder istållet hushållsekvivalenter (HH-ekv) som är det geometriska medelvärdet mellan individer och hushåll.²<br/><br/>Detta reducerar den svenska inkomstnivån med 5 procentenheter till 35% under USA.  
 
 <p align="center">
-<img  src="assets/images/living-standard/s.canback-sweden-living-standard-5.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
+<img  src="assets/images/living-standard/s.canback-sweden-living-standard-5.svg" width="450" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 <br/>
 
 Slutligen, varför jömföra genomsnittsinkomsten? Ett bättre mått är medianinkomsten some bättre reflekterar huer folk is stort har det. Med medianinkomst är Sveriges materiella levnadsstandard 29% under den amerikanska.
 
 <p align="center">
-<img  src="assets/images/living-standard/s.canback-sweden-living-standard-6.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
+<img  src="assets/images/living-standard/s.canback-sweden-living-standard-6.svg" width="450" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 <br/>
 
