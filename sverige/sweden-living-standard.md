@@ -19,38 +19,38 @@ Jag har därför analyserat de svenska hushållens inkomstnivå i detalj. Mitt j
 
 ## Länderna emellan
 
-- BNP per capita är 28% lägre i Sverige. Men BNP är inte inkomst och definitivt inte hushållsinkomst så siffran säger ingenting.
+1. BNP per capita är 28% lägre i Sverige. Men BNP är inte inkomst och definitivt inte hushållsinkomst så siffran säger ingenting.
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-1.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-- Ett bättre mått är Sveriges disponibla hushållsinkomst (DI) som är 53% lägre vid en första anblick. Den 25-procentiga skillnaden mot BNP reflekterar det högre skattetrycket, men också andra faktorer. Detta mått håller inte hellet måttet. 
+2. Ett bättre mått är Sveriges disponibla hushållsinkomst (DI) som är 53% lägre vid en första anblick. Den 25-procentiga skillnaden mot BNP reflekterar det högre skattetrycket, men också andra faktorer. Detta mått håller inte hellet måttet. 
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-2.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-- Det är viktigt att göra en ADI justering.¹ Denna innebär att staten (inkl regioner, kommuner) spenderar pengar för medborgarna som inte ingår i disponibel inkomst. T ex skolor och sjukvård. Denna *government spending on behalf of consumers* (som Världsbanken uttrycker det) är 19% av BNP i Sverige gentemot 6% i USA.<br/><br/>Efter denna justering är Sveriges hushållsinkomst 29% lägre än USA:s.  
+3. Det är viktigt att göra en ADI justering.¹ Denna innebär att staten (inkl regioner, kommuner) spenderar pengar för medborgarna som inte ingår i disponibel inkomst. T ex skolor och sjukvård. Denna *government spending on behalf of consumers* (som Världsbanken uttrycker det) är 19% av BNP i Sverige gentemot 6% i USA.<br/><br/>Efter denna justering är Sveriges hushållsinkomst 29% lägre än USA:s.  
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-3.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-- Men varför använda 2025 års marknadsväxelkurs? Växelkurser går upp och ner men den lokala levnadsstandarden rör sig (i stort) inte. Det är därför bättre att använda en stabil kurs. Dessutom måste hänsyn tas till skillnader i kostnadsnivåer.<br/><br/>Dessa två faktorer kräver att "purchasing power parity" (PPP) används. Med detta (efter en synnerligen komplicerad uträkning) hamnar Sverige 22% under USA.  
+4. Men varför använda 2025 års marknadsväxelkurs? Växelkurser går upp och ner men den lokala levnadsstandarden rör sig (i stort) inte. Det är därför bättre att använda en stabil kurs. Dessutom måste hänsyn tas till skillnader i kostnadsnivåer.<br/><br/>Dessa två faktorer kräver att "purchasing power parity" (PPP) används. Med detta (efter en synnerligen komplicerad uträkning) hamnar Sverige 22% under USA.  
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-4.svg" width="400" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-- Är inkomst per invånare det bästa måttet? Per invånar-måttet penaliserar länder med stora hushåll. Men ett per hushåll mått penaliserar länder med små hushåll. Ekonomer använder istållet hushållsekvivalenter (HH-ekv) som är det geometriska medelvärdet mellan individer och hushåll.²<br/><br/>Detta reducerar den svenska inkomstnivån med 5 procentenheter till 35% under USA.  
+5. Är inkomst per invånare det bästa måttet? Per invånar-måttet penaliserar länder med stora hushåll. Men ett per hushåll mått penaliserar länder med små hushåll. Ekonomer använder istållet hushållsekvivalenter (HH-ekv) som är det geometriska medelvärdet mellan individer och hushåll.²<br/><br/>Detta reducerar den svenska inkomstnivån med 5 procentenheter till 35% under USA.  
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-5.svg" width="450" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 <br/>
 
-Slutligen, varför jömföra genomsnittsinkomsten? Ett bättre mått är medianinkomsten some bättre reflekterar huer folk is stort har det. Med medianinkomst är Sveriges materiella levnadsstandard 29% under den amerikanska.
+6. Slutligen, varför jömföra genomsnittsinkomsten? Ett bättre mått är medianinkomsten some bättre reflekterar huer folk is stort har det. Med medianinkomst är Sveriges materiella levnadsstandard 29% under den amerikanska.
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-6.svg" width="450" alt="S.Canback - Swedish vs U.S. material standard of living">
