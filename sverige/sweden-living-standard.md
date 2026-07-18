@@ -1,7 +1,7 @@
 ---
 title: "En komplex fråga: Den svenska levnadsstandarden jämförd med den amerikanska"
 Description: "Man ser ofta ytliga jämförelser av den materiella levnadsstandarden i olika länder. Här går jag på djupet. 🇸🇪"
-image: /assets/social-card-think.png
+image: /assets/social-card-sverige.png
 ---
 # En komplex fråga: Den svenska levnadsstandarden jämförd med den amerikanska
 
