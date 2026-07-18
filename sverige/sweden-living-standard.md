@@ -44,14 +44,12 @@ Jag har därför analyserat de svenska hushållens inkomstnivå i detalj. Mitt j
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-5.svg" width="500" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
-<br/>
 
 - Slutligen, varför jömföra genomsnittsinkomsten? Ett bättre mått är medianinkomsten some bättre reflekterar huer folk is stort har det. Med medianinkomst är Sveriges materiella levnadsstandard 24% under den amerikanska.
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-6.svg" width="500" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
-<br/>
 
 Min slutsats är att de svenska hushållens inkomstnivå ligger 20–30% under de amerikanska.  
 
@@ -87,8 +85,9 @@ Som Bertrand Russell sa: "If a philosophy is to bring happiness it should be ins
 
 ---
 Källa för samtliga grafer: S.Canbäck (Tellusant) analys; [TelluBase](https://tellubase.com)  
-¹ Adjusted Disposable Income (OECD:s benämning) 
-² Se t ex Rainwater, L. (1970): *What Money Buys: Inequality and the Social Meanings of Income* och OECD 
+¹ Adjusted Disposable Income (OECD:s benämning)  
+² Se Rainwater, L. (1970): *What Money Buys: Inequality and the Social Meanings of Income* och OECD (2013): *OECD Framework
+for Statistics on the Distribution of Household Income, Consumption and Wealth*
 
 ---
 [Mer om Sverige](../sverige/index.md)  
