@@ -1,7 +1,7 @@
 ---
 title: "Svenska färgskalor baserade på flaggblått och flaggult"
 description: "Sverige har två officiella färger enligt grundlagen. Jag behövde flera. Vad göra? Jag konstruerade bredare färgskalor baserade på flaggblått och flaggult. Det visar sig vara komplicerad matematik. 🇸🇪"
-image: /assets/social-card-think.png
+image: /assets/social-card-sverige.png
 ---
 # Svenska färgskalor baserade på flaggblått och flaggult
 
