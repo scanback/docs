@@ -68,7 +68,15 @@ Med mina justeringar ovan hamnar Sverige fortfarande nära botten vilket syns i 
 
 ## Slutsats
 
-Sveriges **materiella** levnar
+Sveriges **materiella** levnardsstandard är omkring 20-30% lägre än den amerikanska. Det fanns en tid då den var högre. Resultatet är robust. Till exempel spelar ändringar i växelkursen ingen roll i analysen.  
+
+Att Europa generellt släpar efter är välkänt. Men det beror inte på sämre ekonomi utan på den demografiska utvecklingen. Sverige skiljer sig mot detta genom att det haft en gynsam demografi.
+
+Det finns ingen anledning att nå den amerikanska materiella levnadsstandarden. Sverige offrar materiellt för att uppnå högre livskvalitet bortom krassa pengar. Dessutom ligger landet för dåligt till geografiskt för att kunna svinga sig upp mycket.
+
+Men visst borde gapet minskas. Schweiz är både rikt och har hög livskvalitet. Bayern lika så. Bägge är ungeför lika stora som Sverige.
+
+Personligen sitter jag i USA och ser med förtvivlan på den svenska främlingsfientligheten. Den har bredit ut sig under det sensaste decenniet och jag kallar den en blåbrun utveckling. Det är kanske en naturlig följd av massinvandringen och den följande brottsvågen, men det finns gränser i politiken. Som Bertrand Russell sa: "Kindly feelings 
 
 ---
 Källa för samtliga grafer: S.Canbäck (Tellusant) analys; [TelluBase](https://tellubase.com)  
