@@ -9,15 +9,11 @@ _Dr Staffan Canbäck, Tellusant_
 
 Man ser ofta ytliga jämförelser av den materiella levnadsstandarden i olika länder. Här går jag på djupet.
 
-> Jag och mitt företag [Tellusant, Inc.](https://tellusant.com) har aktiverat oss i Sverige och Nordic-Baltic 8. Vi samarbetar med Kennet Rådne i Stockholm.
->
-> Jag gör därför några inlägg på svenska om landet och regionen. Jag har inte skrivit på svenska på många år så det är en nyttig övning (38 år i USA).
-
 Den senaste tiden har det publicerats mycket på YouTube och andra sociala medier om hur mycket lägre inkomsterna är i EU och Sverige jämfört med USA.  
 
 Jag har därför analyserat de svenska hushållens inkomstnivå i detalj. Mitt jämförelseår är 2025. Nedan följer stegen i analysen.  
 
-## Länderna emellan
+## Sverige jämfört med USA
 
 1. BNP per capita är 28% lägre i Sverige. Men BNP är inte inkomst och definitivt inte hushållsinkomst så siffran säger ingenting.
 
