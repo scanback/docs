@@ -76,7 +76,9 @@ Det finns ingen anledning att nå den amerikanska materiella levnadsstandarden. 
 
 Men visst borde gapet minskas. Schweiz är både rikt och har hög livskvalitet. Bayern lika så. Bägge är ungeför lika stora som Sverige.
 
-Personligen sitter jag i USA och ser med förtvivlan på den svenska främlingsfientligheten. Den har bredit ut sig under det sensaste decenniet och jag kallar den en blåbrun utveckling. Det är kanske en naturlig följd av massinvandringen och den följande brottsvågen, men det finns gränser i politiken. Som Bertrand Russell sa: "Kindly feelings 
+Personligen sitter jag i USA och ser med förtvivlan på den svenska främlingsfientligheten. Den har bredit ut sig under det sensaste decenniet och jag kallar den en blåbrun utveckling. Det är kanske en naturlig följd av massinvandringen och den följande brottsvågen, men det finns gränser i politiken. 
+
+Som Bertrand Russell sa: "If a philosophy is to bring happiness it should be inspired by ***kindly feelings***." Sverige har missat detta.
 
 ---
 Källa för samtliga grafer: S.Canbäck (Tellusant) analys; [TelluBase](https://tellubase.com)  
