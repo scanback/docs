@@ -53,7 +53,7 @@ Jag har därför analyserat de svenska hushållens inkomstnivå i detalj. Mitt j
 </p>
 <br/>
 
-Min slutsats är att de svenska hushållens inkomstnivå ligger 25–30% under de amerikanska.  
+Min slutsats är att de svenska hushållens inkomstnivå ligger 20–30% under de amerikanska.  
 
 ## Jämförelse med amerikanska delstater
 
@@ -75,7 +75,7 @@ Med mina justeringar ovan hamnar Sverige fortfarande nära botten vilket syns i 
 
 Sveriges **materiella** levnardsstandard är omkring 20-30% lägre än den amerikanska. Det fanns en tid då den var högre. Resultatet är robust. Till exempel spelar ändringar i växelkursen ingen roll i analysen.  
 
-Att Europa generellt släpar efter är välkänt. Men det beror inte på sämre ekonomi utan på den demografiska utvecklingen. Sverige skiljer sig mot detta genom att det haft en gynsam demografi.
+Att Europa generellt släpar efter är välkänt. Men det beror inte på sämre ekonomi utan på den demografiska utvecklingen. Sverige skiljer sig mot detta genom att det haft en gynnsam demografi.
 
 Det finns ingen anledning att nå den amerikanska materiella levnadsstandarden. Sverige offrar materiellt för att uppnå högre livskvalitet, bortom krassa pengar. Dessutom ligger landet för dåligt till geografiskt för att kunna svinga sig upp mycket.
 
