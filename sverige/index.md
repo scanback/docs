@@ -10,9 +10,11 @@ Artiklar och annat avsedda för svenskar och finlandssvenskar.
 
 ## Nyare alster
 
+### [En komplex fråga: Den svenska levnadsstandarden jämfört med den amerikanska](sweden-living-standard.md)
+Man ser ofta ytliga jämförelser av den materiella levnadsstandarden i olika länder. Här går jag på djupet.
+
 ### [Affärsvärlden (2026): *Inget att fira: ”Hela landet måste skärpa sig – svenskar är lata”* ](https://www.affarsvarlden.se/artikel/inget-att-fira-hela-landet-maste-skarpa-sig)
 Jag intervjuades av Affärsvärlden för denna nationaldagsartikel. Den bygger vidare på min [Uselt så det förslår](sweden-growth.md) analys nedan.
-
 
 ### [Uselt så det förslår: Sveriges ekonomiska tillväxt 2015-2025](sweden-growth.md)
 Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag enklast möjliga meningsfulla mått på utvecklingen.
@@ -22,9 +24,6 @@ Hur ska ett exportberoende land som Sverige agera för att bibehålla och öka s
 
 ### [Dagens Industri (2025): *Fly tullkaoset – länderna med störst exportpotential*](https://www.di.se/nyheter/fly-tullkaoset-landerna-med-storst-exportpotential/)
 Intervju med Staffan Canbäck baserat på hans forskning kring Sveriges exportmöjligheter.
-
-### [En komplex fråga: Den svenska levnadsstandarden jämfört med den amerikanska](sweden-living-standard.md)
-Man ser ofta ytliga jämförelser av den materiella levnadsstandarden i olika länder. Här går jag på djupet.
 
 ### [Nordic-Baltic Eight (NB8) Middle Class Map](nordic-baltic-eight-nb8-map.md)
 The NB8 region is tightly integrated economically and politically and has a GDP almost of Italy's size.
