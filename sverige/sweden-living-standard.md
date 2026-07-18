@@ -79,7 +79,7 @@ Att Europa generellt släpar efter är välkänt. Men det beror inte på sämre 
 
 Det finns ingen anledning att nå den amerikanska materiella levnadsstandarden. Sverige offrar materiellt för att uppnå högre livskvalitet, bortom krassa pengar. Dessutom ligger landet för dåligt till geografiskt för att kunna svinga sig upp mycket.
 
-Men visst borde gapet minskas. Schweiz är både rikt och har hög livskvalitet. Bayern lika så. Bägge är ungeför lika stora som Sverige.
+Men visst borde gapet minskas. Schweiz är både rikt och har hög livskvalitet. Bayern och Danmark lika så. De är alla ungeför lika stora som Sverige.
 
 Personligen sitter jag i Massachusetts och ser med förtvivlan på den svenska främlingsfientligheten. Den har bredit ut sig under det sensaste decenniet och jag ser en tydlig blåbrun utveckling. Det är kanske en naturlig följd av massinvandringen och den följande brottsvågen, men det finns gränser i politiken. 
 
