@@ -70,7 +70,7 @@ Med mina justeringar ovan hamnar Sverige fortfarande nära botten vilket syns i 
 
 ## Slutsats
 
-Sveriges **materiella** levnardsstandard är omkring 20-30% lägre än den amerikanska. Det fanns en tid då den var högre. Resultatet är robust. Till exempel spelar ändringar i växelkursen ingen roll i analysen.  
+Sveriges **materiella** levnardsstandard är omkring 20-30% lägre än den amerikanska. Resultatet är robust. Till exempel spelar ändringar i växelkursen ingen roll i analysen.  
 
 Att Europa generellt släpar efter är välkänt. Men det beror inte s[ mucket på sämre ekonomi utan på den demografiska utvecklingen. Sverige skiljer sig fr[n detta genom att det haft en gynnsam demografisk utveckling.
 
