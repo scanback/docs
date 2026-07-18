@@ -66,20 +66,21 @@ Med mina justeringar ovan hamnar Sverige fortfarande nära botten vilket syns i 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-7.svg" width="500" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
-<br/>
 
 
 ## Slutsats
 
 Sveriges **materiella** levnardsstandard är omkring 20-30% lägre än den amerikanska. Det fanns en tid då den var högre. Resultatet är robust. Till exempel spelar ändringar i växelkursen ingen roll i analysen.  
 
-Att Europa generellt släpar efter är välkänt. Men det beror inte på sämre ekonomi utan på den demografiska utvecklingen. Sverige skiljer sig mot detta genom att det haft en gynnsam demografi.
+Att Europa generellt släpar efter är välkänt. Men det beror inte s[ mucket på sämre ekonomi utan på den demografiska utvecklingen. Sverige skiljer sig fr[n detta genom att det haft en gynnsam demografisk utveckling.
 
-Det finns ingen anledning att nå den amerikanska materiella levnadsstandarden. Sverige offrar materiellt för att uppnå högre livskvalitet, bortom krassa pengar. Dessutom ligger landet för dåligt till geografiskt för att kunna svinga sig upp mycket.
+Det finns ingen anledning att nå den amerikanska materiella levnadsstandarden. Sverige offrar materiellt för att uppnå högre livskvalitet, bortom krassa pengar. Dessutom ligger landet för geografiskt isolerat för att kunna svinga sig upp mycket.
 
-Men visst borde gapet minskas. Schweiz är både rikt och har hög livskvalitet. Bayern och Danmark lika så. De är alla ungeför lika stora som Sverige.
+Men visst borde gapet minskas. Schweiz är både rikt och har hög livskvalitet. Bayern och Danmark likaså. De är ungeför lika stora som Sverige.
 
-Personligen sitter jag i Massachusetts och ser med förtvivlan på den svenska främlingsfientligheten. Den har bredit ut sig under det sensaste decenniet och jag ser en tydlig blåbrun utveckling. Det är kanske en naturlig följd av massinvandringen och den följande brottsvågen, men det finns gränser i respektabel  politik. 
+Personligen sitter jag i Massachusetts och ser med förtvivlan på den svenska främlingsfientligheten. Den har bredit ut sig under det senaste decenniet och jag ser en tydlig blåbrun utveckling. Det är kanske en naturlig följd av massinvandringen och den följande brottsvågen, men det finns gränser i respektabel  politik. 
+
+Kanske vore det bättre att byta denna negativa energi till en positiv levnadsenergi.
 
 Som Bertrand Russell sa: "If a philosophy is to bring happiness it should be inspired by ***kindly feelings***." Sverige missar detta.
 
