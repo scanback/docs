@@ -63,7 +63,12 @@ Om vi använt den naiva metoden i punkt 1, så ligger Sverige sist.
   
 Detta är orimligt. Jag har besökt alla kontinentala 48 delstaterna med en sociologisk blick. Det är omöjligt att Sverige är fattigare än t ex Mississippi.  
 
-Med mina justeringar ovan hamnar Sverige fortfarande nära botten vilket syns i fiolgrafen nedan. Detta verkar rimligt baserat på min erfarenhet men vi undviker sista platsen. 
+Med mina justeringar ovan hamnar Sverige fortfarande nära botten vilket syns i fiolgrafen nedan. Detta verkar rimligt baserat på min erfarenhet men vi undviker sista platsen.  
+
+<p align="center">
+<img  src="assets/images/living-standard/s.canback-sweden-living-standard-7.svg" width="450" alt="S.Canback - Swedish vs U.S. material standard of living">
+</p>
+<br/>
 
 
 ## Slutsats
