@@ -1,7 +1,7 @@
 ---
 title: "Material på svenska"
 description: "Artiklar och annat ämnade för svenskar och finlandssvenskar. 🇸🇪 🇫🇮"
-image: /assets/social-card-think.png
+image: /assets/social-card-sverige.png
 ---
 
 # Sverige m.m.
