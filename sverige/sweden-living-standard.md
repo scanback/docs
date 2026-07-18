@@ -18,7 +18,7 @@ Jag har därför analyserat de svenska hushållens inkomstnivå i detalj. Mitt j
 - BNP per capita är 28% lägre i Sverige. Men BNP är inte inkomst och definitivt inte hushållsinkomst så siffran säger ingenting.
 
 <p align="center">
-<img  src="assets/images/living-standard/s.canback-sweden-living-standard-1.svg" width="500" alt="S.Canback - Swedish vs U.S. material standard of living">
+<img  src="assets/images/living-standard/s.canback-sweden-living-standard-1.svg" width="525" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
 - Ett bättre mått är Sveriges disponibla hushållsinkomst (DI) som är 53% lägre vid en första anblick. Den 25-procentiga skillnaden mot BNP reflekterar det högre skattetrycket och hög export, men också andra faktorer. Men detta mått håller inte hellet måttet (så att säga). 
@@ -30,13 +30,13 @@ Jag har därför analyserat de svenska hushållens inkomstnivå i detalj. Mitt j
 - Men varför använda 2025 års marknadsväxelkurs? Växelkurser går upp och ner men den lokala levnadsstandarden rör sig (i stort) inte. Det är därför bättre att använda en stabil kurs. Dessutom måste hänsyn tas till skillnader i kostnadsnivåer.<br/><br/>Dessa två faktorer kräver att "purchasing power parity" (PPP) används. Med detta (efter en synnerligen komplicerad uträkning) hamnar Sverige 47% under USA.  
 
 <p align="center">
-<img  src="assets/images/living-standard/s.canback-sweden-living-standard-4.svg" width="500" alt="S.Canback - Swedish vs U.S. material standard of living">
+<img  src="assets/images/living-standard/s.canback-sweden-living-standard-3.svg" width="525" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
 - Det är viktigt att göra en STIK justering.¹ Denna innebär att staten (inkl regioner, kommuner) spenderar pengar för medborgarna som inte ingår i disponibel inkomst. T ex skolor och sjukvård. Denna *government spending on behalf of consumers* (som Världsbanken uttrycker det) är 22% av BNP i Sverige gentemot 6% i USA.<br/><br/>Efter denna justering är Sveriges hushållsinkomst 27% lägre än USA:s.  
 
 <p align="center">
-<img  src="assets/images/living-standard/s.canback-sweden-living-standard-3.svg" width="500" alt="S.Canback - Swedish vs U.S. material standard of living">
+<img  src="assets/images/living-standard/s.canback-sweden-living-standard-4.svg" width="500" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
 - Är inkomst per invånare det bästa måttet? Stora hushåll med t ex många barn har skalekonomier. Per invånar-måttet säger implicit att alla medlemmar har samma inkomst. Men ett per hushåll mått säger att det gör detsamma hur många som bor i hushållet. Ekonomer använder istållet hushållsekvivalenter (HH-ekv) som är det geometriska medelvärdet mellan individer och hushåll.²<br/><br/>Detta sätter den svenska inkomstnivån till 35% under USA.  
