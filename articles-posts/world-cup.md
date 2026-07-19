@@ -24,11 +24,13 @@ The two dimensions were finally combined to create a total score by country. Hig
 
 The Zipf distribution strongly favors high placement and recency. Some may argue too strongly. Alternative distributions are, e.g., half-life and rectangular distributions. We have found Zipf often have the best characteristics. Zipf is also theoretically grounded.
 
-The graph shows the ranking after the 2026 semifinals. This means that there will be some movement and I will update the graph after the final. 
+The graph shows the ranking after the 2026 final with Spain victorious over Argentina. Spain tops the century ranking based on this win.  It did nor have to be this way. Since earlier world cups are included in the ranking, Spain could have won this world cup and yet not been the 21st century leader (e.g., if Egypt had won, it would still only reach no. 3). But it got to the top quite handsomely. 
 
 <p align="center">
 <img  src="https://canback.net/docs/articles-posts/assets/images/football/s.canback-tellusant-world-cup-performance.svg" width="450" alt="S.Canback-Tellusant - World Cup performance">
 </p>
+
+Spain started my ranking at third, moved up to second after the semifinals and is now no. 1. You see the evolution in these links.
 
 [The post-semifinals / pre-final ranking reported earlier is found here](assets/images/football/s.canback-tellusant-world-cup-performance-semi.svg)  
 [The post-quarterfinals/ pre-semifinals ranking reported earlier is found here](assets/images/football/s.canback-tellusant-world-cup-performance-quarter.svg)  
