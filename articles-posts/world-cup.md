@@ -6,7 +6,7 @@ image: /assets/social-card-think.png
 # A Scientific Evaluation of World Cup Performance by Country 2002–2026
 *Dr. Staffan Canback, Tellusant*  
 
-**Updated  on July 15, 2026 with semifinal results**
+**Updated  on July 19, 2026 with final results after Spain victory**
 
 How have countries performed at the World Cup this century? A composite score by country is created by applying the Zipf distribution.¹  
 
@@ -30,7 +30,8 @@ The graph shows the ranking after the 2026 semifinals. This means that there wil
 <img  src="https://canback.net/docs/articles-posts/assets/images/football/s.canback-tellusant-world-cup-performance.svg" width="450" alt="S.Canback-Tellusant - World Cup performance">
 </p>
 
-[The post-quarterfinals ranking reported earlier is found here](assets/images/football/s.canback-tellusant-world-cup-performance-quarter.svg)  
+[The post-semifinals / pre-final ranking reported earlier is found here](assets/images/football/s.canback-tellusant-world-cup-performance-semi.svg)  
+[The post-quarterfinals/ pre-semifinals ranking reported earlier is found here](assets/images/football/s.canback-tellusant-world-cup-performance-quarter.svg)  
 [The pre-quarterfinals ranking reported earlier is found here](assets/images/football/s.canback-tellusant-world-cup-performance-pre-quarter.svg)  
 
 This post is primarily about illustrating Zipf's usefulness. I applied it to a popular topic to make it more enjoyable.
