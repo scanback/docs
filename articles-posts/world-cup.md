@@ -36,9 +36,9 @@ Spain started my ranking at third, moved up to second after the semifinals and i
 [The post-quarterfinals/ pre-semifinals ranking reported earlier is found here](assets/images/football/s.canback-tellusant-world-cup-performance-quarter.svg)  
 [The pre-quarterfinals ranking reported earlier is found here](assets/images/football/s.canback-tellusant-world-cup-performance-pre-quarter.svg)  
 
-**Well done Spain! It was thoroughly well deserved.**
-
 This post is primarily about illustrating Zipf's usefulness. I applied it to a popular topic to make it more enjoyable.
+
+**Finally, well done Spain! It was thoroughly well deserved.**
 
 ---
 ¹ Zipf is the ranked, discrete form of the continuous Pareto distribution. They describe the same underlying phenomena.  
