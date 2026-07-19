@@ -42,7 +42,7 @@ Jag har därför analyserat de svenska hushållens inkomstnivå i detalj. Mitt j
 - Är inkomst per invånare det bästa måttet? Stora hushåll med t ex många barn har skalekonomier. Per invånar-måttet säger implicit att alla medlemmar har samma inkomst. Men ett per hushåll mått säger att det gör detsamma hur många som bor i hushållet. Ekonomer använder istållet hushållsekvivalenter (HH-ekv) som är det geometriska medelvärdet mellan individer och hushåll.²<br/><br/>Detta sätter den svenska inkomstnivån till 35% under USA.  
 
 <p align="center">
-<img  src="assets/images/living-standard/s.canback-sweden-living-standard-5.svg" width="500" alt="S.Canback - Swedish vs U.S. material standard of living">
+<img  src="assets/images/living-standard/s.canback-sweden-living-standard-5.svg" width="525" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
 - Slutligen, varför jömföra genomsnittsinkomsten? Ett bättre mått är medianinkomsten some bättre reflekterar huer folk is stort har det. Med medianinkomst är Sveriges materiella levnadsstandard 24% under den amerikanska.
@@ -68,15 +68,15 @@ Med mina justeringar ovan hamnar Sverige fortfarande nära botten vilket syns i 
 </p>
 
 
-## Slutsats
+## Slutsats och åsikter
 
-Sveriges **materiella** levnardsstandard är omkring 20-30% lägre än den amerikanska. Det fanns en tid då den var högre. Resultatet är robust. Till exempel spelar ändringar i växelkursen ingen roll i analysen.  
+Sveriges **materiella** levnardsstandard är omkring 20-30% lägre än den amerikanska. Resultatet är robust. Till exempel spelar ändringar i växelkursen ingen roll i analysen.  
 
 Att Europa generellt släpar efter är välkänt. Men det beror inte s[ mucket på sämre ekonomi utan på den demografiska utvecklingen. Sverige skiljer sig fr[n detta genom att det haft en gynnsam demografisk utveckling.
 
 Det finns ingen anledning att nå den amerikanska materiella levnadsstandarden. Sverige offrar materiellt för att uppnå högre livskvalitet, bortom krassa pengar. Dessutom ligger landet för geografiskt isolerat för att kunna svinga sig upp mycket.
 
-Men visst borde gapet minskas. Schweiz är både rikt och har hög livskvalitet. Bayern och Danmark likaså. De är ungeför lika stora som Sverige.
+Men visst borde gapet minskas. Schweiz är både rikt och har hög livskvalitet. Bayern, Lombardiet, Katalonien och Danmark likaså. De är ungeför lika stora som Sverige.
 
 Personligen sitter jag i Massachusetts och ser med förtvivlan på den svenska främlingsfientligheten. Den har bredit ut sig under det senaste decenniet och jag ser en tydlig blåbrun utveckling. Det är kanske en naturlig följd av massinvandringen och den följande brottsvågen, men det finns gränser i respektabel  politik. 
 
