@@ -1,9 +1,9 @@
 ---
-title: "After Spain Victory: The Final Scientific Evaluation of World Cup Performance by Country 2002–2026"
+title: "After Spain Gold: The Final Scientific Evaluation of World Cup Performance by Country 2002–2026"
 description: "How have countries performed at the World Cup this century? A composite score by country is created by applying the Zipf distribution."
 image: /assets/social-card-think.png
 ---
-# After Spain Victory: The Final Scientific Evaluation of World Cup Performance by Country 2002–2026
+# After Spain Gold: The Final Scientific Evaluation of World Cup Performance by Country 2002–2026
 *Dr. Staffan Canback, Tellusant*  
 
 **Updated  on July 19, 2026 with final results after Spain victory**
