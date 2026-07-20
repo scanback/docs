@@ -45,6 +45,7 @@ English football is not simply a sports industry. In many northern cities, it re
 <p align="center">
 <img  src="https://docs.tellusant.com/maps/assets/svg/tellusant-united-kingdom-middle-class-distribution-2025.svg" width="600" alt="English middle class distribution 2025">  
 </p>
+
 ---
 [A PDF version is found here.](assets/pdf/s.canback-english-football-affordability-by-city.pdf)  
 
