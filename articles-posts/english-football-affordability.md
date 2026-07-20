@@ -37,8 +37,14 @@ One crucial factor is historical path dependence: football began as a distinctly
 
 Football was — and still is — deeply embedded in the social fabric of northern England, where populations have long shown a willingness to devote significant economic resources to sustaining their clubs. Liverpool is the clearest example.  
 
-English football is not simply a sports industry. In many northern cities, it remains a disproportionately large economic and cultural commitment relative to local consumer resources.  
+English football is not simply a sports industry. In many northern cities, it remains a disproportionately large economic and cultural commitment relative to local consumer resources. 
 
+---
+**REFERENCE**  
+
+<p align="center">
+<img  src="https://docs.tellusant.com/maps/assets/svg/tellusant-united-kingdom-middle-class-distribution-2025.svg" width="600" alt="English middle class distribution 2025">  
+</p>
 ---
 [A PDF version is found here.](assets/pdf/s.canback-english-football-affordability-by-city.pdf)  
 
