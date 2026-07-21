@@ -3,7 +3,9 @@ title: "Sveriges geografiska inkomstskillnader"
 description: "Hur ser svenska geografiska inkomstskillnader ut? Här visar jag de svenska storstäderna och kommunerna."
 image: /assets/social-card-sverige.png
 ---
-# Sveriges geografiska inkomstskillnader
+# *Sveriges geografiska inkomstskillnader
+Staffan Canbäck, Tellusant*
+
 Hur ser svenska geografiska inkomstskillnader ut? Här visar jag de svenska storstäderna och kommunerna.
 
 Jag använder SCB:s storstadsdefinitioner. Storstockholm täcker 26 kommuner, Storgöteborg 13, Stormalmö 12.
@@ -31,7 +33,7 @@ Till sist, violingrafen nedan visar inkomstfördelningen efter inkomst per capit
 <img  src="assets/images/s.canback-sweden-kommun-income-vioplot.svg" width="500" alt="S.Canback - Swedish kommun income">
 </p>
 
-Källa: S.Canback analys; SCB
+Källa: S.Canbäck analys; SCB
 
 ---
 [Mer om Sverige och NB8](../sverige/index.md)
