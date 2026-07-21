@@ -1,12 +1,12 @@
 ---
 title: "Sveriges geografiska inkomstskillnader"
-description: "Hur ser svenska geografiska inkomstskillnader ut? Här visar jag de svenska storstäderna och kommunerna."
+description: "Hur ser de svenska geografiska inkomstskillnaderna ut? Här visar jag de svenska storstäderna och kommunerna."
 image: /assets/social-card-sverige.png
 ---
 # *Sveriges geografiska inkomstskillnader
 Staffan Canbäck, Tellusant*
 
-Hur ser svenska geografiska inkomstskillnader ut? Här visar jag de svenska storstäderna och kommunerna.
+Hur ser de svenska geografiska inkomstskillnaderna ut? Här visar jag de svenska storstäderna och kommunerna.
 
 Jag använder SCB:s storstadsdefinitioner. Storstockholm täcker 26 kommuner, Storgöteborg 13, Stormalmö 12.
 
