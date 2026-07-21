@@ -25,11 +25,13 @@ Inkomstskillnaden mellan rikast och fattigast är en faktor 1,5. Normalt för et
 
 Notera att det finns rika stadsdelar i alla städer. De råkar vara egna kommuner i våra storstäder. Det är därför bäst att slå ihop storstadskommunerna i de större storenheterna.
 
+Till sist, violingrafen nedan visar inkomstfördelningen efter inkomst per capita. Bredden motsvarar hur mång som bor i de kommuner som har denna inkomst per capita. Detta är baserad på en [*kernel density estimation*](https://en.wikipedia.org/wiki/Kernel_density_estimation). Grafen ger en snabb överblick och undviker onödiga detaljer.
+
 <p align="center">
 <img  src="assets/images/s.canback-sweden-kommun-income-vioplot.svg" width="500" alt="S.Canback - Swedish kommun income">
 </p>
 
-Källa: SCB
+Källa: S.Canback analys; SCB
 
 ---
 [Mer om Sverige och NB8](../sverige/index.md)
