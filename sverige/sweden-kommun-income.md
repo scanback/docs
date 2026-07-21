@@ -10,12 +10,12 @@ Jag använder SCB:s storstadsdefinitioner. Storstockholm täcker 26 kommuner, St
 
 Att storstäderna är rika är ingen överraskning. Men se på Norrbotten: förvånansvärt rikt. Kiruna är den femte rikaste kommunen, Gällivare den sjätte. Gruvor är viktiga.
 
-Några andra:
-Knivsta nr 1
-Storstockholm nr 2
-Storgöteborg nr 8
-Stormalmö nr 18
-Filipstad, Ljusnarsberg och Högsby ligger i botten
+Några andra:  
+- Knivsta nr 1  
+- Storstockholm nr 2  
+- Storgöteborg nr 8  
+- Stormalmö nr 18  
+Filipstad, Ljusnarsberg och Högsby ligger i botten  
 
 Inkomstskillnaden mellan rikast och fattigast är en faktor 1,5. Normalt för ett litet och rikt land.
 
