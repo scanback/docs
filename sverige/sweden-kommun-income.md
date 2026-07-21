@@ -1,19 +1,35 @@
 ---
-title: "The Emerging Significance of the Nordic-Baltic Eight"
-description: "The NB8 region is tightly integrated economically and politically and has a GDP almost of Italy's size."
-image: /assets/social-card-pub.png
+title: "Sveriges geografiska inkomstskillnader"
+description: "Hur ser svenska geografiska inkomstskillnader ut? Här visar jag de svenska storstäderna och kommunerna."
+image: /assets/social-card-sverige.png
 ---
-# The Emerging Significance of the Nordic-Baltic Eight
-The NB8 region is tightly integrated economically and politically and has a GDP almost of Italy's size. The total population is around 35 million and given the high standard of living, it ranks fourth in the Single Market (EU + 4) by GDP, ahead of Spain and just behind Italy at third.
+# Sveriges geografiska inkomstskillnader
+Hur ser svenska geografiska inkomstskillnader ut? Här visar jag de svenska storstäderna och kommunerna.
 
-It is tightly integrated economically. For example, the top countries Sweden exports to are, in terms of share of those countries' imports, the other seven NB8 countries.
+Jag använder SCB:s storstadsdefinitioner. Storstockholm täcker 26 kommuner, Storgöteborg 13, Stormalmö 12.
 
-It is therefore an important market for any company that wants to succeed in Europe. This is compounded by the fact that it is the most inventive region in Europe, as well as its people having a propensity to try new products and services. A European California in some sense. So non-NB8 CEOs and management teams, take notice when you develop strategies.
+Att storstäderna är rika är ingen överraskning. Men se på Norrbotten: förvånansvärt rikt. Kiruna är den femte rikaste kommunen, Gällivare den sjätte. Gruvor är viktiga.
 
-The map has totally comparable definitions and metrics between and within countries. Data are from our [TelluBase](https://tellubase.com) income distribution database.
+Några andra:
+Knivsta nr 1
+Storstockholm nr 2
+Storgöteborg nr 8
+Stormalmö nr 18
+Filipstad, Ljusnarsberg och Högsby ligger i botten
 
+Inkomstskillnaden mellan rikast och fattigast är en faktor 1,5. Normalt för ett litet och rikt land.
 
-#### <img  src="https://tellusant.github.io/docs/maps/assets/svg/tellusant-nordic-baltic-eight-nb8-middle-class-distribution-2025.svg" alt="Nordic-Baltic Eight (NB8) Middle Class Distribution in 2025">
+Notera att det finns rika stadsdelar i alla städer. De råkar vara egna kommuner i våra storstäder. Det är därför bäst att slå ihop storstadskommunerna i de större storenheterna.
+
+<p align="center">
+<img  src="assets/images/s.canback-sweden-kommun-lan-alt.svg" width="700" alt="S.Canback - Swedish kommun income">
+</p>
+
+<p align="center">
+<img  src="assets/images/s.canback-sweden-kommun-lan.svg" width="500" alt="S.Canback - Swedish kommun income">
+</p>
+
+Källa: SCB
 
 ---
 [Mer om Sverige och NB8](../sverige/index.md)
