@@ -9,7 +9,7 @@ Hur ser svenska geografiska inkomstskillnader ut? Här visar jag de svenska stor
 Jag använder SCB:s storstadsdefinitioner. Storstockholm täcker 26 kommuner, Storgöteborg 13, Stormalmö 12.
 
 <p align="center">
-<img  src="assets/images/s.canback-sweden-kommun-lan-alt.svg" width="700" alt="S.Canback - Swedish kommun income">
+<img  src="assets/images/s.canback-sweden-kommun-income-mao.svg" width="700" alt="S.Canback - Swedish kommun income">
 </p>
 
 Att storstäderna är rika är ingen överraskning. Men se på Norrbotten: förvånansvärt rikt. Kiruna är den femte rikaste kommunen, Gällivare den sjätte. Gruvor är viktiga.
