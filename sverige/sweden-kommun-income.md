@@ -3,8 +3,8 @@ title: "Sveriges geografiska inkomstskillnader"
 description: "Hur ser de svenska geografiska inkomstskillnaderna ut? Här visar jag de svenska storstäderna och kommunerna."
 image: /assets/social-card-sverige.png
 ---
-# *Sveriges geografiska inkomstskillnader
-Staffan Canbäck, Tellusant*
+# Sveriges geografiska inkomstskillnader
+*Staffan Canbäck, Tellusant*
 
 Hur ser de svenska geografiska inkomstskillnaderna ut? Här visar jag de svenska storstäderna och kommunerna.
 
