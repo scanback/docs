@@ -13,7 +13,7 @@ Artiklar och annat avsedda för svenskar och finlandssvenskar.
 ### [En komplex fråga: Den svenska levnadsstandarden jämfört med den amerikanska](sweden-living-standard.md)
 Man ser ofta ytliga jämförelser av den materiella levnadsstandarden i olika länder. Här går jag på djupet.  
 
-### [Sveriges geografiska inkomstskillnader](/sweden-kommun-income.md)
+### [Sveriges geografiska inkomstskillnader](sweden-kommun-income.md)
 Hur ser de svenska geografiska inkomstskillnaderna ut? Här visar jag de svenska storstäderna och kommunerna.
 
 ### [Affärsvärlden (2026): *Inget att fira: ”Hela landet måste skärpa sig – svenskar är lata”* ](https://www.affarsvarlden.se/artikel/inget-att-fira-hela-landet-maste-skarpa-sig)
