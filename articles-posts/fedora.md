@@ -4,7 +4,7 @@ description: "How can a previously manual workflow be automated with AI and othe
 image: /assets/social-card-think.png
 ---
 # Semantic Analysis Workflow: The Fedora Example
-How can a previously manual workflow be automated with AI and other components? I use our [Fed Beige Book analysis agent called Fedora](https://tellusant.github.io/docs/nowcasts-ongoing-analyses/beige-book.html) as a case study to show the new automated workflow in GPT. No human need to be involved in the process any more, except for the occasional quality control.  
+How can a previously manual workflow be automated with AI and other components? I use our [Fed Beige Book analysis agent called Fedora](https://tellusant.github.io/docs/nowcasts-ongoing-analyses/beige-book.html) as a case study to show the new automated workflow in GPT. No human needs to be involved in the process any more, except for the occasional quality control.  
 
 Just like the workflow is automated, the workflow graph generation is also automated using Mermaid v11.  
 
