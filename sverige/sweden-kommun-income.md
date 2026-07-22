@@ -1,12 +1,13 @@
 ---
 title: "Sveriges geografiska inkomstskillnader"
-description: "Hur ser svenska geografiska inkomstskillnader ut? Här visar jag de svenska storstäderna och kommunerna."
+description: "Hur ser de svenska geografiska inkomstskillnaderna ut? Här visar jag de svenska storstäderna och kommunerna."
 image: /assets/social-card-sverige.png
 ---
-# *Sveriges geografiska inkomstskillnader
-Staffan Canbäck, Tellusant*
+# Sveriges geografiska inkomstskillnader
 
-Hur ser svenska geografiska inkomstskillnader ut? Här visar jag de svenska storstäderna och kommunerna.
+*Dr Staffan Canbäck, Tellusant*
+
+Hur ser de svenska geografiska inkomstskillnaderna ut? Här visar jag de svenska storstäderna och kommunerna.
 
 Jag använder SCB:s storstadsdefinitioner. Storstockholm täcker 26 kommuner, Storgöteborg 13, Stormalmö 12.
 
@@ -20,7 +21,8 @@ Några andra:
 - Knivsta nr 1  
 - Storstockholm nr 2  
 - Storgöteborg nr 8  
-- Stormalmö nr 18  
+- Stormalmö nr 18
+
 Filipstad, Ljusnarsberg och Högsby ligger i botten  
 
 Inkomstskillnaden mellan rikast och fattigast är en faktor 1,5. Normalt för ett litet och rikt land.

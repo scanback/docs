@@ -10,8 +10,11 @@ Artiklar och annat avsedda för svenskar och finlandssvenskar.
 
 ## Nyare alster
 
-### [En komplex fråga: Den svenska levnadsstandarden jämfört med den amerikanska](sweden-living-standard.md)
-Man ser ofta ytliga jämförelser av den materiella levnadsstandarden i olika länder. Här går jag på djupet.
+### [En komplex fråga: Den svenska levnadsstandarden jämförd med den amerikanska](sweden-living-standard.md)
+Man ser ofta ytliga jämförelser av den materiella levnadsstandarden i olika länder. Här går jag på djupet.  
+
+### [Sveriges geografiska inkomstskillnader](sweden-kommun-income.md)
+Hur ser de svenska geografiska inkomstskillnaderna ut? Här visar jag de svenska storstäderna och kommunerna.
 
 ### [Affärsvärlden (2026): *Inget att fira: ”Hela landet måste skärpa sig – svenskar är lata”* ](https://www.affarsvarlden.se/artikel/inget-att-fira-hela-landet-maste-skarpa-sig)
 Jag intervjuades av Affärsvärlden för denna nationaldagsartikel. Den bygger vidare på min [Uselt så det förslår](sweden-growth.md) analys nedan.
