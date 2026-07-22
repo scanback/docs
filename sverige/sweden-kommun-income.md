@@ -27,7 +27,7 @@ Filipstad, Ljusnarsberg och Högsby ligger i botten
 
 Inkomstskillnaden mellan rikast och fattigast är en faktor 1,5. Normalt för ett litet och rikt land.
 
-Notera att det finns rika stadsdelar i alla städer. De råkar vara egna kommuner i våra storstäder. Det är därför bäst att slå ihop storstadskommunerna i de större storenheterna.
+Notera att det finns rika stadsdelar i alla städer. De råkar vara egna kommuner i våra storstäder. Det är därför bäst att slå ihop storstadskommunerna i storenheter.
 
 Till sist, violingrafen nedan visar inkomstfördelningen efter inkomst per capita. Bredden motsvarar hur mång som bor i de kommuner som har denna inkomst per capita. Detta är baserad på en [*kernel density estimation*](https://en.wikipedia.org/wiki/Kernel_density_estimation). Grafen ger en snabb överblick och undviker onödiga detaljer.
 
