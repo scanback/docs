@@ -37,7 +37,7 @@ Ett annat s]tt att se p[ samma data syns nedan. Violingrafen visar inkomstförde
 
 Jag hade tänkt inkludera en graf med en Lorenzkurva. Den visar jämlikheten i ett land och utgör grunden för att beräkna Gini-koefficienten.
 
-Sverige är dock så jämlikt från ett spatialt perspektiv att grafen blev meningslös. Spatial Gini är exceptionellt låga 0.06.
+Sverige är dock så jämlikt från ett spatialt perspektiv att grafen blev meningslös. Spatial Gini är exceptionellt låga 0.06. 0 är perfekt jämlikhet, 1 är när en person tjänar alla pengar.
 
 Sveriges totala Gini är omkring 0.35. Detta visar att ojåmlikhet i Sverige är stor inom kommuner, men inte mellan kommuner. De flesta länder har både spatial och intern ojåmlikhet.
 
