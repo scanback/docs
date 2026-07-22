@@ -12,7 +12,7 @@ Hur ser de svenska geografiska inkomstskillnaderna ut? Här visar jag de svenska
 Jag använder SCB:s storstadsdefinitioner. Storstockholm täcker 26 kommuner, Storgöteborg 13, Stormalmö 12.
 
 <p align="center">
-<img  src="assets/images/s.canback-sweden-kommun-income-map.svg" width="700" alt="S.Canback - Swedish kommun income">
+<img  src="assets/images/kommun-income/s.canback-sweden-kommun-income-map.svg" width="700" alt="S.Canback - Swedish kommun income">
 </p>
 
 Att storstäderna är rika är ingen överraskning. Men se på Norrbotten: förvånansvärt rikt. Kiruna är den femte rikaste kommunen, Gällivare den sjätte. Gruvor är viktiga.
@@ -32,7 +32,7 @@ Notera att det finns rika stadsdelar i alla städer. De råkar vara egna kommune
 Till sist, violingrafen nedan visar inkomstfördelningen efter inkomst per capita. Bredden motsvarar hur mång som bor i de kommuner som har denna inkomst per capita. Detta är baserad på en [*kernel density estimation*](https://en.wikipedia.org/wiki/Kernel_density_estimation). Grafen ger en snabb överblick och undviker onödiga detaljer.
 
 <p align="center">
-<img  src="assets/images/s.canback-sweden-kommun-income-vioplot.svg" width="500" alt="S.Canback - Swedish kommun income">
+<img  src="assets/images/kommun-income/s.canback-sweden-kommun-income-vioplot.svg" width="500" alt="S.Canback - Swedish kommun income">
 </p>
 
 Källa: S.Canbäck analys; SCB
