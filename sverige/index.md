@@ -10,7 +10,7 @@ Artiklar och annat avsedda för svenskar och finlandssvenskar.
 
 ## Nyare alster
 
-### [En komplex fråga: Den svenska levnadsstandarden jämfört med den amerikanska](sweden-living-standard.md)
+### [En komplex fråga: Den svenska levnadsstandarden jämförd med den amerikanska](sweden-living-standard.md)
 Man ser ofta ytliga jämförelser av den materiella levnadsstandarden i olika länder. Här går jag på djupet.  
 
 ### [Sveriges geografiska inkomstskillnader](sweden-kommun-income.md)
