@@ -21,7 +21,8 @@ Några andra:
 - Knivsta nr 1  
 - Storstockholm nr 2  
 - Storgöteborg nr 8  
-- Stormalmö nr 18  
+- Stormalmö nr 18
+
 Filipstad, Ljusnarsberg och Högsby ligger i botten  
 
 Inkomstskillnaden mellan rikast och fattigast är en faktor 1,5. Normalt för ett litet och rikt land.
