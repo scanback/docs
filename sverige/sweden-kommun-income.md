@@ -29,7 +29,7 @@ Filipstad, Ljusnarsberg och Högsby ligger i botten
 
 Notera att det finns rika stadsdelar i alla städer. De råkar vara egna kommuner i våra storstäder. Det är därför bäst att slå ihop storstadskommunerna i storenheter.
 
-Ett annat s]tt att se p[ samma data syns nedan. Violingrafen visar inkomstfördelningen efter inkomst per capita. Bredden motsvarar hur många som bor i de kommuner som har denna inkomst per capita. Detta är baserad på en [*kernel density estimation*](https://en.wikipedia.org/wiki/Kernel_density_estimation). Grafen ger en snabb överblick och undviker onödiga detaljer.
+Ett annat sätt att se på samma data syns nedan. Violingrafen visar inkomstfördelningen efter inkomst per capita. Bredden motsvarar hur många som bor i de kommuner som har denna inkomst per capita. Detta är baserad på en [*kernel density estimation*](https://en.wikipedia.org/wiki/Kernel_density_estimation). Grafen ger en snabb överblick och undviker onödiga detaljer.
 
 <p align="center">
 <img  src="assets/images/kommun-income/s.canback-sweden-kommun-income-vioplot.svg" width="500" alt="S.Canback - Swedish kommun income">
