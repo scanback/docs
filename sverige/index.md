@@ -60,3 +60,6 @@ Distributionen är nyckeln till framgång på morgondagens marknad. Men dagens d
 
 ### [Försäkringstidningen (1990): *Att vinna med teknologi (del 3 av Försäkring på 90-talet)*](försäkringstidningen-3.pdf)
 Informationsteknologi kostar mer än någonsin, betyder mer än någonsin och berör varje funktion, aktivitet och arbetsmoment inom försäkringsbranschen. [🇪🇳](försäkringstidningen-3-en.pdf)
+
+### [Staffan Canbäck (1979): *Examensarbete i elektrisk effektomvanding: Studium av övertonsförluster hos en asynkronmaskin seriekopplad med en serieinduktor*. Kungliga tekniska högskolan, Sektionen för elektroteknik](s.canback-masters-thesis.pdf)
+Mitt examensarbete för Civ.ing. på KTH Elektroteknik återfinns här. Dess relevans idag ]r att det förklarar varför Tellusant kan vara så matematiskt avancerat. Jag och mina kollegor har det i blodet.
