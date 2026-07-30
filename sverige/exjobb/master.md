@@ -1,4 +1,4 @@
-
+<!-- Original sida 1 -->
 # Examensarbete i elektrisk effektomvandling
 
 ## Studie av övertonsförluster hos en asynkronmaskin seriekopplad med en serieinduktor
@@ -12,7 +12,6 @@
 **Status:** Godkänt
 
 ---
-
 ## Sammanfattning
 
 Examensarbetet har utförts vid Högeffektlaboratoriet vid Centrala utvecklingsavdelningen, ASEA, Västerås. Handledare var Tom Porteous.
@@ -26,11 +25,7 @@ Examensarbetet visar att när motorutrymmet inte är begränsat finns det, ur f�
 När motorutrymmet däremot är begränsat visar resultaten att en serieinduktor med fördel kan användas upp till en för varje induktor specifik gränsfrekvens, för att reducera nedstämplingen av momentet. När denna gränsfrekvens överskrids bör induktorn kopplas ur. Därmed minimeras nedstämplingen vid höga frekvenser, men momentpulsationerna ökar.
 
 ---
-2
----
-# Examensarbete i elektrisk effektomvandling
-
-## 01 - Huvudtext
+<!-- Original sida 2 saknas-->
 
 > **Rekonstruktion, pass 1.** Denna fil omfattar originalets sidor 3-8. Texten har transkriberats från den skannade kopian och radbrytningar samt avstavningar har normaliserats. Figurerna har utelämnats och ersatts med korta platshållare. Formlerna har satts om i LaTeX. Avsnitt 2.6 fortsätter i nästa del.
 
