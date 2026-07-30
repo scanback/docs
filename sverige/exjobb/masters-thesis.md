@@ -27,7 +27,47 @@ När motorutrymmet däremot är begränsat visar resultaten att en serieinduktor
 
 ---
 
-<!-- Sida 2 saknas-->
+<!-- Sida 2 -->
+
+## Innehållsförteckning
+
+### 1. Inledning  
+#### 1.1 Allmänt
+#### 1.2 Matning
+#### 1.3 Nackdelar med PWM-matning
+#### 1.4 Åtgärder
+#### 1.5 Metoder
+
+### 2. Järnförluster
+#### 2.1 Allmänt
+#### 2.2 Svårigheter vid analytisk bestämning av järnförluster
+#### 2.3 Metod
+#### 2.4 Tomgång utan serieinduktor
+#### 2.5 Tomgång med serieinduktor
+#### 2.6 Analys
+
+### 3. Motorn under belastning
+#### 3.1 Allmänt
+#### 3.2 Belastning utan serieinduktor
+#### 3.3 Förlusternas induktansberoende
+#### 3.4 Förlusternas frekvensberoende
+#### 3.5 Momentpulsationer
+#### 3.6 Viktberäkning
+
+### 4. Diskussion
+#### 4.1 Procedurens möjligheter och begränsningar
+#### 4.2 Induktorns storlek vid fritt motorutrymme
+#### 4.3 Induktorns storlek vid begränsat motorutrymme
+#### 4.4 Litteraturförteckning
+
+### Bilagor
+1. Diagram
+2. Matningsspänningens utseende och fourieranalys
+3. Beräkningsmodell
+4. Programbeskrivning PWMIND
+5. Beräkning av induktorstorlek
+6. Typdata
+7. Variabelförteckning
 
 > **Rekonstruktion, pass 1.** Denna fil omfattar originalets sidor 3-8. Texten har transkriberats från den skannade kopian och radbrytningar samt avstavningar har normaliserats. Figurerna har utelämnats och ersatts med korta platshållare. Formlerna har satts om i LaTeX. Avsnitt 2.6 fortsätter i nästa del.
 
