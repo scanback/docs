@@ -1,7 +1,8 @@
 <!-- Original sida 1 -->
-# Examensarbete i elektrisk effektomvandling
 
-## Studie av övertonsförluster hos en asynkronmaskin seriekopplad med en serieinduktor
+# EXAMENSARBETE I ELEKTRISK EFFEKTOMVANDLING  
+
+## Studie av övertonsförluster hos en asynkronmaskin seriekopplad med en serieinduktor  
 
 **Utfört av:** Staffan Canback
 
