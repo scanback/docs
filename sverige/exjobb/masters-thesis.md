@@ -1169,7 +1169,9 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 > originalet i en senare passering. Svenska texter i `PRINT`-satser har
 > återställts med å, ä och ö där de är tydliga.
 
-## Bilaga 4.6 — Sida 38
+## Bilaga 4.6
+
+<!-- Sida 38 -->
 
 ```fortran
 0100C     PROGRAM FÖR MASKINBERÄKNING MED PWM REFERENS-
@@ -1237,7 +1239,9 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 0690      READ,FFI
 ```
 
-## Bilaga 4.7 — Sida 39
+## Bilaga 4.7
+
+<!-- Original sida 39 -->
 
 ```fortran
 0700      PRINT,"GE MINSTA AMPLITUD SOM SKALL ADDERAS"
@@ -1303,7 +1307,9 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 1290  411 CONTINUE
 ```
 
-## Bilaga 4.8 — original sida 40
+## Bilaga 4.8
+
+<!-- Sida 40 -->
 
 ```fortran
 1300      PRINT,"ÖNSKAS NY FOURIER-ANALYS ? 1=JA"
@@ -1387,7 +1393,9 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 1890  550 FORMAT(1X,T10,F10.3,"*COS(",I2,"*WT) +",
 ```
 
-## Bilaga 4.9 — original sida 41
+## Bilaga 4.9
+
+<!-- Original sida 41 -->
 
 ```fortran
 1900     &      I2,"*WT) + ",F10.3,"*SIN(",I2,"*WT) +")
@@ -1471,7 +1479,9 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 > Originalets radnumrering hoppar från 4870 till 5650; inga mellanliggande
 > programrader finns på de avbildade sidorna.
 
-## Bilaga 4.10 — original sida 42
+## Bilaga 4.10
+
+<!-- Original sida 42 -->
 
 ```fortran
 2500      DO 620 I=1,4
