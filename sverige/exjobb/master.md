@@ -194,15 +194,6 @@ Tas skillnaden mellan totala järnförlusten och grundtonsjärnförlusten (sinus
 
 ---
 
-*Avsnitt 2.6 fortsätter på originalets sida 9.*
-
----
-3
----
-# Examensarbete i elektrisk effektomvandling
-
-## 01b - Huvudtext, fortsättning
-
 > **Rekonstruktion, pass 1.** Denna fil omfattar originalets sidor 9-15 och avslutar huvudtexten. Den ansluter till `01-main-text.md`. Texten har transkriberats från den skannade kopian och radbrytningar samt avstavningar har normaliserats. Figur 4 har utelämnats och ersatts med en kort platshållare. Formlerna har satts om i LaTeX.
 
 <!-- Original sida 9 -->
