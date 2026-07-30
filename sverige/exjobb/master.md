@@ -1,3 +1,7 @@
+---
+1
+
+---
 # Examensarbete i elektrisk effektomvandling
 
 ## Studie av övertonsförluster hos en asynkronmaskin seriekopplad med en serieinduktor
@@ -24,6 +28,8 @@ Examensarbetet visar att när motorutrymmet inte är begränsat finns det, ur f�
 
 När motorutrymmet däremot är begränsat visar resultaten att en serieinduktor med fördel kan användas upp till en för varje induktor specifik gränsfrekvens, för att reducera nedstämplingen av momentet. När denna gränsfrekvens överskrids bör induktorn kopplas ur. Därmed minimeras nedstämplingen vid höga frekvenser, men momentpulsationerna ökar.
 
+---
+2
 ---
 # Examensarbete i elektrisk effektomvandling
 
@@ -198,6 +204,8 @@ Tas skillnaden mellan totala järnförlusten och grundtonsjärnförlusten (sinus
 
 *Avsnitt 2.6 fortsätter på originalets sida 9.*
 
+---
+3
 ---
 # Examensarbete i elektrisk effektomvandling
 
@@ -396,6 +404,10 @@ T. Porteous, *Programbeskrivningar till PWMOT och RESIST*.
 ---
 
 *Huvudtexten avslutas här. Bilaga 1 består huvudsakligen av diagram och har utelämnats enligt projektets upplägg. Nästa textavsnitt är bilaga 2, mätningens utseende och Fourieranalys.*
+
+---
+3
+---
 
 # Bilaga 2. Matningsspänningens utseende och Fourieranalys
 
