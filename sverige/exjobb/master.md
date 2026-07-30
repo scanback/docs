@@ -1,7 +1,4 @@
----
-1
 
----
 # Examensarbete i elektrisk effektomvandling
 
 ## Studie av övertonsförluster hos en asynkronmaskin seriekopplad med en serieinduktor
