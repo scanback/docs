@@ -1,4 +1,4 @@
-<!-- Original sida 1 -->
+<!-- Sida 1 -->
 
 # EXAMENSARBETE I ELEKTRISK EFFEKTOMVANDLING  
 
@@ -26,11 +26,12 @@ Examensarbetet visar att när motorutrymmet inte är begränsat finns det, ur f�
 När motorutrymmet däremot är begränsat visar resultaten att en serieinduktor med fördel kan användas upp till en för varje induktor specifik gränsfrekvens, för att reducera nedstämplingen av momentet. När denna gränsfrekvens överskrids bör induktorn kopplas ur. Därmed minimeras nedstämplingen vid höga frekvenser, men momentpulsationerna ökar.
 
 ---
-<!-- Original sida 2 saknas-->
+
+<!-- Sida 2 saknas-->
 
 > **Rekonstruktion, pass 1.** Denna fil omfattar originalets sidor 3-8. Texten har transkriberats från den skannade kopian och radbrytningar samt avstavningar har normaliserats. Figurerna har utelämnats och ersatts med korta platshållare. Formlerna har satts om i LaTeX. Avsnitt 2.6 fortsätter i nästa del.
 
-<!-- Original sida 3 -->
+<!-- Sida 3 -->
 
 # 1. Inledning
 
@@ -46,7 +47,7 @@ För att kunna mata en asynkronmotor med variabel frekvens kan omriktare av spä
 
 Denna likriktar växelspänningen från nätet till en konstant mellanledsspänning \(U_d\) (figur 1). En växelspänning erhålls sedan genom att mellanledsspänningen hackas upp i tyristorbryggan och multipliceras med en modulationsspänning för att få variabel frekvens och amplitud (se bilaga 2).
 
-<!-- Original sida 4 -->
+<!-- Sida 4 -->
 
 Vid låga frekvenser görs upphackningen på ett sådant sätt att övertonsfördelningen ändras och femte och sjunde övertonen undertrycks, vilket har vissa fördelar ur driftsynpunkt (se punkt 3). Referens- och modulationsspänningen kan därför få ett utseende enligt figur 2.
 
@@ -64,7 +65,7 @@ Omriktarsteget levererar en i stort sett fyrkantig spänning till motorn. Detta 
 
 Ett annat problem är att den rika övertonshalten ger upphov till oönskade momentpulsationer kring belastningsmomentet, vilka särskilt vid låga frekvenser kan vara betydande. Momentpulsationerna kan vid t ex traktionsdrift ge upphov till slirning vid start.
 
-<!-- Original sida 5 -->
+<!-- Sida 5 -->
 
 De kan även skapa negativa moment som via motorn överförs till mekaniska kopplingar i systemet. De mekaniska påfrestningarna blir då stora, vilket betraktas som mycket allvarligt.
 
@@ -84,7 +85,7 @@ Dessa teorier är sammanställda i datorprogrammet PWMIND (pulsviddsmodulation m
 
 Allt detta sammantaget och tillämpat på en ASEA standardmotor (MBK 280 S-6, nr 7125 824) med forcerad kylning, tillsammans med en serieinduktor, har sedan legat till grund för en värdering och bedömning av vilken induktor som av elektriska, mekaniska och fysiska skäl, kan anses vara den, om än ej optimala, så ändå bästa lösningen på problemet. Dessa slutsatser dras för ifrågavarande standardmotor, men kan även tillämpas på andra kombinationer av motor och induktor.
 
-<!-- Original sida 6 -->
+<!-- Sida 6 -->
 
 # 2. Järnförluster
 
@@ -121,7 +122,7 @@ En alternativ metod är att mäta upp de tomgångsförluster som uppstår för o
 
 De totala förlusterna (järn + koppar) har mätts upp på en ASEA standardmotor MBK 280 S-6 med forcerad kylning vid både PWM- och sinusmatning. Från totalförlusterna har sedan de ur datorprogrammet PWMIND beräknade kopparförlusterna dragits, vilket ger de resterande järnförlusterna. I bilaga 1.1 har dels de totala förlusterna vid PWM-matning i tomgång, dels de framräknade järnförlusterna vid PWM- och sinusmatning, förts in som funktion av frekvensen. Den streckade linjen för PWM-järnförlusterna får ses som en trend. Vid dessa mätningar och beräkningar har grundtonens flöde varit detsamma vid PWM- och sinusdrift.
 
-<!-- Original sida 7 -->
+<!-- Sida 7 -->
 
 Total- och PWM-järnförlusternas våldsamma språng beror på de växlar som lagts in vid tio frekvenser (se inledning och bilaga 6) för att minska förlusterna. Att kopparförlusterna vid tomgång är så stora som nästan femtio procent av totalförlusten vid PWM-matning beror på extraförluster från övertonerna. Detta gör att man inte kan betrakta tomgångsförluster som järnförluster.
 
@@ -139,7 +140,7 @@ Det visar sig att kopparförlusternas andel i de totala tomgångsförlusterna mi
 
 Att analytiskt ta fram järnförlusterna är alltså svårt, men man kan inskränka sig till att ur kurvan utan serieinduktor (bilaga 1.1) försöka ta fram kurvorna med induktor (bilaga 1.2-1.3). Om man studerar det ekvivalenta schemat för de olika tonerna, så finner man att i tomgång är eftersläpningen ungefär noll för grundtonen.
 
-<!-- Original sida 8 -->
+<!-- Sida 8 -->
 
 Detta medför att rotorresistansen blir mycket stor och den enda grundtonsström som flyter är magnetiseringsströmmen. Om statorresistansen försummas blir grundtonsströmmen på statorsidan:
 
@@ -197,7 +198,7 @@ Tas skillnaden mellan totala järnförlusten och grundtonsjärnförlusten (sinus
 
 > **Rekonstruktion, pass 1.** Denna fil omfattar originalets sidor 9-15 och avslutar huvudtexten. Den ansluter till `01-main-text.md`. Texten har transkriberats från den skannade kopian och radbrytningar samt avstavningar har normaliserats. Figur 4 har utelämnats och ersatts med en kort platshållare. Formlerna har satts om i LaTeX.
 
-<!-- Original sida 9 -->
+<!-- Sida 9 -->
 
 # 3. Motorn under belastning
 
@@ -211,7 +212,7 @@ Vid belastning blir inte spänningsfallet över induktorn försumbart (eftersom 
 
 > **Figur 4.** Ekvivalent schema för induktor och motor under belastning. Originalfiguren är utelämnad.
 
-<!-- Original sida 10 -->
+<!-- Sida 10 -->
 
 ## 3.2 Belastning utan serieinduktor
 
@@ -251,7 +252,7 @@ Man kan alltså notera att nedstämplingen kan variera mellan ca 8 och 14 % vid 
 
 För att studera hur induktorn påverkar förlusterna vid en given frekvens har bilaga 1.5 framtagits. Här har belastningsmomentet varit 700 Nm och frekvensen 30 Hz. I figuren finns dels kopparförlusterna vid belastning, uppdelade i grundtonsförlust (\(P_{cu1}\)) och övertonsförluster (\(P_{cu\ddot{o}}\)), dels matningsspänningen \(V_1\) som funktion av frekvensen.
 
-<!-- Original sida 11 -->
+<!-- Sida 11 -->
 
 På samma sätt som för järnförlusterna kan man uttrycka
 
@@ -284,7 +285,7 @@ Detta medför i sin tur att matningsspänningen måste höjas för att kompenser
 
 Effekten av detta kan studeras i bilaga 1.6 och 1.7. Om ingen induktor finns i kretsen, uppstår inte problemet och kurvan ser ut som för \(L=0\). Samma konvexa utseende skulle också de andra kurvorna få om det inte vore för det ovan nämnda spänningstaket. För till exempel 1 mH (0,22 pu) kurvan ger sig detta tillkänna vid ungefär 44 Hz. Över denna frekvens stiger förlusterna starkt på grund av den ökade strömmen (upp till denna frekvens har konstant flöde medfört i stort sett konstant ström, \(s\sim 1/f\)). Ännu mer markant är detta i 2 mH 0,43 pu-fallet. Spänningsfallet blir då så stort över induktorn att det inte går att ta ut 700 Nm vid höga frekvenser. På grund av detta ter det sig lämpligt att vid en gränsfrekvens, som bestäms av att totalförlusterna med och utan induktor blir lika stora, koppla förbi induktorn. För frekvenser större än den specifika gränsfrekvensen följer förlusterna sedan kurvan för \(L=0\).
 
-<!-- Original sida 12 -->
+<!-- Sida 12 -->
 
 Om man gör på det sättet och beräknar den erforderliga nedstämplingen ur förlusterna, så erhålls bilaga 1.7. Den visar att en stor induktans minskar nedstämplingen vid låga frekvenser, men att svinget i nedstämpling blir stort. En liten induktor ger i stället en jämnare nedstämplingskurva.
 
@@ -313,11 +314,11 @@ En viktberäkning kan vara av intresse för att utröna om man kan finna en mini
 
 För varje specifik induktans beräknas en motorvikt och en induktorvikt. Motorvikten fås ur MBK 280 S-6S data. Vikten som funktion av längden hos de aktiva rotor- och statordelarna bestäms ur data i bilaga 6. Därefter antas att längden hos de aktiva delarna är direkt proportionell mot förlusteffekten. Induktorvikten som funktion av induktansen fås ur bilaga 5 i vilken en luftkyld induktor har optimerats.
 
-<!-- Original sida 13 -->
+<!-- Sida 13 -->
 
 Vikterna har införts i bilaga 1.10. Ur den kan man utläsa att det viktminimum som finns är mycket flackt, den besparing man gör i motorstorlek förloras i induktorvikt. Detta tar dock ej hänsyn till vinsterna i momentpulsationer eller hur mycket utrymme som finns tillgängligt.
 
-<!-- Original sida 14 -->
+<!-- Sida 14 -->
 
 # 4. Diskussion
 
@@ -357,7 +358,7 @@ $$
 X_1+X_2\approx X_k.
 $$
 
-<!-- Original sida 15 -->
+<!-- Sida 15 -->
 
 En reduktion av övertonsförlusterna jämfört med förlusterna utan induktor till en fjärdedel kräver alltså en induktor \(L=L_k\). Denna ger också en halvering av momentpulsationerna
 
@@ -1105,7 +1106,7 @@ För serieinduktorn behövs:
 | `R` | Induktorresistans | $\Omega/\text{fas}$ |
 | `L` | Induktorinduktans | H/fas |
 
-<!-- Original: Bilaga 4.4, PDF-sida 36 -->
+<!-- Sida 36 -->
 
 ## 5. Utmatning
 
@@ -1242,7 +1243,7 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 
 ## Bilaga 4.7
 
-<!-- Original sida 39 -->
+<!-- Sida 39 -->
 
 ```fortran
 0700      PRINT,"GE MINSTA AMPLITUD SOM SKALL ADDERAS"
@@ -1396,7 +1397,7 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 
 ## Bilaga 4.9
 
-<!-- Original sida 41 -->
+<!-- Sida 41 -->
 
 ```fortran
 1900     &      I2,"*WT) + ",F10.3,"*SIN(",I2,"*WT) +")
@@ -1482,7 +1483,7 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 
 ## Bilaga 4.10
 
-<!-- Original sida 42 -->
+<!-- Sida 42 -->
 
 ```fortran
 2500      DO 620 I=1,4
@@ -1816,7 +1817,7 @@ REAL-deklarationen på rad 5670.
 > satts i LaTeX. Några av de minsta koefficienterna är svårlästa och bör
 > kontrolleras mot originalet i pass 2.
 
-<!-- Original: Bilaga 4.15, PDF-sida 47 -->
+<!-- Sida 47 -->
 
 ## 1. Indata och inledande iterationer
 
@@ -1921,7 +1922,7 @@ u_q(t)
 +\cdots
 $$
 
-<!-- Original: Bilaga 4.16, PDF-sida 48 -->
+<!-- Sida 48 -->
 
 ## 2. Resultat efter konstantflödesiteration
 
@@ -2023,7 +2024,7 @@ u_q(t) ={}&
 \end{aligned}
 $$
 
-<!-- Original: Bilaga 4.17, PDF-sida 49 -->
+<!-- Sida 49 -->
 
 ## 5. Kopparförluster och rotorresistanser
 
@@ -2102,7 +2103,7 @@ AMPLITUD  : -0.1188E 03 NM
 Detta motsvarar ungefär ett medelmoment på $703.4\ \mathrm{Nm}$, med avvikelser
 uppåt och nedåt på cirka $146.5\ \mathrm{Nm}$ respektive $-118.8\ \mathrm{Nm}$.
 
-<!-- Original: Bilaga 4.18, PDF-sida 50 -->
+<!-- Sida 50 -->
 
 ## 8. Tabell över moment, spänning och ström
 
