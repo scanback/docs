@@ -389,12 +389,10 @@ T. Porteous, *Programbeskrivningar till PWMOT och RESIST*.
 *Huvudtexten avslutas här. Bilaga 1 består huvudsakligen av diagram och har utelämnats enligt projektets upplägg. Nästa textavsnitt är bilaga 2, mätningens utseende och Fourieranalys.*
 
 ---
-3
----
 
 # Bilaga 2. Matningsspänningens utseende och Fourieranalys
 
-<!-- Original: Bilaga 2.1, PDF-sida 26 -->
+<!-- Sida 26 -->
 
 ## 1. Kurvform
 
@@ -428,7 +426,7 @@ R_n
 \end{aligned}
 $$
 
-<!-- Original: Bilaga 2.2, PDF-sida 27 -->
+<!-- Sida 27 -->
 
 Det vill säga
 
@@ -523,9 +521,7 @@ $$
 ---
 # Bilaga 3. Beräkningsmodellen
 
-> **Rekonstruktion, pass 1.** Denna fil omfattar originalets bilaga 3.1–3.5 (PDF-sidorna 28–32). Texten har transkriberats från den skannade kopian. Figur 1 har utelämnats och ersatts med en kort platshållare. De handskrivna formlerna har satts om i LaTeX.
-
-<!-- Original: Bilaga 3.1, PDF-sida 28 -->
+<!-- Sida 28 -->
 
 ## 1. Förutsättningar
 
@@ -563,7 +559,7 @@ $$
 
 ger följande uttryck på statorsidan:
 
-<!-- Original: Bilaga 3.2, PDF-sida 29 -->
+<!-- Sida 29 -->
 
 $$
 U_{d1}
@@ -667,7 +663,7 @@ om man använder samma dq-transformation.
 
 För att förenkla räknearbetet kan det vara lämpligt att överföra rotorstorheterna till statorns referensram. Man får då:
 
-<!-- Original: Bilaga 3.3, PDF-sida 30 -->
+<!-- Sida 30 -->
 
 $$
 U'_{d2}
@@ -774,7 +770,7 @@ $$
 
 där $a$ är antalet faser och $P$ antalet poler.
 
-<!-- Original: Bilaga 3.4, PDF-sida 31 -->
+<!-- Sida 31 -->
 
 ## 3. Fourieranalys
 
@@ -906,7 +902,7 @@ $$
 \gamma_{kd1}^{+e}\sin((k-1)\omega_e t),
 $$
 
-<!-- Original: Bilaga 3.5, PDF-sida 32 -->
+<!-- Sida 32 -->
 
 $$
 \gamma_{d2}^{+ke}
@@ -1019,7 +1015,7 @@ löses. Dessa ger sedan på sedvanligt sätt förluster och moment ur det vanlig
 
 > **Rekonstruktion, pass 1.** Denna fil omfattar originalets bilaga 4.1–4.5 (PDF-sidorna 33–37). Texten har transkriberats från den skannade kopian. Kretsbilden och ritningen av rotorspåret har utelämnats och ersatts med korta platshållare. Programlistan och körexemplen, som utgör punkterna 9 och 10 i originalets innehållsförteckning, behandlas i separata filer.
 
-<!-- Original: Bilaga 4.1, PDF-sida 33 -->
+<!-- Sida 33 -->
 
 ## Innehållsförteckning
 
@@ -1034,7 +1030,7 @@ löses. Dessa ger sedan på sedvanligt sätt förluster och moment ur det vanlig
 9. Programlista
 10. Körexempel
 
-<!-- Original: Bilaga 4.2, PDF-sida 34 -->
+<!-- Sida 34 -->
 
 ## 1. Allmänt
 
@@ -1065,7 +1061,7 @@ Till att börja med begärs indata för spänningen:
 
 Alternativt kan koefficienterna för vissa deltoner erhållas genom en kontinuerlig fourierutveckling (`IS`, `NRWANT(I)`).
 
-<!-- Original: Bilaga 4.3, PDF-sida 35 -->
+<!-- Sida 35 -->
 
 Om **konstant flöde** önskas, se under denna rubrik.
 
@@ -1140,7 +1136,7 @@ För att med ett givet moment kunna ta fram tillräcklig eftersläpning har en i
 
 > **Varning.** Eftersom slingorna griper in i varandra bör man se upp. Görs till exempel en konstantflödesiteration är det olämpligt att samtidigt gå in i s-iterationsslingan.
 
-<!-- Original: Bilaga 4.5, PDF-sida 37 -->
+<!--Sida 37 -->
 
 ## 8. Körinstruktioner
 
@@ -1173,7 +1169,7 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 > originalet i en senare passering. Svenska texter i `PRINT`-satser har
 > återställts med å, ä och ö där de är tydliga.
 
-## Bilaga 4.6 — original sida 38
+## Bilaga 4.6 — Sida 38
 
 ```fortran
 0100C     PROGRAM FÖR MASKINBERÄKNING MED PWM REFERENS-
@@ -1241,7 +1237,7 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 0690      READ,FFI
 ```
 
-## Bilaga 4.7 — original sida 39
+## Bilaga 4.7 — Sida 39
 
 ```fortran
 0700      PRINT,"GE MINSTA AMPLITUD SOM SKALL ADDERAS"
