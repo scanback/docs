@@ -1,3 +1,5 @@
+`My thesis work ended in 1979, and I had further experiences in related fields in 1980-81. I then went to HBS and lost track. Want happened after my thesis?`
+
 # The Evolution of EV Asynchronous Drive Technology
 
 This document summarizes the technological shift in Electric Vehicle (EV) asynchronous (induction) drive systems from 1979 to the present day, tracking how the industry eliminated physical inductive filtering in favor of silicon and software.
