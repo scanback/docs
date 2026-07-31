@@ -228,8 +228,8 @@ $$
 Om övertonernas järnförluster kan anses vara proportionella mot övertonsspänningarnas kvadrat bör alltså nedanstående gälla:
   
 $$
-P_ö(X) =
-P_ö(X=0)
+P_{feö}(X) =
+P_{feö}(X=0)
 \frac{(X_1+X_2)^2}{(X_1+X_2+X)^2}.
 $$
 
