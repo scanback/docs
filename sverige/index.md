@@ -62,4 +62,4 @@ Distributionen är nyckeln till framgång på morgondagens marknad. Men dagens d
 Informationsteknologi kostar mer än någonsin, betyder mer än någonsin och berör varje funktion, aktivitet och arbetsmoment inom försäkringsbranschen. [🇪🇳](försäkringstidningen-3-en.pdf)
 
 ### [Staffan Canbäck (1979): *Examensarbete i elektrisk effektomvanding: Studium av övertonsförluster hos en asynkronmaskin seriekopplad med en serieinduktor*. Kungliga tekniska högskolan, Sektionen för elektroteknik](s.canback-masters-thesis.pdf)
-Mitt examensarbete för Civ.ing. på KTH Elektroteknik återfinns här. Dess relevans idag ]r att det förklarar varför Tellusant kan vara så matematiskt avancerat. Jag och mina kollegor har det i blodet.
+Mitt examensarbete för Civ.ing. på KTH Elektroteknik återfinns här. Dess relevans idag är att det förklarar varför Tellusant kan vara så matematiskt avancerat. Jag och mina kollegor har det i blodet. [En preliminär *markdown* version finns här.](exjobb/masters-thesis.md)

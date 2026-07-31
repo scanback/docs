@@ -1,6 +1,8 @@
-# Examensarbete i elektrisk effektomvandling
+<!-- Sida 1 -->
 
-## Studie av övertonsförluster hos en asynkronmaskin seriekopplad med en serieinduktor
+# EXAMENSARBETE I ELEKTRISK EFFEKTOMVANDLING  
+
+## Studie av övertonsförluster hos en asynkronmaskin seriekopplad med en serieinduktor  
 
 **Utfört av:** Staffan Canback
 
@@ -11,7 +13,6 @@
 **Status:** Godkänt
 
 ---
-
 ## Sammanfattning
 
 Examensarbetet har utförts vid Högeffektlaboratoriet vid Centrala utvecklingsavdelningen, ASEA, Västerås. Handledare var Tom Porteous.
@@ -25,13 +26,52 @@ Examensarbetet visar att när motorutrymmet inte är begränsat finns det, ur f�
 När motorutrymmet däremot är begränsat visar resultaten att en serieinduktor med fördel kan användas upp till en för varje induktor specifik gränsfrekvens, för att reducera nedstämplingen av momentet. När denna gränsfrekvens överskrids bör induktorn kopplas ur. Därmed minimeras nedstämplingen vid höga frekvenser, men momentpulsationerna ökar.
 
 ---
-# Examensarbete i elektrisk effektomvandling
 
-## 01 - Huvudtext
+<!-- Sida 2 -->
+
+## Innehållsförteckning
+
+### 1. Inledning  
+#### 1.1 Allmänt
+#### 1.2 Matning
+#### 1.3 Nackdelar med PWM-matning
+#### 1.4 Åtgärder
+#### 1.5 Metoder
+
+### 2. Järnförluster
+#### 2.1 Allmänt
+#### 2.2 Svårigheter vid analytisk bestämning av järnförluster
+#### 2.3 Metod
+#### 2.4 Tomgång utan serieinduktor
+#### 2.5 Tomgång med serieinduktor
+#### 2.6 Analys
+
+### 3. Motorn under belastning
+#### 3.1 Allmänt
+#### 3.2 Belastning utan serieinduktor
+#### 3.3 Förlusternas induktansberoende
+#### 3.4 Förlusternas frekvensberoende
+#### 3.5 Momentpulsationer
+#### 3.6 Viktberäkning
+
+### 4. Diskussion
+#### 4.1 Procedurens möjligheter och begränsningar
+#### 4.2 Induktorns storlek vid fritt motorutrymme
+#### 4.3 Induktorns storlek vid begränsat motorutrymme
+#### 4.4 Litteraturförteckning
+
+### Bilagor
+1. Diagram
+2. Matningsspänningens utseende och fourieranalys
+3. Beräkningsmodell
+4. Programbeskrivning PWMIND
+5. Beräkning av induktorstorlek
+6. Typdata
+7. Variabelförteckning
 
 > **Rekonstruktion, pass 1.** Denna fil omfattar originalets sidor 3-8. Texten har transkriberats från den skannade kopian och radbrytningar samt avstavningar har normaliserats. Figurerna har utelämnats och ersatts med korta platshållare. Formlerna har satts om i LaTeX. Avsnitt 2.6 fortsätter i nästa del.
 
-<!-- Original sida 3 -->
+<!-- Sida 3 -->
 
 # 1. Inledning
 
@@ -47,7 +87,7 @@ För att kunna mata en asynkronmotor med variabel frekvens kan omriktare av spä
 
 Denna likriktar växelspänningen från nätet till en konstant mellanledsspänning \(U_d\) (figur 1). En växelspänning erhålls sedan genom att mellanledsspänningen hackas upp i tyristorbryggan och multipliceras med en modulationsspänning för att få variabel frekvens och amplitud (se bilaga 2).
 
-<!-- Original sida 4 -->
+<!-- Sida 4 -->
 
 Vid låga frekvenser görs upphackningen på ett sådant sätt att övertonsfördelningen ändras och femte och sjunde övertonen undertrycks, vilket har vissa fördelar ur driftsynpunkt (se punkt 3). Referens- och modulationsspänningen kan därför få ett utseende enligt figur 2.
 
@@ -65,7 +105,7 @@ Omriktarsteget levererar en i stort sett fyrkantig spänning till motorn. Detta 
 
 Ett annat problem är att den rika övertonshalten ger upphov till oönskade momentpulsationer kring belastningsmomentet, vilka särskilt vid låga frekvenser kan vara betydande. Momentpulsationerna kan vid t ex traktionsdrift ge upphov till slirning vid start.
 
-<!-- Original sida 5 -->
+<!-- Sida 5 -->
 
 De kan även skapa negativa moment som via motorn överförs till mekaniska kopplingar i systemet. De mekaniska påfrestningarna blir då stora, vilket betraktas som mycket allvarligt.
 
@@ -85,7 +125,7 @@ Dessa teorier är sammanställda i datorprogrammet PWMIND (pulsviddsmodulation m
 
 Allt detta sammantaget och tillämpat på en ASEA standardmotor (MBK 280 S-6, nr 7125 824) med forcerad kylning, tillsammans med en serieinduktor, har sedan legat till grund för en värdering och bedömning av vilken induktor som av elektriska, mekaniska och fysiska skäl, kan anses vara den, om än ej optimala, så ändå bästa lösningen på problemet. Dessa slutsatser dras för ifrågavarande standardmotor, men kan även tillämpas på andra kombinationer av motor och induktor.
 
-<!-- Original sida 6 -->
+<!-- Sida 6 -->
 
 # 2. Järnförluster
 
@@ -122,7 +162,7 @@ En alternativ metod är att mäta upp de tomgångsförluster som uppstår för o
 
 De totala förlusterna (järn + koppar) har mätts upp på en ASEA standardmotor MBK 280 S-6 med forcerad kylning vid både PWM- och sinusmatning. Från totalförlusterna har sedan de ur datorprogrammet PWMIND beräknade kopparförlusterna dragits, vilket ger de resterande järnförlusterna. I bilaga 1.1 har dels de totala förlusterna vid PWM-matning i tomgång, dels de framräknade järnförlusterna vid PWM- och sinusmatning, förts in som funktion av frekvensen. Den streckade linjen för PWM-järnförlusterna får ses som en trend. Vid dessa mätningar och beräkningar har grundtonens flöde varit detsamma vid PWM- och sinusdrift.
 
-<!-- Original sida 7 -->
+<!-- Sida 7 -->
 
 Total- och PWM-järnförlusternas våldsamma språng beror på de växlar som lagts in vid tio frekvenser (se inledning och bilaga 6) för att minska förlusterna. Att kopparförlusterna vid tomgång är så stora som nästan femtio procent av totalförlusten vid PWM-matning beror på extraförluster från övertonerna. Detta gör att man inte kan betrakta tomgångsförluster som järnförluster.
 
@@ -140,7 +180,7 @@ Det visar sig att kopparförlusternas andel i de totala tomgångsförlusterna mi
 
 Att analytiskt ta fram järnförlusterna är alltså svårt, men man kan inskränka sig till att ur kurvan utan serieinduktor (bilaga 1.1) försöka ta fram kurvorna med induktor (bilaga 1.2-1.3). Om man studerar det ekvivalenta schemat för de olika tonerna, så finner man att i tomgång är eftersläpningen ungefär noll för grundtonen.
 
-<!-- Original sida 8 -->
+<!-- Sida 8 -->
 
 Detta medför att rotorresistansen blir mycket stor och den enda grundtonsström som flyter är magnetiseringsströmmen. Om statorresistansen försummas blir grundtonsströmmen på statorsidan:
 
@@ -196,16 +236,9 @@ Tas skillnaden mellan totala järnförlusten och grundtonsjärnförlusten (sinus
 
 ---
 
-*Avsnitt 2.6 fortsätter på originalets sida 9.*
-
----
-# Examensarbete i elektrisk effektomvandling
-
-## 01b - Huvudtext, fortsättning
-
 > **Rekonstruktion, pass 1.** Denna fil omfattar originalets sidor 9-15 och avslutar huvudtexten. Den ansluter till `01-main-text.md`. Texten har transkriberats från den skannade kopian och radbrytningar samt avstavningar har normaliserats. Figur 4 har utelämnats och ersatts med en kort platshållare. Formlerna har satts om i LaTeX.
 
-<!-- Original sida 9 -->
+<!-- Sida 9 -->
 
 # 3. Motorn under belastning
 
@@ -219,7 +252,7 @@ Vid belastning blir inte spänningsfallet över induktorn försumbart (eftersom 
 
 > **Figur 4.** Ekvivalent schema för induktor och motor under belastning. Originalfiguren är utelämnad.
 
-<!-- Original sida 10 -->
+<!-- Sida 10 -->
 
 ## 3.2 Belastning utan serieinduktor
 
@@ -259,7 +292,7 @@ Man kan alltså notera att nedstämplingen kan variera mellan ca 8 och 14 % vid 
 
 För att studera hur induktorn påverkar förlusterna vid en given frekvens har bilaga 1.5 framtagits. Här har belastningsmomentet varit 700 Nm och frekvensen 30 Hz. I figuren finns dels kopparförlusterna vid belastning, uppdelade i grundtonsförlust (\(P_{cu1}\)) och övertonsförluster (\(P_{cu\ddot{o}}\)), dels matningsspänningen \(V_1\) som funktion av frekvensen.
 
-<!-- Original sida 11 -->
+<!-- Sida 11 -->
 
 På samma sätt som för järnförlusterna kan man uttrycka
 
@@ -292,7 +325,7 @@ Detta medför i sin tur att matningsspänningen måste höjas för att kompenser
 
 Effekten av detta kan studeras i bilaga 1.6 och 1.7. Om ingen induktor finns i kretsen, uppstår inte problemet och kurvan ser ut som för \(L=0\). Samma konvexa utseende skulle också de andra kurvorna få om det inte vore för det ovan nämnda spänningstaket. För till exempel 1 mH (0,22 pu) kurvan ger sig detta tillkänna vid ungefär 44 Hz. Över denna frekvens stiger förlusterna starkt på grund av den ökade strömmen (upp till denna frekvens har konstant flöde medfört i stort sett konstant ström, \(s\sim 1/f\)). Ännu mer markant är detta i 2 mH 0,43 pu-fallet. Spänningsfallet blir då så stort över induktorn att det inte går att ta ut 700 Nm vid höga frekvenser. På grund av detta ter det sig lämpligt att vid en gränsfrekvens, som bestäms av att totalförlusterna med och utan induktor blir lika stora, koppla förbi induktorn. För frekvenser större än den specifika gränsfrekvensen följer förlusterna sedan kurvan för \(L=0\).
 
-<!-- Original sida 12 -->
+<!-- Sida 12 -->
 
 Om man gör på det sättet och beräknar den erforderliga nedstämplingen ur förlusterna, så erhålls bilaga 1.7. Den visar att en stor induktans minskar nedstämplingen vid låga frekvenser, men att svinget i nedstämpling blir stort. En liten induktor ger i stället en jämnare nedstämplingskurva.
 
@@ -321,11 +354,11 @@ En viktberäkning kan vara av intresse för att utröna om man kan finna en mini
 
 För varje specifik induktans beräknas en motorvikt och en induktorvikt. Motorvikten fås ur MBK 280 S-6S data. Vikten som funktion av längden hos de aktiva rotor- och statordelarna bestäms ur data i bilaga 6. Därefter antas att längden hos de aktiva delarna är direkt proportionell mot förlusteffekten. Induktorvikten som funktion av induktansen fås ur bilaga 5 i vilken en luftkyld induktor har optimerats.
 
-<!-- Original sida 13 -->
+<!-- Sida 13 -->
 
 Vikterna har införts i bilaga 1.10. Ur den kan man utläsa att det viktminimum som finns är mycket flackt, den besparing man gör i motorstorlek förloras i induktorvikt. Detta tar dock ej hänsyn till vinsterna i momentpulsationer eller hur mycket utrymme som finns tillgängligt.
 
-<!-- Original sida 14 -->
+<!-- Sida 14 -->
 
 # 4. Diskussion
 
@@ -365,7 +398,7 @@ $$
 X_1+X_2\approx X_k.
 $$
 
-<!-- Original sida 15 -->
+<!-- Sida 15 -->
 
 En reduktion av övertonsförlusterna jämfört med förlusterna utan induktor till en fjärdedel kräver alltså en induktor \(L=L_k\). Denna ger också en halvering av momentpulsationerna
 
@@ -397,9 +430,11 @@ T. Porteous, *Programbeskrivningar till PWMOT och RESIST*.
 
 *Huvudtexten avslutas här. Bilaga 1 består huvudsakligen av diagram och har utelämnats enligt projektets upplägg. Nästa textavsnitt är bilaga 2, mätningens utseende och Fourieranalys.*
 
+---
+
 # Bilaga 2. Matningsspänningens utseende och Fourieranalys
 
-<!-- Original: Bilaga 2.1, PDF-sida 26 -->
+<!-- Sida 26 -->
 
 ## 1. Kurvform
 
@@ -433,7 +468,7 @@ R_n
 \end{aligned}
 $$
 
-<!-- Original: Bilaga 2.2, PDF-sida 27 -->
+<!-- Sida 27 -->
 
 Det vill säga
 
@@ -528,9 +563,7 @@ $$
 ---
 # Bilaga 3. Beräkningsmodellen
 
-> **Rekonstruktion, pass 1.** Denna fil omfattar originalets bilaga 3.1–3.5 (PDF-sidorna 28–32). Texten har transkriberats från den skannade kopian. Figur 1 har utelämnats och ersatts med en kort platshållare. De handskrivna formlerna har satts om i LaTeX.
-
-<!-- Original: Bilaga 3.1, PDF-sida 28 -->
+<!-- Sida 28 -->
 
 ## 1. Förutsättningar
 
@@ -568,7 +601,7 @@ $$
 
 ger följande uttryck på statorsidan:
 
-<!-- Original: Bilaga 3.2, PDF-sida 29 -->
+<!-- Sida 29 -->
 
 $$
 U_{d1}
@@ -672,7 +705,7 @@ om man använder samma dq-transformation.
 
 För att förenkla räknearbetet kan det vara lämpligt att överföra rotorstorheterna till statorns referensram. Man får då:
 
-<!-- Original: Bilaga 3.3, PDF-sida 30 -->
+<!-- Sida 30 -->
 
 $$
 U'_{d2}
@@ -779,7 +812,7 @@ $$
 
 där $a$ är antalet faser och $P$ antalet poler.
 
-<!-- Original: Bilaga 3.4, PDF-sida 31 -->
+<!-- Sida 31 -->
 
 ## 3. Fourieranalys
 
@@ -911,7 +944,7 @@ $$
 \gamma_{kd1}^{+e}\sin((k-1)\omega_e t),
 $$
 
-<!-- Original: Bilaga 3.5, PDF-sida 32 -->
+<!-- Sida 32 -->
 
 $$
 \gamma_{d2}^{+ke}
@@ -1024,7 +1057,7 @@ löses. Dessa ger sedan på sedvanligt sätt förluster och moment ur det vanlig
 
 > **Rekonstruktion, pass 1.** Denna fil omfattar originalets bilaga 4.1–4.5 (PDF-sidorna 33–37). Texten har transkriberats från den skannade kopian. Kretsbilden och ritningen av rotorspåret har utelämnats och ersatts med korta platshållare. Programlistan och körexemplen, som utgör punkterna 9 och 10 i originalets innehållsförteckning, behandlas i separata filer.
 
-<!-- Original: Bilaga 4.1, PDF-sida 33 -->
+<!-- Sida 33 -->
 
 ## Innehållsförteckning
 
@@ -1039,7 +1072,7 @@ löses. Dessa ger sedan på sedvanligt sätt förluster och moment ur det vanlig
 9. Programlista
 10. Körexempel
 
-<!-- Original: Bilaga 4.2, PDF-sida 34 -->
+<!-- Sida 34 -->
 
 ## 1. Allmänt
 
@@ -1070,7 +1103,7 @@ Till att börja med begärs indata för spänningen:
 
 Alternativt kan koefficienterna för vissa deltoner erhållas genom en kontinuerlig fourierutveckling (`IS`, `NRWANT(I)`).
 
-<!-- Original: Bilaga 4.3, PDF-sida 35 -->
+<!-- Sida 35 -->
 
 Om **konstant flöde** önskas, se under denna rubrik.
 
@@ -1113,7 +1146,7 @@ För serieinduktorn behövs:
 | `R` | Induktorresistans | $\Omega/\text{fas}$ |
 | `L` | Induktorinduktans | H/fas |
 
-<!-- Original: Bilaga 4.4, PDF-sida 36 -->
+<!-- Sida 36 -->
 
 ## 5. Utmatning
 
@@ -1145,7 +1178,7 @@ För att med ett givet moment kunna ta fram tillräcklig eftersläpning har en i
 
 > **Varning.** Eftersom slingorna griper in i varandra bör man se upp. Görs till exempel en konstantflödesiteration är det olämpligt att samtidigt gå in i s-iterationsslingan.
 
-<!-- Original: Bilaga 4.5, PDF-sida 37 -->
+<!--Sida 37 -->
 
 ## 8. Körinstruktioner
 
@@ -1178,7 +1211,9 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 > originalet i en senare passering. Svenska texter i `PRINT`-satser har
 > återställts med å, ä och ö där de är tydliga.
 
-## Bilaga 4.6 — original sida 38
+## Bilaga 4.6
+
+<!-- Sida 38 -->
 
 ```fortran
 0100C     PROGRAM FÖR MASKINBERÄKNING MED PWM REFERENS-
@@ -1246,7 +1281,9 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 0690      READ,FFI
 ```
 
-## Bilaga 4.7 — original sida 39
+## Bilaga 4.7
+
+<!-- Sida 39 -->
 
 ```fortran
 0700      PRINT,"GE MINSTA AMPLITUD SOM SKALL ADDERAS"
@@ -1312,7 +1349,9 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 1290  411 CONTINUE
 ```
 
-## Bilaga 4.8 — original sida 40
+## Bilaga 4.8
+
+<!-- Sida 40 -->
 
 ```fortran
 1300      PRINT,"ÖNSKAS NY FOURIER-ANALYS ? 1=JA"
@@ -1396,7 +1435,9 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 1890  550 FORMAT(1X,T10,F10.3,"*COS(",I2,"*WT) +",
 ```
 
-## Bilaga 4.9 — original sida 41
+## Bilaga 4.9
+
+<!-- Sida 41 -->
 
 ```fortran
 1900     &      I2,"*WT) + ",F10.3,"*SIN(",I2,"*WT) +")
@@ -1480,7 +1521,9 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 > Originalets radnumrering hoppar från 4870 till 5650; inga mellanliggande
 > programrader finns på de avbildade sidorna.
 
-## Bilaga 4.10 — original sida 42
+## Bilaga 4.10
+
+<!-- Sida 42 -->
 
 ```fortran
 2500      DO 620 I=1,4
@@ -1814,7 +1857,7 @@ REAL-deklarationen på rad 5670.
 > satts i LaTeX. Några av de minsta koefficienterna är svårlästa och bör
 > kontrolleras mot originalet i pass 2.
 
-<!-- Original: Bilaga 4.15, PDF-sida 47 -->
+<!-- Sida 47 -->
 
 ## 1. Indata och inledande iterationer
 
@@ -1919,7 +1962,7 @@ u_q(t)
 +\cdots
 $$
 
-<!-- Original: Bilaga 4.16, PDF-sida 48 -->
+<!-- Sida 48 -->
 
 ## 2. Resultat efter konstantflödesiteration
 
@@ -2021,7 +2064,7 @@ u_q(t) ={}&
 \end{aligned}
 $$
 
-<!-- Original: Bilaga 4.17, PDF-sida 49 -->
+<!-- Sida 49 -->
 
 ## 5. Kopparförluster och rotorresistanser
 
@@ -2100,7 +2143,7 @@ AMPLITUD  : -0.1188E 03 NM
 Detta motsvarar ungefär ett medelmoment på $703.4\ \mathrm{Nm}$, med avvikelser
 uppåt och nedåt på cirka $146.5\ \mathrm{Nm}$ respektive $-118.8\ \mathrm{Nm}$.
 
-<!-- Original: Bilaga 4.18, PDF-sida 50 -->
+<!-- Sida 50 -->
 
 ## 8. Tabell över moment, spänning och ström
 
