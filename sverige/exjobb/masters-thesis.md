@@ -154,7 +154,7 @@ $$
 
 (Variabelförteckning i bilaga 7.)
 
-På grund av att de inbördes relationerna mellan $\P_v$ och $\P_h$ ej är kända, de ingående variablernas frekvens- och spänningsberoende är obekant och att superposition inte går att tillämpa, inses det att järnförlustberäkningar kan erbjuda vissa problem.
+På grund av att de inbördes relationerna mellan $P_v$ och $P_h$ ej är kända, de ingående variablernas frekvens- och spänningsberoende är obekant och att superposition inte går att tillämpa, inses det att järnförlustberäkningar kan erbjuda vissa problem.
 
 ### 2.3 Metod
 
@@ -176,7 +176,7 @@ För att kunna relatera dessa järnförluster till någonting har sinusjärnför
 
 Efter att ha studerat sambanden mellan tomgångsförlusterna vid PWM- och sinusmatning införs en serieinduktor i kretsen (enligt figur 3). Eftersom motorimpedansen domineras av reaktansen kommer induktorn inte att fungera som ett första ordningens lågpassfilter utan snarare som en länk i en spänningsdelning. Induktorn kommer att dämpa övertonsamplituden och förbättrar därigenom spänningens utseende vid motorklämmorna avsevärt ($U$). Denna förbättrade kurvform ger minskade övertonsförluster (både koppar och järn) vilket återspeglas i bilaga 1.1-1.3 som alla tre visar total- och järnförluster i tomgång som funktion av frekvensen för olika induktans.
 
-Det visar sig att kopparförlusternas andel i de totala tomgångsförlusterna minskar avsevärt vid ökande induktorstorlek, men är fortfarande så stora som halva totalförlusten vid 0,21 pu (1 mH) och 10 Hz, (per unit-värdena relateras till motorns märkspänning och märkström, basimpedansen blir då $\Z_B$ = 1,47 och basinduktansen blir $\(L_B$ = 4,67 mH enligt bilaga 6, kortslutningsreaktansen är ungefär 0,25 pu). Här har grundtonens spänningsfall över induktorn beaktats och en korrektionsterm införts mellan de olika kurvorna, så att de tre kurvorna är helt jämförbara (gäller även sinusmatningskurvan).
+Det visar sig att kopparförlusternas andel i de totala tomgångsförlusterna minskar avsevärt vid ökande induktorstorlek, men är fortfarande så stora som halva totalförlusten vid 0,21 pu (1 mH) och 10 Hz, (per unit-värdena relateras till motorns märkspänning och märkström, basimpedansen blir då $Z_B$ = 1,47 och basinduktansen blir $L_B$ = 4,67 mH enligt bilaga 6, kortslutningsreaktansen är ungefär 0,25 pu). Här har grundtonens spänningsfall över induktorn beaktats och en korrektionsterm införts mellan de olika kurvorna, så att de tre kurvorna är helt jämförbara (gäller även sinusmatningskurvan).
 
 ### 2.6 Analys
 
@@ -217,7 +217,7 @@ $$
 \frac{X_1+X_2}{X_1+X_2+X}.
 $$
 
-Eftersom \(X_m\) är betydligt större än \(X\), \(X_1\) och \(X_2\) blir grundtonsreduktionen måttlig vilket medför att omriktarklämspänningens och motorklämspänningens grundton är ungefär lika, \(V_1 \approx U_1\). För övertonerna är \(X\), \(X_1\) och \(X_2\) jämförbara. Detta gör (spänningsdelning) att
+Eftersom $X_m$ är betydligt större än $X$, $X_1$ och $X_2$ blir grundtonsreduktionen måttlig vilket medför att omriktarklämspänningens och motorklämspänningens grundton är ungefär lika, ($V_1 \approx U_1). För övertonerna är $X$, $X_1$ och $X_2$ jämförbara. Detta gör (spänningsdelning) att
 
 $$
 U_{\ddot{o}} \approx
