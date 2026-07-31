@@ -1,3 +1,5 @@
+`Ännu inte fullt verifierad mot originalet.`
+
 <!-- Sida 1 -->
 
 # EXAMENSARBETE I ELEKTRISK EFFEKTOMVANDLING  
