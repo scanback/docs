@@ -255,13 +255,13 @@ Vid belastning blir inte spänningsfallet över induktorn försumbart (eftersom 
 
 ### 3.2 Belastning utan serieinduktor
 
-Till att börja med studeras de allmänna förhållandena när motorn inte matas via en serieinduktor. Med hjälp av datorprogrammet har kopparförlusterna räknats fram för två olika fall. Dels då matningsspänningens \(V\) (här lika med \(U\)) grundton \(V_1\) har låtits vara direkt proportionell mot frekvensen. Dels då flödet har hållits konstant. Det senare innebär att spänningen \(E_1\) (se figur 4) måste variera linjärt med frekvensen eftersom
+Till att börja med studeras de allmänna förhållandena när motorn inte matas via en serieinduktor. Med hjälp av datorprogrammet har kopparförlusterna räknats fram för två olika fall. Dels då matningsspänningens ($V$) (här lika med ($U\$) grundton ($V_1$) har låtits vara direkt proportionell mot frekvensen, dels då flödet har hållits konstant. Det senare innebär att spänningen ($E_1$) (se figur 4) måste variera linjärt med frekvensen eftersom
 
 $$
-E_1 \sim j\omega\Psi_1 \sim j\omega\phi_1.
+E_1 \sim j\omega\psi_1 \sim j\omega\phi_1.
 $$
 
-Att det första fallet inte ger konstant flöde beror på att vid låga frekvenser blir resistanserna jämförbara med reaktanserna och \(E_1\) blir då inte en enkel ickefasvriden linjär funktion av \(V_1\) längre.
+Att det första fallet inte ger konstant flöde beror på att vid låga frekvenser blir resistanserna jämförbara med reaktanserna och ($E_1$) blir då inte en enkel ickefasvriden linjär funktion av $V_1$ längre.
 
 I bilaga 1.4, figur 1 syns effekten av detta. Figuren visar de totala förlusterna i motorn vid konstant moment (700 Nm) som funktion av frekvensen. Kurva A representerar det första fallet med omriktarklämspänningens grundton
 
@@ -281,7 +281,7 @@ $$
 \xi = \sqrt{1-\frac{P_{cu n}}{P_{cu}}}.
 $$
 
-Nedstämplingen blir, med utgångspunkt från detta, som störst vid låga frekvenser, vid PWM-matning (\(\xi=18\%\) vid 11 Hz). Här har beräkningarna grundats på antagandet att den forcerade kylningen gjort att alla förluster effektivt kunnat ledas bort, oberoende av varvtalet. I verkligheten har detta visat sig svårt att utföra, varför en ytterligare korrektionsterm måste införas för att ta hänsyn till denna effekt.
+Nedstämplingen blir, med utgångspunkt från detta, som störst vid låga frekvenser, vid PWM-matning ($\xi=18%$ vid 11 Hz). Här har beräkningarna grundats på antagandet att den forcerade kylningen gjort att alla förluster effektivt kunnat ledas bort, oberoende av varvtalet. I verkligheten har detta visat sig svårt att utföra, varför en ytterligare korrektionsterm måste införas för att ta hänsyn till denna effekt.
 
 Hålls flödet konstant blir förhållandena annorlunda. Då minskar sinusförlusterna vid låga frekvenser eftersom kopparförlusterna är konstanta (\(\phi=\text{konstant}\Rightarrow I=\text{konstant}\)) och järnförlusterna avtar med frekvensen (kurva b). I PWM-fallet fås ett förlustmaximum kring 30 Hz (kurva B) och nedstämplingen blir ca 14 %.
 
