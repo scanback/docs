@@ -71,19 +71,17 @@ När motorutrymmet däremot är begränsat visar resultaten att en serieinduktor
 6. Typdata  
 7. Variabelförteckning  
 
-> **Rekonstruktion, pass 1.** Denna fil omfattar originalets sidor 3-8. Texten har transkriberats från den skannade kopian och radbrytningar samt avstavningar har normaliserats. Figurerna har utelämnats och ersatts med korta platshållare. Formlerna har satts om i LaTeX. Avsnitt 2.6 fortsätter i nästa del.
-
 <!-- Sida 3 -->
 
-# 1. Inledning
+## 1. Inledning
 
-## 1.1 Allmänt
+### 1.1 Allmänt
 
 Under senare år har en ny typ av motordrift vuxit fram och vållat stort intresse bland motortillverkare. Vid bland annat traktionsdrift har det visat sig att asynkronmaskiner med omriktarmatning på allvar har börjat konkurrera med den tyristorlikriktarmatade likströmsmotorn. Fördelarna är många; så är till exempel asynkronmotorn betydligt mer robust än likströmsmotorn, den kräver avsevärt mindre underhåll och klarar även svåra miljöer bättre. Dessutom kan ofta standardmotorer användas, vilket pressar priser och underlättar service. I takt med att priserna på tyristorer med hjälpelektronik har sjunkit har därför alternativet med omriktare och asynkronmotor blivit allt mer konkurrenskraftigt.
 
 > **Figur 1.** Likriktare, mellanled, växelriktare, induktor och motor. Originalfiguren är utelämnad.
 
-## 1.2 Matning
+### 1.2 Matning
 
 För att kunna mata en asynkronmotor med variabel frekvens kan omriktare av spännings- och strömtyp användas. I det här fallet har en omriktare av spänningstyp (voltage source inverter) utnyttjats.
 
@@ -101,7 +99,7 @@ Denna typ av matning kallas PWM-matning (pulse width modulation), eftersom det �
 
 När omriktarens frekvens varieras från 0 till 50 Hz genomlöper den ett antal växlar (se bilaga 6). Vid förutbestämda frekvenser ändras matningsspänningens utseende så att en optimal matning hela tiden kan erhållas. I referensspänningen läggs hack in för att undertrycka de låga övertonerna vid låga frekvenser och modulationsspänningens frekvens ändras så att den blir en multipel av sex gånger referenssignalens frekvens.
 
-## 1.3 Nackdelar med PWM-matning
+### 1.3 Nackdelar med PWM-matning
 
 Omriktarsteget levererar en i stort sett fyrkantig spänning till motorn. Detta ger upphov till övertoner som i sin tur skapar extraförluster i rotor och stator (järn och koppar) utan att bidra med ett ökat moment. Följden härav blir att motorn får en nedstämpling i förhållande till drift med vanlig sinusmatning.
 
@@ -113,11 +111,11 @@ De kan även skapa negativa moment som via motorn överförs till mekaniska kopp
 
 Av denna anledning hackas matningsspänningen så att femte och sjunde tonen undertrycks och de största pulsationerna försvinner. Man bör dock observera att endast en omfördelning har gjorts så att högre övertoners amplituder ökar när femte- och sjundetons spänningen minskar. Ytterligare ett problem är att matningsspänningens utseende gör att motorn låter mycket illa.
 
-## 1.4 Åtgärder
+### 1.4 Åtgärder
 
 Förutom den ovan nämnda omfördelningen av övertoner är en metod att minska övertonshalten i motorn att filtrera matningsspänningen. Härför läggs en serieinduktor in i de tre faserna mellan omriktaren och motorn, vilket kommer att minska övertonsamplituderna relativt grundtonen. Det är detta som studeras i föreliggande rapport.
 
-## 1.5 Metoder
+### 1.5 Metoder
 
 För att undersöka hur stora förlusterna och pulsationerna är, har fourieranalys av matningsspänningen tillämpats (se bilaga 2). Detta ger sedan, tillämpat på den vanliga maskinmodellen (figur 3) och med hänsyn tagen till strömförträngningsfenomen i rotorn, varje tons tillsats av kopparförluster, samt den totala momentpulsationen kring belastningsmomentet.
 
@@ -129,13 +127,13 @@ Allt detta sammantaget och tillämpat på en ASEA standardmotor (MBK 280 S-6, nr
 
 <!-- Sida 6 -->
 
-# 2. Järnförluster
+## 2. Järnförluster
 
-## 2.1 Allmänt
+### 2.1 Allmänt
 
 Nedstämplingen hos motorn erhålls genom att de totala förlusterna i motorn bestäms. Med totalförluster kommer i fortsättningen summan av koppar- och järnförluster att avses, däremot tas ingen hänsyn till friktions- och tillsatsförluster. Till att börja med bestäms därför järnförlusterna ur tomgångsprov. Dessa läggs sedan till de vid belastning erhållna kopparförlusterna och nedstämplingen räknas fram (se Motorn under belastning).
 
-## 2.2 Svårigheter vid analytisk bestämning av järnförluster
+### 2.2 Svårigheter vid analytisk bestämning av järnförluster
 
 Att beräkna järnförlusterna analytiskt kan vara svårt. Förlusterna delas upp i två delar, hysteresförluster och virvelströmsförluster. Det gäller alltså att:
 
@@ -156,11 +154,11 @@ $$
 
 På grund av att de inbördes relationerna mellan \(P_v\) och \(P_h\) ej är kända, de ingående variablernas frekvens- och spänningsberoende är obekant och att superposition inte går att tillämpa, inses det att järnförlustberäkningar kan erbjuda vissa problem.
 
-## 2.3 Metod
+### 2.3 Metod
 
 En alternativ metod är att mäta upp de tomgångsförluster som uppstår för olika frekvenser, och från dessa subtrahera de ur maskinmodellen beräknade värdena på kopparförlusterna då maskinen går i tomgång vad beträffar grundton (övertonerna går samtidigt med eftersläpningen ett). De resterande förlusterna postuleras därefter som järnförluster. Denna metod ger åtminstone ett absolut maximum för järnförlusternas storlek.
 
-## 2.4 Tomgång utan serieinduktor
+### 2.4 Tomgång utan serieinduktor
 
 De totala förlusterna (järn + koppar) har mätts upp på en ASEA standardmotor MBK 280 S-6 med forcerad kylning vid både PWM- och sinusmatning. Från totalförlusterna har sedan de ur datorprogrammet PWMIND beräknade kopparförlusterna dragits, vilket ger de resterande järnförlusterna. I bilaga 1.1 har dels de totala förlusterna vid PWM-matning i tomgång, dels de framräknade järnförlusterna vid PWM- och sinusmatning, förts in som funktion av frekvensen. Den streckade linjen för PWM-järnförlusterna får ses som en trend. Vid dessa mätningar och beräkningar har grundtonens flöde varit detsamma vid PWM- och sinusdrift.
 
@@ -172,13 +170,13 @@ Total- och PWM-järnförlusternas våldsamma språng beror på de växlar som la
 
 För att kunna relatera dessa järnförluster till någonting har sinusjärnförlusterna tagits fram på motsvarande sätt (totalförlust - kopparförlust). Man finner vid en jämförelse att PWM-järnförlusterna är betydligt större än sinusförlusterna, återigen inverkar övertonerna. Slutsatsen blir i det här fallet att PWM-förlusterna blir en ungefär konstant term, omkring 1 kW, större än vid sinusmatning, och att man därför framförallt vid lägre frekvenser får en mycket stor uppräkning av järnförlusterna (relativt sett).
 
-## 2.5 Tomgång med induktor
+### 2.5 Tomgång med induktor
 
 Efter att ha studerat sambanden mellan tomgångsförlusterna vid PWM- och sinusmatning införs en serieinduktor i kretsen (enligt figur 3). Eftersom motorimpedansen domineras av reaktansen kommer induktorn inte att fungera som ett första ordningens lågpassfilter utan snarare som en länk i en spänningsdelning. Induktorn kommer att dämpa övertonsamplituden och förbättrar därigenom spänningens utseende vid motorklämmorna avsevärt (\(U\)). Denna förbättrade kurvform ger minskade övertonsförluster (både koppar och järn) vilket återspeglas i bilaga 1.1-1.3 som alla tre visar total- och järnförluster i tomgång som funktion av frekvensen för olika induktans.
 
 Det visar sig att kopparförlusternas andel i de totala tomgångsförlusterna minskar avsevärt vid ökande induktorstorlek, men är fortfarande så stora som halva totalförlusten vid 0,21 pu (1 mH) och 10 Hz, (per unit-värdena relateras till motorns märkspänning och märkström, basimpedansen blir då \(Z_B = 1,47\) och basinduktansen blir \(L_B = 4,67\,\mathrm{mH}\) enligt bilaga 6, kortslutningsreaktansen är ungefär 0,25 pu). Här har grundtonens spänningsfall över induktorn beaktats och en korrektionsterm införts mellan de olika kurvorna, så att de tre kurvorna är helt jämförbara (gäller även sinusmatningskurvan).
 
-## 2.6 Analys
+### 2.6 Analys
 
 Att analytiskt ta fram järnförlusterna är alltså svårt, men man kan inskränka sig till att ur kurvan utan serieinduktor (bilaga 1.1) försöka ta fram kurvorna med induktor (bilaga 1.2-1.3). Om man studerar det ekvivalenta schemat för de olika tonerna, så finner man att i tomgång är eftersläpningen ungefär noll för grundtonen.
 
@@ -238,13 +236,11 @@ Tas skillnaden mellan totala järnförlusten och grundtonsjärnförlusten (sinus
 
 ---
 
-> **Rekonstruktion, pass 1.** Denna fil omfattar originalets sidor 9-15 och avslutar huvudtexten. Den ansluter till `01-main-text.md`. Texten har transkriberats från den skannade kopian och radbrytningar samt avstavningar har normaliserats. Figur 4 har utelämnats och ersatts med en kort platshållare. Formlerna har satts om i LaTeX.
-
 <!-- Sida 9 -->
 
-# 3. Motorn under belastning
+## 3. Motorn under belastning
 
-## 3.1 Allmänt
+### 3.1 Allmänt
 
 Hittills har förlusterna endast studerats under tomgång. För att komma fram till det praktiskt intressanta fallet belastas nu motorn. Eftersläpningen kommer då att öka och en ökad ström och effekt tas ut. Kopparförlusterna ökar och totalförlusterna (koppar och järn) kan, vid PWM-matning, uppgå till ca 10 kW för en motor vars märkeffekt är 75 kW.
 
@@ -256,7 +252,7 @@ Vid belastning blir inte spänningsfallet över induktorn försumbart (eftersom 
 
 <!-- Sida 10 -->
 
-## 3.2 Belastning utan serieinduktor
+### 3.2 Belastning utan serieinduktor
 
 Till att börja med studeras de allmänna förhållandena när motorn inte matas via en serieinduktor. Med hjälp av datorprogrammet har kopparförlusterna räknats fram för två olika fall. Dels då matningsspänningens \(V\) (här lika med \(U\)) grundton \(V_1\) har låtits vara direkt proportionell mot frekvensen. Dels då flödet har hållits konstant. Det senare innebär att spänningen \(E_1\) (se figur 4) måste variera linjärt med frekvensen eftersom
 
@@ -290,7 +286,7 @@ Hålls flödet konstant blir förhållandena annorlunda. Då minskar sinusförlu
 
 Man kan alltså notera att nedstämplingen kan variera mellan ca 8 och 14 % vid PWM-drift och konstant flöde, och att förlusterna är som störst vid 30 Hz.
 
-## 3.3 Förlusternas induktansberoende
+### 3.3 Förlusternas induktansberoende
 
 För att studera hur induktorn påverkar förlusterna vid en given frekvens har bilaga 1.5 framtagits. Här har belastningsmomentet varit 700 Nm och frekvensen 30 Hz. I figuren finns dels kopparförlusterna vid belastning, uppdelade i grundtonsförlust (\(P_{cu1}\)) och övertonsförluster (\(P_{cu\ddot{o}}\)), dels matningsspänningen \(V_1\) som funktion av frekvensen.
 
@@ -319,7 +315,7 @@ $$
 
 vilket kan ses som en grov tumregel för hur stor induktorn bör vara. Att notera är också hur snabbt erforderlig matningsspänning stiger med induktansen. Om induktansen blir något större än 4 mH (0,86 pu) krävs en matningsspänning \(V\) på \(220\,V_{eff}\), vilket motsvarar ett maximalt utnyttjande av mellanledsspänningen på 488 V. För ännu större induktanser kan konstant flöde inte upprätthållas.
 
-## 3.4 Förlusternas frekvensberoende
+### 3.4 Förlusternas frekvensberoende
 
 Induktorns inverkan på förlusterna kan även beräknas som funktion av frekvensen. För en given induktans och ett givet belastningsmoment erhålls de minsta kopparförlusterna om motorflödet hålls konstant, oberoende av frekvensen.
 
@@ -331,7 +327,7 @@ Effekten av detta kan studeras i bilaga 1.6 och 1.7. Om ingen induktor finns i k
 
 Om man gör på det sättet och beräknar den erforderliga nedstämplingen ur förlusterna, så erhålls bilaga 1.7. Den visar att en stor induktans minskar nedstämplingen vid låga frekvenser, men att svinget i nedstämpling blir stort. En liten induktor ger i stället en jämnare nedstämplingskurva.
 
-## 3.5 Momentpulsationer
+### 3.5 Momentpulsationer
 
 Övertonshalten i matningsspänningen ger upphov till momentpulsationer kring medelmomentet, vilka måste beaktas. Framförallt vid låga frekvenser blir dessa betydande varför metoden med femte- och sjundetonsundertryckning (se bilaga 2) används för att omfördela tonerna. Bilaga 1.8, figur 1 och 1.9 visar det totala momentets maximi- och minimivärden vid 700 Nm och 0 Nm (\(\approx M_n\) och 0) som funktion av frekvensen. Momenten har erhållits ur datorprogrammet som även tar hänsyn till elimineringen av låga övertoner. Kurvorna ger endast en överblick över pulsationerna kring medelmomentet och deras frekvensberoende. Om de ritas med fler punkter skulle sprången vid växlarna framgå tydligare.
 
@@ -350,7 +346,7 @@ $$
 
 Detta svarar mot prickarna vilka väl överensstämmer med de ur programmet erhållna kryssen.
 
-## 3.6 Viktberäkning
+### 3.6 Viktberäkning
 
 En viktberäkning kan vara av intresse för att utröna om man kan finna en minimal vikt hos motor + induktor vid märkmoment. Vikten beräknas enligt följande:
 
@@ -362,9 +358,9 @@ Vikterna har införts i bilaga 1.10. Ur den kan man utläsa att det viktminimum 
 
 <!-- Sida 14 -->
 
-# 4. Diskussion
+## 4. Diskussion
 
-## 4.1 Procedurens möjligheter och begränsningar
+### 4.1 Procedurens möjligheter och begränsningar
 
 Den beräkningsprocedur som här har arbetats fram ger en möjlighet att för en godtycklig motor-induktorkombination bestämma förlusternas fördelning och storlek, spänningsfall och nedstämpling för olika frekvenser och spänningar. Detta ger, tillsammans med uppgifter om motorns och induktorns fysiska dimensioner och tillgängligt utrymme, ett underlag för valet av motor-induktorkombination.
 
@@ -374,11 +370,11 @@ Beräkningsrutinen har en begränsning i att det inte går att ur en given järn
 
 Hela detta arbete grundar sig på antagandet att den forcerade kylningen möjliggör effektiv kylning vid alla frekvenser. Detta gäller dock inte i verkligheten, utan nedstämplingen kommer att öka ytterligare med en faktor beroende av kylförhållandena vid varje specifikt fall.
 
-## 4.2 Induktorns storlek vid fritt motorutrymme
+### 4.2 Induktorns storlek vid fritt motorutrymme
 
 Skall motorn användas i en sådan miljö att utrymmet för motor och induktor är i stort sett obegränsat visar det sig (bilaga 1.10) att användandet av en serieinduktor inte medför någon nämnvärd besparing. Ur denna synpunkt finns det därför inte någon anledning att använda serieinduktorn, utom för att begränsa momentpulsationerna.
 
-## 4.3 Induktorns storlek vid begränsat motorutrymme
+### 4.3 Induktorns storlek vid begränsat motorutrymme
 
 Om dimensionerna för motorutrymmet är givna, som till exempel boggien i ett lok, faller viktargumentet bort. Det gäller då att få ut maximalt moment ur en given motor. I sådana fall bör induktorn väljas så stor att reduktionen i övertoner blir rimlig. Övertonsförlusterna som funktion av induktansen kan approximativt uttryckas:
 
@@ -416,7 +412,7 @@ Induktorn bör väljas i denna storleksordning, en mindre induktor medför ingen
 En stor induktor får även en låg gränsfrekvens vid vilken flödet ej kan hållas konstant i motorn och motorförlusterna ökar (bilaga 1.6, 1.7). Oberoende av induktorstorleken bör induktorn kopplas ur vid den frekvens då förlusterna med och utan induktor i kretsen är lika stora.
 
 ---
-## 4.4 Litteraturförteckning
+### 4.4 Litteraturförteckning
 
 P. Krause, *Method of multiple reference frames applied to the analysis of symmetrical induction machinery*. IEEE Transactions on Power Apparatus and Systems, vol. PAS-87, no. 1, pp. 218-226.
 
@@ -430,11 +426,13 @@ T. Porteous, *Programbeskrivningar till PWMOT och RESIST*.
 
 ---
 
-*Huvudtexten avslutas här. Bilaga 1 består huvudsakligen av diagram och har utelämnats enligt projektets upplägg. Nästa textavsnitt är bilaga 2, mätningens utseende och Fourieranalys.*
+## Bilagor
+
+*Bilaga 1 består huvudsakligen av diagram och har utelämnats. De kommer reproduceras senare.*
 
 ---
 
-# Bilaga 2. Matningsspänningens utseende och Fourieranalys
+### Bilaga 2. Matningsspänningens utseende och Fourieranalys
 
 <!-- Sida 26 -->
 
