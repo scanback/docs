@@ -258,7 +258,7 @@ Vid belastning blir inte spänningsfallet över induktorn försumbart (eftersom 
 Till att börja med studeras de allmänna förhållandena när motorn inte matas via en serieinduktor. Med hjälp av datorprogrammet har kopparförlusterna räknats fram för två olika fall. Dels då matningsspänningens ($V$) (här lika med ($U\$) grundton ($V_1$) har låtits vara direkt proportionell mot frekvensen, dels då flödet har hållits konstant. Det senare innebär att spänningen ($E_1$) (se figur 4) måste variera linjärt med frekvensen eftersom
 
 $$
-E_1 \sim j\omega\psi_1 \sim j\omega\phi_1.
+E_1 \sim j\omega\Psi_1 \sim j\omega\Phi_1.
 $$
 
 Att det första fallet inte ger konstant flöde beror på att vid låga frekvenser blir resistanserna jämförbara med reaktanserna och ($E_1$) blir då inte en enkel ickefasvriden linjär funktion av $V_1$ längre.
