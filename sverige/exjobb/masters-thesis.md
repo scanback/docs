@@ -1,4 +1,4 @@
-`Ännu inte fullt verifierad mot originalet. Denna version kommer att korrigera eventuella fel i originalet. T. ex. på ett ställe finns ett index n, men det ska stå k.`
+`Ännu inte fullt verifierad mot originalet. Diagram och figurer kommer läggas till.`
 
 <!-- Sida 1 -->
 
@@ -63,13 +63,13 @@ När motorutrymmet däremot är begränsat visar resultaten att en serieinduktor
 4.4 Litteraturförteckning  
 
 **Bilagor**  
-1. Diagram  
-2. Matningsspänningens utseende och fourieranalys  
-3. Beräkningsmodell  
-4. Programbeskrivning PWMIND  
-5. Beräkning av induktorstorlek  
-6. Typdata  
-7. Variabelförteckning  
+1 Diagram  
+2 Matningsspänningens utseende och fourieranalys  
+3 Beräkningsmodell  
+4 Programbeskrivning PWMIND  
+5 Beräkning av induktorstorlek  
+6 Typdata  
+7 Variabelförteckning  
 
 <!-- Sida 3 -->
 
