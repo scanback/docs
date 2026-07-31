@@ -4,7 +4,7 @@
 
 # EXAMENSARBETE I ELEKTRISK EFFEKTOMVANDLING  
 
-## Studie av övertonsförluster hos en asynkronmaskin seriekopplad med en serieinduktor  
+## Studie av övertonsförluster hos en asynkronmaskin seriekopplad med en induktor  
 
 **Utfört av:** Staffan Canback
 
