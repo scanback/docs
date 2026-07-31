@@ -46,6 +46,8 @@ Engineers and passengers can isolate the two dominant acoustic sources by monito
 | **Inverter Switching Whine** | Electrical (SVPWM / Magnetostriction) | **Static** (Tied to carrier frequency) | Scales with **motor current** (torque demand) |
 | **Gearbox Mesh Whistle** | Mechanical (High-RPM Helical Gears) | **Dynamic** (Sweeps upward with vehicle speed) | Scales with both **speed** and mechanical load |
 
+The whine is said to be ***whee*** for the electrical and ***whoo*** for the mechanical component.
+
 ---
 
 ## Advanced NVH Mitigation: Spread-Spectrum PWM
