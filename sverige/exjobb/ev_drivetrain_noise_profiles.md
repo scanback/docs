@@ -1,4 +1,4 @@
-`I'm curious: my work on asynchronous motors dealt with overtones. I hear high-pitched noise from EVs. Is thie noise electrical or mechanical in origin.`
+`I'm curious: my work on asynchronous motors dealt with overtones. I hear high-pitched noise from EVs. Is thie noise electrical (overtones) or mechanical in origin.`
 
 # Acoustic Noise Profiles in Modern EV Drivetrains: Electrical and Mechanical Overtones
 
