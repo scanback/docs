@@ -1,4 +1,4 @@
-# The Evolution of EV Asynchronous Drive Technology: From Mass to Math
+# The Evolution of EV Asynchronous Drive Technology
 
 This document summarizes the technological shift in Electric Vehicle (EV) asynchronous (induction) drive systems from 1979 to the present day, tracking how the industry eliminated physical inductive filtering in favor of silicon and software.
 
