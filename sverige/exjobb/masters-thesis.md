@@ -29,14 +29,16 @@ När motorutrymmet däremot är begränsat visar resultaten att en serieinduktor
 
 <!-- Sida 2 -->
 
-## Innehållsförteckning
+## Innehållsförteckning  
 
 ### 1. Inledning  
+
 #### 1.1 Allmänt
 #### 1.2 Matning
 #### 1.3 Nackdelar med PWM-matning
 #### 1.4 Åtgärder
 #### 1.5 Metoder
+
 
 ### 2. Järnförluster
 #### 2.1 Allmänt
