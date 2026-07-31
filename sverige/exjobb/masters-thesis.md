@@ -220,17 +220,16 @@ $$
 Eftersom $X_m$ är betydligt större än $X$, $X_1$ och $X_2$ blir grundtonsreduktionen måttlig vilket medför att omriktarklämspänningens och motorklämspänningens grundton är ungefär lika, ($V_1 \approx U_1$). För övertonerna är $X$, $X_1$ och $X_2$ jämförbara. Detta gör (spänningsdelning) att
 
 $$
-U_{\ddot{o}} \approx
-V_{\ddot{o}}
+U_ö \approx
+V_ö
 \frac{X_1+X_2}{X_1+X_2+X}.
 $$
 
 Om övertonernas järnförluster kan anses vara proportionella mot övertonsspänningarnas kvadrat bör alltså nedanstående gälla:
-
+  
 $$
-P_{fe\ddot{o}}(X)
-=
-P_{fe\ddot{o}}(X=0)
+P_ö(X) =
+P_ö(X=0)
 \frac{(X_1+X_2)^2}{(X_1+X_2+X)^2}.
 $$
 
