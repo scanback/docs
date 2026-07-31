@@ -33,43 +33,44 @@ När motorutrymmet däremot är begränsat visar resultaten att en serieinduktor
 
 ## Innehållsförteckning  
 
-**1 Inledning**  
-1.1 Allmänt  
-1.2 Matning  
-1.3 Nackdelar med PWM-matning  
-1.4 Åtgärder  
-1.5 Metoder  
+**1 $\~$ Inledning**  
+$\quad$ 1.1 $\~$ Allmänt  
+$\quad$ 1.2 $\~$ Matning  
+$\quad$ 1.3 $\~$ Nackdelar med PWM-matning  
+$\quad$ 1.4 $\~$ Åtgärder  
+$\quad$ 1.5 $\~$ Metoder  
 
-**2 Järnförluster**  
-2.1 Allmänt  
-2.2 Svårigheter vid analytisk bestämning av järnförluster  
-2.3 Metod  
-2.4 Tomgång utan serieinduktor  
-2.5 Tomgång med serieinduktor  
-2.6 Analys  
+**2 $\~$ Järnförluster**  
+$\quad$ 2.1 $\~$ Allmänt  
+$\quad$ 2.2 $\~$ Svårigheter vid analytisk bestämning av järnförluster  
+$\quad$ 2.3 $\~$ Metod  
+$\quad$ 2.4 $\~$ Tomgång utan serieinduktor  
+$\quad$ 2.5 $\~$ Tomgång med serieinduktor  
+$\quad$ 2.6 $\~$ Analys  
 
-**3 Motorn under belastning**  
-3.1 Allmänt  
-3.2 Belastning utan serieinduktor  
-3.3 Förlusternas induktansberoende  
-3.4 Förlusternas frekvensberoende  
-3.5 Momentpulsationer  
-3.6 Viktberäkning  
+**3 $\~$ Motorn under belastning**  
+$\quad$ 3.1 $\~$ Allmänt  
+$\quad$ 3.2 $\~$ Belastning utan serieinduktor  
+$\quad$ 3.3 $\~$ Förlusternas induktansberoende  
+$\quad$ 3.4 $\~$ Förlusternas frekvensberoende  
+$\quad$ 3.5 $\~$ Momentpulsationer  
+$\quad$ 3.6 $\~$ Viktberäkning  
 
-**4. Diskussion**  
-4.1 Procedurens möjligheter och begränsningar  
-4.2 Induktorns storlek vid fritt motorutrymme  
-4.3 Induktorns storlek vid begränsat motorutrymme  
-4.4 Litteraturförteckning  
+**4. $\~$ Diskussion**  
+$\quad$ 4.1 $\~$ Procedurens möjligheter och begränsningar  
+$\quad$ 4.2 $\~$ Induktorns storlek vid fritt motorutrymme  
+$\quad$ 4.3 $\~$ Induktorns storlek vid begränsat motorutrymme  
+
+**5. $\~$ Litteraturförteckning**  
 
 **Bilagor**  
-1 Diagram  
-2 Matningsspänningens utseende och fourieranalys  
-3 Beräkningsmodell  
-4 Programbeskrivning PWMIND  
-5 Beräkning av induktorstorlek  
-6 Typdata  
-7 Variabelförteckning  
+$\quad$ 1 $\~$ Diagram  
+$\quad$ 2 $\~$ Matningsspänningens utseende och fourieranalys  
+$\quad$ 3 $\~$ Beräkningsmodell  
+$\quad$ 4 $\~$ Programbeskrivning PWMIND  
+$\quad$ 5 $\~$ Beräkning av induktorstorlek  
+$\quad$ 6 $\~$ Typdata  
+$\quad$ 7 $\~$ Variabelförteckning  
 
 ---
 
