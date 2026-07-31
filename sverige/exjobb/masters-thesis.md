@@ -1,4 +1,4 @@
-`Ännu inte fullt verifierad mot originalet.`
+`Ännu inte fullt verifierad mot originalet. Denna version kommer att korrigera eventuella fel i originalet. T. ex. på ett ställe finns ett index n, men det ska stå k.`
 
 <!-- Sida 1 -->
 
