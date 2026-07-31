@@ -217,7 +217,7 @@ $$
 \frac{X_1+X_2}{X_1+X_2+X}.
 $$
 
-Eftersom $X_m$ är betydligt större än $X$, $X_1$ och $X_2$ blir grundtonsreduktionen måttlig vilket medför att omriktarklämspänningens och motorklämspänningens grundton är ungefär lika, ($V_1 \approx U_1). För övertonerna är $X$, $X_1$ och $X_2$ jämförbara. Detta gör (spänningsdelning) att
+Eftersom $X_m$ är betydligt större än $X$, $X_1$ och $X_2$ blir grundtonsreduktionen måttlig vilket medför att omriktarklämspänningens och motorklämspänningens grundton är ungefär lika, ($V_1 \approx U_1$). För övertonerna är $X$, $X_1$ och $X_2$ jämförbara. Detta gör (spänningsdelning) att
 
 $$
 U_{\ddot{o}} \approx
