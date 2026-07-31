@@ -1,3 +1,5 @@
+`I'm curious: my work on asynchronous motors dealt with overtones. I hear high-pitched noise from EVs. Is thie noise electrical or mechanical in origin.`
+
 # Acoustic Noise Profiles in Modern EV Drivetrains: Electrical and Mechanical Overtones
 
 While modern Electric Vehicle (EV) powertrains have eliminated the heavy, physical inductive filters of the 1970s by utilizing high-frequency switching, they face a unique challenge in Noise, Vibration, and Harshness (NVH). Without the masking sound of an Internal Combustion Engine (ICE), high-frequency electrical and mechanical overtones become audible to human passengers.
