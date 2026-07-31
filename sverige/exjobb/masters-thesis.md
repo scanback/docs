@@ -71,6 +71,8 @@ När motorutrymmet däremot är begränsat visar resultaten att en serieinduktor
 6 Typdata  
 7 Variabelförteckning  
 
+---
+
 <!-- Sida 3 -->
 
 ## 1. Inledning
@@ -85,7 +87,7 @@ Under senare år har en ny typ av motordrift vuxit fram och vållat stort intres
 
 För att kunna mata en asynkronmotor med variabel frekvens kan omriktare av spännings- och strömtyp användas. I det här fallet har en omriktare av spänningstyp (voltage source inverter) utnyttjats.
 
-Denna likriktar växelspänningen från nätet till en konstant mellanledsspänning \(U_d\) (figur 1). En växelspänning erhålls sedan genom att mellanledsspänningen hackas upp i tyristorbryggan och multipliceras med en modulationsspänning för att få variabel frekvens och amplitud (se bilaga 2).
+Denna likriktar växelspänningen från nätet till en konstant mellanledsspänning $\U_d$ (figur 1). En växelspänning erhålls sedan genom att mellanledsspänningen hackas upp i tyristorbryggan och multipliceras med en modulationsspänning för att få variabel frekvens och amplitud (se bilaga 2).
 
 <!-- Sida 4 -->
 
@@ -152,7 +154,7 @@ $$
 
 (Variabelförteckning i bilaga 7.)
 
-På grund av att de inbördes relationerna mellan \(P_v\) och \(P_h\) ej är kända, de ingående variablernas frekvens- och spänningsberoende är obekant och att superposition inte går att tillämpa, inses det att järnförlustberäkningar kan erbjuda vissa problem.
+På grund av att de inbördes relationerna mellan $\P_v$ och $\P_h$ ej är kända, de ingående variablernas frekvens- och spänningsberoende är obekant och att superposition inte går att tillämpa, inses det att järnförlustberäkningar kan erbjuda vissa problem.
 
 ### 2.3 Metod
 
@@ -172,9 +174,9 @@ För att kunna relatera dessa järnförluster till någonting har sinusjärnför
 
 ### 2.5 Tomgång med induktor
 
-Efter att ha studerat sambanden mellan tomgångsförlusterna vid PWM- och sinusmatning införs en serieinduktor i kretsen (enligt figur 3). Eftersom motorimpedansen domineras av reaktansen kommer induktorn inte att fungera som ett första ordningens lågpassfilter utan snarare som en länk i en spänningsdelning. Induktorn kommer att dämpa övertonsamplituden och förbättrar därigenom spänningens utseende vid motorklämmorna avsevärt (\(U\)). Denna förbättrade kurvform ger minskade övertonsförluster (både koppar och järn) vilket återspeglas i bilaga 1.1-1.3 som alla tre visar total- och järnförluster i tomgång som funktion av frekvensen för olika induktans.
+Efter att ha studerat sambanden mellan tomgångsförlusterna vid PWM- och sinusmatning införs en serieinduktor i kretsen (enligt figur 3). Eftersom motorimpedansen domineras av reaktansen kommer induktorn inte att fungera som ett första ordningens lågpassfilter utan snarare som en länk i en spänningsdelning. Induktorn kommer att dämpa övertonsamplituden och förbättrar därigenom spänningens utseende vid motorklämmorna avsevärt ($U$). Denna förbättrade kurvform ger minskade övertonsförluster (både koppar och järn) vilket återspeglas i bilaga 1.1-1.3 som alla tre visar total- och järnförluster i tomgång som funktion av frekvensen för olika induktans.
 
-Det visar sig att kopparförlusternas andel i de totala tomgångsförlusterna minskar avsevärt vid ökande induktorstorlek, men är fortfarande så stora som halva totalförlusten vid 0,21 pu (1 mH) och 10 Hz, (per unit-värdena relateras till motorns märkspänning och märkström, basimpedansen blir då \(Z_B = 1,47\) och basinduktansen blir \(L_B = 4,67\,\mathrm{mH}\) enligt bilaga 6, kortslutningsreaktansen är ungefär 0,25 pu). Här har grundtonens spänningsfall över induktorn beaktats och en korrektionsterm införts mellan de olika kurvorna, så att de tre kurvorna är helt jämförbara (gäller även sinusmatningskurvan).
+Det visar sig att kopparförlusternas andel i de totala tomgångsförlusterna minskar avsevärt vid ökande induktorstorlek, men är fortfarande så stora som halva totalförlusten vid 0,21 pu (1 mH) och 10 Hz, (per unit-värdena relateras till motorns märkspänning och märkström, basimpedansen blir då $\Z_B$ = 1,47 och basinduktansen blir $\(L_B$ = 4,67 mH enligt bilaga 6, kortslutningsreaktansen är ungefär 0,25 pu). Här har grundtonens spänningsfall över induktorn beaktats och en korrektionsterm införts mellan de olika kurvorna, så att de tre kurvorna är helt jämförbara (gäller även sinusmatningskurvan).
 
 ### 2.6 Analys
 
@@ -196,7 +198,7 @@ $$
 I_{11} = \frac{V_1}{X_1+X_m+X}
 $$
 
-Däremot är eftersläpningen betydligt större för övertonerna (\(s \approx 1\)). Rotorresistansen blir då låg och magnetiseringsreaktansen shuntas i stort sett bort av rotorimpedansen. Övertonsströmmarna på statorsidan blir lika med de på rotorsidan och om resistanserna försummas gäller:
+Däremot är eftersläpningen betydligt större för övertonerna ($\(s \approx 1\)$). Rotorresistansen blir då låg och magnetiseringsreaktansen shuntas i stort sett bort av rotorimpedansen. Övertonsströmmarna på statorsidan blir lika med de på rotorsidan och om resistanserna försummas gäller:
 
 $$
 I_{1\ddot{o}} = I_{2\ddot{o}}
