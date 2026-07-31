@@ -198,7 +198,7 @@ $$
 I_{11} = \frac{V_1}{X_1+X_m+X}
 $$
 
-Däremot är eftersläpningen betydligt större för övertonerna ($\(s \approx 1\)$). Rotorresistansen blir då låg och magnetiseringsreaktansen shuntas i stort sett bort av rotorimpedansen. Övertonsströmmarna på statorsidan blir lika med de på rotorsidan och om resistanserna försummas gäller:
+Däremot är eftersläpningen betydligt större för övertonerna ($s \approx$ 1). Rotorresistansen blir då låg och magnetiseringsreaktansen shuntas i stort sett bort av rotorimpedansen. Övertonsströmmarna på statorsidan blir lika med de på rotorsidan och om resistanserna försummas gäller:
 
 $$
 I_{1\ddot{o}} = I_{2\ddot{o}}
