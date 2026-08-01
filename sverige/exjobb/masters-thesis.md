@@ -94,7 +94,7 @@ Under senare år har en ny typ av motordrift vuxit fram och vållat stort intres
   <figcaption><b>Figur 1.</b> Likriktare, mellanled, växelriktare, induktor och motor</figcaption>
 </figure>
 </p>
-<br><br>
+<br>
 
 ### 1.2 Matning
 
@@ -112,7 +112,7 @@ Vid låga frekvenser görs upphackningen på ett sådant sätt att övertonsför
   <figcaption><b>Figur 2.</b> Referens- och modulationsspänningarnas principiella utseende</figcaption>
 </figure>
 </p>
-<br><br>
+<br>
 
 Detta ger således en växelspänning av godtycklig frekvens och amplitud. Maximal grundtonsamplitud erhålls då modulationsspänningen är konstant, dvs hela referenssignalen släpps igenom, och begränsas av mellanledsspänningen.
 
@@ -146,7 +146,7 @@ För att undersöka hur stora förlusterna och pulsationerna är, har fourierana
   <figcaption><b>Figur 3.</b> Ekvivalent schema för induktor och motor</figcaption>
 </figure>
 </p>
-<br><br>
+<br>
 
 Dessa teorier är sammanställda i datorprogrammet PWMIND (pulsviddsmodulation med induktor, se bilaga 4). Till ur detta erhållna resultat har lagts de uppskattade järnförlusterna.
 
@@ -281,7 +281,7 @@ Vid belastning blir inte spänningsfallet över induktorn försumbart (eftersom 
   <figcaption><b>Figur 4. </b>Ekvivalent schema för induktor och motor under belastning</figcaption>
 </figure>
 </p>
-<br><br>
+<br>
 
 <!-- Sida 10 -->
 
