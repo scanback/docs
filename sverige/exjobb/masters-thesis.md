@@ -347,13 +347,13 @@ $$
 X=X_1+X_2=X_k,
 $$
 
-vilket kan ses som en grov tumregel för hur stor induktorn bör vara. Att notera är också hur snabbt erforderlig matningsspänning stiger med induktansen. Om induktansen blir något större än 4 mH (0,86 pu) krävs en matningsspänning \(V\) på \(220\,V_{eff}\), vilket motsvarar ett maximalt utnyttjande av mellanledsspänningen på 488 V. För ännu större induktanser kan konstant flöde inte upprätthållas.
+vilket kan ses som en grov tumregel för hur stor induktorn bör vara. Att notera är också hur snabbt erforderlig matningsspänning stiger med induktansen. Om induktansen blir något större än 4 mH (0,86 pu) krävs en matningsspänning V på 220 V<sub>eff</sub>, vilket motsvarar ett maximalt utnyttjande av mellanledsspänningen på 488 V. För ännu större induktanser kan konstant flöde inte upprätthållas.
 
 ### 3.4 Förlusternas frekvensberoende
 
 Induktorns inverkan på förlusterna kan även beräknas som funktion av frekvensen. För en given induktans och ett givet belastningsmoment erhålls de minsta kopparförlusterna om motorflödet hålls konstant, oberoende av frekvensen.
 
-Detta medför i sin tur att matningsspänningen måste höjas för att kompensera för spänningsfallet över induktorn och statorn. Vid låga frekvenser är det möjligt att genomföra eftersom man då ändå inte utnyttjar hela den tillgängliga spänningen (här $V_1=220\,V$, men när frekvensen stiger så når man en för varje induktor specifik frekvens då det inte går att ta ut mer spänning ur mellanledet. När denna gräns passeras måste istället kravet på konstant flöde släppas till förmån för kravet på konstant moment, vilket erhålls genom att eftersläpningen ökas.
+Detta medför i sin tur att matningsspänningen måste höjas för att kompensera för spänningsfallet över induktorn och statorn. Vid låga frekvenser är det möjligt att genomföra eftersom man då ändå inte utnyttjar hela den tillgängliga spänningen (här V<sub>1</sub> = 220 V), men när frekvensen stiger så når man en för varje induktor specifik frekvens då det inte går att ta ut mer spänning ur mellanledet. När denna gräns passeras måste istället kravet på konstant flöde släppas till förmån för kravet på konstant moment, vilket erhålls genom att eftersläpningen ökas.
 
 Effekten av detta kan studeras i bilaga 1.6 och 1.7. Om ingen induktor finns i kretsen, uppstår inte problemet och kurvan ser ut som för $L=0$. Samma konvexa utseende skulle också de andra kurvorna få om det inte vore för det ovan nämnda spänningstaket. För till exempel 1 mH (0,22 pu) kurvan ger sig detta tillkänna vid ungefär 44 Hz. Över denna frekvens stiger förlusterna starkt på grund av den ökade strömmen (upp till denna frekvens har konstant flöde medfört i stort sett konstant ström, $s \sim 1/f$). Ännu mer markant är detta i 2 mH 0,43 pu-fallet. Spänningsfallet blir då så stort över induktorn att det inte går att ta ut 700 Nm vid höga frekvenser. På grund av detta ter det sig lämpligt att vid en gränsfrekvens, som bestäms av att totalförlusterna med och utan induktor blir lika stora, koppla förbi induktorn. För frekvenser större än den specifika gränsfrekvensen följer förlusterna sedan kurvan för \(L=0\).
 
