@@ -29,9 +29,9 @@ Avsikten med arbetet var att studera en serieinduktors inverkan på en omriktarm
 
 Beräkningarna har utförts med hjälp av datorprogram som har tillämpats på en ASEA standardmotor, MBK 280 S-6, 75 kW. Till dessa beräkningar har lagts data från laboratorieförsök rörande järnförluster. Resultaten har därefter använts för att bedöma hur stora förlustreduktioner som kan erhållas för olika induktorstorlekar. Vid denna bedömning har även induktorns fysiska dimensioner beaktats.
 
-Examensarbetet visar att när motorutrymmet inte är begränsat finns det, ur förlustsynpunkt, ingen anledning att införa en serieinduktor i systemet, eftersom summan av motor- och induktorvikten i stort sett är konstant.
+Examensarbetet visar att när motorutrymmet är begränsat finns det, ur förlustsynpunkt, ingen anledning att införa en serieinduktor i systemet, eftersom summan av motor- och induktorvikten i stort sett är konstant.
 
-När motorutrymmet däremot är begränsat visar resultaten att en serieinduktor med fördel kan användas upp till en för varje induktor specifik gränsfrekvens, för att reducera nedstämplingen av momentet. När denna gränsfrekvens överskrids bör induktorn kopplas ur. Därmed minimeras nedstämplingen vid höga frekvenser, men momentpulsationerna ökar.
+När motorutrymmet däremot är obegränsat visar resultaten att en serieinduktor med fördel kan användas upp till en för varje induktor specifik gränsfrekvens, för att reducera nedstämplingen av momentet. När denna gränsfrekvens överskrids bör induktorn kopplas ur. Därmed minimeras nedstämplingen vid höga frekvenser, men momentpulsationerna ökar.
 
 ---
 
