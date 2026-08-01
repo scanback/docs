@@ -2220,8 +2220,8 @@ Pass 2:
 | $I_1$ | statorström |
 | $I_2$ | rotorström |
 | $I_{11}$ | grundtonsstatorström |
-| $I_{1\mathrm{ö}}$ | övertonsstatorström |
-| $I_{2\mathrm{ö}}$ | övertonsrotorström |
+| $I_{1ö}$ | övertonsstatorström |
+| $I_{2ö}$ | övertonsrotorström |
 | $k_h$ | proportionalitetsfaktor |
 | $k_v$ | proportionalitetsfaktor |
 | $L$ | induktorns induktans |
@@ -2237,10 +2237,10 @@ Pass 2:
 | $N$ | antal modulationspulser |
 | $N_1$ | primärt lindningsvarv |
 | $N_2$ | sekundärt lindningsvarv |
-| $P_{\mathrm{cu}}$ | kopparförluster |
-| $P_{\mathrm{cuö}}$ | övertonskopparförluster |
-| $P_{\mathrm{fe}}$ | järnförluster |
-| $P_{\mathrm{feö}}$ | övertonsjärnförluster |
+| $P_{cu}$ | kopparförluster |
+| $P_{cuö}$ | övertonskopparförluster |
+| $P_{fe}$ | järnförluster |
+| $P_{feö}$ | övertonsjärnförluster |
 | $P_h$ | hysteresförluster |
 | $P_v$ | virvelströmsförluster |
 | $R$ | induktorns resistans |
@@ -2251,14 +2251,14 @@ Pass 2:
 | $s$ | eftersläpning |
 | $U$ | motorklämspänning |
 | $U_1$ | grundton av $U$ |
-| $U_{\mathrm{ö}}$ | övertoner av $U$ |
+| $U_ö$ | övertoner av $U$ |
 | $V$ | omriktarklämspänning |
 | $V_1$ | grundton av $V$ |
-| $V_{\mathrm{ö}}$ | övertoner av $V$ |
-| $Z_2$ | $jX_m \mathbin{/\!/} \left(\dfrac{R_2}{s}+jX_2\right)$ |
+| $V_{ö}$ | övertoner av $V$ |
+| $Z_2$ | $jX_m \mathbin{//} \left(\dfrac{R_2}{s}+jX_2\right)$ |
 | $\alpha_i$ | hackvinklar |
 | $\beta$ | vinkel mellan q-axeln och rotorns r-axel |
-| $\gamma$ | $U$, $I$ eller $\Psi$ |
+| $\gamma$ | $U$, $I$ eller $\mathit{\Psi}$ |
 | $\theta$ | vinkel mellan q-axeln och statorns r-axel |
 | $\theta_0$ | fasförskjutning |
 | $\theta_r$ | $\theta-\beta$ |
