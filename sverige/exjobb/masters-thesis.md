@@ -1880,7 +1880,7 @@ REAL-deklarationen på rad 5670.
 -->
 
 ---
-### Bilaga 4.15. Körexempel
+### Bilaga 4.10. Körexempel
 
 > **Rekonstruktion, pass 1.** Denna fil omfattar originalets bilaga 4.15–4.18
 > (PDF-sidorna 47–50). Utskriften har transkriberats och delvis strukturerats
@@ -1893,7 +1893,7 @@ REAL-deklarationen på rad 5670.
 
 <!-- Sida 47 -->
 
-#### 1. Indata och inledande iterationer
+#### 4.10.1. Indata och inledande iterationer
 
 ```text
 GE ANTAL ARGUMENT (ALFA) SOM INTE=0
@@ -1998,7 +1998,7 @@ $$
 
 <!-- Sida 48 -->
 
-#### 2. Resultat efter konstantflödesiteration
+#### 4.10.2. Resultat efter konstantflödesiteration
 
 ```text
 EQ=          170.059
@@ -2007,7 +2007,7 @@ MOMENTET=    703.524     ÖNSKAS NY ITERATION? 1=JA
 PULSKVOT=      0.6983
 ```
 
-#### 3. Resultat av Fourieranalys
+#### 4.10.3. Resultat av Fourieranalys
 
 | $f/f_0$ | Amplitud | Fasvinkel |
 |---:|---:|---:|
@@ -2052,7 +2052,7 @@ GE SERIEREAKTORDATA:R,L
 =.006 .001
 ```
 
-#### 4. Spänning i q-axeln
+#### 4.10.3. Spänning i q-axeln
 
 Programutskriften motsvarar följande Fourierserie:
 
@@ -2100,7 +2100,7 @@ $$
 
 <!-- Sida 49 -->
 
-#### 5. Kopparförluster och rotorresistanser
+#### 4.10.5. Kopparförluster och rotorresistanser
 
 | $K$ | $f/f_0$ | $P_{\mathrm{CU1}}$ | $P_{\mathrm{CU2}}$ | $R_2^+$ | $R_2^-$ |
 |---:|---:|---:|---:|---:|---:|
@@ -2139,7 +2139,7 @@ $$
 I_1 = 0.1403\times10^3\ \mathrm{A}.
 $$
 
-#### 6. Spänningsfall över reaktorn
+#### 4.10.6. Spänningsfall över reaktorn
 
 För q-axeln skrivs cosinus- och sinuskoefficienterna ut enligt följande:
 
@@ -2164,7 +2164,7 @@ För q-axeln skrivs cosinus- och sinuskoefficienterna ut enligt följande:
 | 49 | -0.2825 | -12.9992 |
 | 53 | 0.1234 | -5.9942 |
 
-#### 7. Moment
+#### 4.10.7. Moment
 
 ```text
 MOMENTET UNDER 0.1667E-01 SEK. :
