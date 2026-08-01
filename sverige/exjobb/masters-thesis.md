@@ -1215,7 +1215,7 @@ För att med ett givet moment kunna ta fram tillräcklig eftersläpning har en i
 
 <!--Sida 37 -->
 
-### 8. Körinstruktioner
+#### 8. Körinstruktioner
 
 Programmet är gjort i TIME SHARING och körs därför på terminal. Efter inloggning skrivs:
 
@@ -1235,7 +1235,7 @@ Sedan begär programmet parametrar beskrivna som indata i punkt 4.
 Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 
 ---
-### Bilaga 4. Programlista PWMIND — del 1
+### Bilaga 4.9 Programlistning PWMIND
 
 > **Rekonstruktion, pass 1.** Denna fil omfattar originalets bilaga 4.6–4.9
 > (PDF-sidorna 38–41), från rad 0100 till rad 2490 i programlistan.
@@ -1246,7 +1246,7 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 > originalet i en senare passering. Svenska texter i `PRINT`-satser har
 > återställts med å, ä och ö där de är tydliga.
 
-#### Bilaga 4.6
+#### Del 1
 
 <!-- Sida 38 -->
 
@@ -1316,7 +1316,7 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 0690      READ,FFI
 ```
 
-#### Bilaga 4.7
+#### Del 2
 
 <!-- Sida 39 -->
 
@@ -1384,7 +1384,7 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 1290  411 CONTINUE
 ```
 
-#### Bilaga 4.8
+#### Del 3
 
 <!-- Sida 40 -->
 
@@ -1470,7 +1470,7 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 1890  550 FORMAT(1X,T10,F10.3,"*COS(",I2,"*WT) +",
 ```
 
-#### Bilaga 4.9
+#### Del 4
 
 <!-- Sida 41 -->
 
@@ -1546,7 +1546,6 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 -->
 
 ---
-### Bilaga 4. Programlista PWMIND — del 2
 
 > **Rekonstruktion, pass 1.** Denna fil omfattar originalets bilaga 4.10–4.14
 > (PDF-sidorna 42–46), från rad 2500 till rad 5860 i programlistan.
@@ -1556,7 +1555,7 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 > Originalets radnumrering hoppar från 4870 till 5650; inga mellanliggande
 > programrader finns på de avbildade sidorna.
 
-#### Bilaga 4.10
+#### Del 5
 
 <!-- Sida 42 -->
 
@@ -1624,7 +1623,7 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 3090  713 FORMAT(1X,"EQ=",F13.3)
 ```
 
-#### Bilaga 4.11 — original sida 43
+#### Del 6
 
 ```fortran
 3100      CPCU2=1.5*RROT(1,1)*(AI(1,1,3)**2+AI(1,1,4)**2)
@@ -1697,7 +1696,7 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 3690      IDRT=IDRT+(AI(K,1,4)+AI(K,2,4))*COS(FI)
 ```
 
-#### Bilaga 4.12 — original sida 44
+#### Del 7
 
 ```fortran
 3700     &          -(AI(K,1,3)-AI(K,2,3))*SIN(FI)
@@ -1766,7 +1765,7 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 4290      DO 900 K=1,K1
 ```
 
-#### Bilaga 4.13 — original sida 45
+#### Del 8
 
 ```fortran
 4300      FI=ABM(K,1)*(WE*TI-PI/6.)
@@ -1830,7 +1829,7 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
           END
 ```
 
-#### Bilaga 4.14 — original sida 46
+#### Del 9
 
 ```fortran
 5650      SUBROUTINE SETA(N)
@@ -1881,7 +1880,7 @@ REAL-deklarationen på rad 5670.
 -->
 
 ---
-### Bilaga 4. Körexempel
+### Bilaga 4.15. Körexempel
 
 > **Rekonstruktion, pass 1.** Denna fil omfattar originalets bilaga 4.15–4.18
 > (PDF-sidorna 47–50). Utskriften har transkriberats och delvis strukturerats
