@@ -2255,7 +2255,7 @@ Pass 2:
 | $V$ | omriktarklämspänning |
 | $V_1$ | grundton av $V$ |
 | $V_{\mathrm{ö}}$ | övertoner av $V$ |
-| $Z_2$ | $jX_m \parallel \left(\dfrac{R_2}{s}+jX_2\right)$ |
+| $Z_2$ | $jX_m \mathbin{/\!/} \left(\dfrac{R_2}{s}+jX_2\right)$ |
 | $\alpha_i$ | hackvinklar |
 | $\beta$ | vinkel mellan q-axeln och rotorns r-axel |
 | $\gamma$ | $U$, $I$ eller $\Psi$ |
@@ -2265,9 +2265,9 @@ Pass 2:
 | $\lambda$ | exponentkonstant vid hysteresförluster |
 | $\xi$ | nedstämpling |
 | $\sigma$ | konduktivitet |
-| $\Phi$ | flöde |
+| $\mathit{\Phi}$ | flöde |
 | $\varphi$ | vinkel, $\varphi=\omega t$ |
-| $\Psi$ | sammanlänkat flöde |
+| $\mathit{\Psi}$ | sammanlänkat flöde |
 | $\omega$ | synkron vinkelhastighet |
 | $\omega_e$ | elektrisk vinkelhastighet |
 | $\omega_r$ | vinkelhastighet hos rotor |
