@@ -90,6 +90,11 @@ Under senare år har en ny typ av motordrift vuxit fram och vållat stort intres
 > **Figur 1.** Likriktare, mellanled, växelriktare, induktor och motor
 
 <p align="center">
+<figure>
+  <img  src="assets/figur-1.svg" width="500" alt="Likriktare, mellanled, växelriktare, induktor och motor">
+  <figcaption><b>Figur 1.</b> Likriktare, mellanled, växelriktare, induktor och motor</figcaption>
+</figure>
+
 <img  src="assets/figur-1.svg" width="600" alt="Likriktare, mellanled, växelriktare, induktor och motor">
 </p>
 
