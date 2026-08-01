@@ -87,10 +87,10 @@ $\quad$ 7 $\~$ Variabelförteckning
 
 Under senare år har en ny typ av motordrift vuxit fram och vållat stort intresse bland motortillverkare. Vid bland annat traktionsdrift har det visat sig att asynkronmaskiner med omriktarmatning på allvar har börjat konkurrera med den tyristorlikriktarmatade likströmsmotorn. Fördelarna är många; så är till exempel asynkronmotorn betydligt mer robust än likströmsmotorn, den kräver avsevärt mindre underhåll och klarar även svåra miljöer bättre. Dessutom kan ofta standardmotorer användas, vilket pressar priser och underlättar service. I takt med att priserna på tyristorer med hjälpelektronik har sjunkit har därför alternativet med omriktare och asynkronmotor blivit allt mer konkurrenskraftigt.
 
-> **Figur 1.** Likriktare, mellanled, växelriktare, induktor och motor. Originalfiguren är utelämnad.
+> **Figur 1.** Likriktare, mellanled, växelriktare, induktor och motor
 
 <p align="center">
-<img  src="assets/figur-1.svg" width="600" alt="Figur 1">
+<img  src="assets/figur-1.svg" width="600" alt="Likriktare, mellanled, växelriktare, induktor och motor">
 </p>
 
 ### 1.2 Matning
@@ -103,7 +103,10 @@ Denna likriktar växelspänningen från nätet till en konstant mellanledsspänn
 
 Vid låga frekvenser görs upphackningen på ett sådant sätt att övertonsfördelningen ändras och femte och sjunde övertonen undertrycks, vilket har vissa fördelar ur driftsynpunkt (se punkt 3). Referens- och modulationsspänningen kan därför få ett utseende enligt figur 2.
 
-> **Figur 2.** Referens- och modulationsspänningarnas principiella utseende. Originalfiguren är utelämnad.
+> **Figur 2.** Referens- och modulationsspänningarnas principiella utseende
+<p align="center">
+<img  src="assets/figur-2.svg" width="600" alt="Referens- och modulationsspänningarnas principiella utseende">
+</p>
 
 Detta ger således en växelspänning av godtycklig frekvens och amplitud. Maximal grundtonsamplitud erhålls då modulationsspänningen är konstant, dvs hela referenssignalen släpps igenom, och begränsas av mellanledsspänningen.
 
@@ -131,7 +134,10 @@ Förutom den ovan nämnda omfördelningen av övertoner är en metod att minska 
 
 För att undersöka hur stora förlusterna och pulsationerna är, har fourieranalys av matningsspänningen tillämpats (se bilaga 2). Detta ger sedan, tillämpat på den vanliga maskinmodellen (figur 3) och med hänsyn tagen till strömförträngningsfenomen i rotorn, varje tons tillsats av kopparförluster, samt den totala momentpulsationen kring belastningsmomentet.
 
-> **Figur 3.** Ekvivalent schema för induktor och motor. Originalfiguren är utelämnad.
+> **Figur 3.** Ekvivalent schema för induktor och motor
+<p align="center">
+<img  src="assets/figur-3.svg" width="600" alt="Ekvivalent schema för induktor och motor">
+</p>
 
 Dessa teorier är sammanställda i datorprogrammet PWMIND (pulsviddsmodulation med induktor, se bilaga 4). Till ur detta erhållna resultat har lagts de uppskattade järnförlusterna.
 
@@ -259,7 +265,11 @@ De förluster som uppstår utöver förlusterna vid märklast och sinusmatning r
 
 Vid belastning blir inte spänningsfallet över induktorn försumbart (eftersom den ökade eftersläpningen ger en shuntning av magnetiseringsreaktansen även för grundtonen). Detta medför att det nu måste göras en avvägning mellan induktorns negativa spänningssänkande egenskaper och dess positiva dämpning av övertonsförlusterna i motorn. Väger man dessa mot varandra skulle man kunna finna en minimal förlust, om det inte vore så att medan förlusterna avtar med kvadraten på spänningen, så sjunker motorspänningen linjärt. En så stor induktans som möjligt blir därför lämplig vid obegränsad tillgång på spänning och utrymme, för att minska nedstämplingen i en given motor.
 
-> **Figur 4.** Ekvivalent schema för induktor och motor under belastning. Originalfiguren är utelämnad.
+> **Figur 4.** Ekvivalent schema för induktor och motor under belastning
+<p align="center">
+<img  src="assets/figur-4.svg" width="600" alt="Ekvivalent schema för induktor och motor under belastning">
+</p>
+
 
 <!-- Sida 10 -->
 
