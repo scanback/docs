@@ -152,6 +152,7 @@ Dessa teorier är sammanställda i datorprogrammet PWMIND (pulsviddsmodulation m
 
 Allt detta sammantaget och tillämpat på en ASEA standardmotor (MBK 280 S-6, nr 7125 824) med forcerad kylning, tillsammans med en serieinduktor, har sedan legat till grund för en värdering och bedömning av vilken induktor som av elektriska, mekaniska och fysiska skäl, kan anses vara den, om än ej optimala, så ändå bästa lösningen på problemet. Dessa slutsatser dras för ifrågavarande standardmotor, men kan även tillämpas på andra kombinationer av motor och induktor.
 
+---
 <!-- Sida 6 -->
 
 ## 2. Järnförluster
@@ -389,6 +390,7 @@ För varje specifik induktans beräknas en motorvikt och en induktorvikt. Motorv
 
 Vikterna har införts i bilaga 1.10. Ur den kan man utläsa att det viktminimum som finns är mycket flackt, den besparing man gör i motorstorlek förloras i induktorvikt. Detta tar dock ej hänsyn till vinsterna i momentpulsationer eller hur mycket utrymme som finns tillgängligt.
 
+---
 <!-- Sida 14 -->
 
 ## 4. Diskussion
