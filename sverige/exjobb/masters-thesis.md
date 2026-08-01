@@ -86,7 +86,7 @@ $\quad$ 7 $\~$ Variabelförteckning
 ### 1.1 Allmänt
 
 Under senare år har en ny typ av motordrift vuxit fram och vållat stort intresse bland motortillverkare. Vid bland annat traktionsdrift har det visat sig att asynkronmaskiner med omriktarmatning på allvar har börjat konkurrera med den tyristorlikriktarmatade likströmsmotorn. Fördelarna är många; så är till exempel asynkronmotorn betydligt mer robust än likströmsmotorn, den kräver avsevärt mindre underhåll och klarar även svåra miljöer bättre. Dessutom kan ofta standardmotorer användas, vilket pressar priser och underlättar service. I takt med att priserna på tyristorer med hjälpelektronik har sjunkit har därför alternativet med omriktare och asynkronmotor blivit allt mer konkurrenskraftigt.
-
+<br><br>
 <p align="center">
 <figure>
   <img  src="assets/figur-1.svg" width="500" alt="Likriktare, mellanled, växelriktare, induktor och motor">
