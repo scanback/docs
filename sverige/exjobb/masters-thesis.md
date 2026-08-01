@@ -89,6 +89,10 @@ Under senare år har en ny typ av motordrift vuxit fram och vållat stort intres
 
 > **Figur 1.** Likriktare, mellanled, växelriktare, induktor och motor. Originalfiguren är utelämnad.
 
+<p align="center">
+<img  src="assets/figur-1.svg" width="600" alt="Figur 1">
+</p>
+
 ### 1.2 Matning
 
 För att kunna mata en asynkronmotor med variabel frekvens kan omriktare av spännings- och strömtyp användas. I det här fallet har en omriktare av spänningstyp (voltage source inverter) utnyttjats.
