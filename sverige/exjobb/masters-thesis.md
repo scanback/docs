@@ -5,6 +5,7 @@ image: /assets/social-card-sverige.png
 ---
 `Ännu inte fullt verifierad mot originalet. Viktiga diagram och figurer kommer läggas till.`
 
+---
 <!-- Sida 1 -->
 
 # EXAMENSARBETE I ELEKTRISK EFFEKTOMVANDLING  
