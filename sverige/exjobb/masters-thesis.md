@@ -107,7 +107,7 @@ Vid låga frekvenser görs upphackningen på ett sådant sätt att övertonsför
 <br><br>
 <p align="center">
 <figure>
-  <img  src="assets/figur-2.svg" width="600" alt="Referens- och modulationsspänningarnas principiella utseende">
+  <img  src="assets/figur-2.svg" width="500" alt="Referens- och modulationsspänningarnas principiella utseende">
   <figcaption><b>Figur 2.</b> Referens- och modulationsspänningarnas principiella utseende</figcaption>
 </figure>
 </p>
@@ -141,7 +141,7 @@ För att undersöka hur stora förlusterna och pulsationerna är, har fourierana
 <br><br>
 <p align="center">
 <figure>
-  <img  src="assets/figur-3.svg" width="600" alt="Ekvivalent schema för induktor och motor">
+  <img  src="assets/figur-3.svg" width="500" alt="Ekvivalent schema för induktor och motor">
   <figcaption><b>Figur 3.</b> Ekvivalent schema för induktor och motor</figcaption>
 </figure>
 </p>
