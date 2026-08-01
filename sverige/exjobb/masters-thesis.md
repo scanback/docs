@@ -93,6 +93,7 @@ Under senare år har en ny typ av motordrift vuxit fram och vållat stort intres
   <figcaption><b>Figur 1.</b> Likriktare, mellanled, växelriktare, induktor och motor</figcaption>
 </figure>
 </p>
+<br><br>
 
 ### 1.2 Matning
 
@@ -103,11 +104,14 @@ Denna likriktar växelspänningen från nätet till en konstant mellanledsspänn
 <!-- Sida 4 -->
 
 Vid låga frekvenser görs upphackningen på ett sådant sätt att övertonsfördelningen ändras och femte och sjunde övertonen undertrycks, vilket har vissa fördelar ur driftsynpunkt (se punkt 3). Referens- och modulationsspänningen kan därför få ett utseende enligt figur 2.
-
-> **Figur 2.** Referens- och modulationsspänningarnas principiella utseende
+<br><br>
 <p align="center">
-<img  src="assets/figur-2.svg" width="600" alt="Referens- och modulationsspänningarnas principiella utseende">
+<figure>
+  <img  src="assets/figur-2.svg" width="600" alt="Referens- och modulationsspänningarnas principiella utseende">
+  <figcaption><b>Figur 2.</b> Referens- och modulationsspänningarnas principiella utseende</figcaption>
+</figure>
 </p>
+<br><br>
 
 Detta ger således en växelspänning av godtycklig frekvens och amplitud. Maximal grundtonsamplitud erhålls då modulationsspänningen är konstant, dvs hela referenssignalen släpps igenom, och begränsas av mellanledsspänningen.
 
@@ -134,11 +138,14 @@ Förutom den ovan nämnda omfördelningen av övertoner är en metod att minska 
 ### 1.5 Metoder
 
 För att undersöka hur stora förlusterna och pulsationerna är, har fourieranalys av matningsspänningen tillämpats (se bilaga 2). Detta ger sedan, tillämpat på den vanliga maskinmodellen (figur 3) och med hänsyn tagen till strömförträngningsfenomen i rotorn, varje tons tillsats av kopparförluster, samt den totala momentpulsationen kring belastningsmomentet.
-
-> **Figur 3.** Ekvivalent schema för induktor och motor
+<br><br>
 <p align="center">
-<img  src="assets/figur-3.svg" width="600" alt="Ekvivalent schema för induktor och motor">
+<figure>
+  <img  src="assets/figur-3.svg" width="600" alt="Ekvivalent schema för induktor och motor">
+  <figcaption><b>Figur 3.</b> Ekvivalent schema för induktor och motor</figcaption>
+</figure>
 </p>
+<br><br>
 
 Dessa teorier är sammanställda i datorprogrammet PWMIND (pulsviddsmodulation med induktor, se bilaga 4). Till ur detta erhållna resultat har lagts de uppskattade järnförlusterna.
 
@@ -265,12 +272,14 @@ Hittills har förlusterna endast studerats under tomgång. För att komma fram t
 De förluster som uppstår utöver förlusterna vid märklast och sinusmatning resulterar i en nedstämpling av motorn. Nedstämplingen medför att man måste ta ut mindre moment ur motorn för att hålla förlusteffekten nere, och större motorer krävs alltså för ett givet belastningsmoment. Om en serieinduktor läggs in i kretsen kan extraförlusterna minskas och nedstämplingsfaktorn förbättras.
 
 Vid belastning blir inte spänningsfallet över induktorn försumbart (eftersom den ökade eftersläpningen ger en shuntning av magnetiseringsreaktansen även för grundtonen). Detta medför att det nu måste göras en avvägning mellan induktorns negativa spänningssänkande egenskaper och dess positiva dämpning av övertonsförlusterna i motorn. Väger man dessa mot varandra skulle man kunna finna en minimal förlust, om det inte vore så att medan förlusterna avtar med kvadraten på spänningen, så sjunker motorspänningen linjärt. En så stor induktans som möjligt blir därför lämplig vid obegränsad tillgång på spänning och utrymme, för att minska nedstämplingen i en given motor.
-
-> **Figur 4.** Ekvivalent schema för induktor och motor under belastning
+<br><br>
 <p align="center">
-<img  src="assets/figur-4.svg" width="600" alt="Ekvivalent schema för induktor och motor under belastning">
+<figure>
+  <img  src="assets/figur-4.svg" width="500" alt="Ekvivalent schema för induktor och motor under belastning">
+  <figcaption><b>Figur 4.</b> Ekvivalent schema för induktor och motor under belastning
+</figure>
 </p>
-
+<br><br>
 
 <!-- Sida 10 -->
 
