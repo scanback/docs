@@ -438,7 +438,7 @@ T. Porteous, *Programbeskrivningar till PWMOT och RESIST*.
 
 <!-- Sida 26 -->
 
-## 1. Kurvform
+#### 1. Kurvform
 
 Matningen från omriktaren kan i det enklaste fallet göras som en fyrkantspänning (referensspänningen) som multipliceras med en modulationsspänning, bestående av pulser vars bredd moduleras. En sådan matning ger dock upphov till svåra femte- och sjundetons pulsationer vid framförallt låga frekvenser. För att eliminera dessa hackas referensspänningen upp på ett sådant sätt att dessa låga övertoner förläggs i högre frekvenser.
 
@@ -446,7 +446,7 @@ Matningen från omriktaren kan i det enklaste fallet göras som en fyrkantspänn
 
 Dessa båda signaler fourierutvecklas och multipliceras med varandra.
 
-## 2. Fourierutveckling
+#### 2. Fourierutveckling
 
 $R(\varphi)$ är en udda funktion. Fourierutvecklingen innehåller därför endast sinustermer.
 
@@ -563,11 +563,11 @@ $$
 <!-- I originalets sista sinusterm ser frekvensindexet ut som k. Här används n för konsekvens med summationsindexet i samma uttryck. -->
 
 ---
-# Bilaga 3. Beräkningsmodellen
+### Bilaga 3. Beräkningsmodellen
 
 <!-- Sida 28 -->
 
-## 1. Förutsättningar
+#### 1. Förutsättningar
 
 För att kunna studera hur asynkronmaskinen arbetar vid PWM-matning krävs en matematisk modell. Denna grundar sig på:
 
@@ -579,7 +579,7 @@ En tvåpolig trefasmaskin kan ritas (med induktor i serie på statorsidan):
 
 > **Figur 1.** Tvåpolig trefasmaskin med en induktor i serie på statorsidan. Originalfiguren är utelämnad.
 
-## 2. dq-transformation
+#### 2. dq-transformation
 
 Ur figur 1 erhålls uttryck för spänningarna, som efter dq-transformationen
 
@@ -816,7 +816,7 @@ där $a$ är antalet faser och $P$ antalet poler.
 
 <!-- Sida 31 -->
 
-## 3. Fourieranalys
+#### 3. Fourieranalys
 
 För att föra resonemanget vidare införs nu den kurvform som omriktaren ger. Beteckningen s (till exempel $V_{q1}^{s}$) införs som anger variabler i statorns referenssystem, e betecknar ett synkront roterande referenssystem.
 
@@ -1055,13 +1055,13 @@ löses. Dessa ger sedan på sedvanligt sätt förluster och moment ur det vanlig
 <!-- Även denna matris har återgivits i den ordning som syns i originalet. Variabeln n förekommer här utan en uttrycklig definition på sidan; den verkar beteckna den aktuella vågens ordningstal. -->
 
 ---
-# Bilaga 4. Programbeskrivning PWMIND
+### Bilaga 4. Programbeskrivning PWMIND
 
 > **Rekonstruktion, pass 1.** Denna fil omfattar originalets bilaga 4.1–4.5 (PDF-sidorna 33–37). Texten har transkriberats från den skannade kopian. Kretsbilden och ritningen av rotorspåret har utelämnats och ersatts med korta platshållare. Programlistan och körexemplen, som utgör punkterna 9 och 10 i originalets innehållsförteckning, behandlas i separata filer.
 
 <!-- Sida 33 -->
 
-## Innehållsförteckning
+**Innehållsförteckning**
 
 1. Allmänt
 2. Tillämpningsområde
@@ -1076,21 +1076,21 @@ löses. Dessa ger sedan på sedvanligt sätt förluster och moment ur det vanlig
 
 <!-- Sida 34 -->
 
-## 1. Allmänt
+#### 1. Allmänt
 
 Programmet PWMIND är en modifiering av programmet PWMOT, och utför beräkningar av förluster, spänning, ström och moment för en godtycklig kombination av serieinduktor och asynkronmaskin.
 
 > **Figur.** Linjärt ekvivalentschema för en serieinduktor och en asynkronmaskin. Originalfiguren är utelämnad.
 
-## 2. Tillämpningsområde
+#### 2. Tillämpningsområde
 
 Korrekta resultat erhålls för alla linjära ekvivalenta scheman, där matningsspänningen har godtycklig form och frekvens. Programmet tar även hänsyn till strömförträngningsfenomen som vid framför allt höga frekvenser blir betydande.
 
-## 3. Beräkningsgång
+#### 3. Beräkningsgång
 
 Först gör programmet en fourieranalys av spänningen. Därefter beräknas strömmarna för varje delton ur maskindata och spänningens amplitud. Ur detta erhålls till sist spänningsfall över induktorn samt förluster, moment och spänningsfall i motorn.
 
-## 4. Indata
+#### 4. Indata
 
 Till att börja med begärs indata för spänningen:
 
@@ -1150,11 +1150,11 @@ För serieinduktorn behövs:
 
 <!-- Sida 36 -->
 
-## 5. Utmatning
+#### 5. Utmatning
 
 De utmatade värdena förklarar sig själva, men observera att spänningarna är toppvärden.
 
-## 6. "Konstant flöde"
+#### 6. "Konstant flöde"
 
 När man använder asynkronmaskinen vid olika frekvenser eftersträvar man alltid konstant flöde $\Phi$, för att minimera förlusterna vid konstant belastningsmoment. Detta flöde $\Phi$ är proportionellt mot $E/f$, varför man för konstant flöde skall hålla $E$ linjärt mot frekvensen (för grundton). Eftersom det uppstår spänningsfall över induktorn och statorimpedanserna måste klämspänningen $V$ hela tiden ökas för att bibehålla konstant flöde. Detta är främst märkbart vid låga frekvenser.
 
@@ -1172,7 +1172,7 @@ På detta sätt fortsätter iterationen tills `EQ` och `E1` skiljer sig högst 0
 
 **OBS!** $E$ är toppvärde.
 
-## 7. "s-iteration"
+#### 7. "s-iteration"
 
 Vid tillräckligt stora frekvenser eller induktanser går flödet inte att hålla konstant. I stället måste man öka eftersläpningen för att erhålla konstant moment.
 
@@ -1182,7 +1182,7 @@ För att med ett givet moment kunna ta fram tillräcklig eftersläpning har en i
 
 <!--Sida 37 -->
 
-## 8. Körinstruktioner
+### 8. Körinstruktioner
 
 Programmet är gjort i TIME SHARING och körs därför på terminal. Efter inloggning skrivs:
 
@@ -1202,7 +1202,7 @@ Sedan begär programmet parametrar beskrivna som indata i punkt 4.
 Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 
 ---
-# Bilaga 4. Programlista PWMIND — del 1
+### Bilaga 4. Programlista PWMIND — del 1
 
 > **Rekonstruktion, pass 1.** Denna fil omfattar originalets bilaga 4.6–4.9
 > (PDF-sidorna 38–41), från rad 0100 till rad 2490 i programlistan.
@@ -1213,7 +1213,7 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 > originalet i en senare passering. Svenska texter i `PRINT`-satser har
 > återställts med å, ä och ö där de är tydliga.
 
-## Bilaga 4.6
+#### Bilaga 4.6
 
 <!-- Sida 38 -->
 
@@ -1283,7 +1283,7 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 0690      READ,FFI
 ```
 
-## Bilaga 4.7
+#### Bilaga 4.7
 
 <!-- Sida 39 -->
 
@@ -1351,7 +1351,7 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 1290  411 CONTINUE
 ```
 
-## Bilaga 4.8
+#### Bilaga 4.8
 
 <!-- Sida 40 -->
 
@@ -1437,7 +1437,7 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 1890  550 FORMAT(1X,T10,F10.3,"*COS(",I2,"*WT) +",
 ```
 
-## Bilaga 4.9
+#### Bilaga 4.9
 
 <!-- Sida 41 -->
 
@@ -1513,7 +1513,7 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 -->
 
 ---
-# Bilaga 4. Programlista PWMIND — del 2
+### Bilaga 4. Programlista PWMIND — del 2
 
 > **Rekonstruktion, pass 1.** Denna fil omfattar originalets bilaga 4.10–4.14
 > (PDF-sidorna 42–46), från rad 2500 till rad 5860 i programlistan.
@@ -1523,7 +1523,7 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 > Originalets radnumrering hoppar från 4870 till 5650; inga mellanliggande
 > programrader finns på de avbildade sidorna.
 
-## Bilaga 4.10
+#### Bilaga 4.10
 
 <!-- Sida 42 -->
 
@@ -1591,7 +1591,7 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 3090  713 FORMAT(1X,"EQ=",F13.3)
 ```
 
-## Bilaga 4.11 — original sida 43
+#### Bilaga 4.11 — original sida 43
 
 ```fortran
 3100      CPCU2=1.5*RROT(1,1)*(AI(1,1,3)**2+AI(1,1,4)**2)
@@ -1664,7 +1664,7 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 3690      IDRT=IDRT+(AI(K,1,4)+AI(K,2,4))*COS(FI)
 ```
 
-## Bilaga 4.12 — original sida 44
+#### Bilaga 4.12 — original sida 44
 
 ```fortran
 3700     &          -(AI(K,1,3)-AI(K,2,3))*SIN(FI)
@@ -1733,7 +1733,7 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 4290      DO 900 K=1,K1
 ```
 
-## Bilaga 4.13 — original sida 45
+#### Bilaga 4.13 — original sida 45
 
 ```fortran
 4300      FI=ABM(K,1)*(WE*TI-PI/6.)
@@ -1797,7 +1797,7 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
           END
 ```
 
-## Bilaga 4.14 — original sida 46
+#### Bilaga 4.14 — original sida 46
 
 ```fortran
 5650      SUBROUTINE SETA(N)
@@ -1848,7 +1848,7 @@ REAL-deklarationen på rad 5670.
 -->
 
 ---
-# Bilaga 4. Körexempel
+### Bilaga 4. Körexempel
 
 > **Rekonstruktion, pass 1.** Denna fil omfattar originalets bilaga 4.15–4.18
 > (PDF-sidorna 47–50). Utskriften har transkriberats och delvis strukturerats
@@ -1861,7 +1861,7 @@ REAL-deklarationen på rad 5670.
 
 <!-- Sida 47 -->
 
-## 1. Indata och inledande iterationer
+#### 1. Indata och inledande iterationer
 
 ```text
 GE ANTAL ARGUMENT (ALFA) SOM INTE=0
@@ -1966,7 +1966,7 @@ $$
 
 <!-- Sida 48 -->
 
-## 2. Resultat efter konstantflödesiteration
+#### 2. Resultat efter konstantflödesiteration
 
 ```text
 EQ=          170.059
@@ -1975,7 +1975,7 @@ MOMENTET=    703.524     ÖNSKAS NY ITERATION? 1=JA
 PULSKVOT=      0.6983
 ```
 
-## 3. Resultat av Fourieranalys
+#### 3. Resultat av Fourieranalys
 
 | $f/f_0$ | Amplitud | Fasvinkel |
 |---:|---:|---:|
@@ -2020,7 +2020,7 @@ GE SERIEREAKTORDATA:R,L
 =.006 .001
 ```
 
-## 4. Spänning i q-axeln
+#### 4. Spänning i q-axeln
 
 Programutskriften motsvarar följande Fourierserie:
 
@@ -2068,7 +2068,7 @@ $$
 
 <!-- Sida 49 -->
 
-## 5. Kopparförluster och rotorresistanser
+#### 5. Kopparförluster och rotorresistanser
 
 | $K$ | $f/f_0$ | $P_{\mathrm{CU1}}$ | $P_{\mathrm{CU2}}$ | $R_2^+$ | $R_2^-$ |
 |---:|---:|---:|---:|---:|---:|
@@ -2107,7 +2107,7 @@ $$
 I_1 = 0.1403\times10^3\ \mathrm{A}.
 $$
 
-## 6. Spänningsfall över reaktorn
+#### 6. Spänningsfall över reaktorn
 
 För q-axeln skrivs cosinus- och sinuskoefficienterna ut enligt följande:
 
@@ -2132,7 +2132,7 @@ För q-axeln skrivs cosinus- och sinuskoefficienterna ut enligt följande:
 | 49 | -0.2825 | -12.9992 |
 | 53 | 0.1234 | -5.9942 |
 
-## 7. Moment
+#### 7. Moment
 
 ```text
 MOMENTET UNDER 0.1667E-01 SEK. :
@@ -2147,7 +2147,7 @@ uppåt och nedåt på cirka $146.5\ \mathrm{Nm}$ respektive $-118.8\ \mathrm{Nm}
 
 <!-- Sida 50 -->
 
-## 8. Tabell över moment, spänning och ström
+#### 8. Tabell över moment, spänning och ström
 
 ```text
 ÖNSKAS PLOT ELLER TABELL? 1=PLOT 2=TABELL
@@ -2195,8 +2195,9 @@ Pass 2:
 -->
 
 ---
-# Bilaga 7. Variabelförteckning
+### Bilaga 7. Variabelförteckning
 
+<!--
 > **Rekonstruktion, pass 1.** Denna fil omfattar originalets bilaga 7.1–7.2
 > (PDF-sidorna 58–59). Variablerna har återgivits i LaTeX och ordnats i en
 > Markdown-tabell. Originalets svenska beskrivningar har behållits.
@@ -2204,10 +2205,8 @@ Pass 2:
 > Symbolen $\mathrm{ö}$ i ett index betecknar *överton*. Den handskrivna
 > definitionen av $Z_2$ har tolkats som parallellkopplingen mellan
 > magnetiseringsreaktansen och rotorns ekvivalenta gren.
-
+-->
 <!-- Original: Bilaga 7.1, PDF-sida 58 -->
-
-## Variabler A–V
 
 | Symbol | Betydelse |
 |---|---|
@@ -2252,13 +2251,6 @@ Pass 2:
 | $s$ | eftersläpning |
 | $U$ | motorklämspänning |
 | $U_1$ | grundton av $U$ |
-
-<!-- Original: Bilaga 7.2, PDF-sida 59 -->
-
-## Variabler U–$\omega$
-
-| Symbol | Betydelse |
-|---|---|
 | $U_{\mathrm{ö}}$ | övertoner av $U$ |
 | $V$ | omriktarklämspänning |
 | $V_1$ | grundton av $V$ |
