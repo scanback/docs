@@ -6,7 +6,7 @@
 
 ## Studie av övertonsförluster hos en asynkronmaskin seriekopplad med en induktor  
 
-**Utfört av:** Staffan Canback
+**Utfört av:** Staffan Canbäck
 
 **Handledare:** Tom Porteous
 
