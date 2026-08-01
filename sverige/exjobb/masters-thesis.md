@@ -273,10 +273,11 @@ De förluster som uppstår utöver förlusterna vid märklast och sinusmatning r
 
 Vid belastning blir inte spänningsfallet över induktorn försumbart (eftersom den ökade eftersläpningen ger en shuntning av magnetiseringsreaktansen även för grundtonen). Detta medför att det nu måste göras en avvägning mellan induktorns negativa spänningssänkande egenskaper och dess positiva dämpning av övertonsförlusterna i motorn. Väger man dessa mot varandra skulle man kunna finna en minimal förlust, om det inte vore så att medan förlusterna avtar med kvadraten på spänningen, så sjunker motorspänningen linjärt. En så stor induktans som möjligt blir därför lämplig vid obegränsad tillgång på spänning och utrymme, för att minska nedstämplingen i en given motor.
 <br><br>
+
 <p align="center">
 <figure>
   <img  src="assets/figur-4.svg" width="500" alt="Ekvivalent schema för induktor och motor under belastning">
-  <figcaption><b>Figur 4.</b> Ekvivalent schema för induktor och motor under belastning
+  <figcaption><b>Figur 4. </b>Ekvivalent schema för induktor och motor under belastning</figcaption>
 </figure>
 </p>
 <br><br>
