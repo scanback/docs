@@ -2269,7 +2269,7 @@ Pass 2:
 
 <!-- Original: Bilaga 5.1, PDF-sida 51 -->
 
-#### B5.1. Allmänt
+#### B5.1 Allmänt
 
 För att närmare studera de fysiska dimensionerna hos en induktor har vikt
 och volym beräknats för en luftkyld induktor med varierande induktans.
@@ -2287,7 +2287,7 @@ En trefasinduktor har följande utseende:
 
 Luftgapen delas upp i flera delgap för att begränsa läckflöden.
 
-#### B5.2. Beräkningsgång
+#### B5.2 Beräkningsgång
 
 Den i lindningen inducerade spänningen blir
 
@@ -2435,7 +2435,7 @@ $$
 Här är $X$ uttryckt i ohm och $\Delta$ i cm när
 $A_{\mathrm{fe}}$ anges i $\mathrm{cm}^2$.
 
-#### 5.3. Kopparvikter
+#### B5.3 Kopparvikter
 
 Vid strömtätheten
 
@@ -2508,7 +2508,7 @@ A_cu = 84 mm^2 och rho_cu = 7900 kg/m^3 ger ungefär 0.0796, varför
 originalets koefficient kan innehålla ett räkne- eller läsfel.
 -->
 
-#### 5.4. Järnvikter
+#### B5.4 Järnvikter
 
 ***Benen***
 
@@ -2674,6 +2674,7 @@ beräknats med benarean och antalet lager i lindningarna som fria variabler.
 
 <!-- Original: Bilaga 5.4-5.5, PDF-sidorna 54-55 -->
 
+<!--
 > **Figur 1.** Serieinduktorns vikt som funktion av benarean
 > $A_{\mathrm{fe}}$ för $L=0.5\ \mathrm{mH}$ och olika antal
 > lindningslager. Originaldiagrammet är utelämnat.
@@ -2685,6 +2686,7 @@ beräknats med benarean och antalet lager i lindningarna som fria variabler.
 > **Figur 3.** Serieinduktorns vikt som funktion av benarean
 > $A_{\mathrm{fe}}$ för $L=2.0\ \mathrm{mH}$ och olika antal
 > lindningslager. Originaldiagrammet är utelämnat.
+-->
 
 <!--
 Pass 2:
@@ -2696,6 +2698,7 @@ Pass 2:
 
 ### Bilaga 6. Typdata
 
+<!--
 > **Rekonstruktion, pass 1.** Denna fil omfattar originalets bilaga 6.1–6.2
 > (PDF-sidorna 56–57). Tabellerna har transkriberats från den skannade kopian.
 > Ritningen av rotorspåret har utelämnats och ersatts med en figurplatshållare.
@@ -2704,6 +2707,7 @@ Pass 2:
 > $p$ och $J'$. Den har här betecknats $m$, eftersom värdena och notationens
 > placering överensstämmer med variablerna i bilaga 2. Samtliga värden i
 > kolumnen är noll.
+-->
 
 <!-- Original: Bilaga 6.1, PDF-sida 56 -->
 
