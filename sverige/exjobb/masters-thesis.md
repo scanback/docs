@@ -475,7 +475,14 @@ T. Porteous, *Programbeskrivningar till PWMOT och RESIST*.
 
 Matningen från omriktaren kan i det enklaste fallet göras som en fyrkantspänning (referensspänningen) som multipliceras med en modulationsspänning, bestående av pulser vars bredd moduleras. En sådan matning ger dock upphov till svåra femte- och sjundetons pulsationer vid framförallt låga frekvenser. För att eliminera dessa hackas referensspänningen upp på ett sådant sätt att dessa låga övertoner förläggs i högre frekvenser.
 
-> **Kurvformerna $R(\varphi)$ och $M(\theta)$.** Originalfigurer utelämnade.
+<br><br>
+<p align="center">
+<figure>
+  <img  src="assets/figur-5.svg" width="500" alt="Kurvformerna">
+  <figcaption><b>Figur 5.</b> Kurvformerna</figcaption>
+</figure>
+</p>
+<br>
 
 Dessa båda signaler fourierutvecklas och multipliceras med varandra.
 
