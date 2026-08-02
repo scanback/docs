@@ -87,7 +87,7 @@ $\quad$ 7 $\~$ Variabelförteckning
 ### 1.1 Allmänt
 
 Under senare år har en ny typ av motordrift vuxit fram och vållat stort intresse bland motortillverkare. Vid bland annat traktionsdrift har det visat sig att asynkronmaskiner med omriktarmatning på allvar har börjat konkurrera med den tyristorlikriktarmatade likströmsmotorn. Fördelarna är många; så är till exempel asynkronmotorn betydligt mer robust än likströmsmotorn, den kräver avsevärt mindre underhåll och klarar även svåra miljöer bättre. Dessutom kan ofta standardmotorer användas, vilket pressar priser och underlättar service. I takt med att priserna på tyristorer med hjälpelektronik har sjunkit har därför alternativet med omriktare och asynkronmotor blivit allt mer konkurrenskraftigt.
-<br><br>
+<br>
 <p align="center">
 <figure>
   <img  src="assets/figur-1.svg" width="500" alt="Likriktare, mellanled, växelriktare, induktor och motor">
@@ -105,7 +105,7 @@ Denna likriktar växelspänningen från nätet till en konstant mellanledsspänn
 <!-- Sida 4 -->
 
 Vid låga frekvenser görs upphackningen på ett sådant sätt att övertonsfördelningen ändras och femte och sjunde övertonen undertrycks, vilket har vissa fördelar ur driftsynpunkt (se punkt 3). Referens- och modulationsspänningen kan därför få ett utseende enligt figur 2.
-<br><br>
+<br>
 <p align="center">
 <figure>
   <img  src="assets/figur-2.svg" width="500" alt="Referens- och modulationsspänningarnas principiella utseende">
@@ -139,7 +139,7 @@ Förutom den ovan nämnda omfördelningen av övertoner är en metod att minska 
 ### 1.5 Metoder
 
 För att undersöka hur stora förlusterna och pulsationerna är, har fourieranalys av matningsspänningen tillämpats (se bilaga 2). Detta ger sedan, tillämpat på den vanliga maskinmodellen (figur 3) och med hänsyn tagen till strömförträngningsfenomen i rotorn, varje tons tillsats av kopparförluster, samt den totala momentpulsationen kring belastningsmomentet.
-<br><br>
+<br>
 <p align="center">
 <figure>
   <img  src="assets/figur-3.svg" width="500" alt="Ekvivalent schema för induktor och motor">
@@ -274,8 +274,7 @@ Hittills har förlusterna endast studerats under tomgång. För att komma fram t
 De förluster som uppstår utöver förlusterna vid märklast och sinusmatning resulterar i en nedstämpling av motorn. Nedstämplingen medför att man måste ta ut mindre moment ur motorn för att hålla förlusteffekten nere, och större motorer krävs alltså för ett givet belastningsmoment. Om en serieinduktor läggs in i kretsen kan extraförlusterna minskas och nedstämplingsfaktorn förbättras.
 
 Vid belastning blir inte spänningsfallet över induktorn försumbart (eftersom den ökade eftersläpningen ger en shuntning av magnetiseringsreaktansen även för grundtonen). Detta medför att det nu måste göras en avvägning mellan induktorns negativa spänningssänkande egenskaper och dess positiva dämpning av övertonsförlusterna i motorn. Väger man dessa mot varandra skulle man kunna finna en minimal förlust, om det inte vore så att medan förlusterna avtar med kvadraten på spänningen, så sjunker motorspänningen linjärt. En så stor induktans som möjligt blir därför lämplig vid obegränsad tillgång på spänning och utrymme, för att minska nedstämplingen i en given motor.
-<br><br>
-
+<br>
 <p align="center">
 <figure>
   <img  src="assets/figur-4.svg" width="500" alt="Ekvivalent schema för induktor och motor under belastning">
@@ -474,8 +473,7 @@ T. Porteous, *Programbeskrivningar till PWMOT och RESIST*.
 #### B1.1 Kurvform
 
 Matningen från omriktaren kan i det enklaste fallet göras som en fyrkantspänning (referensspänningen) som multipliceras med en modulationsspänning, bestående av pulser vars bredd moduleras. En sådan matning ger dock upphov till svåra femte- och sjundetons pulsationer vid framförallt låga frekvenser. För att eliminera dessa hackas referensspänningen upp på ett sådant sätt att dessa låga övertoner förläggs i högre frekvenser.
-
-<br><br>
+<br>
 <p align="center">
 <figure>
   <img  src="assets/figur-5.svg" width="500" alt="Kurvformerna">
@@ -616,7 +614,7 @@ För att kunna studera hur asynkronmaskinen arbetar vid PWM-matning krävs en ma
 3. nollföljden existerar inte
 
 En tvåpolig trefasmaskin kan ritas (med induktor i serie på statorsidan):
-<br><br>
+<br>
 <p align="center">
 <figure>
   <img  src="assets/figur-6.svg" width="500" alt="Tvåpolig trefasmaskin">
