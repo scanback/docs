@@ -1124,21 +1124,28 @@ löses. Dessa ger sedan på sedvanligt sätt förluster och moment ur det vanlig
 
 <!-- Sida 34 -->
 
-#### 1. Allmänt
+#### B4.1 Allmänt
 
 Programmet PWMIND är en modifiering av programmet PWMOT, och utför beräkningar av förluster, spänning, ström och moment för en godtycklig kombination av serieinduktor och asynkronmaskin.
 
-> **Figur.** Linjärt ekvivalentschema för en serieinduktor och en asynkronmaskin. Originalfiguren är utelämnad.
+<br>
+<p align="center">
+<figure>
+  <img  src="assets/figur-7.svg" width="500" alt="Linjärt ekvivalentschema för en serieinduktor och en asynkronmaskin">
+  <figcaption><b>Figur 7.</b> Linjärt ekvivalentschema för en serieinduktor och en asynkronmaskin</figcaption>
+</figure>
+</p>
+<br>
 
-#### 2. Tillämpningsområde
+#### B4.2 Tillämpningsområde
 
 Korrekta resultat erhålls för alla linjära ekvivalenta scheman, där matningsspänningen har godtycklig form och frekvens. Programmet tar även hänsyn till strömförträngningsfenomen som vid framför allt höga frekvenser blir betydande.
 
-#### 3. Beräkningsgång
+#### B4.3 Beräkningsgång
 
 Först gör programmet en fourieranalys av spänningen. Därefter beräknas strömmarna för varje delton ur maskindata och spänningens amplitud. Ur detta erhålls till sist spänningsfall över induktorn samt förluster, moment och spänningsfall i motorn.
 
-#### 4. Indata
+#### B4.4 Indata
 
 Till att börja med begärs indata för spänningen:
 
@@ -1198,11 +1205,11 @@ För serieinduktorn behövs:
 
 <!-- Sida 36 -->
 
-#### 5. Utmatning
+#### B4.5 Utmatning
 
 De utmatade värdena förklarar sig själva, men observera att spänningarna är toppvärden.
 
-#### 6. "Konstant flöde"
+#### B4.6 "Konstant flöde"
 
 När man använder asynkronmaskinen vid olika frekvenser eftersträvar man alltid konstant flöde $\Phi$, för att minimera förlusterna vid konstant belastningsmoment. Detta flöde $\Phi$ är proportionellt mot $E/f$, varför man för konstant flöde skall hålla $E$ linjärt mot frekvensen (för grundton). Eftersom det uppstår spänningsfall över induktorn och statorimpedanserna måste klämspänningen $V$ hela tiden ökas för att bibehålla konstant flöde. Detta är främst märkbart vid låga frekvenser.
 
@@ -1220,7 +1227,7 @@ På detta sätt fortsätter iterationen tills `EQ` och `E1` skiljer sig högst 0
 
 **OBS!** $E$ är toppvärde.
 
-#### 7. "s-iteration"
+#### B4.7 "s-iteration"
 
 Vid tillräckligt stora frekvenser eller induktanser går flödet inte att hålla konstant. I stället måste man öka eftersläpningen för att erhålla konstant moment.
 
@@ -1230,7 +1237,7 @@ För att med ett givet moment kunna ta fram tillräcklig eftersläpning har en i
 
 <!--Sida 37 -->
 
-#### 8. Körinstruktioner
+#### B4.8 Körinstruktioner
 
 Programmet är gjort i TIME SHARING och körs därför på terminal. Efter inloggning skrivs:
 
@@ -1250,7 +1257,7 @@ Sedan begär programmet parametrar beskrivna som indata i punkt 4.
 Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 
 ---
-### Bilaga 4.9 Programlistning PWMIND
+### B4.9 Programlistning PWMIND
 
 > **Rekonstruktion, pass 1.** Denna fil omfattar originalets bilaga 4.6–4.9
 > (PDF-sidorna 38–41), från rad 0100 till rad 2490 i programlistan.
@@ -1895,7 +1902,7 @@ REAL-deklarationen på rad 5670.
 -->
 
 ---
-### Bilaga 4.10. Körexempel
+### Bilaga 4.10 Körexempel
 
 > **Rekonstruktion, pass 1.** Denna fil omfattar originalets bilaga 4.15–4.18
 > (PDF-sidorna 47–50). Utskriften har transkriberats och delvis strukturerats
@@ -1908,7 +1915,7 @@ REAL-deklarationen på rad 5670.
 
 <!-- Sida 47 -->
 
-#### B4.10.1. Indata och inledande iterationer
+#### B4.10.1 Indata och inledande iterationer
 
 ```text
 GE ANTAL ARGUMENT (ALFA) SOM INTE=0
@@ -2013,7 +2020,7 @@ $$
 
 <!-- Sida 48 -->
 
-#### B4.10.2. Resultat efter konstantflödesiteration
+#### B4.10.2 Resultat efter konstantflödesiteration
 
 ```text
 EQ=          170.059
@@ -2022,7 +2029,7 @@ MOMENTET=    703.524     ÖNSKAS NY ITERATION? 1=JA
 PULSKVOT=      0.6983
 ```
 
-#### B4.10.3. Resultat av Fourieranalys
+#### B4.10.3 Resultat av Fourieranalys
 
 | $f/f_0$ | Amplitud | Fasvinkel |
 |---:|---:|---:|
@@ -2067,7 +2074,7 @@ GE SERIEREAKTORDATA:R,L
 =.006 .001
 ```
 
-#### B4.10.4. Spänning i q-axeln
+#### B4.10.4 Spänning i q-axeln
 
 Programutskriften motsvarar följande Fourierserie:
 
@@ -2115,7 +2122,7 @@ $$
 
 <!-- Sida 49 -->
 
-#### B4.10.5. Kopparförluster och rotorresistanser
+#### B4.10.5 Kopparförluster och rotorresistanser
 
 | $K$ | $f/f_0$ | $P_{\mathrm{CU1}}$ | $P_{\mathrm{CU2}}$ | $R_2^+$ | $R_2^-$ |
 |---:|---:|---:|---:|---:|---:|
@@ -2267,7 +2274,7 @@ En trefasinduktor har följande utseende:
 <br>
 <p align="center">
 <figure>
-  <img  src="assets/figur-7.svg" width="500" alt="EPrincipskiss av en trefasinduktor">
+  <img  src="assets/figur-7.svg" width="500" alt="Principskiss av en trefasinduktor">
   <figcaption><b>Figur 7.</b> Principskiss av en trefasinduktor</figcaption>
 </figure>
 </p>
