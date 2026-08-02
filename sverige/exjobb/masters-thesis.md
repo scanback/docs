@@ -1908,7 +1908,7 @@ REAL-deklarationen på rad 5670.
 
 <!-- Sida 47 -->
 
-#### 4.10.1. Indata och inledande iterationer
+#### B4.10.1. Indata och inledande iterationer
 
 ```text
 GE ANTAL ARGUMENT (ALFA) SOM INTE=0
@@ -2013,7 +2013,7 @@ $$
 
 <!-- Sida 48 -->
 
-#### 4.10.2. Resultat efter konstantflödesiteration
+#### B4.10.2. Resultat efter konstantflödesiteration
 
 ```text
 EQ=          170.059
@@ -2022,7 +2022,7 @@ MOMENTET=    703.524     ÖNSKAS NY ITERATION? 1=JA
 PULSKVOT=      0.6983
 ```
 
-#### 4.10.3. Resultat av Fourieranalys
+#### B4.10.3. Resultat av Fourieranalys
 
 | $f/f_0$ | Amplitud | Fasvinkel |
 |---:|---:|---:|
@@ -2067,7 +2067,7 @@ GE SERIEREAKTORDATA:R,L
 =.006 .001
 ```
 
-#### 4.10.4. Spänning i q-axeln
+#### B4.10.4. Spänning i q-axeln
 
 Programutskriften motsvarar följande Fourierserie:
 
@@ -2115,7 +2115,7 @@ $$
 
 <!-- Sida 49 -->
 
-#### 4.10.5. Kopparförluster och rotorresistanser
+#### B4.10.5. Kopparförluster och rotorresistanser
 
 | $K$ | $f/f_0$ | $P_{\mathrm{CU1}}$ | $P_{\mathrm{CU2}}$ | $R_2^+$ | $R_2^-$ |
 |---:|---:|---:|---:|---:|---:|
@@ -2154,7 +2154,7 @@ $$
 I_1 = 0.1403\times10^3\ \mathrm{A}.
 $$
 
-#### 4.10.6. Spänningsfall över reaktorn
+#### B4.10.6. Spänningsfall över reaktorn
 
 För q-axeln skrivs cosinus- och sinuskoefficienterna ut enligt följande:
 
@@ -2179,7 +2179,7 @@ För q-axeln skrivs cosinus- och sinuskoefficienterna ut enligt följande:
 | 49 | -0.2825 | -12.9992 |
 | 53 | 0.1234 | -5.9942 |
 
-#### 4.10.7. Moment
+#### B4.10.7. Moment
 
 ```text
 MOMENTET UNDER 0.1667E-01 SEK. :
@@ -2194,7 +2194,7 @@ uppåt och nedåt på cirka $146.5\ \mathrm{Nm}$ respektive $-118.8\ \mathrm{Nm}
 
 <!-- Sida 50 -->
 
-#### 4.10.8. Tabell över moment, spänning och ström
+#### B4.10.8. Tabell över moment, spänning och ström
 
 ```text
 ÖNSKAS PLOT ELLER TABELL? 1=PLOT 2=TABELL
@@ -2257,27 +2257,25 @@ Pass 2:
 
 <!-- Original: Bilaga 5.1, PDF-sida 51 -->
 
-#### 5.1. Allmänt
+#### B5.1. Allmänt
 
 För att närmare studera de fysiska dimensionerna hos en induktor har vikt
 och volym beräknats för en luftkyld induktor med varierande induktans.
 
 En trefasinduktor har följande utseende:
 
-> **Figur.** Principskiss av en trefasinduktor. Originalfiguren är utelämnad.
->
-> Beteckningar i originalfiguren:
->
-> - $\sum \delta = \Delta$: sammanlagt luftgap
-> - $N$: varv per fas
-> - $a$: antal lindningslager
-> - kärnans djup: $\sqrt{A_{\mathrm{fe}}}$
-> - $B$: kärnans bredd
-> - $H$: kärnans höjd
+<br>
+<p align="center">
+<figure>
+  <img  src="assets/figur-7.svg" width="500" alt="EPrincipskiss av en trefasinduktor">
+  <figcaption><b>Figur 7.</b> Principskiss av en trefasinduktor</figcaption>
+</figure>
+</p>
+<br>
 
 Luftgapen delas upp i flera delgap för att begränsa läckflöden.
 
-#### 5.2. Beräkningsgång
+#### B5.2. Beräkningsgång
 
 Den i lindningen inducerade spänningen blir
 
