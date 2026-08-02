@@ -620,13 +620,11 @@ En tvåpolig trefasmaskin kan ritas (med induktor i serie på statorsidan):
 <p align="center">
 <figure>
   <img  src="assets/figur-6.svg" width="500" alt="Tvåpolig trefasmaskin">
-  <figcaption><b>Figur 3.</b> Tvåpolig trefasmaskin</figcaption>
+  <figcaption><b>Figur 6.</b> Tvåpolig trefasmaskin</figcaption>
 </figure>
 </p>
 <br>
 
-> **Figur 1.** Tvåpolig trefasmaskin
-> 
 #### 2. dq-transformation
 
 Ur figur 1 erhålls uttryck för spänningarna, som efter dq-transformationen
@@ -1185,7 +1183,7 @@ Sedan följer inmatning av maskinparametrar, vilket endast behöver göras före
 </p>
 <br>
 
-De handskrivna beteckningarna vid figuren anger:
+Beteckningarna vid figuren anger:
 
 - `SPTR`: spårtyp enligt programmet RESIST
 - $\rho_2$: ledarresistivitet
