@@ -2253,7 +2253,7 @@ Pass 2:
 > $\hat B$ anges i gauss, $A_{\mathrm{fe}}$ i $\mathrm{cm}^2$ och
 > luftgapet $\Delta$ i cm.-->
 
-> Not: I bland cgs-enheter istället för SI-enheter som konventionen ibland är inom elektromagnetism.
+> Not: Ibland används cgs-enheter istället för SI-enheter som konventionen ofta är inom elektromagnetisk fysik.
 
 <!-- Original: Bilaga 5.1, PDF-sida 51 -->
 
