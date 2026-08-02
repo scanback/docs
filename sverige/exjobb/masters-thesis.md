@@ -1130,7 +1130,7 @@ Programmet PWMIND är en modifiering av programmet PWMOT, och utför beräkninga
 <p align="center">
 <figure>
   <img  src="assets/figur-7.svg" width="500" alt="Linjärt ekvivalentschema för en serieinduktor och en asynkronmaskin">
-  <figcaption><b>Figur 7.</b> Linjärt ekvivalentschema för en serieinduktor och en asynkronmaskin</figcaption>
+  <figcaption><b>Figur 7.</b> Ekvivalent schema för induktor och motor under belastning (även i figur 4)</figcaption>
 </figure>
 </p>
 <br>
