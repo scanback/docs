@@ -1175,7 +1175,7 @@ Sedan följer inmatning av maskinparametrar, vilket endast behöver göras före
 <br>
 <p align="center">
 <figure>
-  <img  src="assets/figur-8.svg" width="500" alt="Måttskiss för rotorspåret">
+  <img  src="assets/figur-8.svg" width="400" alt="Måttskiss för rotorspåret">
   <figcaption><b>Figur 8.</b> Måttskiss för rotorspåret</figcaption>
 </figure>
 </p>
@@ -2790,7 +2790,7 @@ $$
 <br>
 <p align="center">
 <figure>
-  <img  src="assets/figur-10.svg" width="500" alt="Måttskiss för rotorspåret">
+  <img  src="assets/figur-10.svg" width="400" alt="Måttskiss för rotorspåret">
   <figcaption><b>Figur 10.</b> Måttskiss för rotorspåret (även figur 8)</figcaption>
 </figure>
 </p>
