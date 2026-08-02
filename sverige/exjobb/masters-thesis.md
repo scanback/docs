@@ -2243,6 +2243,7 @@ Pass 2:
 
 ### Bilaga 5. Beräkning av induktorstorlek
 
+<!--
 > **Rekonstruktion, pass 1.** Denna fil omfattar originalets bilaga 5.1-5.5
 > (PDF-sidorna 51-55). Text och beräkningar har transkriberats från den
 > skannade kopian. De tre avslutande diagrammen har, enligt projektets
@@ -2250,7 +2251,9 @@ Pass 2:
 >
 > Originalet använder i flera formler ett cgs-baserat enhetssystem:
 > $\hat B$ anges i gauss, $A_{\mathrm{fe}}$ i $\mathrm{cm}^2$ och
-> luftgapet $\Delta$ i cm.
+> luftgapet $\Delta$ i cm.-->
+
+> Not: I bland cgs-enheter istället för SI-enheter som konventionen ibland är inom elektromagnetism.
 
 <!-- Original: Bilaga 5.1, PDF-sida 51 -->
 
@@ -2497,7 +2500,7 @@ originalets koefficient kan innehålla ett räkne- eller läsfel.
 
 #### 5.4. Järnvikter
 
-**Benen**
+***Benen***
 
 Järnvikten i de tre benen skrivs
 
@@ -2536,7 +2539,7 @@ $$
 
 Här anges $A_{\mathrm{fe}}$ i $\mathrm{cm}^2$ och massan i kg.
 
-**Oken**
+***Oken***
 
 Järnvikten i de två oken skrivs
 
