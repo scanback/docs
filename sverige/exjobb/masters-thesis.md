@@ -475,7 +475,14 @@ T. Porteous, *Programbeskrivningar till PWMOT och RESIST*.
 
 Matningen från omriktaren kan i det enklaste fallet göras som en fyrkantspänning (referensspänningen) som multipliceras med en modulationsspänning, bestående av pulser vars bredd moduleras. En sådan matning ger dock upphov till svåra femte- och sjundetons pulsationer vid framförallt låga frekvenser. För att eliminera dessa hackas referensspänningen upp på ett sådant sätt att dessa låga övertoner förläggs i högre frekvenser.
 
-> **Kurvformerna $R(\varphi)$ och $M(\theta)$.** Originalfigurer utelämnade.
+<br><br>
+<p align="center">
+<figure>
+  <img  src="assets/figur-5.svg" width="500" alt="Kurvformerna">
+  <figcaption><b>Figur 5.</b> Kurvformerna</figcaption>
+</figure>
+</p>
+<br>
 
 Dessa båda signaler fourierutvecklas och multipliceras med varandra.
 
@@ -609,9 +616,17 @@ För att kunna studera hur asynkronmaskinen arbetar vid PWM-matning krävs en ma
 3. nollföljden existerar inte
 
 En tvåpolig trefasmaskin kan ritas (med induktor i serie på statorsidan):
+<br><br>
+<p align="center">
+<figure>
+  <img  src="assets/figur-6.svg" width="500" alt="Tvåpolig trefasmaskin">
+  <figcaption><b>Figur 3.</b> Tvåpolig trefasmaskin</figcaption>
+</figure>
+</p>
+<br>
 
-> **Figur 1.** Tvåpolig trefasmaskin med en induktor i serie på statorsidan. Originalfiguren är utelämnad.
-
+> **Figur 1.** Tvåpolig trefasmaskin
+> 
 #### 2. dq-transformation
 
 Ur figur 1 erhålls uttryck för spänningarna, som efter dq-transformationen
