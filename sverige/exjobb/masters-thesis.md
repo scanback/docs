@@ -2891,7 +2891,7 @@ Pass 2:
 | $V$ | omriktarklämspänning |
 | $V_1$ | grundton av $V$ |
 | $V_{ö}$ | övertoner av $V$ |
-| $Z_2$ | $jX_m \mathbin{//} \left(\dfrac{R_2}{s}+jX_2\right)$ |
+| $Z_2$ | $jX_m \parallel \left(\dfrac{R_2}{s}+jX_2\right)$ |
 | $\alpha_i$ | hackvinklar |
 | $\beta$ | vinkel mellan q-axeln och rotorns r-axel |
 | $\gamma$ | $U$, $I$ eller $\mathit{\Psi}$ |
