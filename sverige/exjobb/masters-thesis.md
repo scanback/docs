@@ -3,7 +3,7 @@ title: "Examensarbete i elektrisk effektomvandling"
 Description: "Studie av övertonsförluster hos en asynkronmaskin seriekopplad med en induktor. 🇸🇪"
 image: /assets/social-card-sverige.png
 ---
-`Ännu inte fullt verifierad mot originalet. Viktiga diagram och figurer kommer läggas till.`
+`Ännu inte fullt verifierad mot originalet. Viktiga diagram kommer läggas till.`
 
 ---
 <!-- Sida 1 -->
@@ -471,7 +471,7 @@ T. Porteous, *Programbeskrivningar till PWMOT och RESIST*.
 
 <!-- Sida 26 -->
 
-#### 1. Kurvform
+#### B1.1 Kurvform
 
 Matningen från omriktaren kan i det enklaste fallet göras som en fyrkantspänning (referensspänningen) som multipliceras med en modulationsspänning, bestående av pulser vars bredd moduleras. En sådan matning ger dock upphov till svåra femte- och sjundetons pulsationer vid framförallt låga frekvenser. För att eliminera dessa hackas referensspänningen upp på ett sådant sätt att dessa låga övertoner förläggs i högre frekvenser.
 
@@ -486,7 +486,7 @@ Matningen från omriktaren kan i det enklaste fallet göras som en fyrkantspänn
 
 Dessa båda signaler fourierutvecklas och multipliceras med varandra.
 
-#### 2. Fourierutveckling
+#### B2. Fourierutveckling
 
 $R(\varphi)$ är en udda funktion. Fourierutvecklingen innehåller därför endast sinustermer.
 
@@ -1109,16 +1109,16 @@ löses. Dessa ger sedan på sedvanligt sätt förluster och moment ur det vanlig
 
 **Innehållsförteckning**
 
-1. Allmänt
-2. Tillämpningsområde
-3. Beräkningsordning
-4. Indata
-5. Utmatning
-6. "Konstant flöde"
-7. "s-iteration"
-8. Körinstruktioner
-9. Programlista
-10. Körexempel
+B4.1 $\~$ Allmänt
+B4.2 $\~$ Tillämpningsområde
+B4.3 $\~$ Beräkningsordning
+B4.4 $\~~$ Indata
+B4.5 $\~$ Utmatning
+B4.6 $\~$ "Konstant flöde"
+B4.7 $\~$ "s-iteration"
+B4.8 $\~$ Körinstruktioner
+B4.9 $\~$ Programlista
+B4.10. Körexempel
 
 <!-- Sida 34 -->
 
@@ -1909,6 +1909,7 @@ REAL-deklarationen på rad 5670.
 ---
 ### Bilaga 4.10 Körexempel
 
+<!--
 > **Rekonstruktion, pass 1.** Denna fil omfattar originalets bilaga 4.15–4.18
 > (PDF-sidorna 47–50). Utskriften har transkriberats och delvis strukturerats
 > i tabeller. Programfrågor och användarsvar har i huvudsak behållits i den
@@ -1917,6 +1918,7 @@ REAL-deklarationen på rad 5670.
 > `W` i programutskriften har nedan återgivits som $\omega$ där uttrycken har
 > satts i LaTeX. Några av de minsta koefficienterna är svårlästa och bör
 > kontrolleras mot originalet i pass 2.
+-->
 
 <!-- Sida 47 -->
 
@@ -2166,7 +2168,7 @@ $$
 I_1 = 0.1403\times10^3\ \mathrm{A}.
 $$
 
-#### B4.10.6. Spänningsfall över reaktorn
+#### B4.10.6 Spänningsfall över reaktorn
 
 För q-axeln skrivs cosinus- och sinuskoefficienterna ut enligt följande:
 
@@ -2191,7 +2193,7 @@ För q-axeln skrivs cosinus- och sinuskoefficienterna ut enligt följande:
 | 49 | -0.2825 | -12.9992 |
 | 53 | 0.1234 | -5.9942 |
 
-#### B4.10.7. Moment
+#### B4.10.7 Moment
 
 ```text
 MOMENTET UNDER 0.1667E-01 SEK. :
@@ -2206,7 +2208,7 @@ uppåt och nedåt på cirka $146.5\ \mathrm{Nm}$ respektive $-118.8\ \mathrm{Nm}
 
 <!-- Sida 50 -->
 
-#### B4.10.8. Tabell över moment, spänning och ström
+#### B4.10.8 Tabell över moment, spänning och ström
 
 ```text
 ÖNSKAS PLOT ELLER TABELL? 1=PLOT 2=TABELL
@@ -2613,7 +2615,7 @@ $$
 
 <!-- Original: Bilaga 5.3, PDF-sida 53 -->
 
-#### 5.5. Sammanfattning
+#### 5.5 Sammanfattning
 
 De använda uttrycken kan sammanfattas som
 
@@ -2711,7 +2713,7 @@ Pass 2:
 
 <!-- Original: Bilaga 6.1, PDF-sida 56 -->
 
-#### 6.1. Omriktare
+#### B6.1 Omriktare
 
 Mellanledsspänningen är
 
@@ -2733,7 +2735,7 @@ $$
 | K | 39.06–50.00 | 1 | 0 |  |  |
 | L | 50.00– | — | 0 |  |  |
 
-#### 6.2. Motor
+#### B6.2 Motor
 
 Motorn är en **MBK 280 S-6 med forcerad kylning**.
 
@@ -2785,7 +2787,7 @@ $$
 
 <!-- Original: Bilaga 6.2, PDF-sida 57 -->
 
-#### 6.3. Spårdata
+#### B6.3 Spårdata
 
 <br>
 <p align="center">
