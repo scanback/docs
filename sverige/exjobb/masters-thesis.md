@@ -1101,7 +1101,9 @@ löses. Dessa ger sedan på sedvanligt sätt förluster och moment ur det vanlig
 ---
 ### Bilaga 4. Programbeskrivning PWMIND
 
+<!--
 > **Rekonstruktion, pass 1.** Denna fil omfattar originalets bilaga 4.1–4.5 (PDF-sidorna 33–37). Texten har transkriberats från den skannade kopian. Kretsbilden och ritningen av rotorspåret har utelämnats och ersatts med korta platshållare. Programlistan och körexemplen, som utgör punkterna 9 och 10 i originalets innehållsförteckning, behandlas i separata filer.
+-->
 
 <!-- Sida 33 -->
 
@@ -1262,6 +1264,7 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 ---
 ### B4.9 Programlistning PWMIND
 
+<!--
 > **Rekonstruktion, pass 1.** Denna fil omfattar originalets bilaga 4.6–4.9
 > (PDF-sidorna 38–41), från rad 0100 till rad 2490 i programlistan.
 >
@@ -1270,6 +1273,7 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 > svårlästa variabelnamn och fortsättningsrader bör därför kontrolleras mot
 > originalet i en senare passering. Svenska texter i `PRINT`-satser har
 > återställts med å, ä och ö där de är tydliga.
+-->
 
 #### Del 1
 
@@ -1572,6 +1576,7 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 
 ---
 
+<!--
 > **Rekonstruktion, pass 1.** Denna fil omfattar originalets bilaga 4.10–4.14
 > (PDF-sidorna 42–46), från rad 2500 till rad 5860 i programlistan.
 >
@@ -1579,6 +1584,7 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 > Punktmatrisskriften och några mycket täta uttryck gör vissa rader osäkra.
 > Originalets radnumrering hoppar från 4870 till 5650; inga mellanliggande
 > programrader finns på de avbildade sidorna.
+-->
 
 #### Del 5
 
@@ -2263,7 +2269,8 @@ Pass 2:
 >
 > Originalet använder i flera formler ett cgs-baserat enhetssystem:
 > $\hat B$ anges i gauss, $A_{\mathrm{fe}}$ i $\mathrm{cm}^2$ och
-> luftgapet $\Delta$ i cm.-->
+> luftgapet $\Delta$ i cm.
+-->
 
 > Not: Ibland används cgs-enheter istället för SI-enheter som konventionen ofta är inom elektromagnetisk fysik.
 
