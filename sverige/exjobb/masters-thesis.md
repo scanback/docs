@@ -2269,7 +2269,7 @@ Pass 2:
 
 > Not: Ibland används cgs-enheter istället för SI-enheter som konventionen ofta är inom elektromagnetisk fysik.
 
-<!-- Original: Bilaga 5.1, PDF-sida 51 -->
+<!-- Original: Bilaga B5.1, PDF-sida 51 -->
 
 #### B5.1 Allmänt
 
@@ -2281,8 +2281,8 @@ En trefasinduktor har följande utseende:
 <br>
 <p align="center">
 <figure>
-  <img  src="assets/figur-7.svg" width="500" alt="Principskiss av en trefasinduktor">
-  <figcaption><b>Figur 7.</b> Principskiss av en trefasinduktor</figcaption>
+  <img  src="assets/figur-9.svg" width="500" alt="Principskiss av en trefasinduktor">
+  <figcaption><b>Figur 9.</b> Principskiss av en trefasinduktor</figcaption>
 </figure>
 </p>
 <br>
