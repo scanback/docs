@@ -2052,7 +2052,7 @@ GE SERIEREAKTORDATA:R,L
 =.006 .001
 ```
 
-#### 4.10.3. Spänning i q-axeln
+#### 4.10.4. Spänning i q-axeln
 
 Programutskriften motsvarar följande Fourierserie:
 
@@ -2179,7 +2179,7 @@ uppåt och nedåt på cirka $146.5\ \mathrm{Nm}$ respektive $-118.8\ \mathrm{Nm}
 
 <!-- Sida 50 -->
 
-#### 8. Tabell över moment, spänning och ström
+#### 4.10.8. Tabell över moment, spänning och ström
 
 ```text
 ÖNSKAS PLOT ELLER TABELL? 1=PLOT 2=TABELL
