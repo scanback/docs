@@ -1176,6 +1176,14 @@ Sedan följer inmatning av maskinparametrar, vilket endast behöver göras före
 | `P` | Poltal | |
 | `FB` | Basfrekvens | Hz |
 
+<br>
+<p align="center">
+<figure>
+  <img  src="assets/figur-8.svg" width="500" alt="Måttskiss för rotorspåret">
+  <figcaption><b>Figur 8.</b> Måttskiss för rotorspåret</figcaption>
+</figure>
+</p>
+<br>
 > **Figur.** Måttskiss för rotorspåret. Originalfiguren är utelämnad.
 
 De handskrivna beteckningarna vid figuren anger:
