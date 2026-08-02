@@ -1184,7 +1184,6 @@ Sedan följer inmatning av maskinparametrar, vilket endast behöver göras före
 </figure>
 </p>
 <br>
-> **Figur.** Måttskiss för rotorspåret. Originalfiguren är utelämnad.
 
 De handskrivna beteckningarna vid figuren anger:
 
@@ -2786,7 +2785,14 @@ $$
 
 #### 6.3. Spårdata
 
-> **Figur.** Måttskiss för rotorspåret. Originalfiguren är utelämnad.
+<br>
+<p align="center">
+<figure>
+  <img  src="assets/figur-9.svg" width="500" alt="Måttskiss för rotorspåret">
+  <figcaption><b>Figur 9.</b> Måttskiss för rotorspåret</figcaption>
+</figure>
+</p>
+<br>
 
 De handskrivna kommentarerna till figuren anger:
 
