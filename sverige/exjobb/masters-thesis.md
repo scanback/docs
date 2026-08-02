@@ -609,9 +609,17 @@ För att kunna studera hur asynkronmaskinen arbetar vid PWM-matning krävs en ma
 3. nollföljden existerar inte
 
 En tvåpolig trefasmaskin kan ritas (med induktor i serie på statorsidan):
+<br><br>
+<p align="center">
+<figure>
+  <img  src="assets/figur-6.svg" width="500" alt="Tvåpolig trefasmaskin">
+  <figcaption><b>Figur 3.</b> Tvåpolig trefasmaskin</figcaption>
+</figure>
+</p>
+<br>
 
-> **Figur 1.** Tvåpolig trefasmaskin med en induktor i serie på statorsidan. Originalfiguren är utelämnad.
-
+> **Figur 1.** Tvåpolig trefasmaskin
+> 
 #### 2. dq-transformation
 
 Ur figur 1 erhålls uttryck för spänningarna, som efter dq-transformationen
