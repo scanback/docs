@@ -2226,6 +2226,564 @@ Pass 2:
   beteckningar IDST och IDRT.
 -->
 
+### Bilaga 5. Beräkning av induktorstorlek
+
+> **Rekonstruktion, pass 1.** Denna fil omfattar originalets bilaga 5.1-5.5
+> (PDF-sidorna 51-55). Text och beräkningar har transkriberats från den
+> skannade kopian. De tre avslutande diagrammen har, enligt projektets
+> principer, utelämnats och ersatts med korta figurplatshållare.
+>
+> Originalet använder i flera formler ett cgs-baserat enhetssystem:
+> $\hat B$ anges i gauss, $A_{\mathrm{fe}}$ i $\mathrm{cm}^2$ och
+> luftgapet $\Delta$ i cm.
+
+<!-- Original: Bilaga 5.1, PDF-sida 51 -->
+
+#### 5.1. Allmänt
+
+För att närmare studera de fysiska dimensionerna hos en induktor har vikt
+och volym beräknats för en luftkyld induktor med varierande induktans.
+
+En trefasinduktor har följande utseende:
+
+> **Figur.** Principskiss av en trefasinduktor. Originalfiguren är utelämnad.
+>
+> Beteckningar i originalfiguren:
+>
+> - $\sum \delta = \Delta$: sammanlagt luftgap
+> - $N$: varv per fas
+> - $a$: antal lindningslager
+> - kärnans djup: $\sqrt{A_{\mathrm{fe}}}$
+> - $B$: kärnans bredd
+> - $H$: kärnans höjd
+
+Luftgapen delas upp i flera delgap för att begränsa läckflöden.
+
+#### 5.2. Beräkningsgång
+
+Den i lindningen inducerade spänningen blir
+
+$$
+e=\frac{d\Psi}{dt}
+\quad\Longrightarrow\quad
+\bar E=j\omega\Psi,
+\qquad
+E=\omega\Psi.
+$$
+
+Vidare gäller
+
+$$
+\Psi=N\Phi=NB A_{\mathrm{fe}},
+$$
+
+och således
+
+$$
+E=2\pi B A_{\mathrm{fe}}Nf.
+$$
+
+Med $\hat B$ uttryckt i gauss och $A_{\mathrm{fe}}$ i
+$\mathrm{cm}^2$ erhålls
+
+$$
+E
+=
+\sqrt{2}\,\pi\,10^{-8}
+\hat B A_{\mathrm{fe}}Nf
+\qquad
+(\mathrm{cgs}).
+$$
+
+Dessutom gäller
+
+$$
+\oint H\,ds=NI,
+$$
+
+vilket för järnvägen och luftgapet skrivs
+
+$$
+H_{\Delta}\Delta+H_j\ell=NI.
+$$
+
+Med
+
+$$
+H_{\Delta}=\frac{B}{\mu_0},
+\qquad
+H_j=\frac{B}{\mu\mu_0},
+$$
+
+fås
+
+$$
+\frac{B}{\mu_0}\Delta
++
+\frac{B}{\mu\mu_0}\ell
+=
+NI.
+$$
+
+Luftgapsreluktansen antas dominera, varför
+
+$$
+I=\frac{1}{\mu_0}\frac{B\Delta}{N}.
+$$
+
+För effektivvärdet av strömmen och toppvärdet $\hat B$ blir detta
+
+$$
+I
+=
+\frac{1}{\mu_0}
+\frac{\hat B\Delta}{N\sqrt{2}}
+10^{-6}
+\qquad
+(\mathrm{cgs}),
+$$
+
+och därmed
+
+$$
+\Delta
+=
+\frac{\mu_0\sqrt{2}\,10^6IN}{\hat B}
+=
+\frac{0.4\pi\sqrt{2}\,IN}{\hat B}
+\qquad
+(\mathrm{cgs}).
+$$
+
+<!-- Original: Bilaga 5.2, PDF-sida 52 -->
+
+Reaktansen blir
+
+$$
+X
+=
+\frac{E}{I}
+=
+\frac{\sqrt{2}\,\pi\,10^{-8}\hat B f}{I}
+\,N A_{\mathrm{fe}}
+\qquad
+(\mathrm{cgs}).
+$$
+
+Om induktorn beräknas för maskinen MBK 280 S-6 krävs
+
+$$
+I=160\ \mathrm{A}.
+$$
+
+Sätts detta in tillsammans med värden på maximal ström- och flödestäthet
+fås
+
+$$
+\hat B=12\,000\ \mathrm{gauss},
+\qquad
+S_{\max}=1.9\ \mathrm{A/mm^2}.
+$$
+
+Därmed erhålls
+
+$$
+X
+=
+1.66\cdot10^{-4}
+N A_{\mathrm{fe}}
+\qquad
+(\mathrm{cgs}),
+$$
+
+samt
+
+$$
+\Delta
+=
+2.37\cdot10^{-2}N.
+$$
+
+Här är $X$ uttryckt i ohm och $\Delta$ i cm när
+$A_{\mathrm{fe}}$ anges i $\mathrm{cm}^2$.
+
+#### 5.3. Kopparvikter
+
+Vid strömtätheten
+
+$$
+S=1.9\ \mathrm{A/mm^2}
+$$
+
+krävs koppararean
+
+$$
+A_{\mathrm{cu}}
+=
+\frac{160}{1.9}
+\approx
+84\ \mathrm{mm^2}
+=
+6\cdot14\ \mathrm{mm^2}.
+$$
+
+Ledaren antas därför ha måtten
+
+$$
+b=6\ \mathrm{mm},
+\qquad
+h=14\ \mathrm{mm},
+$$
+
+och koppardensiteten sätts till
+
+$$
+\rho_{\mathrm{cu}}=7900\ \mathrm{kg/m^3}.
+$$
+
+Kopparvikten för de tre faserna blir
+
+$$
+m_{\mathrm{cu}}
+=
+3N A_{\mathrm{cu}}\ell\rho_{\mathrm{cu}},
+$$
+
+där lindningslängden per varv approximeras som
+
+$$
+\ell
+=
+4\left(\sqrt{A_{\mathrm{fe}}}+0.3a\right).
+$$
+
+Insättning ger
+
+$$
+\begin{aligned}
+m_{\mathrm{cu}}
+&=
+3A_{\mathrm{cu}}\rho_{\mathrm{cu}}
+\,4\left(\sqrt{A_{\mathrm{fe}}}+0.3a\right)N \\
+&=
+0.0897
+\left(\sqrt{A_{\mathrm{fe}}}+0.3a\right)N,
+\end{aligned}
+$$
+
+där $A_{\mathrm{fe}}$ anges i $\mathrm{cm}^2$ och massan i kg.
+
+<!--
+Kontrollpunkt för pass 2:
+Originalet ser ut att ange koefficienten 0.0897. Direkt insättning av
+A_cu = 84 mm^2 och rho_cu = 7900 kg/m^3 ger ungefär 0.0796, varför
+originalets koefficient kan innehålla ett räkne- eller läsfel.
+-->
+
+#### 5.4. Järnvikter
+
+**Benen**
+
+Järnvikten i de tre benen skrivs
+
+$$
+m_{\mathrm{feb}}
+=
+3A_{\mathrm{fe}}H\rho_{\mathrm{fe}},
+$$
+
+där
+
+$$
+H=\frac{Nh}{a}+0.04.
+$$
+
+Med $\rho_{\mathrm{fe}}=7900\ \mathrm{kg/m^3}$ och
+$h=14\ \mathrm{mm}$ erhålls
+
+$$
+\begin{aligned}
+m_{\mathrm{feb}}
+&=
+3\rho_{\mathrm{fe}}
+\left(\frac{Nh}{a}+0.04\right)
+A_{\mathrm{fe}} \\
+&=
+3\cdot7900\cdot10^{-6}
+\left(\frac{Nh}{a}+4\right)
+A_{\mathrm{fe}} \\
+&=
+0.0237
+\left(1.4\frac{N}{a}+4\right)
+A_{\mathrm{fe}}.
+\end{aligned}
+$$
+
+Här anges $A_{\mathrm{fe}}$ i $\mathrm{cm}^2$ och massan i kg.
+
+**Oken**
+
+Järnvikten i de två oken skrivs
+
+$$
+m_{\mathrm{feo}}
+=
+2A_{\mathrm{fe}}B\rho_{\mathrm{fe}},
+$$
+
+där kärnans bredd approximeras som
+
+$$
+B
+=
+3\sqrt{A_{\mathrm{fe}}}
++
+4\cdot1.2\,a b
++
+2\cdot0.03.
+$$
+
+Detta ger
+
+$$
+\begin{aligned}
+m_{\mathrm{feo}}
+&=
+2\rho_{\mathrm{fe}}
+\left(
+3\sqrt{A_{\mathrm{fe}}}
++
+4.8ab
++
+0.06
+\right)
+A_{\mathrm{fe}} \\
+&=
+2\cdot7900\cdot10^{-6}
+\left(
+3\sqrt{A_{\mathrm{fe}}}
++
+2.88a
++
+6
+\right)
+A_{\mathrm{fe}} \\
+&=
+0.0158
+\left(
+3\sqrt{A_{\mathrm{fe}}}
++
+2.88a
++
+6
+\right)
+A_{\mathrm{fe}}.
+\end{aligned}
+$$
+
+Även här anges $A_{\mathrm{fe}}$ i $\mathrm{cm}^2$ och massan i kg.
+
+<!-- Original: Bilaga 5.3, PDF-sida 53 -->
+
+#### 5.5. Sammanfattning
+
+De använda uttrycken kan sammanfattas som
+
+$$
+X
+=
+\frac{\sqrt{2}\,\pi\,10^{-8}\hat B f}{I}
+\,N A_{\mathrm{fe}}
+=
+1.66\cdot10^{-4}
+N A_{\mathrm{fe}}
+\quad [\Omega],
+$$
+
+$$
+\Delta
+=
+\frac{\mu_0\sqrt{2}\,10^6 I}{\hat B}N
+=
+2.37\cdot10^{-2}N
+\quad [\mathrm{cm}],
+$$
+
+$$
+m_{\mathrm{cu}}
+=
+0.0897
+\left(
+\sqrt{A_{\mathrm{fe}}}+0.3a
+\right)N,
+$$
+
+$$
+m_{\mathrm{feb}}
+=
+0.0237
+\left(
+1.4\frac{N}{a}+4
+\right)
+A_{\mathrm{fe}},
+$$
+
+och
+
+$$
+m_{\mathrm{feo}}
+=
+0.0158
+\left(
+3\sqrt{A_{\mathrm{fe}}}+2.88a+6
+\right)
+A_{\mathrm{fe}}.
+$$
+
+Görs beräkningar för tre olika induktorer, 0.5, 1.0 och 2.0 mH,
+erhålls de tre diagrammen i figur 1-3. I dessa har induktorns vikt
+beräknats med benarean och antalet lager i lindningarna som fria variabler.
+
+<!-- Original: Bilaga 5.4-5.5, PDF-sidorna 54-55 -->
+
+> **Figur 1.** Serieinduktorns vikt som funktion av benarean
+> $A_{\mathrm{fe}}$ för $L=0.5\ \mathrm{mH}$ och olika antal
+> lindningslager. Originaldiagrammet är utelämnat.
+
+> **Figur 2.** Serieinduktorns vikt som funktion av benarean
+> $A_{\mathrm{fe}}$ för $L=1.0\ \mathrm{mH}$ och olika antal
+> lindningslager. Originaldiagrammet är utelämnat.
+
+> **Figur 3.** Serieinduktorns vikt som funktion av benarean
+> $A_{\mathrm{fe}}$ för $L=2.0\ \mathrm{mH}$ och olika antal
+> lindningslager. Originaldiagrammet är utelämnat.
+
+<!--
+Pass 2:
+- Kontrollera om symbolen för materialtäthet bör vara rho eller delta,
+  eftersom originalet handskriver en delta-liknande symbol.
+- Kontrollera koefficienten 0.0897 i kopparvikten.
+- Kontrollera måttuttrycket för okens bredd B mot originalritningen.
+-->
+
+### Bilaga 6. Typdata
+
+> **Rekonstruktion, pass 1.** Denna fil omfattar originalets bilaga 6.1–6.2
+> (PDF-sidorna 56–57). Tabellerna har transkriberats från den skannade kopian.
+> Ritningen av rotorspåret har utelämnats och ersatts med en figurplatshållare.
+>
+> Tabellen för omriktaren innehåller en kolumn utan tryckt rubrik mellan
+> $p$ och $J'$. Den har här betecknats $m$, eftersom värdena och notationens
+> placering överensstämmer med variablerna i bilaga 2. Samtliga värden i
+> kolumnen är noll.
+
+<!-- Original: Bilaga 6.1, PDF-sida 56 -->
+
+#### 6.1. Omriktare
+
+Mellanledsspänningen är
+
+$$
+U_d = 488\ \mathrm{V}.
+$$
+
+| Växel | Grundfrekvens | $p$ | $m$ | $J'$ | $\alpha$ |
+|:---:|:---:|---:|---:|---:|:---|
+| A | 0.00–4.51 | 17 | 0 | 3 | 8.7, 24.4, 28.8 |
+| B | 3.93–5.89 | 13 | 0 | 2 | 16.2, 22.1 |
+| C | 5.47–10.95 | 7 | 0 | 1 | 12 |
+| D | 9.60–12.77 | 6 | 0 | 1 | 12 |
+| E | 11.52–15.32 | 5 | 0 | 1 | 12 |
+| F | 14.02–17.88 | 5 | 0 |  |  |
+| G | 17.53–22.35 | 4 | 0 |  |  |
+| H | 21.28–25.92 | 3 | 0 |  |  |
+| I | 25.54–41.44 | 2 | 0 |  |  |
+| K | 39.06–50.00 | 1 | 0 |  |  |
+| L | 50.00– | — | 0 |  |  |
+
+#### 6.2. Motor
+
+Motorn är en **MBK 280 S-6 med forcerad kylning**.
+
+***Elektriska data***
+
+| Storhet | Värde |
+|---|---:|
+| Märkspänning, $U_n$ | $380\ \mathrm{V}$ |
+| Märkström, $I_n$ | $150\ \mathrm{A}$ |
+| Märkmoment, $M_n$ | $740\ \mathrm{Nm}$ |
+| Märkvarvtal, $n_n$ | $970\ \mathrm{rpm}$ |
+| Avgiven märkeffekt, $P_{2n}$ | $75\ \mathrm{kW}$ |
+| Statorresistans, $R_1$ | $0.048\ \Omega/\mathrm{fas}$ |
+| Statorreaktans, $X_1$ | $0.20\ \Omega/\mathrm{fas}$ |
+| Magnetiseringsreaktans, $X_m$ | $3.886\ \Omega/\mathrm{fas}$ |
+| Rotorreaktans, $X_2$ | $0.16\ \Omega/\mathrm{fas}$ |
+| Rotorresistans, $R_2$ | $0.051\ \Omega/\mathrm{fas}$ |
+
+***Mekaniska data***
+
+*Stator*
+
+| Storhet | Värde |
+|---|---:|
+| Statordiameter | $470\ \mathrm{mm}$ |
+| Luftgapsdiameter | $315\ \mathrm{mm}$ |
+| Plåtlängd | $205\ \mathrm{mm}$ |
+| Tandhöjd | $43.5\ \mathrm{mm}$ |
+| Spårbredd | $10.1\ \mathrm{mm}$ |
+| Tandbredd | $10.3\ \mathrm{mm}$ |
+| Lindningsvikt | $14.3\ \mathrm{kg}$ |
+| Spårtal | 54 |
+
+*Rotor*
+
+| Storhet | Värde |
+|---|---:|
+| Tandhöjd | $29.5\ \mathrm{mm}$ |
+| Spårbredd | $4.25\ \mathrm{mm}$ |
+| Tandbredd | $7.8$–$10.5\ \mathrm{mm}$ |
+| Lindningsvikt | $11.5\ \mathrm{kg}$ |
+| Spårtal | 66 |
+
+Motorns totalvikt är
+
+$$
+m_{\mathrm{tot}} = 480\ \mathrm{kg}.
+$$
+
+<!-- Original: Bilaga 6.2, PDF-sida 57 -->
+
+#### 6.3. Spårdata
+
+> **Figur.** Måttskiss för rotorspåret. Originalfiguren är utelämnad.
+
+De handskrivna kommentarerna till figuren anger:
+
+- `SPTR`: spårtyp enligt programmet `RESIST`
+- $\rho_2$: ledarresistivitet
+- $R_{\mathrm{rat}}$: kvoten mellan spårets medeldiameter och rotorns
+  medeldiameter
+
+| Parameter | Värde |
+|---|---:|
+| `SPTR` | 2 |
+| $b_{s21}$ | $3.95\ \mathrm{mm}$ |
+| $b_{s22}$ | $3.95\ \mathrm{mm}$ |
+| $h_{s2}$ | $29.2\ \mathrm{mm}$ |
+| $b_{sy2}$ | $2.0\ \mathrm{mm}$ |
+| $h_{sy2}$ | $1.0\ \mathrm{mm}$ |
+| $b_{cr1}$ | $3.75\ \mathrm{mm}$ |
+| $h_{cr}$ | $28\ \mathrm{mm}$ |
+| $\rho_2$ | $0.0425\ \Omega/\mathrm{m}$ |
+| $R_{\mathrm{rat}}$ | $0.65$ |
+
+<!--
+Pass 2:
+- Bekräfta att den rubriklösa kolumnen i omriktartabellen verkligen är m.
+- Kontrollera om grundfrekvensintervallen ska förses med enheten Hz.
+- Kontrollera indexen b_sy2 och h_sy2 mot spårskissen.
+-->
+
 ---
 ### Bilaga 7. Variabelförteckning
 
