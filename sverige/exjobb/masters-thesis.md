@@ -2787,7 +2787,7 @@ $$
 <p align="center">
 <figure>
   <img  src="assets/figur-10.svg" width="500" alt="Måttskiss för rotorspåret">
-  <figcaption><b>Figur 10.</b> Måttskiss för rotorspåret (även figur 7)</figcaption>
+  <figcaption><b>Figur 10.</b> Måttskiss för rotorspåret (även figur 8)</figcaption>
 </figure>
 </p>
 <br>
