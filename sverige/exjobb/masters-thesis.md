@@ -192,7 +192,7 @@ De totala förlusterna (järn + koppar) har mätts upp på en ASEA standardmotor
 
 <!-- Sida 7 -->
 
-Total- och PWM-järnförlusternas våldsamma språng beror på de växlar som lagts in vid tio frekvenser (se inledning och bilaga 6) för att minska förlusterna. Att kopparförlusterna vid tomgång är så stora som nästan femtio procent av totalförlusten vid PWM-matning beror på extraförluster från övertonerna. Detta gör att man inte kan betrakta tomgångsförluster som järnförluster.
+Total- och PWM-järnförlusternas våldsamma språng beror på de växlar som lagts in vid tio frekvenser (se inledning och bilaga 6) för att minska förlusterna. Att kopparförlusterna vid tomgång är så stora som nästan femtio procent av totalförlusten vid PWM-matning beror på extraförluster från övertonerna. Detta gör att man **inte** kan betrakta tomgångsförluster som järnförluster.
 
 Övertonerna förklarar också varför förlusterna vid låga frekvenser inom en växel kan vara större än vid en hög frekvens; den relativa andelen övertoner (kvoten övertonsamplitud/grundtonsamplitud) är större.
 
@@ -202,7 +202,7 @@ För att kunna relatera dessa järnförluster till någonting har sinusjärnför
 
 Efter att ha studerat sambanden mellan tomgångsförlusterna vid PWM- och sinusmatning införs en serieinduktor i kretsen (enligt figur 3). Eftersom motorimpedansen domineras av reaktansen kommer induktorn inte att fungera som ett första ordningens lågpassfilter utan snarare som en länk i en spänningsdelning. Induktorn kommer att dämpa övertonsamplituden och förbättrar därigenom spänningens utseende vid motorklämmorna avsevärt ($U$). Denna förbättrade kurvform ger minskade övertonsförluster (både koppar och järn) vilket återspeglas i bilaga 1.1-1.3 som alla tre visar total- och järnförluster i tomgång som funktion av frekvensen för olika induktans.
 
-Det visar sig att kopparförlusternas andel i de totala tomgångsförlusterna minskar avsevärt vid ökande induktorstorlek, men är fortfarande så stora som halva totalförlusten vid 0,21 pu (1 mH) och 10 Hz, (per unit-värdena relateras till motorns märkspänning och märkström, basimpedansen blir då $Z_B$ = 1,47 och basinduktansen blir $L_B$ = 4,67 mH enligt bilaga 6, kortslutningsreaktansen är ungefär 0,25 pu). Här har grundtonens spänningsfall över induktorn beaktats och en korrektionsterm införts mellan de olika kurvorna, så att de tre kurvorna är helt jämförbara (gäller även sinusmatningskurvan).
+Det visar sig att kopparförlusternas andel i de totala tomgångsförlusterna minskar avsevärt vid ökande induktorstorlek, men är fortfarande så stora som halva totalförlusten vid 0,21 pu (1 mH) och 10 Hz, (per unit-värdena relateras till motorns märkspänning och märkström, basimpedansen blir då $Z_B = \text{1,47}$ = 1,47 och basinduktansen blir $L_B$ = 4,67 mH enligt bilaga 6, kortslutningsreaktansen är ungefär 0,25 pu). Här har grundtonens spänningsfall över induktorn beaktats och en korrektionsterm införts mellan de olika kurvorna, så att de tre kurvorna är helt jämförbara (gäller även sinusmatningskurvan).
 
 ### 2.6 Analys
 
