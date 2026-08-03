@@ -2902,9 +2902,9 @@ Pass 2:
 | $\lambda$ | exponentkonstant vid hysteresförluster |
 | $\xi$ | nedstämpling |
 | $\sigma$ | konduktivitet |
-| $\mathit{\Phi}$ | flöde |
+| $\Phi$ | flöde |
 | $\varphi$ | vinkel, $\varphi=\omega t$ |
-| $\mathit{\Psi}$ | sammanlänkat flöde |
+| $\Psi$ | sammanlänkat flöde |
 | $\omega$ | synkron vinkelhastighet |
 | $\omega_e$ | elektrisk vinkelhastighet |
 | $\omega_r$ | vinkelhastighet hos rotor |
