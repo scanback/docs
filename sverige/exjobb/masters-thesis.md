@@ -39,44 +39,44 @@ När motorutrymmet däremot är obegränsat visar resultaten att en serieindukto
 
 ## Innehållsförteckning  
 
-**1 $\~$ Inledning**  
-$\quad$ 1.1 $\~$ Allmänt  
-$\quad$ 1.2 $\~$ Matning  
-$\quad$ 1.3 $\~$ Nackdelar med PWM-matning  
-$\quad$ 1.4 $\~$ Åtgärder  
-$\quad$ 1.5 $\~$ Metoder  
+**1 $~$ Inledning**  
+$\quad$ 1.1 $~$ Allmänt  
+$\quad$ 1.2 $~$ Matning  
+$\quad$ 1.3 $~$ Nackdelar med PWM-matning  
+$\quad$ 1.4 $~$ Åtgärder  
+$\quad$ 1.5 $~$ Metoder  
 
-**2 $\~$ Järnförluster**  
-$\quad$ 2.1 $\~$ Allmänt  
-$\quad$ 2.2 $\~$ Svårigheter vid analytisk bestämning av järnförluster  
-$\quad$ 2.3 $\~$ Metod  
-$\quad$ 2.4 $\~$ Tomgång utan serieinduktor  
-$\quad$ 2.5 $\~$ Tomgång med serieinduktor  
-$\quad$ 2.6 $\~$ Analys  
+**2 $~$ Järnförluster**  
+$\quad$ 2.1 $~$ Allmänt  
+$\quad$ 2.2 $~$ Svårigheter vid analytisk bestämning av järnförluster  
+$\quad$ 2.3 $~$ Metod  
+$\quad$ 2.4 $~$ Tomgång utan serieinduktor  
+$\quad$ 2.5 $~$ Tomgång med serieinduktor  
+$\quad$ 2.6 $~$ Analys  
 
-**3 $\~$ Motorn under belastning**  
-$\quad$ 3.1 $\~$ Allmänt  
-$\quad$ 3.2 $\~$ Belastning utan serieinduktor  
-$\quad$ 3.3 $\~$ Förlusternas induktansberoende  
-$\quad$ 3.4 $\~$ Förlusternas frekvensberoende  
-$\quad$ 3.5 $\~$ Momentpulsationer  
-$\quad$ 3.6 $\~$ Viktberäkning  
+**3 $~$ Motorn under belastning**  
+$\quad$ 3.1 $~$ Allmänt  
+$\quad$ 3.2 $~$ Belastning utan serieinduktor  
+$\quad$ 3.3 $~$ Förlusternas induktansberoende  
+$\quad$ 3.4 $~$ Förlusternas frekvensberoende  
+$\quad$ 3.5 $~$ Momentpulsationer  
+$\quad$ 3.6 $~$ Viktberäkning  
 
-**4. $\~$ Diskussion**  
-$\quad$ 4.1 $\~$ Procedurens möjligheter och begränsningar  
-$\quad$ 4.2 $\~$ Induktorns storlek vid fritt motorutrymme  
-$\quad$ 4.3 $\~$ Induktorns storlek vid begränsat motorutrymme  
+**4. $~$ Diskussion**  
+$\quad$ 4.1 $~$ Procedurens möjligheter och begränsningar  
+$\quad$ 4.2 $~$ Induktorns storlek vid fritt motorutrymme  
+$\quad$ 4.3 $~$ Induktorns storlek vid begränsat motorutrymme  
 
-**5. $\~$ Litteraturförteckning**  
+**5. $~$ Litteraturförteckning**  
 
 **Bilagor**  
-$\quad$ 1 $\~$ Diagram  
-$\quad$ 2 $\~$ Matningsspänningens utseende och fourieranalys  
-$\quad$ 3 $\~$ Beräkningsmodell  
-$\quad$ 4 $\~$ Programbeskrivning PWMIND  
-$\quad$ 5 $\~$ Beräkning av induktorstorlek  
-$\quad$ 6 $\~$ Typdata  
-$\quad$ 7 $\~$ Variabelförteckning  
+$\quad$ 1 $~$ Diagram  
+$\quad$ 2 $~$ Matningsspänningens utseende och fourieranalys  
+$\quad$ 3 $~$ Beräkningsmodell  
+$\quad$ 4 $~$ Programbeskrivning PWMIND  
+$\quad$ 5 $~$ Beräkning av induktorstorlek  
+$\quad$ 6 $~$ Typdata  
+$\quad$ 7 $~$ Variabelförteckning  
 
 ---
 
@@ -1109,16 +1109,16 @@ löses. Dessa ger sedan på sedvanligt sätt förluster och moment ur det vanlig
 
 **Innehållsförteckning**
 
-B4.1 $\~ \~$ Allmänt  
-B4.2 $\~ \~$ Tillämpningsområde  
-B4.3 $\~ \~$ Beräkningsordning  
-B4.4 $\~ \~$ Indata  
-B4.5 $\~ \~$ Utmatning  
-B4.6 $\~ \~$ "Konstant flöde"  
-B4.7 $\~ \~$ "s-iteration"  
-B4.8 $\~ \~ \~$ Körinstruktioner  
-B4.9 $\{~~~}$ Programlista  
-B4.10 $\~$ Körexempel  
+B4.1 ${~~~}$ Allmänt  
+B4.2 ${~~~}$ Tillämpningsområde  
+B4.3 ${~~~}$ Beräkningsordning  
+B4.4 ${~~~}$ Indata  
+B4.5 ${~~~}$ Utmatning  
+B4.6 ${~~~}$ "Konstant flöde"  
+B4.7 ${~~~}$ "s-iteration"  
+B4.8 ${~~~}$ Körinstruktioner  
+B4.9 ${~~~}$ Programlista  
+B4.10 $~$ Körexempel  
 
 <!-- Sida 34 -->
 
