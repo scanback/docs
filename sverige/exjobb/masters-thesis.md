@@ -2895,7 +2895,7 @@ Pass 2:
 | $Z_2$ | $jX_m \parallel \left(\dfrac{R_2}{s}+jX_2\right)$ |
 | $\alpha_i$ | hackvinklar |
 | $\beta$ | vinkel mellan q-axeln och rotorns r-axel |
-| $\gamma$ | $U$, $I$ eller $\mathit{\Psi}$ |
+| $\gamma$ | $U$, $I$ eller $\Psi$ |
 | $\theta$ | vinkel mellan q-axeln och statorns r-axel |
 | $\theta_0$ | fasförskjutning |
 | $\theta_r$ | $\theta-\beta$ |
