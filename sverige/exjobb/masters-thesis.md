@@ -1349,7 +1349,8 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 
 <!-- Sida 39 -->
 
-```fortran
+```fortran  
+  
 0700      PRINT,"GE MINSTA AMPLITUD SOM SKALL ADDERAS"
 0710      READ,RMMIN
 0720      FFI=FFI*PI/180
@@ -1417,7 +1418,8 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 
 <!-- Sida 40 -->
 
-```fortran
+```fortran  
+  
 1300      PRINT,"ÖNSKAS NY FOURIER-ANALYS ? 1=JA"
 1310      READ,IIVS
 1320      IF(IIVS.EQ.1) GO TO 1
@@ -1503,7 +1505,8 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 
 <!-- Sida 41 -->
 
-```fortran
+```fortran  
+  
 1900     &      I2,"*WT) + ",F10.3,"*SIN(",I2,"*WT) +")
 1910  559 CONTINUE
 1920      WRITE(6,530)
@@ -1590,8 +1593,8 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 
 <!-- Sida 42 -->
 
-```fortran
-
+```fortran  
+  
 2500      DO 620 I=1,4
 2510      SUM=0.0
 2520C
@@ -1657,7 +1660,8 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 
 #### Del 6
 
-```fortran
+```fortran  
+  
 3100      CPCU2=1.5*RROT(1,1)*(AI(1,1,3)**2+AI(1,1,4)**2)
 3110      DPCU2=1.5*RROT(1,2)*(AI(1,2,3)**2+AI(1,2,4)**2)
 3120      MOM1=P*(CPCU2+DPCU2)/SM/4/PI/FM0
@@ -1730,7 +1734,8 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 
 #### Del 7
 
-```fortran
+```fortran  
+  
 3700     &          -(AI(K,1,3)-AI(K,2,3))*SIN(FI)
 3710  740 CONTINUE
 3720C
@@ -1800,6 +1805,7 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 #### Del 8
 
 ```fortran  
+  
 4300      FI=ABM(K,1)*(WE*TI-PI/6.)
 4310      FI1=ABM(K,1)*WE*TI
 4320C     STATORSTRÖM:
@@ -1863,7 +1869,8 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 
 #### Del 9
 
-```fortran
+```fortran  
+  
 5650      SUBROUTINE SETA(N)
 5660      COMMON/LABEL2/RS,LS,M,LR,RR,WE,WR,A(4,4),RI,LI,B(4,4)
 5670      REAL M,LS,LR,LI
