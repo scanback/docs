@@ -471,7 +471,7 @@ T. Porteous, *Programbeskrivningar till PWMOT och RESIST*.
 <!-- Sida 26 -->
 
 #### B2.1 Kurvform
-
+<br>
 Matningen från omriktaren kan i det enklaste fallet göras som en fyrkantspänning (referensspänningen) som multipliceras med en modulationsspänning, bestående av pulser vars bredd moduleras. En sådan matning ger dock upphov till svåra femte- och sjundetons pulsationer vid framförallt låga frekvenser. För att eliminera dessa hackas referensspänningen upp på ett sådant sätt att dessa låga övertoner förläggs i högre frekvenser.
 <br>
 <p align="center">
@@ -2741,8 +2741,8 @@ $$
 | K | 39.06–50.00 | 1 | 0 |  |  |
 | L | 50.00– | — | 0 |  |  |
 
-#### B6.2 Motor
-
+#### B6.2 Motor  
+<br>  
 Motorn är en **MBK 280 S-6 med forcerad kylning**.
 
 ***Elektriska data***
