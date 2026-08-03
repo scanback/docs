@@ -605,7 +605,7 @@ $$
 
 <!-- Sida 28 -->
 
-#### 1. Förutsättningar
+#### B3.1 Förutsättningar
 
 För att kunna studera hur asynkronmaskinen arbetar vid PWM-matning krävs en matematisk modell. Denna grundar sig på:
 
@@ -623,7 +623,7 @@ En tvåpolig trefasmaskin kan ritas (med induktor i serie på statorsidan):
 </p>
 <br>
 
-#### 2. dq-transformation
+#### B3.2 dq-transformation
 
 Ur figur 1 erhålls uttryck för spänningarna, som efter dq-transformationen
 
@@ -860,7 +860,7 @@ där $a$ är antalet faser och $P$ antalet poler.
 
 <!-- Sida 31 -->
 
-#### 3. Fourieranalys
+#### B3.3 Fourieranalys
 
 För att föra resonemanget vidare införs nu den kurvform som omriktaren ger. Beteckningen s (till exempel $V_{q1}^{s}$) införs som anger variabler i statorns referenssystem, e betecknar ett synkront roterande referenssystem.
 
