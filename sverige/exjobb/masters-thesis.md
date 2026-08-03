@@ -2517,7 +2517,7 @@ originalets koefficient kan innehålla ett räkne- eller läsfel.
 
 #### B5.4 Järnvikter
 
-***Benen***
+*Benen*
 
 Järnvikten i de tre benen skrivs
 
@@ -2556,7 +2556,7 @@ $$
 
 Här anges $A_{\mathrm{fe}}$ i $\mathrm{cm}^2$ och massan i kg.
 
-***Oken***
+*Oken*
 
 Järnvikten i de två oken skrivs
 
@@ -2744,7 +2744,7 @@ $$
 <br>  
 Motorn är en **MBK 280 S-6 med forcerad kylning**.
 
-***Elektriska data***
+*Elektriska data*
 
 | Storhet | Värde |
 |---|---:|
@@ -2759,9 +2759,9 @@ Motorn är en **MBK 280 S-6 med forcerad kylning**.
 | Rotorreaktans, $X_2$ | $0.16\ \Omega/\mathrm{fas}$ |
 | Rotorresistans, $R_2$ | $0.051\ \Omega/\mathrm{fas}$ |
 
-***Mekaniska data***
+*Mekaniska data*
 
-*Stator*
+Stator:
 
 | Storhet | Värde |
 |---|---:|
@@ -2774,7 +2774,7 @@ Motorn är en **MBK 280 S-6 med forcerad kylning**.
 | Lindningsvikt | $14.3\ \mathrm{kg}$ |
 | Spårtal | 54 |
 
-*Rotor*
+Rotor:
 
 | Storhet | Värde |
 |---|---:|
