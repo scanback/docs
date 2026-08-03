@@ -39,14 +39,14 @@ När motorutrymmet däremot är obegränsat visar resultaten att en serieindukto
 
 ## Innehållsförteckning  
 
-**1 $~$ Inledning**  
+**1. $~$ Inledning**  
 $\quad$ 1.1 $~$ Allmänt  
 $\quad$ 1.2 $~$ Matning  
 $\quad$ 1.3 $~$ Nackdelar med PWM-matning  
 $\quad$ 1.4 $~$ Åtgärder  
 $\quad$ 1.5 $~$ Metoder  
 
-**2 $~$ Järnförluster**  
+**2. $~$ Järnförluster**  
 $\quad$ 2.1 $~$ Allmänt  
 $\quad$ 2.2 $~$ Svårigheter vid analytisk bestämning av järnförluster  
 $\quad$ 2.3 $~$ Metod  
@@ -54,7 +54,7 @@ $\quad$ 2.4 $~$ Tomgång utan serieinduktor
 $\quad$ 2.5 $~$ Tomgång med serieinduktor  
 $\quad$ 2.6 $~$ Analys  
 
-**3 $~$ Motorn under belastning**  
+**3. $~$ Motorn under belastning**  
 $\quad$ 3.1 $~$ Allmänt  
 $\quad$ 3.2 $~$ Belastning utan serieinduktor  
 $\quad$ 3.3 $~$ Förlusternas induktansberoende  
