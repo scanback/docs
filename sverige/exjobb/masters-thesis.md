@@ -70,13 +70,13 @@ $\quad$ 4.3 $~$ Induktorns storlek vid begränsat motorutrymme
 **5. $~$ Litteraturförteckning**  
 
 **Bilagor**  
-1. $~$ Diagram  
-2. $~$ Matningsspänningens utseende och fourieranalys  
-3. $~$ Beräkningsmodell  
-4. $~$ Programbeskrivning PWMIND  
-5. $~$ Beräkning av induktorstorlek  
- 6. $~$ Typdata  
-7. $~$ Variabelförteckning  
+B1. $~$ Diagram  
+B2. $~$ Matningsspänningens utseende och fourieranalys  
+B3. $~$ Beräkningsmodell  
+B4. $~$ Programbeskrivning PWMIND  
+B5. $~$ Beräkning av induktorstorlek  
+B6. $~$ Typdata  
+B7. $~$ Variabelförteckning  
 
 ---
 
