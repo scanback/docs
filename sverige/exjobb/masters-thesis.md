@@ -1116,8 +1116,8 @@ B4.4 $\~ \~$ Indata
 B4.5 $\~ \~$ Utmatning  
 B4.6 $\~ \~$ "Konstant flöde"  
 B4.7 $\~ \~$ "s-iteration"  
-B4.8 $\~ \~$ Körinstruktioner  
-B4.9 $\{~~}$ Programlista  
+B4.8 $\~ \~ \~$ Körinstruktioner  
+B4.9 $\{~~~}$ Programlista  
 B4.10 $\~$ Körexempel  
 
 <!-- Sida 34 -->
