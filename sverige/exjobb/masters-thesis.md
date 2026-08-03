@@ -10,7 +10,7 @@ image: /assets/social-card-sverige.png
 
 # EXAMENSARBETE I ELEKTRISK EFFEKTOMVANDLING  
 
-## Studie av övertonsförluster hos en asynkronmaskin seriekopplad med en induktor  
+## Studie av övertonsförluster hos en asynkronmaskin seriekopplad med en induktor.  🇸🇪  
 
 **Utfört av:** Staffan Canbäck
 
@@ -1109,7 +1109,7 @@ löses. Dessa ger sedan på sedvanligt sätt förluster och moment ur det vanlig
 
 **Innehållsförteckning**
 
-B4.1 ${~~~}$ Allmänt  
+B4.1 $\{~~~}$ Allmänt  
 B4.2 ${~~~}$ Tillämpningsområde  
 B4.3 ${~~~}$ Beräkningsordning  
 B4.4 ${~~~}$ Indata  
@@ -1118,7 +1118,7 @@ B4.6 ${~~~}$ "Konstant flöde"
 B4.7 ${~~~}$ "s-iteration"  
 B4.8 ${~~~}$ Körinstruktioner  
 B4.9 ${~~~}$ Programlista  
-B4.10 $~$ Körexempel  
+B4.10 $\~$ Körexempel  
 
 <!-- Sida 34 -->
 
