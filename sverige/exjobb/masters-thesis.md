@@ -1279,6 +1279,7 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 <!-- Sida 38 -->
 
 ```fortran  
+  
 0100C     PROGRAM FÖR MASKINBERÄKNING MED PWM REFERENS-
 0110C     OCH MODULATIONSPULSER SOM INDATA
 0120C     PROGRAMMET BERÄKNAR MOMENTANVÄRDEN PÅ SPÄNNING,
