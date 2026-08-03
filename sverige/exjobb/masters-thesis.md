@@ -470,7 +470,7 @@ T. Porteous, *Programbeskrivningar till PWMOT och RESIST*.
 
 <!-- Sida 26 -->
 
-#### B1.1 Kurvform
+#### B2.1 Kurvform
 
 Matningen från omriktaren kan i det enklaste fallet göras som en fyrkantspänning (referensspänningen) som multipliceras med en modulationsspänning, bestående av pulser vars bredd moduleras. En sådan matning ger dock upphov till svåra femte- och sjundetons pulsationer vid framförallt låga frekvenser. För att eliminera dessa hackas referensspänningen upp på ett sådant sätt att dessa låga övertoner förläggs i högre frekvenser.
 <br>
@@ -484,7 +484,7 @@ Matningen från omriktaren kan i det enklaste fallet göras som en fyrkantspänn
 
 Dessa båda signaler fourierutvecklas och multipliceras med varandra.
 
-#### B2. Fourierutveckling
+#### B2.2 Fourierutveckling
 
 $R(\varphi)$ är en udda funktion. Fourierutvecklingen innehåller därför endast sinustermer.
 
