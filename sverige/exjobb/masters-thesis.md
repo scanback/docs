@@ -1591,6 +1591,7 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 <!-- Sida 42 -->
 
 ```fortran
+
 2500      DO 620 I=1,4
 2510      SUM=0.0
 2520C
