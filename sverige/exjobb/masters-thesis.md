@@ -1278,7 +1278,7 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 
 <!-- Sida 38 -->
 
-```fortran
+```fortran  
 0100C     PROGRAM FÖR MASKINBERÄKNING MED PWM REFERENS-
 0110C     OCH MODULATIONSPULSER SOM INDATA
 0120C     PROGRAMMET BERÄKNAR MOMENTANVÄRDEN PÅ SPÄNNING,
@@ -1798,7 +1798,7 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 
 #### Del 8
 
-```fortran
+```fortran  
 4300      FI=ABM(K,1)*(WE*TI-PI/6.)
 4310      FI1=ABM(K,1)*WE*TI
 4320C     STATORSTRÖM:
