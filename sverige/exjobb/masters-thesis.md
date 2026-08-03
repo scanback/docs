@@ -460,19 +460,17 @@ T. Porteous, *Programbeskrivningar till PWMOT och RESIST*.
 
 ---
 
-## Bilagor
-<sub>&nbsp;</sub>
-
-*Bilaga 1 består huvudsakligen av diagram och har utelämnats. De finns tillgängliga i originalet.*
+## Bilagor  
 
 ---
+*Bilaga 1 består huvudsakligen av diagram och har utelämnats. De finns tillgängliga i originaldokumentet.*
 
-### Bilaga 2. Matningsspänningens utseende och Fourieranalys
-<sub>&nbsp;</sub>  
-<!-- Sida 26 -->
+---
+### Bilaga 2. Matningsspänningens utseende och Fourieranalys  
 
-#### B2.1 Kurvform
-<sub>&nbsp;</sub>  
+<!-- Sida 26 -->  
+
+#### B2.1 Kurvform  
 Matningen från omriktaren kan i det enklaste fallet göras som en fyrkantspänning (referensspänningen) som multipliceras med en modulationsspänning, bestående av pulser vars bredd moduleras. En sådan matning ger dock upphov till svåra femte- och sjundetons pulsationer vid framförallt låga frekvenser. För att eliminera dessa hackas referensspänningen upp på ett sådant sätt att dessa låga övertoner förläggs i högre frekvenser.
 <br>
 <p align="center">
