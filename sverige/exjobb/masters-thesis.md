@@ -1666,7 +1666,8 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 3110      DPCU2=1.5*RROT(1,2)*(AI(1,2,3)**2+AI(1,2,4)**2)
 3120      MOM1=P*(CPCU2+DPCU2)/SM/4/PI/FM0
 3130      WRITE(6,712)MOM1
-3140  712 FORMAT(1X,"MOMENTET=",F13.3,"   ÖNSKAS NY ITERATION? 1=JA")
+3140  712 FORMAT(1X,"MOMENTET=",F13.3,"   
+          &   ÖNSKAS NY ITERATION? 1=JA")
 3150      IF(INYS.EQ.1) GOTO 405
 3160      READ,INY
 3170      IF(INY.NE.1) GOTO 704
@@ -1691,10 +1692,10 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
           READ,STRUNT
 3350      WRITE(6,730)PCU1,PCU2,AIP1
 3360  720 FORMAT(1X,"K=",I2," F/F0=",I2," PCU1=",F7.1,
-3370     &  " PCU2=",F7.1," R2+=",E10.3," R2-=",E10.3//)
+3370      &    " PCU2=",F7.1," R2+=",E10.3," R2-=",E10.3//)
 3380  730 FORMAT(1X,70(1H-),//,T10,"SUMMA PCU1=",E11.4," W",
-3390     &  /T10,"SUMMA PCU2=",E11.4," W",
-3400     &  /T10,"I1     =",E11.4," A",/70(1H-))
+3390      &    /T10,"SUMMA PCU2=",E11.4," W",
+3400      &    /T10,"I1     =",E11.4," A",/70(1H-))
 3410      IF(KB.NE.1) GOTO 737
 3420      PRINT,"SPÄNNINGSFALL ÖVER REAKTORN"
 3430      PRINT,"    Q-AXELN"
@@ -1723,20 +1724,21 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 3600      FI=ABM(K,1)*(WE*TI-PI/6.)
 3610C     STATORSTRÖM:
 3620      IQST=IQST+(AI(K,1,1)+AI(K,2,1))*COS(FI)
-3630     &          +(AI(K,1,2)-AI(K,2,2))*SIN(FI)
+3630      &    +(AI(K,1,2)-AI(K,2,2))*SIN(FI)
 3640      IDST=IDST+(AI(K,1,2)+AI(K,2,2))*COS(FI)
-3650     &          -(AI(K,1,1)-AI(K,2,1))*SIN(FI)
+3650      &    -(AI(K,1,1)-AI(K,2,1))*SIN(FI)
 3660C     ROTORSTRÖM:
 3670      IQRT=IQRT+(AI(K,1,3)+AI(K,2,3))*COS(FI)
-3680     &          +(AI(K,1,4)-AI(K,2,4))*SIN(FI)
+3680      &    +(AI(K,1,4)-AI(K,2,4))*SIN(FI)
 3690      IDRT=IDRT+(AI(K,1,4)+AI(K,2,4))*COS(FI)
+
 ```
 
 #### Del 7
 
 ```fortran  
   
-3700     &          -(AI(K,1,3)-AI(K,2,3))*SIN(FI)
+3700      &  -(AI(K,1,3)-AI(K,2,3))*SIN(FI)
 3710  740 CONTINUE
 3720C
 3730      MOMT=M*0.75*P*(IQST*IDRT-IDST*IQRT)
@@ -1751,10 +1753,11 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 3820      AMVAR1=AMOMA-AMVM
 3830      AMVAR2=AMOMI-AMVM
 3840      WRITE(6,760)T,AMVM,AMVAR1,AMVAR2
-3850  760 FORMAT(1X,/70(1H-),/T10,"MOMENTET UNDER",E11.4," SEK. :",
-3860     &  /T10,"MEDELVÄRDE:",E11.4," NM",
-3870     &  /T10,"AMPLITUD  :",E11.4," NM",
-3880     &  /T10,"AMPLITUD  :",E11.4," NM",/70(1H-))
+3850  760 FORMAT(1X,/70(1H-),/T10,"MOMENTET UNDER",E11.4,
+          &    " SEK. :",
+3860      &    /T10,"MEDELVÄRDE:",E11.4," NM",
+3870      &    /T10,"AMPLITUD  :",E11.4," NM",
+3880      &    /T10,"AMPLITUD  :",E11.4," NM",/70(1H-))
 3890C     ÖGONBLICKS­VÄRDEN: STRÖM, SPÄNNING OCH MOMENT
 3900  805 CONTINUE
 3910      PRINT,"ÖNSKAS PLOT ELLER TABELL? 1=PLOT 2=TABELL"
@@ -1780,11 +1783,14 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 4110      DX=(T-T1)/10.
 4120      CALL AXIS(4.,1.,"TID (SEKUNDER) ",-15,10.,0.,T1,DX)
 4130      DY1=2*UMAX/10.
-4140      CALL AXIS(1.,1.,"SPÄNNING     (V)",15,10.,90.,-UMAX,DY1)
+4140      CALL AXIS(1.,1.,"SPÄNNING     (V)",15,10.,90.,
+          &   -UMAX,DY1)
 4150      DY2=2*AIQSMAX/10.
-4160      CALL AXIS(2.,1.,"STATORSTRÖM (A)",15,10.,90.,-AIQSMAX,DY2)
+4160      CALL AXIS(2.,1.,"STATORSTRÖM (A)",15,10.,90.,
+          &   -AIQSMAX,DY2)
 4170      DY3=2*AMOMAX/10.
-4180      CALL AXIS(3.,1.,"MOMENT      (NM)",15,10.,90.,-AMOMAX,DY3)
+4180      CALL AXIS(3.,1.,"MOMENT      (NM)",15,10.,90.,
+          &   -AMOMAX,DY3)
 4190      CALL PLOT(4.,6.,23)
 4200      GO TO 810
 4210  808 CONTINUE
@@ -1800,6 +1806,7 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
           UDST=0
 4280C
 4290      DO 900 K=1,K1
+  
 ```
 
 #### Del 8
@@ -1810,14 +1817,14 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 4310      FI1=ABM(K,1)*WE*TI
 4320C     STATORSTRÖM:
 4330      IQST=IQST+(AI(K,1,1)+AI(K,2,1))*COS(FI)
-4340     &          +(AI(K,1,2)-AI(K,2,2))*SIN(FI)
+4340      &          +(AI(K,1,2)-AI(K,2,2))*SIN(FI)
 4350      IDST=IDST+(AI(K,1,2)+AI(K,2,2))*COS(FI)
-4360     &          -(AI(K,1,1)-AI(K,2,1))*SIN(FI)
+4360      &          -(AI(K,1,1)-AI(K,2,1))*SIN(FI)
 4370C     ROTORSTRÖM:
 4380      IQRT=IQRT+(AI(K,1,3)+AI(K,2,3))*COS(FI)
-4390     &          +(AI(K,1,4)-AI(K,2,4))*SIN(FI)
+4390      &          +(AI(K,1,4)-AI(K,2,4))*SIN(FI)
 4400      IDRT=IDRT+(AI(K,1,4)+AI(K,2,4))*COS(FI)
-4410     &          -(AI(K,1,3)-AI(K,2,3))*SIN(FI)
+4410      &          -(AI(K,1,3)-AI(K,2,3))*SIN(FI)
 4420      UDST=UDST+ABM(K,4)*COS(FI1)+ABM(K,5)*SIN(FI1)
 4430  900 CONTINUE
 4440C
@@ -1851,9 +1858,10 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 4720      READ,ISVAR
 4730      IF(ISVAR.EQ.1)GO TO 805
 4740  910 FORMAT(1X,70(1H-),/T9,T15,"W0*T",T25,"M",T35,"U",
-4750     &  T45,"I1",T55,"I2",//"(MS)",T11,"(RAD)",T25,"(NM)",
-4760     &  T35,"(V)",T45,"(A)",T55,"(A)",/70(1H-))
-4770  920 FORMAT(1X,F8.3,T15,F6.4,T25,F7.2,T35,F7.1,T45,F7.1,T55,F7.1)
+4750      &  T45,"I1",T55,"I2",//"(MS)",T11,"(RAD)",T25,"(NM)",
+4760      &  T35,"(V)",T45,"(A)",T55,"(A)",/70(1H-))
+4770  920 FORMAT(1X,F8.3,T15,F6.4,T25,F7.2,T35,F7.1,T45,F7.1,
+          & T55,F7.1)
 4780  930 FORMAT(1X,70(1H-),/T10,A30)
 4790  940 FORMAT(1X,T20,A30)
 4800 1000 CONTINUE
@@ -1865,6 +1873,7 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 4860      IF(ISLUT.EQ.1)GO TO 1
 4870      STOP
           END
+            
 ```
 
 #### Del 9
@@ -1909,6 +1918,7 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 5856      B(4,2)=A(4,2)
 5857      RETURN
 5860      END
+  
 ```
 
 <!--
