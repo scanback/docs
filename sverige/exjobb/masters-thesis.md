@@ -1285,9 +1285,10 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 0120C     PROGRAMMET BERÄKNAR MOMENTANVÄRDEN PÅ SPÄNNING,
 0130C     STRÖMMAR OCH MOMENT. FÖRLUSTER BERÄKNAS
 0140C     *******************************************************
-0150      DIMENSION RES(50,5),AIN(10),NRWANT(50),KIND(50),IIND(50)
-0160      DIMENSION ABM(50,5),U(50,2,2),UDQ(50),UDG(50),UDA(50),
-     &              VOD(50)
+0150      DIMENSION RES(50,5),AIN(10),NRWANT(50)
+0155      DIMENSION KIND(50),IIND(50)
+0160      DIMENSION ABM(50,5),U(50,2,2)
+0165      DIMENSION UDQ(50),UDG(50),UDA(50), VOD(50)
 0170      DIMENSION DELTAU(50,2)
 0180      DIMENSION VOD(50,4),HM(20),EE(4),SI(4),BS(20)
 0190      DIMENSION AINTID(10)
@@ -1343,6 +1344,7 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 0670      MKN=6*MK
 0680      PRINT,"GE FASFÖRSKJUTNING I GRADER"
 0690      READ,FFI
+
 ```
 
 #### Del 2
@@ -1406,12 +1408,13 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 1220      IF(IE.EQ.1) GOTO 411
 1230      WRITE(6,420)
 1240  420 FORMAT(1X,5(1H*),/T10,"RESULTAT AV FOURIERANALYS:",
-     &       /5(1H*),/T10,"F/F0",5X,"AMPLITUD",3X,"FASVINKEL",
-     &       /70(1H-))
+          &    /5(1H*),/T10,"F/F0",5X,"AMPLITUD",3X,"FASVINKEL",
+          &    /70(1H-))
 1260      WRITE(6,430)(RES(I,2),RES(I,1),RES(I,3),I=1,K1)
 1270  430 FORMAT(1X,T10,F4.0,5X,F7.5,2X,F9.5)
 1280  440 CONTINUE
 1290  411 CONTINUE
+  
 ```
 
 #### Del 3
@@ -1456,9 +1459,9 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 1460      PRINT,"GE INDATA: RS,XLS,XM,XLR,RRO,P,FB"
 1470      READ,RS,XLS,XM,XLR,RRO,P,FB
 1480      PRINT,"ROTOR-SPTR: BS21,BS22,HS2,BSY2,HSY2,BSMR,HSMR",
-1490     &      " BCR1,BCMR,HCR,RHO2,RRAT"
+1490      &    " BCR1,BCMR,HCR,RHO2,RRAT"
 1500      READ,SPTR,BS21,BS22,HS2,BSY2,HSY2,BSMR,HSMR,
-1510     &     BCR1,BCMR,HCR,RHO2,RRAT
+1510      &    BCR1,BCMR,HCR,RHO2,RRAT
 1520  405 CONTINUE
 1530      PRINT,"ÖNSKAS S-ITERATION? 1=JA"
 1540      READ,IIVS
@@ -1476,7 +1479,7 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 1650  397 CONTINUE
 1660  394 CONTINUE
 1670      CALL SARE(SPTR,BS21,BS22,HS2,BSY2,HSY2,BSMR,HSMR,
-1680     &          BCR1,BCMR,HCR,RHO2,N,BS,H,BC,RHO)
+1680      &    BCR1,BCMR,HCR,RHO2,N,BS,H,BC,RHO)
 1690      WRITE(6,530)
 1700  530 FORMAT(1X,5(1H*))
 1710C     UPPLÄGGNING AV RESULTAT FRÅN FOURIER-ANALYS
@@ -1499,6 +1502,7 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
           READ,STRUNT
 1880  545 FORMAT(1X,6(1H*),/T10,"SPÄNNING Q-AXEL")
 1890  550 FORMAT(1X,T10,F10.3,"*COS(",I2,"*WT) +",
+  
 ```
 
 #### Del 4
@@ -1507,7 +1511,7 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 
 ```fortran  
   
-1900     &      I2,"*WT) + ",F10.3,"*SIN(",I2,"*WT) +")
+1900      &    I2,"*WT) + ",F10.3,"*SIN(",I2,"*WT) +")
 1910  559 CONTINUE
 1920      WRITE(6,530)
 1930C     WQ & WD
@@ -1559,9 +1563,9 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 2390      IF(J.EQ.3) KW=-ABM(K,1)
 2400      F2=ABS(KW*WE-WR)/(2*PI)
 2410      CALL RSPIMP(1,F2,N,0,BS,H,BC,RHO,
-     &            Z1,Z2,Z3,Z4,Z5,Z6,Z7,Z8)
+          &    Z1,Z2,Z3,Z4,Z5,Z6,Z7,Z8)
 2420      CALL RSPIMP(1,.1,N,0,BS,H,BC,RHO,
-     &            Z3,Z4,Z5,Z6,Z7,Z8,Z9,Z10)
+          &    Z3,Z4,Z5,Z6,Z7,Z8,Z9,Z10)
 2430      RFACT=RRAT*(Z1/Z3-1.0)+1.0
 2440      XFACT=RRAT*(Z2*.1/(Z4*F2)-1.0)+1.0
 2450      LR=(XLR*XFACT+XM)/WP
@@ -1569,6 +1573,7 @@ Ytterligare information kan fås ur programbeskrivningen till PWMOT.
 2470      RROT(K,MP)=RR
 2480      CALL SETA(KW)
 2490      CALL MINF(F2,4,4,0.0001,HM,IER2)
+  
 ```
 
 <!--
@@ -1646,9 +1651,9 @@ i CALL ADD på raderna 0980 och 1120, FORMAT-raderna 1240–1250 och
 2980      DENOM=(RRO/SM)**2+((XLR+XM)*FM0/FB)**2
 2990      RH=RRO/SM*(XM*FM0/FB)**2/DENOM
 3000      XH=((RRO/SM)**2*XM*FM0/FB+
-     &       XLR*XM*(XLR+XM)*(FM0/FB)**3)/DENOM
+          &     XLR*XM*(XLR+XM)*(FM0/FB)**3)/DENOM
 3010      EQ=RES(1,1)*UM1*SQRT((RH**2+XH**2)/((RI+RS+RH)**2
-3020     &  +(XL*FM0/FB+XLS*FM0/FB+XH)**2))
+3020      &     +(XL*FM0/FB+XLS*FM0/FB+XH)**2))
 3030      IF(INYS.EQ.1) GOTO 748
 3040      APK1=APK
 3050      APK=APK*E1/EQ
