@@ -156,9 +156,9 @@ Allt detta sammantaget och tillämpat på en ASEA standardmotor (MBK 280 S-6, nr
 <!-- Sida 6 -->
 
 ## 2. Järnförluster
-
+<sub>&nbsp;</sub>
 ### 2.1 Allmänt
-
+<sub>&nbsp;</sub>
 Nedstämplingen hos motorn erhålls genom att de totala förlusterna i motorn bestäms. Med totalförluster kommer i fortsättningen summan av koppar- och järnförluster att avses, däremot tas ingen hänsyn till friktions- och tillsatsförluster. Till att börja med bestäms därför järnförlusterna ur tomgångsprov. Dessa läggs sedan till de vid belastning erhållna kopparförlusterna och nedstämplingen räknas fram (se Motorn under belastning).
 
 ### 2.2 Svårigheter vid analytisk bestämning av järnförluster
