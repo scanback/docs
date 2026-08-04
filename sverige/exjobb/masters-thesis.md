@@ -200,7 +200,7 @@ För att kunna relatera dessa järnförluster till någonting har sinusjärnför
 
 Efter att ha studerat sambanden mellan tomgångsförlusterna vid PWM- och sinusmatning införs en serieinduktor i kretsen (enligt figur 3). Eftersom motorimpedansen domineras av reaktansen kommer induktorn inte att fungera som ett första ordningens lågpassfilter utan snarare som en länk i en spänningsdelning. Induktorn kommer att dämpa övertonsamplituden och förbättrar därigenom spänningens utseende vid motorklämmorna avsevärt ($U$). Denna förbättrade kurvform ger minskade övertonsförluster (både koppar och järn) vilket återspeglas i bilaga 1.1-1.3 som alla tre visar total- och järnförluster i tomgång som funktion av frekvensen för olika induktans.
 
-Det visar sig att kopparförlusternas andel i de totala tomgångsförlusterna minskar avsevärt vid ökande induktorstorlek, men är fortfarande så stora som halva totalförlusten vid 0,21 pu (1 mH) och 10 Hz, (per unit-värdena relateras till motorns märkspänning och märkström, basimpedansen blir då $Z_B  = 1,47 och basinduktansen blir $L_B$ = 4,67 mH enligt bilaga 6, kortslutningsreaktansen är ungefär 0,25 pu). Här har grundtonens spänningsfall över induktorn beaktats och en korrektionsterm införts mellan de olika kurvorna, så att de tre kurvorna är helt jämförbara (gäller även sinusmatningskurvan).
+Det visar sig att kopparförlusternas andel i de totala tomgångsförlusterna minskar avsevärt vid ökande induktorstorlek, men är fortfarande så stora som halva totalförlusten vid 0,21 pu (1 mH) och 10 Hz, (per unit-värdena relateras till motorns märkspänning och märkström, basimpedansen blir då $Z_B$  = 1,47  mH och basinduktansen blir $L_B$ = 4,67 mH enligt bilaga 6, kortslutningsreaktansen är ungefär 0,25 pu). Här har grundtonens spänningsfall över induktorn beaktats och en korrektionsterm införts mellan de olika kurvorna, så att de tre kurvorna är helt jämförbara (gäller även sinusmatningskurvan).
 
 ### 2.6 Analys
 
@@ -336,7 +336,7 @@ Induktorns inverkan på förlusterna kan även beräknas som funktion av frekven
 
 Detta medför i sin tur att matningsspänningen måste höjas för att kompensera för spänningsfallet över induktorn och statorn. Vid låga frekvenser är det möjligt att genomföra eftersom man då ändå inte utnyttjar hela den tillgängliga spänningen (här $V_1$ = 220 V), men när frekvensen stiger så når man en för varje induktor specifik frekvens då det inte går att ta ut mer spänning ur mellanledet. När denna gräns passeras måste istället kravet på konstant flöde släppas till förmån för kravet på konstant moment, vilket erhålls genom att eftersläpningen ökas.
 
-Effekten av detta kan studeras i bilaga 1.6 och 1.7. Om ingen induktor finns i kretsen, uppstår inte problemet och kurvan ser ut som för $L$ = 0. Samma konvexa utseende skulle också de andra kurvorna få om det inte vore för det ovan nämnda spänningstaket. För till exempel 1 mH (0,22 pu) kurvan ger sig detta tillkänna vid ungefär 44 Hz. Över denna frekvens stiger förlusterna starkt på grund av den ökade strömmen (upp till denna frekvens har konstant flöde medfört i stort sett konstant ström, $P_{cu} \sim$ 1/f). Ännu mer markant är detta i 2 mH 0,43 pu-fallet. Spänningsfallet blir då så stort över induktorn att det inte går att ta ut 700 Nm vid höga frekvenser. På grund av detta ter det sig lämpligt att vid en gränsfrekvens, som bestäms av att totalförlusterna med och utan induktor blir lika stora, koppla förbi induktorn. För frekvenser större än den specifika gränsfrekvensen följer förlusterna sedan kurvan för $L$ = 0.
+Effekten av detta kan studeras i bilaga 1.6 och 1.7. Om ingen induktor finns i kretsen, uppstår inte problemet och kurvan ser ut som för $L$ = 0. Samma konvexa utseende skulle också de andra kurvorna få om det inte vore för det ovan nämnda spänningstaket. För till exempel 1 mH (0,22 pu) kurvan ger sig detta tillkänna vid ungefär 44 Hz. Över denna frekvens stiger förlusterna starkt på grund av den ökade strömmen (upp till denna frekvens har konstant flöde medfört i stort sett konstant ström, $s \sim$ 1/f). Ännu mer markant är detta i 2 mH 0,43 pu-fallet. Spänningsfallet blir då så stort över induktorn att det inte går att ta ut 700 Nm vid höga frekvenser. På grund av detta ter det sig lämpligt att vid en gränsfrekvens, som bestäms av att totalförlusterna med och utan induktor blir lika stora, koppla förbi induktorn. För frekvenser större än den specifika gränsfrekvensen följer förlusterna sedan kurvan för $L$ = 0.
 
 <!-- Sida 12 -->
 
@@ -428,7 +428,7 @@ Induktorn bör väljas i denna storleksordning, en mindre induktor medför ingen
 En stor induktor får även en låg gränsfrekvens vid vilken flödet ej kan hållas konstant i motorn och motorförlusterna ökar (bilaga 1.6, 1.7). Oberoende av induktorstorleken bör induktorn kopplas ur vid den frekvens då förlusterna med och utan induktor i kretsen är lika stora.
 
 ---
-## 5 Litteraturförteckning
+## 5. Litteraturförteckning
 
 P. Krause, *Method of multiple reference frames applied to the analysis of symmetrical induction machinery*. IEEE Transactions on Power Apparatus and Systems, vol. PAS-87, no. 1, pp. 218-226.
 
@@ -445,7 +445,7 @@ T. Porteous, *Programbeskrivningar till PWMOT och RESIST*.
 ## Bilagor  
 
 ---
-*Bilaga 1 består huvudsakligen av diagram och har utelämnats. De finns tillgängliga i originaldokumentet.*
+*Bilaga 1 består huvudsakligen av diagram och har utelämnats. De finns tillgängliga i originalfotostaten.*
 
 ---
 ### Bilaga 2. Matningsspänningens utseende och Fourieranalys  
