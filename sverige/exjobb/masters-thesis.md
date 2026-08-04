@@ -843,7 +843,7 @@ där $a$ är antalet faser och $P$ antalet poler.
 
 #### B3.3 Fourieranalys
 
-För att föra resonemanget vidare införs nu den kurvform som omriktaren ger. Beteckningen s (till exempel $V_{q1}^{s}$) införs som anger variabler i statorns referenssystem, e betecknar ett synkront roterande referenssystem.
+För att föra resonemanget vidare införs nu den kurvform som omriktaren ger. Beteckningen $s$ (till exempel $V_{q1}^{s}$) införs som anger variabler i statorns referenssystem, $e$ betecknar ett synkront roterande referenssystem.
 
 Ur $\gamma$-ekvationerna erhålls:
 
