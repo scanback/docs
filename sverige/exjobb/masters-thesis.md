@@ -294,8 +294,8 @@ $$
 Att det första fallet inte ger konstant flöde beror på att vid låga frekvenser blir resistanserna jämförbara med reaktanserna och ($E_1$) blir då inte en enkel ickefasvriden linjär funktion av $V_1$ längre.
 
 I bilaga 1.4, figur 1 syns effekten av detta. Figuren visar de totala förlusterna i motorn vid konstant moment (700 Nm) som funktion av frekvensen. Kurva A representerar det första fallet med omriktarklämspänningens grundton $V_1 = kf$. 
-På motsvarande sätt har sinusfallet beräknats och a-kurvan erhållits. I fallet A blir nedstämplingen (bilaga 1.4, figur 2) $\xi = 1 - M / M_n$ mycket stor. Eftersom $M\sim I$ och $P_{cu}\sim I^2$ blir $
-\xi = \sqrt{1-P_{cun} / {P_{cu}}}$. Nedstämplingen blir, med utgångspunkt från detta, som störst vid låga frekvenser, vid PWM-matning ($\xi$ =18  % vid 11 Hz). Här har beräkningarna grundats på antagandet att den forcerade kylningen gjort att alla förluster effektivt kunnat ledas bort, oberoende av varvtalet. I verkligheten har detta visat sig svårt att utföra, varför en ytterligare korrektionsterm måste införas för att ta hänsyn till denna effekt.
+På motsvarande sätt har sinusfallet beräknats och a-kurvan erhållits. I fallet A blir nedstämplingen (bilaga 1.4, figur 2) $\xi = 1 - M / M_n$ mycket stor. Eftersom $M\propto I$ och $P_{cu}\propto I^2$ blir $
+\xi = 1- \sqrt{P_{cun} / {P_{cu}}}$. Nedstämplingen blir, med utgångspunkt från detta, som störst vid låga frekvenser, vid PWM-matning ($\xi$ =18  % vid 11 Hz). Här har beräkningarna grundats på antagandet att den forcerade kylningen gjort att alla förluster effektivt kunnat ledas bort, oberoende av varvtalet. I verkligheten har detta visat sig svårt att utföra, varför en ytterligare korrektionsterm måste införas för att ta hänsyn till denna effekt.
 
 Hålls flödet konstant blir förhållandena annorlunda. Då minskar sinusförlusterna vid låga frekvenser eftersom kopparförlusterna är konstanta ($\Phi=\text{konstant} \Rightarrow I=\text{konstant}$) och järnförlusterna avtar med frekvensen (kurva b). I PWM-fallet fås ett förlustmaximum kring 30 Hz (kurva B) och nedstämplingen blir ca 14 %.
 
@@ -336,7 +336,7 @@ Induktorns inverkan på förlusterna kan även beräknas som funktion av frekven
 
 Detta medför i sin tur att matningsspänningen måste höjas för att kompensera för spänningsfallet över induktorn och statorn. Vid låga frekvenser är det möjligt att genomföra eftersom man då ändå inte utnyttjar hela den tillgängliga spänningen (här $V_1$ = 220 V), men när frekvensen stiger så når man en för varje induktor specifik frekvens då det inte går att ta ut mer spänning ur mellanledet. När denna gräns passeras måste istället kravet på konstant flöde släppas till förmån för kravet på konstant moment, vilket erhålls genom att eftersläpningen ökas.
 
-Effekten av detta kan studeras i bilaga 1.6 och 1.7. Om ingen induktor finns i kretsen, uppstår inte problemet och kurvan ser ut som för $L$ = 0. Samma konvexa utseende skulle också de andra kurvorna få om det inte vore för det ovan nämnda spänningstaket. För till exempel 1 mH (0,22 pu) kurvan ger sig detta tillkänna vid ungefär 44 Hz. Över denna frekvens stiger förlusterna starkt på grund av den ökade strömmen (upp till denna frekvens har konstant flöde medfört i stort sett konstant ström, $s \sim$ 1/f). Ännu mer markant är detta i 2 mH 0,43 pu-fallet. Spänningsfallet blir då så stort över induktorn att det inte går att ta ut 700 Nm vid höga frekvenser. På grund av detta ter det sig lämpligt att vid en gränsfrekvens, som bestäms av att totalförlusterna med och utan induktor blir lika stora, koppla förbi induktorn. För frekvenser större än den specifika gränsfrekvensen följer förlusterna sedan kurvan för $L$ = 0.
+Effekten av detta kan studeras i bilaga 1.6 och 1.7. Om ingen induktor finns i kretsen, uppstår inte problemet och kurvan ser ut som för $L$ = 0. Samma konvexa utseende skulle också de andra kurvorna få om det inte vore för det ovan nämnda spänningstaket. För till exempel 1 mH (0,22 pu) kurvan ger sig detta tillkänna vid ungefär 44 Hz. Över denna frekvens stiger förlusterna starkt på grund av den ökade strömmen (upp till denna frekvens har konstant flöde medfört i stort sett konstant ström, $s \sim 1/ \textit{f}$). Ännu mer markant är detta i 2 mH 0,43 pu-fallet. Spänningsfallet blir då så stort över induktorn att det inte går att ta ut 700 Nm vid höga frekvenser. På grund av detta ter det sig lämpligt att vid en gränsfrekvens, som bestäms av att totalförlusterna med och utan induktor blir lika stora, koppla förbi induktorn. För frekvenser större än den specifika gränsfrekvensen följer förlusterna sedan kurvan för $L$ = 0.
 
 <!-- Sida 12 -->
 
@@ -344,7 +344,7 @@ Om man gör på det sättet och beräknar den erforderliga nedstämplingen ur f�
 
 ### 3.5 Momentpulsationer
 
-Övertonshalten i matningsspänningen ger upphov till momentpulsationer kring medelmomentet, vilka måste beaktas. Framförallt vid låga frekvenser blir dessa betydande varför metoden med femte- och sjundetonsundertryckning (se bilaga 2) används för att omfördela tonerna. Bilaga 1.8, figur 1 och 1.9 visar det totala momentets maximi- och minimivärden vid 700 Nm och 0 Nm ($\approx M_n$ och $\Theta$) som funktion av frekvensen. Momenten har erhållits ur datorprogrammet som även tar hänsyn till elimineringen av låga övertoner. Kurvorna ger endast en överblick över pulsationerna kring medelmomentet och deras frekvensberoende. Om de ritas med fler punkter skulle sprången vid växlarna framgå tydligare.
+Övertonshalten i matningsspänningen ger upphov till momentpulsationer kring medelmomentet, vilka måste beaktas. Framförallt vid låga frekvenser blir dessa betydande varför metoden med femte- och sjundetonsundertryckning (se bilaga 2) används för att omfördela tonerna. Bilaga 1.8, figur 1 och 1.9 visar det totala momentets maximi- och minimivärden vid 700 Nm och 0 Nm ($\propto M_n$ och $\Theta$) som funktion av frekvensen. Momenten har erhållits ur datorprogrammet som även tar hänsyn till elimineringen av låga övertoner. Kurvorna ger endast en överblick över pulsationerna kring medelmomentet och deras frekvensberoende. Om de ritas med fler punkter skulle sprången vid växlarna framgå tydligare.
 
 En urkoppling av till exempel en 1 mH (0,22 pu) induktans vid 47 Hz skulle öka pulsationerna från ca ±150 Nm till ±300 Nm, vilket inte betyder särskilt mycket om momentet är 700 Nm. Däremot innebär det en fördubbling vid låglast.
 
@@ -877,7 +877,7 @@ V_{kq\gamma}\sin(k\omega_e t)
 \right).
 $$
 
-Om man uttrycker detta i e-systemet fås:
+Om man uttrycker detta i $e$-systemet fås:
 
 $$
 V_{d1}^{e}
