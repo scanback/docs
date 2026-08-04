@@ -3,9 +3,7 @@ title: "Examensarbete i elektrisk effektomvandling"
 Description: "Studie av övertonsförluster hos en asynkronmaskin seriekopplad med en induktor. 🇸🇪"
 image: /assets/social-card-sverige.png
 ---
-`Ännu inte fullt verifierad mot originalet. Viktiga diagram kommer läggas till.`
 
----
 <!-- Sida 1 -->
 
 # EXAMENSARBETE I ELEKTRISK EFFEKTOMVANDLING  
