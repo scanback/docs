@@ -1919,11 +1919,6 @@ REAL-deklarationen på rad 5670.
 ### Bilaga 4.10 Körexempel
 
 <!--
-> **Rekonstruktion, pass 1.** Denna fil omfattar originalets bilaga 4.15–4.18
-> (PDF-sidorna 47–50). Utskriften har transkriberats och delvis strukturerats
-> i tabeller. Programfrågor och användarsvar har i huvudsak behållits i den
-> form de förekommer i originalet.
->
 > `W` i programutskriften har nedan återgivits som $\omega$ där uttrycken har
 > satts i LaTeX. Några av de minsta koefficienterna är svårlästa och bör
 > kontrolleras mot originalet i pass 2.
@@ -2506,7 +2501,7 @@ m_{\mathrm{cu}}
 3A_{\mathrm{cu}}\rho_{\mathrm{cu}}
 \,4\left(\sqrt{A_{\mathrm{fe}}}+0.3a\right)N \\
 &=
-0.0897
+0.0796
 \left(\sqrt{A_{\mathrm{fe}}}+0.3a\right)N,
 \end{aligned}
 $$
@@ -2517,7 +2512,7 @@ där $A_{\mathrm{fe}}$ anges i $\mathrm{cm}^2$ och massan i kg.
 Kontrollpunkt för pass 2:
 Originalet ser ut att ange koefficienten 0.0897. Direkt insättning av
 A_cu = 84 mm^2 och rho_cu = 7900 kg/m^3 ger ungefär 0.0796, varför
-originalets koefficient kan innehålla ett räkne- eller läsfel.
+originalets koefficient kan innehålla ett räkne- eller läsfel. SC: ändrat till 0.0796
 -->
 
 #### B5.4 Järnvikter
