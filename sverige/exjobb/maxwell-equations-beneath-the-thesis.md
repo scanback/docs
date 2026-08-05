@@ -159,21 +159,23 @@ These are constitutive, geometric, and modeling assumptions that turn the genera
 
 ## Summary
 
-The intellectual sequence in the thesis is
+The intellectual sequence in the thesis is:
 
-$$
-\text{Maxwell field equations}
-\;\longrightarrow\;
-\text{magnetoquasistatic approximation}
-\;\longrightarrow\;
-\text{magnetic-circuit model}
-\;\longrightarrow\;
-dq\text{-machine equations}
-\;\longrightarrow\;
-\text{equivalent circuits}
-\;\longrightarrow\;
-\text{numerical simulation and design decisions}.
-$$
+```mermaid
+flowchart TD
+    A[Maxwell field equations]
+    B[Magnetoquasistatic approximation]
+    C[Magnetic-circuit model]
+    D[dq-axis machine equations]
+    E[Equivalent circuits]
+    F[Numerical simulation and design decisions]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+```
 
 Thus, the formulas identified in the thesis are indeed specific engineering reductions of the general Maxwell equations, especially Maxwell--Faraday's law and the Maxwell--Ampère equation. The thesis replaces a full field solution with a structured hierarchy of approximations suitable for machine design and numerical analysis.
 
