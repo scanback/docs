@@ -40,7 +40,7 @@ When motor space is unrestricted, however, the results show that a series induct
 
 ## Table of Contents  
 
-**1. $~$ Introduction**
+**1. $~$ Introduction**  
 $\quad$ 1.1 $~$ General  
 $\quad$ 1.2 $~$ Supply  
 $\quad$ 1.3 $~$ Disadvantages of PWM Supply  
@@ -71,12 +71,12 @@ $\quad$ 4.3 $~$ Inductor Size with Limited Motor Space
 **5. $~$ References**  
 
 **Appendices**  
-Appendix 1: Diagrams  
+B1: Diagrams  
 B2. $~$ Supply-Voltage Waveform and Fourier Analysis  
 B3. $~$ Calculation Model  
-Appendix 4: Program Description: PWMIND  
+B4: $~$ Program Description: PWMIND  
 B5. $~$ Calculation of Inductor Size  
-Appendix 6: Type Data  
+B6: $~$ Type Data  
 B7. $~$ List of Variables  
 
 ---
@@ -157,7 +157,6 @@ All of this, applied to an ASEA standard motor (MBK 280 S-6, no. 7125 824) with 
 <!-- Page 6 -->
 
 ## 2. Iron Losses
-<sub>&nbsp;</sub>
 ### 2.1 General
 <sub>&nbsp;</sub>
 The motor derating is obtained by determining the total losses in the motor. Hereafter, total losses means the sum of copper and iron losses; friction and stray-load losses are not included. The iron losses are therefore first determined from no-load tests. They are then added to the copper losses obtained under load, and the derating is calculated (see The Motor under Load).
@@ -448,10 +447,10 @@ E. Alm, *Electrical Engineering, Volume III: Electrical Machinery*, Part 2A, 192
 ## Appendices
 
 ---
-*Appendix 1 consists primarily of diagrams and has been omitted. They are available in the original photostat copy.*
+*Appendix B1 consists primarily of diagrams and has been omitted. They are available in the original photostat copy.*
 
 ---
-### Appendix 2. Supply-Voltage Waveform and Fourier Analysis  
+### Appendix B2. Supply-Voltage Waveform and Fourier Analysis  
 
 <!-- Page 26 -->  
 
@@ -585,7 +584,7 @@ $$
 <!-- In the final sine term of the original, the frequency index appears to be k. Here n is used for consistency with the summation index in the same expression. -->
 
 ---
-### Appendix 3. Calculation Model
+### Appendix B3. Calculation Model
 
 <!-- Page 28 -->
 
@@ -1083,7 +1082,7 @@ These are solved and then yield losses and torque in the usual manner from the c
 <!-- This matrix has also been reproduced in the order shown in the original. The variable n occurs here without an explicit definition on the page; it appears to denote the order of the wave in question. -->
 
 ---
-### Appendix 4. Program Description: PWMIND
+### Appendix B4. Program Description: PWMIND
 
 <!--
 > **Reconstruction, Pass 1.** This file covers Sections 4.1–4.5 of the original appendix (PDF pages 33–37). The text has been transcribed from the scanned copy. The circuit diagram and the rotor-slot drawing have been omitted and replaced with brief placeholders. The program listing and run examples, which constitute items 9 and 10 in the original table of contents, are treated in separate files.
@@ -2262,7 +2261,7 @@ Pass 2:
   designations IDST and IDRT.
 -->
 
-### Appendix 5. Calculation of Inductor Size
+### Appendix B5. Calculation of Inductor Size
 
 <!--
 > **Reconstruction, Pass 1.** This file covers Sections 5.1–5.5 of the original appendix
@@ -2706,7 +2705,7 @@ Pass 2:
 - Check the dimensional expression for yoke width $B$ against the original drawing.
 -->
 
-### Appendix 6. Type Data
+### Appendix B6. Type Data
 
 <!--
 > **Reconstruction, Pass 1.** This file covers Sections 6.1–6.2 of the original appendix
@@ -2834,7 +2833,7 @@ Pass 2:
 -->
 
 ---
-### Appendix 7. List of Variables
+### Appendix B7. List of Variables
 
 <!--
 > **Reconstruction, Pass 1.** This file covers Sections 7.1–7.2 of the original appendix
