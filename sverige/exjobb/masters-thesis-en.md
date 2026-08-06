@@ -71,7 +71,7 @@ $\quad$ 4.3 $~$ Inductor Size with Limited Motor Space
 **5. $~$ References**  
 
 **Appendices**  
-B1: Diagrams  
+B1: $~$ Diagrams  
 B2. $~$ Supply-Voltage Waveform and Fourier Analysis  
 B3. $~$ Calculation Model  
 B4: $~$ Program Description: PWMIND  
