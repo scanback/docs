@@ -13,7 +13,7 @@ image: /assets/social-card-sverige.png
 
 ## Study of harmonic losses in an induction machine connected in series with an inductor.  🇬🇧  
 
-<a href="../../about.md" style="color: black; text-decoration: none;"><b>Prepared by:</b> Staffan Canbäck</a>
+<a href="../../about" style="color: black; text-decoration: none;"><b>Prepared by:</b> Staffan Canbäck</a>
 
 **Supervisor:** Tom Porteous
 
