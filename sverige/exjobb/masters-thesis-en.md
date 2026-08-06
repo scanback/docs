@@ -2622,7 +2622,7 @@ Here too, $A_{\mathrm{fe}}$ is expressed in $\mathrm{cm}^2$ and the mass in kg.
 
 <!-- Original: Appendix 5.3, PDF page 53 -->
 
-#### 5.5 Summary
+#### B5.5 Summary
 
 The expressions used can be summarized as
 
