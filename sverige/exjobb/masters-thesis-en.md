@@ -149,7 +149,7 @@ To determine the magnitude of the losses and pulsations, Fourier analysis of the
 </p>
 <br>
 
-These theories are incorporated in the computer program PWMIND (pulse-width modulation with an inductor; see Appendix 4). Estimated iron losses were added to the results obtained from the program.
+These theories are incorporated in the computer program PWMIND (pulse-width modulation with an inductor; see Appendix B.4). Estimated iron losses were added to the results obtained from the program.
 
 All of this, applied to an ASEA standard motor (MBK 280 S-6, no. 7125 824) with forced cooling and used together with a series inductor, formed the basis for evaluating which inductor could, for electrical, mechanical, and physical reasons, be regarded as the best—if not strictly optimal—solution to the problem. These conclusions are drawn for the standard motor in question, but can also be applied to other combinations of motor and inductor.
 
