@@ -438,9 +438,9 @@ F. G. G. de Buck, *Design adaption of inverter supplied induction motors*. Elect
 
 E. Alm, *Electrical Engineering, Volume III: Electrical Machinery*, Part 2A, 1927, pp. 356–362.
 
-5. F. Gustavson, *Compendium in Electromechanical Energy Conversion*, Part 1, 1978, pp. 4.1–4.20.
+F. Gustavson, *Compendium in Electromechanical Energy Conversion*, Part 1, 1978, pp. 4.1–4.20.
 
-6. T. Porteous, *Program Descriptions for PWMOT and RESIST*.
+T. Porteous, *Program Descriptions for PWMOT and RESIST*.
 
 ---
 
