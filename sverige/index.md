@@ -49,7 +49,7 @@ Affärsvärldens* intervju med mig och andra om managementkonsultbranschens utve
 ### [Politiken (1993): *Farvel til bosser og mastodonter*](politiken.pdf)
 Som ledande skandinavisk organisationsfilosof blev jag intervjuad av den ledande danska dagstidningen Politiken: *Farvel til industriens kolosser. Farvel til de hierarkisk opbyggede og styrede kæmpe koncerner. Farvel til den magtfulde, alvidende boss. Som Sovjetunionen er brudt sammen og er splittet op, vil erhvervslivets stormagter bliver brudt op.* [🇪🇳](politiken-en.pdf)
 
-### Jag skrev en artikelserie som ansvarig partner för McKinseys Insurance Practice i Norden:
+**Jag skrev en artikelserie som ansvarig partner för McKinseys Insurance Practice i Norden:**
 
 ### [Försäkringstidningen (1989): *Bästa bolaget vinner (del 1 av Försäkring på 90-talet)*](försäkringstidningen-1.pdf)
 Att det bästa försäkringsbolaget blir vinnare på marknaden kan sägas vara en självklar sanning. Det finns dock inget bolag som är så bra att det inte kan bli bättre genom
@@ -61,5 +61,6 @@ Distributionen är nyckeln till framgång på morgondagens marknad. Men dagens d
 ### [Försäkringstidningen (1990): *Att vinna med teknologi (del 3 av Försäkring på 90-talet)*](försäkringstidningen-3.pdf)
 Informationsteknologi kostar mer än någonsin, betyder mer än någonsin och berör varje funktion, aktivitet och arbetsmoment inom försäkringsbranschen. [🇪🇳](försäkringstidningen-3-en.pdf)
 
+---
 ### [Staffan Canbäck ([1979] 2026): *Examensarbete i elektrisk effektomvanding: Studium av övertonsförluster hos en asynkronmaskin seriekopplad med en serieinduktor*. Kungliga tekniska högskolan, Sektionen för elektroteknik](exjobb/masters-thesis.md)
 Mitt examensarbete för Civ.ing. på KTH Elektroteknik återfinns här. Dess relevans idag är att det förklarar varför Tellusant kan vara så matematiskt avancerat. Jag och mina kollegor har det i blodet. [En fotostatkopia av originalet finns här.](s.canback-masters-thesis.pdf)
