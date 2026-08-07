@@ -40,17 +40,24 @@ I have more than 750 academic, business, and media citations to my name.
 
 ## Professional Record
 ### Experience  
-**Tellusant (2020-)**  
+**Tellusant, Boston (2020-)**  
 Executive Chairman & Co-Founder  
 
-**Canback Consulting (2004-2020)**  
+**Canback Consulting, Boston (2004-2020)**  
 Managing Director & Founder  
 
-**Monitor Company (1995-2003)**  
+**Monitor Group, Boston (1995-2003)**  
 Partner  
 
-**McKinsey & Company (1984-1995)**  
+**McKinsey & Company, Scandinavia (1984-1995)**  
 Partner  
+
+**Mateba y Roberts, Mexico City (1983)**
+Consultant
+
+**Asea (ABB), Systens Development Engineer, Västerås (1980-1981)**
+
+**Swedish Army, NCO, Uppsala (1977-1978)**
 
 ### Education
 - [Doctor of Business Administration - Henley Business School](https://www.henley.ac.uk/)  
