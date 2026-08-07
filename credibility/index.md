@@ -1,11 +1,11 @@
 ---
-title: "My Personal Credibility"
+title: "About Me"
 description: "To understand whether CANBACK think is worth exploring, hear is my credibility."
 image: /assets/social-card-think.png
 redirect_from:
   - /legitimacy/
 ---
-# My Personal Credibility  
+# About Me  
 To understand whether **CANBACK** ***think*** is worth exploring, hear is my credibility.
 
 ## Biography
