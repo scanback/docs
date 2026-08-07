@@ -38,7 +38,7 @@ I have more than 750 academic, business, and media citations to my name.
 
 >My last name is Canbäck in Swedish.
 
-## Formalia
+## Professional Record
 ### Experience  
 **Tellusant (2020-)**  
 Executive Chairman & Co-Founder  
@@ -57,7 +57,7 @@ Partner
 - [Master in Business Administration - Harvard Business School](https://www.exed.hbs.edu/)  
 - [Master of Science in Electrical Engineering - KTH Royal Institute of Technology](https://www.kth.se/en)  
 
-### Awards
+### Grants & Awards
 - [Fulbright Scholar (1981)](https://fulbrightprogram.org/)  
 - [Wallenberg Scholar (1995)](https://kaw.wallenberg.org/en)  
 - [EDAMBA: First Prize in best European doctoral dissertation in management, 2003](https://www.uibk.ac.at/archive/ipoint/kopf_der_woche/1111.html)
