@@ -1,10 +1,13 @@
 ---
-title: "My Personal Legitimacy"
-description: "To understand whether CANBACK think is worth exploring, hear is my legitimacy."
+title: "My Personal Credibility"
+description: "To understand whether CANBACK think is worth exploring, hear is my credibility."
 image: /assets/social-card-think.png
+redirect_from:
+  - /legitimacy/
 ---
-# My Personal Legitimacy  
-To understand whether **CANBACK** ***think*** is worth exploring, hear is my legitimacy.
+# My Personal Credibility  
+To understand whether **CANBACK** ***think*** is worth exploring, hear is my credibility.
+
 ## Experience  
 **Tellusant (2020-)**  
 Executive Chairman & Co-Founder  
@@ -19,13 +22,13 @@ Partner
 Partner  
 
 ## Education
-- Doctor of Business Administration - Henley Business School  
-- Master in Business Administration - Harvard Business School  
-- Master of Science in Electrical Engineering - KTH Royal Institute of Technology  
+- [Doctor of Business Administration - Henley Business School](https://www.henley.ac.uk/)  
+- [Master in Business Administration - Harvard Business School](https://www.exed.hbs.edu/)  
+- [Master of Science in Electrical Engineering - KTH Royal Institute of Technology](https://www.kth.se/en)  
 
 ## Awards
-- Fulbright Scholar  
-- Wallenberg Scholar  
+- [Fulbright Scholar (1981)](https://fulbrightprogram.org/)  
+- [Wallenberg Scholar (1995)](https://kaw.wallenberg.org/en)  
 - [EDAMBA: First Prize in best European doctoral dissertation in management, 2003](https://www.uibk.ac.at/archive/ipoint/kopf_der_woche/1111.html)
 
 ## Volunteer Work
