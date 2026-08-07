@@ -13,13 +13,13 @@ image: /assets/social-card-sverige.png
 
 ## Estudio de las pérdidas armónicas en una máquina de inducción conectada en serie con un inductor.  🇪🇸  
 
-**Autor:** Staffan Canbäck
+<a href="../../about.html" style="color: black; text-decoration: none;"><b>Autor:</b> Staffan Canbäck</a>  
 
-**Supervisor:** Tom Porteous
+**Supervisor:** Tom Porteous  
 
-**Presentada:** 1979-11-27
+**Presentada:** 1979-11-27  
 
-**Estado:** Aprobada
+**Estado:** Aprobada  
 
 ---
 ## Resumen
@@ -71,12 +71,12 @@ $\quad$ 4.3 $~$ Tamaño del inductor con espacio limitado para el motor
 **5. $~$ Referencias**  
 
 **Apéndices**  
-Apéndice 1: Diagramas  
+B1. $~$ Diagramas  
 B2. $~$ Forma de onda de la tensión de alimentación y análisis de Fourier  
 B3. $~$ Modelo de cálculo  
-Apéndice 4: Descripción del programa PWMIND  
+B4. $~$ Descripción del programa PWMIND  
 B5. $~$ Cálculo del tamaño del inductor  
-Apéndice 6: Datos tipo  
+B8. $~$ Datos tipo  
 B7. $~$ Lista de variables  
 
 ---

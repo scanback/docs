@@ -10,7 +10,7 @@ image: /assets/social-card-sverige.png
 
 ## Studie av övertonsförluster hos en asynkronmaskin seriekopplad med en induktor.  🇸🇪  
 
-<a href="../../about.md" style="color: black; text-decoration: none;"><b>Utfört av:</b> Staffan Canbäck</a>
+<a href="../../about.html" style="color: black; text-decoration: none;"><b>Utfört av:</b> Staffan Canbäck</a>
 
 **Handledare:** Tom Porteous
 
