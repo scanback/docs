@@ -33,13 +33,10 @@ Since the advent of the large corporation in the 1850s, companies have evolved t
 What is the composition of executive teams in the United States? A few years ago I took a look at 844 senior executives of the 50 largest U.S. companies.
 
 ### [Google Trends Analysis of AI, Sports and More in the United States](google-trends.md)
-In less than five years, AI and its key players have catapulted to the top of Google search rankings. How large the surge has been becomes clear when looking at Google Trends data for the United States.
-
-### [Should AI Be Cited? No. Should AI Be Mentioned? Sometimes.](ai-cites-mentions.md)
-Two tips on how to make your AI use known. Only mention truly material AI use.
+In less than five years, AI and its key players have catapulted to the top of Google search rankings. How large the surge has been becomes clear when looking at Google Trends data for the United States.  
 
 ### [South Africa Economic Sentiment Analysis Using AI](economic-sentiment-zaf.md)
-This article shows how to perform semantic analysis of qualitative reports using automated parsing, scoring and weighting, leveraging a custom-trained AI model.
+This article shows how to perform semantic analysis of qualitative reports using automated parsing, scoring and weighting, leveraging a custom-trained AI model.  
 
 ### [The Might of Nations](might-of-nations.md)
 With current geopolitical tensions, it is interesting to see how the might of nations has changed over time and where we are now. I use the concept of relative market share, translated to relative economic might, to show the trend.
