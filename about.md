@@ -32,5 +32,4 @@ I am a **Fulbright Scholar**; a **Wallenberg Scholar**; and the first prize winn
 
 I have more than 750 academic, business, and media citations to my name.
 
----
-My last name is Canbäck in Swedish.
+> My last name is Canbäck in Swedish.
