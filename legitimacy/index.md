@@ -55,7 +55,7 @@ Partner
 **Mateba y Roberts, Mexico City (1983)**
 Consultant
 
-**Asea (ABB), Systens Development Engineer, Västerås (1980-1981)**
+**Asea (ABB), Systems Development Engineer, Västerås (1980-1981)**
 
 **Swedish Army, NCO, Uppsala (1977-1978)**
 
