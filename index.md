@@ -36,7 +36,7 @@ Bits and pieces such as event posters.
 
 ---
 ## [My Credibility](credibility/index.md)
-What gives me the right to publish the kind of deep intellectual materials you find here? I asked ChatGPT and Gemini to summarize my credentials.  
+What gives me the right to publish the kind of deep intellectual materials you find here?
 
 ---
 Why **CANBACK** <span style="color: #B00000;"><b><i>think</i></b></span>? The *think* term is drawn from George Orwell's *Newspeak* in **1984**. *Newspeak* was aimed at dumbing down people's critical thinking, so it's ill chosen by me. Yet it has an aesthetic beauty with its mangled grammar that I wanted to capture.  
