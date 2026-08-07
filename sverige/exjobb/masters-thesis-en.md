@@ -1,7 +1,7 @@
 ---
 title: "Master's Thesis in Electrical Power Conversion"
 Description: "Study of harmonic losses in an induction machine connected in series with an inductor. 🇬🇧"
-image: /assets/social-card-sverige.png
+image: /assets/social-card-think.png
 ---
 
 <!-- Page 1 -->
