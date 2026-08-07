@@ -13,7 +13,7 @@ image: /assets/social-card-sverige.png
 
 ## Estudio de las pérdidas armónicas en una máquina de inducción conectada en serie con un inductor.  🇪🇸  
 
-**Autor:** Staffan Canbäck
+<a href="../../credibility" style="color: black; text-decoration: none;"><b>Autor:</b> Staffan Canbäck</a>
 
 **Supervisor:** Tom Porteous
 
