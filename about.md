@@ -2,7 +2,6 @@
 title: "About Me"
 description: "To understand whether CANBACK think is worth exploring, hear is my credibility."
 image: /assets/social-card-think.png
-permalink: /docs/about/
 redirect_from:
   - /legitimacy/
 ---
