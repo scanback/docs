@@ -35,7 +35,7 @@ I have worked on the ground in 90 countries and visited over 100. FORTHCOMING.
 Bits and pieces such as event posters.
 
 ---
-## [My Legitimacy](legitimacy/index.md)
+## [My Credibility](credibility/index.md)
 What gives me the right to publish the kind of deep intellectual materials you find here? I asked ChatGPT and Gemini to summarize my credentials.  
 
 ---
