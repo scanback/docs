@@ -4,7 +4,7 @@ description: "To understand whether 𝗖𝗔𝗡𝗕𝗔𝗖𝗞 𝙩𝙝𝙞�
 image: /assets/social-card-think.png
 redirect_from:
   - /legitimacy/
-  - /credibility/
+  - ../credibility/
   - /about.html
 ---
 # About Me  
