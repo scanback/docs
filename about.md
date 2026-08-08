@@ -2,8 +2,6 @@
 title: "About Me"
 description: "To understand whether CANBACK think is worth exploring, here is my credibility."
 image: /assets/social-card-think.png
-redirect_from:
-  - ../legitimacy/index.html
 ---
 # About Me  
 To understand whether **CANBACK** ***think*** is worth exploring, here is my credibility.
