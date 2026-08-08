@@ -111,7 +111,9 @@ Not including confidential Tellusant clients.
 
 
 ### Academic Publishing  
-[49 contributions listed on Figshare](https://figshare.com/authors/Staffan_Canback/20547296). Notable:  
+[12 contributions listed on SSRN](https://[figshare.com/authors/Staffan_Canback/20547296] and [49 contributions listed on Figshare](https://figshare.com/authors/Staffan_Canback/20547296)(https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=370890))  
+
+Notable:  
 
 ***[Bureaucratic Limits of Firm Size](../papers/Canback-Bureaucratic-Limits-of-Firm-Size-Doctoral-Dissertation.pdf)***. Seminal work cited hundreds of times. Doctoral resarch on diseconomies of scale in large enterprises.  
 
