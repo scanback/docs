@@ -1,7 +1,7 @@
 ---
 title: "Tesis de maestría en conversión de potencia eléctrica"
 Description: "Estudio de las pérdidas armónicas en una máquina de inducción conectada en serie con un inductor. 🇪🇸"
-image: /assets/social-card-think.png
+image: /assets/social-card-pensar.png
 ---
 
 <!-- Página 1 -->
