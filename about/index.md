@@ -61,21 +61,6 @@ Consultant
 
 **Swedish Army, NCO, Uppsala (1977-1978)**
 
-### Education
-- [Doctor of Business Administration - Henley Business School](https://www.henley.ac.uk/)  
-- [Master in Business Administration - Harvard Business School](https://www.exed.hbs.edu/)  
-- [Master of Science in Electrical Engineering - KTH Royal Institute of Technology](https://www.kth.se/en)  
-
-### Grants & Awards
-- [Fulbright Scholar (1981)](https://fulbrightprogram.org/)  
-- [Wallenberg Scholar (1995)](https://kaw.wallenberg.org/en)  
-- [EDAMBA: First Prize in best European doctoral dissertation in management, 2003](https://www.uibk.ac.at/archive/ipoint/kopf_der_woche/1111.html)
-
-### Volunteer Work
-- Member of the Board of Advisors: The Fletcher School at Tufts University.The Digital Planet initiative, funded by the Gates Foundation.  
-- Class Secretary: Harvard Business School. MBA Class of 1983 Section I.  
-- Reunion Volunteer: Harvard Business School. MABA Class of 1983.  
-
 ### Lived in  
 - United States  
 - Sweden  
@@ -109,10 +94,13 @@ Not including confidential Tellusant clients.
 |Kraft Heinz|Volvo|
 ||Walmart|
 
+### Education
+- [Doctor of Business Administration - Henley Business School](https://www.henley.ac.uk/)  
+- [Master in Business Administration - Harvard Business School](https://www.exed.hbs.edu/)  
+- [Master of Science in Electrical Engineering - KTH Royal Institute of Technology](https://www.kth.se/en)  
 
 ### Academic Publishing  
 [12 contributions listed on SSRN](https://ssrn.com/author=370890) and [49 contributions listed on Figshare](https://figshare.com/authors/Staffan_Canback/20547296).
-
 
 Notable:  
 ***[Bureaucratic Limits of Firm Size](../papers/Canback-Bureaucratic-Limits-of-Firm-Size-Doctoral-Dissertation.pdf)***. Seminal work cited hundreds of times. Doctoral resarch on diseconomies of scale in large enterprises.  
@@ -124,7 +112,13 @@ Notable:
 ### Citations
 More than [750 citations](../citations/index.md) spanning academia, commerce, media, government, nonprofit.
 
-I am a **Fulbright Scholar**; a **Wallenberg Scholar**; and the first prize winner of the [**best European doctoral dissertation in management awarded in 2003**](https://www.uibk.ac.at/archive/ipoint/kopf_der_woche/1111.html) awarded by the *European Doctoral Programmes Association in Management & Business Administration* (EDAMBA).
+### Grants & Awards
+- [Fulbright Scholar (1981)](https://fulbrightprogram.org/)  
+- [Wallenberg Scholar (1995)](https://kaw.wallenberg.org/en)  
+- [EDAMBA: First Prize in best European doctoral dissertation in management, 2003](https://www.uibk.ac.at/archive/ipoint/kopf_der_woche/1111.html)
 
-I have more than 750 academic, business, and media citations to my name.
+### Volunteer Work
+- Member of the Board of Advisors: The Fletcher School at Tufts University.The Digital Planet initiative, funded by the Gates Foundation.  
+- Class Secretary: Harvard Business School. MBA Class of 1983 Section I.  
+- Reunion Volunteer: Harvard Business School. MABA Class of 1983.  
 
