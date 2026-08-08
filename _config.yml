@@ -20,3 +20,8 @@ plugins:
 sitemap:
   path: /docs/sitemap.xml
 
+author:
+  name: "Staffan Canback"
+  url: "https://canback.net/docs/about/"
+  type: Person
+
