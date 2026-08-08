@@ -111,10 +111,10 @@ Not including confidential Tellusant clients.
 
 
 ### Academic Publishing  
-[12 contributions listed on SSRN](https://[figshare.com/authors/Staffan_Canback/20547296) and [49 contributions listed on Figshare](https://figshare.com/authors/Staffan_Canback/20547296)(https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=370890)  
+[12 contributions listed on SSRN](https://ssrn.com/author=370890) and [49 contributions listed on Figshare](https://figshare.com/authors/Staffan_Canback/20547296).
+
 
 Notable:  
-
 ***[Bureaucratic Limits of Firm Size](../papers/Canback-Bureaucratic-Limits-of-Firm-Size-Doctoral-Dissertation.pdf)***. Seminal work cited hundreds of times. Doctoral resarch on diseconomies of scale in large enterprises.  
 
 ***[The Logic of Management Consulting Part 1](../papers/Canback-The-Logic-of-Management-Consulting-Part-1.pdf) and [Part 2](../papers/Canback-The-Logic-of-Management-Consulting-Part-2.pdf)***. Most used course material at universities globally for consulting courses.  
