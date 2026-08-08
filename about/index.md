@@ -5,7 +5,7 @@ image: /assets/social-card-think.png
 redirect_from:
   - /legitimacy/
   - /credibility/
-  - about.md
+  - /about.html
 ---
 # About Me  
 To understand whether **CANBACK** ***think*** is worth exploring, here is my credibility.
