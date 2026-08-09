@@ -9,7 +9,7 @@ redirect_from:
   - /credibility/
 ---
 # About Me  
-To understand whether **CANBACK** <span style font-color="ff0000"><b><i>think</i></b></span> is worth exploring, here is my credibility.
+To understand whether **CANBACK** <span style="color: #ff0000;"><b><i>think</i></b></span> is worth exploring, here is my credibility.
 
 ## Biography
 
