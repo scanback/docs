@@ -15,7 +15,13 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-redirect-from
 
 sitemap:
   path: /docs/sitemap.xml
+
+author:
+  name: "Staffan Canback"
+  url: "https://canback.net/docs/about/"
+  type: Person
 
