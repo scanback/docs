@@ -6,9 +6,21 @@ image: /assets/social-card-think.png
 # Should Finland Emulate Sweden's Wealth Tax Approach?
 Few European countries have wealth taxes...
 
-## Finland-Sweden Demographic and Economic  Comparison
+## Finland-Sweden Economic Comparison
+Before looking at GDP, it is important to understand the demographic differences. Sweden has had much higher population growth than Finland (figure 1)
 <p align="center">
-<img src="assets/images/fin-swe/s.canback-fin-swe-demography.svg" alt="FIN-SWE demographic comparison" width="500">
+<figure>
+<img src="assets/images/fin-swe/s.canback-fin-swe-demography-1.svg" alt="FIN-SWE demographic comparison" width="500">
+<figcaption>Figur 1. Annual Total Population Growth, 2010-2025</figcaption>
+</figure>
+</p>
+
+More importantly, economic growth is in mainly a function of the growth in working-age population, not total population. Here, Finland lags even more (figure 2).
+<p align="center">
+<figure>
+  <img src="assets/images/fin-swe/s.canback-fin-swe-demography-2.svg" alt="FIN-SWE demographic comparison" width="500">
+  <figcaption>Figur 2. Annual Working-Age Population Growth, 2010-2025</figcaption>
+</figure>
 </p>
 
 ## Does Type of Taxation Matter? Not Really
