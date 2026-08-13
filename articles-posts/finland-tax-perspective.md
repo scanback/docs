@@ -24,13 +24,15 @@ More importantly, economic growth is in mainly a function of the growth in worki
   <figcaption><b>Figur 2. Annual Working-Age Population Growth, 2010-2025</b></figcaption>
 </figure>
 </p>
+<br>
 
-### Gross Domestic Product and Labor
+### Gross Domestic Product and Labor  
+
 We turn to GDP growth in total (Figure 3). Sweden has had a substantially higher growth rate.
 
 <p align="center">
 <figure>
-  <img src="assets/images/fin-swe/s.canback-fin-swe-gdp-1.svg" alt="FIN-SWE GDP comparison" width="500">
+  <img src="assets/images/fin-swe/s.canback-fin-swe-economy-1.svg" alt="FIN-SWE GDP comparison" width="500">
   <figcaption><b>Figur 3. Annual GDP Growth, 2010-2025</b></figcaption>
 </figure>
 </p>
@@ -39,10 +41,11 @@ However, this combines economic and demographic contributions. A better metric i
 
 <p align="center">
 <figure>
-  <img src="assets/images/fin-swe/s.canback-fin-swe-gdp-2.svg" alt="FIN-SWE GDP/Wpop comparison" width="500">
+  <img src="assets/images/fin-swe/s.canback-fin-swe-economy-2.svg" alt="FIN-SWE GDP/Wpop comparison" width="500">
   <figcaption><b>Figur 3. Annual GDP / Working-Age Pop. Growth, 2010-2025</b></figcaption>
 </figure>
 </p>
+<br>
 
 ### GDP and Capital Formation
 Labor contributes around 60% of GDP in both Finland and Sweden. The rest is contributed by capital (fixed assets such as factories, robots, buildings, R&D) and more.
@@ -51,14 +54,15 @@ Capital has grown 1.1% p.a. in Finland and 2.7% p.a. in Sweden. Has the capital 
 
 <p align="center">
 <figure>
-  <img src="assets/images/fin-swe/s.canback-fin-swe-gdp-3.svg" alt="FIN-SWE GDP/Wpop comparison" width="500">
+  <img src="assets/images/fin-swe/s.canback-fin-swe-economy-3.svg" alt="FIN-SWE GDP/Wpop comparison" width="500">
   <figcaption><b>Figur 3. Annual GDP / Capital Growth, 2010-2025</b></figcaption>
 </figure>
 </p>
 
 >Technical note: The interaction effect between labor and capital (often called deepening) have been eliminated so these are "pure" labor and capital productivities.
+<br>
 
-### Total Factor Productivity--What Really Matters
+### Total Factor Productivity--The Thing That Really Matters
 
 So how has each country performed in total? Have they become "better" or "worse" over the 15 year period. This is measured **Total Factor Productivity** (TFP). Without going into how this is calculated (it is a direct outcome of the graphs above, and surprisingly easy to calculate: plus, minus, multiplication), Finland has a slightly better performance than Sweden (a decimal has to be added to show the small difference).
 
@@ -67,7 +71,7 @@ A few regions have been added. In comparison to these, neither Finland are doing
 <p align="center">
 <figure>
   <img src="assets/images/fin-swe/s.canback-fin-swe-tfp.svg" alt="FIN-SWE GDP/Wpop comparison" width="500">
-  <figcaption><b>Figur 3. Annual GDP / Capital Growth, 2010-2025</b></figcaption>
+  <figcaption><b>Figur 3. Annual TFP Growth, 2010-2025</b></figcaption>
 </figure>
 </p>
 
