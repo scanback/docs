@@ -56,7 +56,7 @@ However, this combines economic and demographic contributions. A better metric i
 ### GDP and Capital Formation
 Labor contributes around 60% of GDP in both Finland and Sweden. The rest is contributed by capital (fixed assets such as factories, robots, buildings, R&D) and more.
 
-Capital has grown 1.1% p.a. in Finland and 2.7% p.a. in Sweden. Has the capital been put to good use? Not at all in Sweden, and weakly in Finland (figure 5(. Capital destruction is massive in Sweden.
+Capital has grown 1.1% p.a. in Finland and 2.7% p.a. in Sweden. Has the capital been put to good use? Not at all in Sweden, and weakly in Finland (figure 5). Capital destruction is massive in Sweden.
 
 <p align="center">
 <figure>
@@ -76,7 +76,7 @@ A few regions have been added. In comparison to these, neither Finland are doing
 
 <p align="center">
 <figure>
-  <img src="assets/images/fin-swe/s.canback-fin-swe-tfp.svg" alt="FIN-SWE GDP/Wpop comparison" width="500">
+  <img src="assets/images/fin-swe/s.canback-fin-swe-tfp.svg" alt="FIN-SWE GDP/Wpop comparison" width="400">
   <figcaption><b>Figure 6. Annual TFP Growth, 2010-2025</b></figcaption>
 </figure>
 </p>
