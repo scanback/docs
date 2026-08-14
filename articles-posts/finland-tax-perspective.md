@@ -76,12 +76,12 @@ A few regions have been added. In comparison to these, neither Finland are doing
 
 <p align="center">
 <figure>
-  <img src="assets/images/fin-swe/s.canback-fin-swe-tfp.svg" alt="FIN-SWE GDP/Wpop comparison" width="400">
+  <img src="assets/images/fin-swe/s.canback-fin-swe-tfp.svg" alt="FIN-SWE GDP/Wpop comparison" width="350">
   <figcaption><b>Figure 6. Annual TFP Growth, 2010-2025</b></figcaption>
 </figure>
 </p>
 
-Source for allfigures: **Paragonal** Productivity System by Tellusant
+Source for all figures: **Paragonal** Productivity System by Tellusant
 
 ---
 ## Does Type of Taxation Matter? Not Really
