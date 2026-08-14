@@ -6,6 +6,12 @@ image: /assets/social-card-think.png
 # Should Finland Emulate Sweden's Wealth Tax Approach?
 Few European countries have wealth taxes...
 
+Work in progress. **Unclear how Finland's taxation differs from Sweden's**
+
+1. Done: Economic Comparison
+2.TBD:  Does Type of Taxation Matter? Not Really
+3. TBD: Thoughts on tax policy for Finland (and Sweden)
+
 ---
 ## Finland-Sweden Economic Comparison
 ### Demography
