@@ -72,7 +72,7 @@ Capital has grown 1.1% p.a. in Finland and 2.7% p.a. in Sweden. Has the capital 
 
 So how has each country performed in total? Have they become "better" or "worse" over the 15 year period. This is measured **Total Factor Productivity** (TFP). Without going into how this is calculated (it is a direct outcome of the graphs above, and surprisingly easy to calculate: plus, minus, multiplication), Finland has a slightly better performance than Sweden (a decimal has to be added to show the small difference).
 
-A few regions have been added. In comparison to these, neither Finland are doing well (figure 6).
+A few regions have been added. In comparison to these, neither Finland are doing well (figure 6). (The U.S. is infinitesimally below the EU.)
 
 <p align="center">
 <figure>
