@@ -6,6 +6,18 @@ baseurl: "/docs"
 
 remote_theme: pages-themes/slate@v0.2.0
 
+author:
+  name: "Staffan Canback"
+  url: "https://canback.net/docs/about/"
+  type: Person
+
+social:
+  name: "Staffan Canback"
+  links:
+    - "https://www.linkedin.com/in/scanback/"
+    - "https://www.threads.com/@canback_think"
+    - "https://medium.com/@scanback"
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
@@ -14,16 +26,4 @@ plugins:
 
 sitemap:
   path: /docs/sitemap.xml
-
-author:
-  name: "Staffan Canback"
-  url: "https://canback.net/docs/about/"
-  type: Person
-
-  social:
-  name: "Staffan Canback"
-  links:
-    - "https://www.linkedin.com/in/scanback/"
-    - "https://www.threads.com/@canback_think"
-    - "https://medium.com/@scanback"
 
