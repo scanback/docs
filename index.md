@@ -1,5 +1,5 @@
 ---
-title: "𝗖𝗔𝗡𝗕𝗔𝗖𝗞 𝙩𝙝𝙞𝙣𝙠"
+title: "CANBACK think"
 description: "This personal website contains my published works, ranging from scientific papers to social media posts."
 image: /assets/social-card-think.png
 ---
