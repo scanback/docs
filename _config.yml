@@ -20,3 +20,10 @@ author:
   url: "https://canback.net/docs/about/"
   type: Person
 
+  social:
+  name: "Staffan Canback"
+  links:
+    - "https://www.linkedin.com/in/scanback/"
+    - "https://www.threads.com/@canback_think"
+    - "https://medium.com/@scanback"
+
