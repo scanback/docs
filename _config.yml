@@ -1,19 +1,14 @@
-title: "Dr. Staffan Canback"
+title: "CANBACK think"
 description: "Bridging Science and Management"
-
-# remote_theme: pages-themes/slate@v0.2.0
-# remote_theme: pages-themes/cayman@v0.2.0
 
 url: "https://canback.net"
 baseurl: "/docs"
 
 remote_theme: pages-themes/slate@v0.2.0
-# remote_theme: pages-themes/slate@v0.2.0
-# remote_theme: pages-themes/cayman@v0.2.0
 
 plugins:
-  - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-sitemap
   - jekyll-feed
   - jekyll-redirect-from
 
