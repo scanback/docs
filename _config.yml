@@ -1,10 +1,11 @@
 title: Dr. Staffan Canback"
 description: "Bridging Science and Management"
+logo: "/assets/images/logo-canback-think-v.svg"
 
 url: "https://canback.net"
 baseurl: "/docs"
 
-logo: "/assets/images/logo-canback-think-v.svg"
+
 
 remote_theme: pages-themes/slate@v0.2.0
 
