@@ -1,27 +1,29 @@
-title: "Dr. Staffan Canback"
+title: Dr. Staffan Canback"
 description: "Bridging Science and Management"
-
-# remote_theme: pages-themes/slate@v0.2.0
-# remote_theme: pages-themes/cayman@v0.2.0
 
 url: "https://canback.net"
 baseurl: "/docs"
 
 remote_theme: pages-themes/slate@v0.2.0
-# remote_theme: pages-themes/slate@v0.2.0
-# remote_theme: pages-themes/cayman@v0.2.0
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-redirect-from
-
-sitemap:
-  path: /docs/sitemap.xml
 
 author:
   name: "Staffan Canback"
   url: "https://canback.net/docs/about/"
   type: Person
+
+social:
+  name: "Staffan Canback"
+  links:
+    - "https://www.linkedin.com/in/scanback/"
+    - "https://www.threads.com/@canback_think"
+    - "https://medium.com/@scanback"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-redirect-from
+
+sitemap:
+  path: /docs/sitemap.xml
 

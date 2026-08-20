@@ -3,4 +3,21 @@
 
 {% seo %}
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://canback.net/docs/about/#person",
+  "name": "Staffan Canback",
+  "url": "https://canback.net/docs/about/",
+  "sameAs": {{ site.social.links | jsonify }},
+  "worksFor": {
+    "@type": "Organization",
+    "@id": "https://tellusant.com/#organization",
+    "name": "Tellusant, Inc.",
+    "url": "https://tellusant.com/"
+  }
+}
+</script>
+
 <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
