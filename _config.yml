@@ -4,6 +4,8 @@ description: "Bridging Science and Management"
 url: "https://canback.net"
 baseurl: "/docs"
 
+logo: "/assets/images/logo-tellusant-v.png"
+
 remote_theme: pages-themes/slate@v0.2.0
 
 author:
