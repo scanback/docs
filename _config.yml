@@ -20,6 +20,9 @@ social:
     - "https://www.linkedin.com/in/scanback/"
     - "https://www.threads.com/@canback_think"
     - "https://medium.com/@scanback"
+    - "https://orcid.org/0009-0006-9892-398X"
+    - "https://figshare.com/authors/Staffan_Canback/20547296"
+    - "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=370890"
 
 plugins:
   - jekyll-seo-tag
