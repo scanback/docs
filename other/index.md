@@ -6,7 +6,7 @@ image: /assets/social-card-think.png
 # Other Materials
 Bits and pieces such as event posters.  
 
-## [My Personal Memories from the Canback Consulting Era (2004-2020)](canback-consulting)
+## [My Personal Memories from the Canback Consulting Era (2004-2020)](canback-consulting.md)
 
 #### [Poster for "From Greenlands to Tellusant" Presentation](S.Canback-From-Greenlands-to-Tellusant-Academic-Research-Meets-Real-World-Management-Problems-Poster.pdf)
 Henley Business School: 30th Anniversary DBA Research Colloquium - July 20 2022
