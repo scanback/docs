@@ -21,7 +21,7 @@ Today, I reserve that capability for leaders who are intellectually curious, wil
 
 Over four decades, I have worked as a management consultant and business leader around the world. My career started with **McKinsey & Company** in Scandinavia where I was a partner. I then joined **Monitor Company** in Boston, continuing my management consulting career as a partner.  
 
-In 2004, I decided to form a new type of consulting firm, **Canback Consulting**, which was more deeply focused on the quantitative aspects of strategy development. In 2015 I sold the firm to The Economist Group and stayed on as managing director.  
+In 2004, I decided to form a new type of consulting firm, **Canback Consulting**, which was more deeply focused on the quantitative aspects of strategy development. In 2015 I sold the firm to The Economist Group and stayed on as managing director. [The Canback years were critical in forming my thoughts about Tellusant's so my personal history with the firm is relevant to my credibility](canback-consulting.md).
 
 In 2020, I co-founded **Tellusant** together with Philip Burgin-Young, to take the next step: To move from pure advice to building repeatable, automated products that capture much of what companies and management consultants do manually within **strategic planning and other corporate higher order cognitive processes**. The approach is to leverage AI for strategy purposes.  
 
