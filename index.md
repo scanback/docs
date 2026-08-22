@@ -35,8 +35,8 @@ I have worked on the ground in 90 countries and visited over 100. FORTHCOMING.
 Bits and pieces such as event posters.
 
 ---
-## [My Credibility](../about/index.md)
-To understand whether **CANBACK** <span style="color: #B00000;"><b><i>think</i></b></span> is worth exploring, hear is my credibility.
+## [My Credibility](/about/index.md)
+To understand whether **CANBACK** <span style="color: #B00000;"><b><i>think</i></b></span> is worth exploring, here is my credibility.
 
 ---
 Why **CANBACK** <span style="color: #B00000;"><b><i>think</i></b></span>? The *think* term is drawn from George Orwell's *Newspeak* in **1984**. *Newspeak* was aimed at dumbing down people's critical thinking, so it's ill chosen by me. Yet it has an aesthetic beauty with its mangled grammar that I wanted to capture.  
