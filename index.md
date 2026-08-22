@@ -35,7 +35,7 @@ I have worked on the ground in 90 countries and visited over 100. FORTHCOMING.
 Bits and pieces such as event posters.
 
 ---
-## [My Credibility](credibility/index.md)
+## [My Credibility](credibility/)
 To understand whether **CANBACK** <span style="color: #B00000;"><b><i>think</i></b></span> is worth exploring, hear is my credibility.
 
 ---
