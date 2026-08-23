@@ -1,6 +1,6 @@
 ---
-title: "CANBACK think"
-description: "Published works by Staffan Canback bridging science and management, from scientific papers and research to commentary and social media posts."
+title: "CANBACK think documents my complete works since 1979"
+description: "Published works by Dr. Staffan Canback from scientific papers and research to commentary and social media posts."
 image: /assets/social-card-think.png
 ---
 <h1 style="text-align: center;">CANBACK <span style="color: #B00000;"><i>think</i></span></h1>
