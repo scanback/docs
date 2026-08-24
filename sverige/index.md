@@ -10,6 +10,9 @@ Artiklar och annat avsedda för svenskar och finlandssvenskar.
 
 ## Nyare alster
 
+### [Affärsvärlden (2026):*Svensk export inget att vara stolt över*](https://www.affarsvarlden.se/intervju/svensk-export-inget-att-vara-stolt-over)
+Sverige är numera inte den lyckade exportnation vi tror. Globala marknadsandelar sjunker och exportpotentialen är långt ifrån realiserad, enligt en ny analys. Men vi har styrkor, menar Staffan Canbäck, som står bakom studien. "Kungafamiljen och Nobel har ett enormt inflytande."
+
 ### [En komplex fråga: Den svenska levnadsstandarden jämförd med den amerikanska](sweden-living-standard.md)
 Man ser ofta ytliga jämförelser av den materiella levnadsstandarden i olika länder. Här går jag på djupet.  
 
