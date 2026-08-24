@@ -1,6 +1,6 @@
 ---
-title: "CANBACK think"
-description: "Published works by Staffan Canback bridging science and management, from scientific papers and research to commentary and social media posts."
+title: "CANBACK think documents my complete works since 1979"
+description: "Published works by Dr. Staffan Canback from scientific papers and research to commentary and social media posts."
 image: /assets/social-card-think.png
 ---
 <h1 style="text-align: center;">CANBACK <span style="color: #B00000;"><i>think</i></span></h1>
@@ -35,8 +35,8 @@ I have worked on the ground in 90 countries and visited over 100. FORTHCOMING.
 Bits and pieces such as event posters.
 
 ---
-## [My Credibility](credibility/index.md)
-To understand whether **CANBACK** <span style="color: #B00000;"><b><i>think</i></b></span> is worth exploring, hear is my credibility.
+## [My Credibility](/about/index.md)
+To understand whether **CANBACK** <span style="color: #B00000;"><b><i>think</i></b></span> is worth exploring, here is my credibility.
 
 ---
 Why **CANBACK** <span style="color: #B00000;"><b><i>think</i></b></span>? The *think* term is drawn from George Orwell's *Newspeak* in **1984**. *Newspeak* was aimed at dumbing down people's critical thinking, so it's ill chosen by me. Yet it has an aesthetic beauty with its mangled grammar that I wanted to capture.  
