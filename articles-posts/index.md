@@ -44,7 +44,7 @@ With current geopolitical tensions, it is interesting to see how the might of na
 ### [The Palmer Penguins and their Role in Business](palmer-penguins.md)
 Penguins are an unlikely influence on management science, but this dataset has had a profound impact on emerging business practices.  
 
-### [Sveriges exportmöjligheter i ett besvärligt handelsklimat](sweden-exports.md)
+### [Sveriges exportmöjligheter i ett besvärligt handelsklimat](../sverige/sweden-exports.md)
 Hur ska ett exportberoende land som Sverige agera för att bibehålla och öka sin export? Artikeln ger ett djupt analytiskt perspektiv.
 
 ### [The Triple-A Method for Market Sizing](triple-a.md)
