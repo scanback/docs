@@ -11,7 +11,7 @@ Artiklar och annat avsedda för svenskar och finlandssvenskar.
 ## Nyare alster
 
 ### [Affärsvärlden (2026):*Svensk export inget att vara stolt över*](https://www.affarsvarlden.se/intervju/svensk-export-inget-att-vara-stolt-over)
-Sverige är numera inte den lyckade exportnation vi tror. Globala marknadsandelar sjunker och exportpotentialen är långt ifrån realiserad, enligt en ny analys. Men vi har styrkor, menar Staffan Canbäck, som står bakom studien. "Kungafamiljen och Nobel har ett enormt inflytande."
+Sverige är numera inte den lyckade exportnation vi tror. Globala marknadsandelar sjunker och exportpotentialen är långt ifrån realiserad, enligt en ny analys. Men vi har styrkor, menar Staffan Canbäck, som står bakom studien. "Kungafamiljen och Nobel har ett enormt inflytande." Den bygger vidare på min [Sveriges exportmöjligheter i ett besvärligt handelsklimat](sweden-exports.md) analys.
 
 ### [En komplex fråga: Den svenska levnadsstandarden jämförd med den amerikanska](sweden-living-standard.md)
 Man ser ofta ytliga jämförelser av den materiella levnadsstandarden i olika länder. Här går jag på djupet.  
@@ -20,7 +20,7 @@ Man ser ofta ytliga jämförelser av den materiella levnadsstandarden i olika l�
 Hur ser de svenska geografiska inkomstskillnaderna ut? Här visar jag de svenska storstäderna och kommunerna.
 
 ### [Affärsvärlden (2026): *Inget att fira: ”Hela landet måste skärpa sig – svenskar är lata”* ](https://www.affarsvarlden.se/artikel/inget-att-fira-hela-landet-maste-skarpa-sig)
-Jag intervjuades av Affärsvärlden för denna nationaldagsartikel. Den bygger vidare på min [Uselt så det förslår](sweden-growth.md) analys nedan.
+Jag intervjuades av Affärsvärlden för denna nationaldagsartikel. Den bygger vidare på min [Uselt så det förslår](sweden-growth.md) analys.
 
 ### [Uselt så det förslår: Sveriges ekonomiska tillväxt 2015-2025](sweden-growth.md)
 Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag enklast möjliga meningsfulla mått på utvecklingen.
