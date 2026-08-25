@@ -9,7 +9,7 @@ Few European countries have wealth taxes...
 Work in progress. **Unclear how Finland's taxation differs from Sweden's**
 
 1. Done: Economic Comparison  
-2. TBD:  Does Type of Taxation Matter? Not Really  
+2. TBD:  Does Type of Taxation Matter? No and Yes
 3. TBD: Thoughts on tax policy for Finland (and Sweden)  
 
 ---
