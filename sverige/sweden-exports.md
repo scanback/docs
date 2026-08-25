@@ -30,7 +30,7 @@ Denna artikel belyser möjligheterna för framtiden baserat på en statistisk ex
 ## Svenska exportens utveckling
 Den svenska exportutvecklingen har varit under förväntan de sista 25 åren. På intet sätt dålig, men svag. Figur 1 visar utvecklingen.  
 
-** 1**  
+**Figur  1**  
 <img  src="assets/images/sweden-exports/tellusant-sweden-exports-01.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 1"> 
 
 Gentemot den inre marknaden (EU plus Norge, Island, Liechtenstein och Schweiz)¹ har vår export vuxit snabbare än mottagarländernas BNP.  
