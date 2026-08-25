@@ -9,7 +9,7 @@ image: /assets/social-card-think.png
 ---
 
 <p align="center">
-<img  src="assets/images/tellusant-s.canback-sweden-exports-banner.png" style="text-align: center;" width="500" alt="Tellusant: Sveriges exportmöjligheter">
+<img  src="assets/images/sweden-exports/tellusant-s.canback-sweden-exports-banner.png" style="text-align: center;" width="500" alt="Tellusant: Sveriges exportmöjligheter">
 </p>
 
 
