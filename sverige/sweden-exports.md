@@ -182,7 +182,7 @@ Ett bredare perspektiv syns i figur 11. Vilka är möjligheterna per världsdel?
 Asien har god potential bortom Kina och Indien. Att Afrika kommer därefter förklaras av den höga ekonomiska tillväxten (näst högst i världen de senaste 25 åren och högst i världen de kommande 25.
 
 **Figur 11**  
-<img  src="assets/images/tellusant-sweden-exports-11.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 11">  
+<img  src="assets/images/sweden-exports/tellusant-sweden-exports-11.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 11">  
 
 En ökad exporttillväxt från 2,2% 1998–2024, till 3,5% 2024–2049 är en rimlig ambition. Detta kräver stora reformer och en gedigen kraftsamling.
 
