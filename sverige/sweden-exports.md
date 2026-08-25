@@ -31,7 +31,7 @@ Denna artikel belyser möjligheterna för framtiden baserat på en statistisk ex
 Den svenska exportutvecklingen har varit under förväntan de sista 25 åren. På intet sätt dålig, men svag. Graf 1 visar utvecklingen.  
 
 **Graf 1**  
-<img  src="assets/images/tellusant-sweden-exports-01.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 1"> 
+<img  src="assets/images/sweden-exports/tellusant-sweden-exports-01.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 1"> 
 
 Gentemot den inre marknaden (EU plus Norge, Island, Liechtenstein och Schweiz)¹ har vår export vuxit snabbare än mottagarländernas BNP.  
 
@@ -47,7 +47,7 @@ Det förefaller som om så mycket energi har gått åt att fånga möjligheter i
 Det finns dock en viktig ljuspunkt. Svensk export är sofistikerad. Vi rankas som nionde land i världen efter exportkomplexitet.  
 
 **Graf 2**    
-<img  src="assets/images/tellusant-sweden-exports-02.svg" width="400" alt="Tellusant: Sveriges exportmöjligheter 2"> 
+<img  src="assets/images/sweden-exports/tellusant-sweden-exports-02.svg" width="400" alt="Tellusant: Sveriges exportmöjligheter 2"> 
 
 Svenska exportvaror är högförädlade. Det gäller inte bara läkemedel, fordon och andra uppenbara varor. Många varor som kan ses som basvaror har inom sina segment högt förädlingsvärde (t ex stål).  
 
