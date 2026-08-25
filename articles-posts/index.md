@@ -10,7 +10,7 @@ I have hundreds of LinkedIn and Medium articles and posts that are lost because 
 
 ## Recent
 
-### (Should Finland Emulate Sweden’s Capital Tax Approach?)[finland-tax-perspective.md}
+### [Should Finland Emulate Sweden’s Capital Tax Approach?](finland-tax-perspective.md)
 Under development
 
 ### [A Scientific Evaluation of World Cup Performance by Country 2002–2026](world-cup.md)
