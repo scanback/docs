@@ -83,7 +83,7 @@ Source for all figures: **Paragonal** Productivity System by Tellusant
 
 ---
 ## Does Type of Taxation Matter? No and Yes
-
+> I use the term capitalist for individuals or firms that own and manage capital. No value judgment is intended.
 
 The question is not simply whether a tax corrects something, but whether the resulting institutional arrangement improves outcomes once transaction, administrative, and behavioral costs are included.
 
