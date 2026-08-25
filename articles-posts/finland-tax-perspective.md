@@ -84,7 +84,9 @@ A few regions have been added. In comparison to these, neither Finland are doing
 Source for all figures: **Paragonal** Productivity System by Tellusant
 
 ---
-## Does Type of Taxation Matter? Not Really
+## Does Type of Taxation Matter? No and Yes
+
+
 The question is not simply whether a tax corrects something, but whether the resulting institutional arrangement improves outcomes once transaction, administrative, and behavioral costs are included.
 
 [The Problem of Social Cost - Summary](assets/pdf/coase_problem_of_social_cost_summary.md)
