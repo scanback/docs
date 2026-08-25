@@ -1,11 +1,11 @@
 ---
-title: "Articles & Posts"
+title: "Articles and Posts"
 description: "I have hundreds of LinkedIn and Medium articles and posts that are lost because of the ephemeral character of social media. I gradually save them for posterity here. This page will be built out during 2026."
 image: /assets/social-card-think.png
 ---
 
 
-# Articles & Posts
+# Articles and Posts
 I have hundreds of LinkedIn and Medium articles and posts that are lost because of the ephemeral character of social media. I gradually save them for posterity here. This page will be built out during 2026. 
 
 ## Recent
