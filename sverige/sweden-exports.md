@@ -30,7 +30,7 @@ Denna artikel belyser möjligheterna för framtiden baserat på en statistisk ex
 ## Svenska exportens utveckling
 Den svenska exportutvecklingen har varit under förväntan de sista 25 åren. På intet sätt dålig, men svag. Figur 1 visar utvecklingen.  
 
-**Figur 1**  
+** 1**  
 <img  src="assets/images/sweden-exports/tellusant-sweden-exports-01.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 1"> 
 
 Gentemot den inre marknaden (EU plus Norge, Island, Liechtenstein och Schweiz)¹ har vår export vuxit snabbare än mottagarländernas BNP.  
@@ -73,7 +73,7 @@ Längre ner på listan finns fjärran länder med hedervärd svensk andel av imp
 Hittills har vi sett beskrivande information. Intressant, men den ger få insikter om vad Sveriges möjligheter är. Statistisk analys ger dessa insikter.  
 
 ## Statistisk analysmodell
-Vilka faktorer är avgörande för exportframgång? Fem faktorer visar sig vara viktiga, sammanfattade i Figur 5. Hur viktiga visas senare i sektionen ***Resultat från modellen***.  
+Vilka faktorer är avgörande för exportframgång? Fem faktorer visar sig vara viktiga, sammanfattade i figur 5. Hur viktiga visas senare i sektionen ***Resultat från modellen***.  
 
 **Figur 5**  
 <img  src="assets/images/sweden-exports/tellusant-sweden-exports-05.svg" width="450" alt="Tellusant: Sveriges exportmöjligheter 5">  
@@ -127,7 +127,7 @@ Basmodellen visar att alla dessa faktorer är statistiskt signifikanta förutom 
 För exportörer rekommenderar vi att språklig distans, attityd till struktur, geografisk distans, och importlandets potential beaktas. Fyra dimensioner är hanterbart för ett företag.
 
 ## Resultat från modellen
-Vi börjar med Figur 8 direkt ur det statistiska analysprogrammet (Stata). Den kräver förklaringar.
+Vi börjar med figur 8 direkt ur det statistiska analysprogrammet (Stata). Den kräver förklaringar.
 
 **Figur 8**  
 <img  src="assets/images/sweden-exports/tellusant-sweden-exports-08.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 8">  
@@ -150,7 +150,7 @@ Däremot går det trögt i exempelvis USA (US), Tyskland (DE) och Schweiz (CH). 
 
 Detta ger ett intryck av de relativa resultaten. Hälften av de 209 länderna ligger över diagonalen och kan ses som framgångar, Hälften ligger under, med mer att önska.
 
-Graf 9 sätter siffor på de relativa exportframgångarna.
+Figur 9 sätter siffor på de relativa exportframgångarna.
 
 **Figur 9**  
 <img  src="assets/images/sweden-exports/tellusant-sweden-exports-09.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 9">  
@@ -162,7 +162,7 @@ Anta att målet för Sveriges export äver de nästa 25 åren är att återstäl
 
 Hur uppnår vi detta? Detta finns två faktorer att beakta. Å ena sidan är det är bättre att exportera till tillväxtländer. Å andra sidan gäller det att öka exporten till länder där vi är svaga, men modellen säger att vi borde vara starka.
 
-Gå tillbaka till Figur 8. Ett sätt att finna potentialen är att säga:
+Gå tillbaka till figur 8. Ett sätt att finna potentialen är att säga:
 
 För länder över diagonalen, svenska framgångsmarknader, sträver vi efter att behålla marknadandelarna och växer vår export i takt med dessa länders ekonomiska uvckling.
 
@@ -177,7 +177,7 @@ Tyskland är den största möjligheten (USA, om export blir enklare igen, skulle
 
 Frankrike, Schweiz och Italien är idag inte framgångsrika exportmarknader, men har stor potential.
 
-Ett bredare perspektiv syns i Figur 11. Vilka är möjligheterna per världsdel? Europa, trots den låga förväntade tillväxten (främst driven av demografisk motvind), står för den största nettopotentialen.
+Ett bredare perspektiv syns i figur 11. Vilka är möjligheterna per världsdel? Europa, trots den låga förväntade tillväxten (främst driven av demografisk motvind), står för den största nettopotentialen.
 
 Asien har god potential bortom Kina och Indien. Att Afrika kommer därefter förklaras av den höga ekonomiska tillväxten (näst högst i världen de senaste 25 åren och högst i världen de kommande 25.
 
