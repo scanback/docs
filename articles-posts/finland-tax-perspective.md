@@ -1,12 +1,10 @@
 ---
-title: "Should Finland Emulate Sweden's Wealth Tax Approach?"
-description: "Few European countries have wealth taxes..."
+title: "Should Finland Emulate Sweden's Capital Tax Approach?"
+description: "Sweden's capital taxes are much more advantageous to capitalists than Finland's. Should Finland change. Yes, but it is complicated."
 image: /assets/social-card-think.png
 ---
-# Should Finland Emulate Sweden's Wealth Tax Approach?
-Few European countries have wealth taxes...
-
-Work in progress. **Unclear how Finland's taxation differs from Sweden's**
+# Should Finland Emulate Sweden's Capital Tax Approach?
+Sweden's capital taxes are much more advantageous to capitalists than Finland's. Should Finland change. Yes, but it is complicated.
 
 1. Done: Economic Comparison  
 2. TBD:  Does Type of Taxation Matter? No and Yes
