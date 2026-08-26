@@ -6,7 +6,7 @@
 
 ---
 <p align="center">
-<img  src="assets/images/sweden-exports/tellusant-s.canback-sweden-exports-banner.png" style="text-align: center;" width="500" alt="Tellusant: Sveriges exportmöjligheter">
+<img  src="assets/images/sweden-exports/tellusant-s.canback-sweden-exports-banner-en.png" style="text-align: center;" width="500" alt="Tellusant: Sveriges exportmöjligheter">
 </p>
 
 ## About the Author
@@ -27,8 +27,13 @@ This article examines future opportunities based on a statistical export model t
 
 Swedish export performance has fallen short of expectations over the past 25 years. By no means bad, but weak. Figure 1 shows the development.
 
-**Figure 1**
+<p align="center">
+<figure>
+<figcaption><b>Figure 1</b>
 <img  src="assets/images/sweden-exports/tellusant-sweden-exports-01-en.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 1"> 
+</figure>
+</figcaption>
+<p>
 
 Relative to the Single Market (the EU plus Norway, Iceland, Liechtenstein, and Switzerland),¹ our exports have grown faster than the GDP of the recipient countries.
 
@@ -131,7 +136,7 @@ For exporters, we recommend taking linguistic distance, attitudes toward structu
 We begin with Figure 8, taken directly from the statistical analysis program Stata. It requires some explanation.
 
 **Figure 8**
-<img  src="assets/images/sweden-exports/tellusant-sweden-exports-08.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 8">  
+<img  src="assets/images/sweden-exports/tellusant-sweden-exports-08.svg-en" width="500" alt="Tellusant: Sveriges exportmöjligheter 8">  
 
 The results come from a linear regression. R-squared (goodness of fit) is 0.84. An R-squared above 0.8 is an excellent result.
 
