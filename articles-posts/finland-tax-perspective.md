@@ -6,8 +6,14 @@ image: /assets/social-card-think.png
 # Should Finland Emulate Sweden's Capital Tax Approach?
 Sweden's capital taxes are much more advantageous to capitalists than Finland's. Should Finland change. Yes, but it is complicated.
 
-1. Done: Economic Comparison  
-2. TBD:  Does Type of Taxation Matter? No and Yes
+I was asked about my views on Finland's capital taxes compared to Sweden given Sweden's astonoshing success in private equity, venture capital, and other vehicles for deplying capital, and the high number of dollar billionaires in the country.
+
+Meanwhile, Finland's economy seems to be lagging Sweden's and there is widespread pessimism about the countries prospects, even more so when trade with Russia was cut off.
+
+To have a perspective on the capital tax regime, it is necessary to understand how Finland's economy is truly doing. Is it lagging Sweden's? And then to understand how tax regimes impact countries performance.
+
+1. What is the relative economic comparison? They are more or less equal. We see this when comparing lanor, capital, and as an oucome, total factor productivity (TFP). 
+2. TBD:  Does Type of Taxation Matter? No and Yes. To understand this, Ronald Coase's theories on transaction costs are applied.
 3. TBD: Thoughts on tax policy for Finland (and Sweden)  
 
 ---

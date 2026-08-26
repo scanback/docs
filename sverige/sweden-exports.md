@@ -226,7 +226,7 @@ Sveriges storhetstid inom export är sedan länge svunnen. Kvar finns bara tron 
 ---
 **OM TELLUSANT**
 
->[Tellusant, Inc.](https://tellusant.com) är världsledande inom automatiserade lösningar för strategisk planering: *Enterprise Strategic Planning Solutions*. Vi bygger på årtionden av erfarenhet från världens största företag och har arbetat på marken i 92 länder.  
+>[Tellusant, Inc.](https://tellusant.com) är världsledande inom automatiserade lösningar för strategisk planering: *Applied Decision Analytics*. Vi bygger på årtionden av erfarenhet från världens största företag och har arbetat på marken i 92 länder.  
 
 >Vi har nyligen aktiverat oss i Sverige under [Staffan Canbäcks](https://www.linkedin.com/in/scanback/) och [Kennet Rådnes](https://www.linkedin.com/in/kennetradne/) ledning.  
 
