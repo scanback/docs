@@ -48,7 +48,6 @@ It appears that so much energy has gone into capturing opportunities within the 
 
 There is, however, one important bright spot. Swedish exports are sophisticated. We rank ninth in the world in export complexity.
 
-**Figure 2**
 <p align="center">
 <figure>
 <figcaption><b>Figure 2</b></figcaption>
@@ -162,7 +161,7 @@ We begin with Figure 8, taken directly from the statistical analysis program Sta
 <p align="center">
 <figure>
 <figcaption><b>Figure 8</b></figcaption>
-<img  src="assets/images/sweden-exports/tellusant-sweden-exports-08.svg-en" width="500" alt="Tellusant: Sveriges exportmöjligheter 8">  
+<img  src="assets/images/sweden-exports/tellusant-sweden-exports-08-en.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 8">  
 </figure>
 <p>
   
