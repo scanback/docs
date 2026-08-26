@@ -11,28 +11,28 @@ Auto-translated. [The original Swedish report is found here](https://canback.net
 
 ## About the Author
 
-> Dr. Staffan Canback is a Swedish strategy consultant and business executive who has lived in Boston, Massachusetts, since 1993. He is Executive Chairman of Tellusant, Inc. Before that, he was CEO of Canback Consulting, a global strategy consulting firm in Boston, which he sold to The Economist Group in 2015. Earlier in his career, he was a partner at McKinsey & Company and Monitor Company.
+> Dr. Staffan Canback is a Swedish strategy consultant and business executive who has lived in Boston, Massachusetts, since 1993. He is Executive Chairman of Tellusant, Inc. Before that, he was CEO of Canback Consulting, a global strategy consulting firm in Boston, which he sold to The Economist Group in 2015. Earlier in his career, he was a partner at McKinsey & Company and Monitor Company.  
 >
-> Canback earned his doctorate from Henley Business School in 2002 based on research into diseconomies of scale in large corporations. He also holds an MBA from Harvard Business School and an MSc in Electrical Engineering from KTH Royal Institute of Technology. Canback is a Fulbright Scholar and Wallenberg Scholar, and in 2003 won first prize in EDAMBA’s competition for Europe’s best doctoral dissertation in business administration.
+> Canback earned his doctorate from Henley Business School in 2002 based on research into diseconomies of scale in large corporations. He also holds an MBA from Harvard Business School and an MSc in Electrical Engineering from KTH Royal Institute of Technology. Canback is a Fulbright Scholar and Wallenberg Scholar, and in 2003 won first prize in EDAMBA’s competition for Europe’s best doctoral dissertation in business administration.  
 
 ---
 
-Global trade patterns are being reshaped. The United States has clearly raised tariffs to reduce imports. But the European Union has also increased tariffs on China for several years. China will respond to both. Secondary effects will arise for everyone.
+Global trade patterns are being reshaped. The United States has clearly raised tariffs to reduce imports. But the European Union has also increased tariffs on China for several years. China will respond to both. Secondary effects will arise for everyone.   
 
-How should an export-dependent country such as Sweden act to maintain and increase its exports? The solution must start from the fact that our exports have not been particularly successful over the past quarter century.
+How should an export-dependent country such as Sweden act to maintain and increase its exports? The solution must start from the fact that our exports have not been particularly successful over the past quarter century.  
 
-This article examines future opportunities based on a statistical export model that takes into account geographic distance, linguistic differences, cultural distance, trade barriers, and the size of the recipient country’s import market.
+This article examines future opportunities based on a statistical export model that takes into account geographic distance, linguistic differences, cultural distance, trade barriers, and the size of the recipient country’s import market.  
 
 ## Development of Swedish Exports
 
-Swedish export performance has fallen short of expectations over the past 25 years. By no means bad, but weak. Figure 1 shows the development.
+Swedish export performance has fallen short of expectations over the past 25 years. By no means bad, but weak. Figure 1 shows the development.  
 
 <p align="center">
 <figure>
 <figcaption><b>Figure 1</b></figcaption>
 <img  src="assets/images/sweden-exports/tellusant-sweden-exports-01-en.svg" width="450" alt="Tellusant: Sveriges exportmöjligheter 1"> 
 </figure>
-<p>
+</p>
 
 Relative to the Single Market (the EU plus Norway, Iceland, Liechtenstein, and Switzerland),¹ our exports have grown faster than the GDP of the recipient countries.  
 
@@ -53,7 +53,7 @@ There is, however, one important bright spot. Swedish exports are sophisticated.
 <figcaption><b>Figure 2</b></figcaption>
 <img  src="assets/images/sweden-exports/tellusant-sweden-exports-02-en.svg" width="450" alt="Tellusant: Sveriges exportmöjligheter 2"> 
 </figure>
-<p>
+</p>
   
 Swedish exports are highly value-added. This applies not only to pharmaceuticals, vehicles, and other obvious products. Many goods that might be regarded as commodities also have high value added within their segments—for example, steel.  
 
@@ -66,7 +66,7 @@ Figure 3 shows where Swedish exports go. Of the ten largest destination countrie
 <figcaption><b>Figure 3</b></figcaption>
 <img  src="assets/images/sweden-exports/tellusant-sweden-exports-03-en.svg" width="450" alt="Tellusant: Sveriges exportmöjligheter 3"> 
 </figure>
-<p>
+</p>
   
 This picture is well known and does not contribute much to a better understanding of future export opportunities.  
 
@@ -77,7 +77,7 @@ Figure 4 instead shows the more interesting and less familiar view of Sweden’s
 <figcaption><b>Figure 4</b></figcaption>
 <img  src="assets/images/sweden-exports/tellusant-sweden-exports-04-en.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 4">  
 </figure>
-<p> 
+</p> 
   
 It is striking how well we export to the NB8 (Nordic-Baltic Eight). These countries occupy the first seven positions (Sweden is, of course, the eighth).  
 
@@ -96,7 +96,7 @@ Which factors determine export success? Five factors turn out to be important, s
 <figcaption><b>Figure 5</b></figcaption>
 <img  src="assets/images/sweden-exports/tellusant-sweden-exports-05-en.svg" width="450" alt="Tellusant: Sveriges exportmöjligheter 5"> 
 </figure>
-<p>
+</p>
   
 Data for these factors were collected for 209 countries and territories. Some important aspects of these data are discussed below.  
 
@@ -111,7 +111,7 @@ Linguistic distance has been quantified within linguistics. Figure 6 shows the d
 <figcaption><b>Figure 6</b></figcaption>
 <img  src="assets/images/sweden-exports/tellusant-sweden-exports-06-en.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 6"> 
 </figure>
-<p>
+</p>
   
 That the Scandinavian languages are close to Swedish is hardly surprising. That German is also close may be less obvious (a tip for exporters: learn reasonably good German, including how to read it).  
 
@@ -132,7 +132,7 @@ Cultural distance is a complicated subject. It turns out that almost 90% of the 
 <figcaption><b>Figure 7</b></figcaption>
 <img  src="assets/images/sweden-exports/tellusant-sweden-exports-07-en.svg" width="525" alt="Tellusant: Sveriges exportmöjligheter 7">  
 </figure>
-<p>
+</p>
   
 Note that there is no value judgment in these dimensions. For example, it is neither better nor worse to work in a hierarchical culture than in a flat one.  
 
@@ -163,7 +163,7 @@ We begin with Figure 8, taken directly from the statistical analysis program Sta
 <figcaption><b>Figure 8</b></figcaption>
 <img  src="assets/images/sweden-exports/tellusant-sweden-exports-08-en.svg" width="450" alt="Tellusant: Sveriges exportmöjligheter 8">  
 </figure>
-<p>
+</p>
   
 The results come from a linear regression. R-squared (goodness of fit) is 0.84. An R-squared above 0.8 is an excellent result.  
 
@@ -190,7 +190,7 @@ Figure 9 puts numbers on the relative export successes.
 <figcaption><b>Figure 9</b></figcaption>
 <img  src="assets/images/sweden-exports/tellusant-sweden-exports-09-en.svg" width="450" alt="Tellusant: Sveriges exportmöjligheter 9"> 
 </figure>
-<p>
+</p>
   
 But how large are the export opportunities in Swedish kronor? The final section shows this.  
 
@@ -210,10 +210,10 @@ Figure 10 summarizes this analysis based on the statistical model. Linguistic, c
 
 <p align="center">
 <figure>
-<figcaption><b>Figure 11</b></figcaption>
+<figcaption><b>Figure 10</b></figcaption>
 <img  src="assets/images/sweden-exports/tellusant-sweden-exports-10-en.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 10">
 </figure>
-<p>
+</p>
   
 Germany is the largest opportunity (the United States, if exporting becomes easier again, would be on roughly the same level as Germany). India and China have substantial potential despite our differences.  
 
@@ -228,7 +228,7 @@ Asia has strong potential beyond China and India. Africa comes next because of i
 <figcaption><b>Figure 11</b></figcaption>
 <img  src="assets/images/sweden-exports/tellusant-sweden-exports-11-en.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 11">  
 </figure>
-<p>
+</p>
   
 Increasing export growth from 2.2% in 1998–2024 to 3.5% in 2024–2049 is a reasonable ambition. This will require major reforms and a substantial concerted effort.  
 
