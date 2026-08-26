@@ -188,7 +188,7 @@ Figure 9 puts numbers on the relative export successes.
 <p align="center">
 <figure>
 <figcaption><b>Figure 9</b></figcaption>
-<img  src="assets/images/sweden-exports/tellusant-sweden-exports-09-en.svg" width="450" alt="Tellusant: Sveriges exportmöjligheter 9"> 
+<img  src="assets/images/sweden-exports/tellusant-sweden-exports-09-en.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 9"> 
 </figure>
 </p>
   
