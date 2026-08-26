@@ -6,7 +6,7 @@ Auto-translated. [The original Swedish report is found here](https://canback.net
 
 ---
 <p align="center">
-<img  src="assets/images/sweden-exports/tellusant-s.canback-sweden-exports-banner-en.png" style="text-align: center;" width="500" alt="Tellusant: Sveriges exportmöjligheter">
+<img  src="assets/images/sweden-exports/tellusant-s.canback-sweden-exports-banner-en.webp" style="text-align: center;" width="500" alt="Tellusant: Sveriges exportmöjligheter">
 </p>
 
 ## About the Author
