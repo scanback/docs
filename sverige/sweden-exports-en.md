@@ -2,7 +2,7 @@
 
 *Dr. Staffan Canback, Tellusant*
 
-*Auto-translated. Original Swedish report: https://canback.net/docs/articles-posts/sweden-exports.html*
+Auto-translated. [Original Swedish report is found here](https://canback.net/docs/articles-posts/sweden-exports.md)
 
 ---
 <p align="center">
@@ -29,10 +29,9 @@ Swedish export performance has fallen short of expectations over the past 25 yea
 
 <p align="center">
 <figure>
-<figcaption><b>Figure 1</b>
+<figcaption><b>Figure 1</b></figcaption>
 <img  src="assets/images/sweden-exports/tellusant-sweden-exports-01-en.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 1"> 
 </figure>
-</figcaption>
 <p>
 
 Relative to the Single Market (the EU plus Norway, Iceland, Liechtenstein, and Switzerland),¹ our exports have grown faster than the GDP of the recipient countries.
@@ -50,24 +49,37 @@ It appears that so much energy has gone into capturing opportunities within the 
 There is, however, one important bright spot. Swedish exports are sophisticated. We rank ninth in the world in export complexity.
 
 **Figure 2**
+<p align="center">
+<figure>
+<figcaption><b>Figure 2</b></figcaption>
 <img  src="assets/images/sweden-exports/tellusant-sweden-exports-02-en.svg" width="400" alt="Tellusant: Sveriges exportmöjligheter 2"> 
-
+</figure>
+<p>
+  
 Swedish exports are highly value-added. This applies not only to pharmaceuticals, vehicles, and other obvious products. Many goods that might be regarded as commodities also have high value added within their segments—for example, steel.
 
 ## Profile of Export Markets
 
 Figure 3 shows where Swedish exports go. Of the ten largest destination countries, all except the United States are within the Single Market. This is a success for EU cooperation, but surely countries such as China and Brazil ought to appear on the list.
 
-**Figure 3**
+<p align="center">
+<figure>
+<figcaption><b>Figure 3</b></figcaption>
 <img  src="assets/images/sweden-exports/tellusant-sweden-exports-03-en.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 3"> 
-
+</figure>
+<p>
+  
 This picture is well known and does not contribute much to a better understanding of future export opportunities.
 
 Figure 4 instead shows the more interesting and less familiar view of Sweden’s share of different countries’ imports. We can think of this as our market share in each country.
 
-**Figure 4**
+<p align="center">
+<figure>
+<figcaption><b>Figure 4</b></figcaption>
 <img  src="assets/images/sweden-exports/tellusant-sweden-exports-04-en.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 4">  
-
+</figure>
+<p> 
+  
 It is striking how well we export to the NB8 (Nordic-Baltic Eight). These countries occupy the first seven positions (Sweden is, of course, the eighth).
 
 Then comes a surprise: Egypt. The country is growing rapidly, has enormous infrastructure projects, and has the most diversified economy² in the world, so perhaps this is not so surprising after all.
@@ -80,9 +92,13 @@ So far, we have looked at descriptive information. Interesting, but it provides 
 
 Which factors determine export success? Five factors turn out to be important, summarized in Figure 5. Their relative importance is shown later in the section *Results from the Model*.
 
-**Figure 5**
+<p align="center">
+<figure>
+<figcaption><b>Figure 5</b></figcaption>
 <img  src="assets/images/sweden-exports/tellusant-sweden-exports-05-en.svg" width="450" alt="Tellusant: Sveriges exportmöjligheter 5"> 
-
+</figure>
+<p>
+  
 Data for these factors were collected for 209 countries and territories. Some important aspects of these data are discussed below.
 
 ### Linguistic Distance
@@ -91,9 +107,13 @@ Linguistic distance is an important factor. Negotiating is difficult when Swedis
 
 Linguistic distance has been quantified within linguistics. Figure 6 shows the distance from Swedish (index 0) for several important business languages. Linguistic distance was collected for all countries. English, French, Spanish, or Portuguese was selected as the business language for countries with a long tradition of using these languages.
 
-**Figure 6**
+<p align="center">
+<figure>
+<figcaption><b>Figure 6</b></figcaption>
 <img  src="assets/images/sweden-exports/tellusant-sweden-exports-06-en.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 6"> 
-
+</figure>
+<p>
+  
 That the Scandinavian languages are close to Swedish is hardly surprising. That German is also close may be less obvious (a tip for exporters: learn reasonably good German, including how to read it).
 
 English, a Germanic language, is reasonably close. But the Romance languages are much more distant. Few Swedes speak French or Spanish well, even though countries using these languages are major import markets.
@@ -108,9 +128,13 @@ Cultural distance is a complicated subject. It turns out that almost 90% of the 
 - **Planning:** some cultures work with carefully thought-out plans, while others are more improvisational.
 - **Stability:** some cultures value reliability, while others value flexibility (and innovation).
 
-**Figure 7**
+<p align="center">
+<figure>
+<figcaption><b>Figure 7</b></figcaption>
 <img  src="assets/images/sweden-exports/tellusant-sweden-exports-07-en.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 7">  
-
+</figure>
+<p>
+  
 Note that there is no value judgment in these dimensions. For example, it is neither better nor worse to work in a hierarchical culture than in a flat one.
 
 Swedes are strongly oriented toward flat structures. Most countries find this unusual. Does this mean Swedish exports perform better when we encounter similar attitudes?
@@ -135,9 +159,13 @@ For exporters, we recommend taking linguistic distance, attitudes toward structu
 
 We begin with Figure 8, taken directly from the statistical analysis program Stata. It requires some explanation.
 
-**Figure 8**
+<p align="center">
+<figure>
+<figcaption><b>Figure 8</b></figcaption>
 <img  src="assets/images/sweden-exports/tellusant-sweden-exports-08.svg-en" width="500" alt="Tellusant: Sveriges exportmöjligheter 8">  
-
+</figure>
+<p>
+  
 The results come from a linear regression. R-squared (goodness of fit) is 0.84. An R-squared above 0.8 is an excellent result.
 
 Only about 60 important export countries are shown. Another 150 smaller countries lie around the diagonal to the left of the countries visible in the figure. The farther to the right, the larger the exports.
@@ -158,9 +186,13 @@ This gives an impression of the relative results. Half of the 209 countries lie 
 
 Figure 9 puts numbers on the relative export successes.
 
-**Figure 9**
+<p align="center">
+<figure>
+<figcaption><b>Figure 9</b></figcaption>
 <img  src="assets/images/sweden-exports/tellusant-sweden-exports-09-en.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 9"> 
-
+</figure>
+<p>
+  
 But how large are the export opportunities in Swedish kronor? The final section shows this.
 
 ## Sweden’s Opportunities and Priorities
@@ -177,9 +209,13 @@ For countries below the diagonal—where Swedish exports have not reached their 
 
 Figure 10 summarizes this analysis based on the statistical model. Linguistic, cultural, and geographic distance have all been taken into account.
 
-**Figure 10**
+<p align="center">
+<figure>
+<figcaption><b>Figure 10</b></figcaption>
 <img  src="assets/images/sweden-exports/tellusant-sweden-exports-10-en.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 10">
-
+</figure>
+<p>
+  
 Germany is the largest opportunity (the United States, if exporting becomes easier again, would be on roughly the same level as Germany). India and China have substantial potential despite our differences.
 
 France, Switzerland, and Italy are not currently successful export markets for Sweden, but they have substantial potential.
@@ -188,9 +224,13 @@ A broader perspective is shown in Figure 11. Where are the opportunities by cont
 
 Asia has strong potential beyond China and India. Africa comes next because of its high economic growth (the second highest in the world over the past 25 years and expected to be the highest in the world over the next 25).
 
-**Figure 11**
+<p align="center">
+<figure>
+<figcaption><b>Figure 11</b></figcaption>
 <img  src="assets/images/sweden-exports/tellusant-sweden-exports-11-en.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 11">  
-
+</figure>
+<p>
+  
 Increasing export growth from 2.2% in 1998–2024 to 3.5% in 2024–2049 is a reasonable ambition. This will require major reforms and a substantial concerted effort.
 
 Export growth of this magnitude also requires Sweden itself to perform better. Growth has been good by EU standards, but leaves much to be desired from a global perspective.
