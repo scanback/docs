@@ -9,7 +9,7 @@
 <img  src="assets/images/sweden-exports/tellusant-s.canback-sweden-exports-banner.png" style="text-align: center;" width="500" alt="Tellusant: Sveriges exportmöjligheter">
 </p>
 
-## ABOUT THE AUTHOR
+## About the Author
 
 > Dr. Staffan Canback is a Swedish strategy consultant and business executive who has lived in Boston, Massachusetts, since 1993. He is Executive Chairman of Tellusant, Inc. Before that, he was CEO of Canback Consulting, a global strategy consulting firm in Boston, which he sold to The Economist Group in 2015. Earlier in his career, he was a partner at McKinsey & Company and Monitor Company.
 >
