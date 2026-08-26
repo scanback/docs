@@ -173,7 +173,7 @@ For countries below the diagonal—where Swedish exports have not reached their 
 Figure 10 summarizes this analysis based on the statistical model. Linguistic, cultural, and geographic distance have all been taken into account.
 
 **Figure 10**
-<img  src="assets/images/sweden-exports/tellusant-sweden-exports-10.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 10">
+<img  src="assets/images/sweden-exports/tellusant-sweden-exports-10-en.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 10">
 
 Germany is the largest opportunity (the United States, if exporting becomes easier again, would be on roughly the same level as Germany). India and China have substantial potential despite our differences.
 
@@ -184,7 +184,7 @@ A broader perspective is shown in Figure 11. Where are the opportunities by cont
 Asia has strong potential beyond China and India. Africa comes next because of its high economic growth (the second highest in the world over the past 25 years and expected to be the highest in the world over the next 25).
 
 **Figure 11**
-<img  src="assets/images/sweden-exports/tellusant-sweden-exports-11.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 11">  
+<img  src="assets/images/sweden-exports/tellusant-sweden-exports-11-en.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 11">  
 
 Increasing export growth from 2.2% in 1998–2024 to 3.5% in 2024–2049 is a reasonable ambition. This will require major reforms and a substantial concerted effort.
 
