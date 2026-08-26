@@ -44,7 +44,7 @@ The world economy outside the Single Market is growing more than twice as fast i
 
 It appears that so much energy has gone into capturing opportunities within the EU that exports to the rest of the world have partly been neglected.  
 
-### Swedish Export Complexity
+### Swedish Export Complexity  
 
 There is, however, one important bright spot. Swedish exports are sophisticated. We rank ninth in the world in export complexity.  
 
