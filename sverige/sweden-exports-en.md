@@ -2,7 +2,7 @@
 
 *Dr. Staffan Canback, Tellusant*
 
-Auto-translated. [Original Swedish report is found here](https://canback.net/docs/articles-posts/sweden-exports.md)
+Auto-translated. [The original Swedish report is found here](https://canback.net/docs/articles-posts/sweden-exports.md)
 
 ---
 <p align="center">
@@ -30,7 +30,7 @@ Swedish export performance has fallen short of expectations over the past 25 yea
 <p align="center">
 <figure>
 <figcaption><b>Figure 1</b></figcaption>
-<img  src="assets/images/sweden-exports/tellusant-sweden-exports-01-en.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 1"> 
+<img  src="assets/images/sweden-exports/tellusant-sweden-exports-01-en.svg" width="450" alt="Tellusant: Sveriges exportmöjligheter 1"> 
 </figure>
 <p>
 
@@ -51,7 +51,7 @@ There is, however, one important bright spot. Swedish exports are sophisticated.
 <p align="center">
 <figure>
 <figcaption><b>Figure 2</b></figcaption>
-<img  src="assets/images/sweden-exports/tellusant-sweden-exports-02-en.svg" width="400" alt="Tellusant: Sveriges exportmöjligheter 2"> 
+<img  src="assets/images/sweden-exports/tellusant-sweden-exports-02-en.svg" width="450" alt="Tellusant: Sveriges exportmöjligheter 2"> 
 </figure>
 <p>
   
@@ -64,7 +64,7 @@ Figure 3 shows where Swedish exports go. Of the ten largest destination countrie
 <p align="center">
 <figure>
 <figcaption><b>Figure 3</b></figcaption>
-<img  src="assets/images/sweden-exports/tellusant-sweden-exports-03-en.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 3"> 
+<img  src="assets/images/sweden-exports/tellusant-sweden-exports-03-en.svg" width="450" alt="Tellusant: Sveriges exportmöjligheter 3"> 
 </figure>
 <p>
   
@@ -130,7 +130,7 @@ Cultural distance is a complicated subject. It turns out that almost 90% of the 
 <p align="center">
 <figure>
 <figcaption><b>Figure 7</b></figcaption>
-<img  src="assets/images/sweden-exports/tellusant-sweden-exports-07-en.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 7">  
+<img  src="assets/images/sweden-exports/tellusant-sweden-exports-07-en.svg" width="525" alt="Tellusant: Sveriges exportmöjligheter 7">  
 </figure>
 <p>
   
@@ -161,7 +161,7 @@ We begin with Figure 8, taken directly from the statistical analysis program Sta
 <p align="center">
 <figure>
 <figcaption><b>Figure 8</b></figcaption>
-<img  src="assets/images/sweden-exports/tellusant-sweden-exports-08-en.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 8">  
+<img  src="assets/images/sweden-exports/tellusant-sweden-exports-08-en.svg" width="450" alt="Tellusant: Sveriges exportmöjligheter 8">  
 </figure>
 <p>
   
@@ -188,7 +188,7 @@ Figure 9 puts numbers on the relative export successes.
 <p align="center">
 <figure>
 <figcaption><b>Figure 9</b></figcaption>
-<img  src="assets/images/sweden-exports/tellusant-sweden-exports-09-en.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 9"> 
+<img  src="assets/images/sweden-exports/tellusant-sweden-exports-09-en.svg" width="450" alt="Tellusant: Sveriges exportmöjligheter 9"> 
 </figure>
 <p>
   
@@ -210,7 +210,7 @@ Figure 10 summarizes this analysis based on the statistical model. Linguistic, c
 
 <p align="center">
 <figure>
-<figcaption><b>Figure 10</b></figcaption>
+<figcaption><b>Figure 11</b></figcaption>
 <img  src="assets/images/sweden-exports/tellusant-sweden-exports-10-en.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 10">
 </figure>
 <p>
