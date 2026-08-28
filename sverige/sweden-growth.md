@@ -48,6 +48,8 @@ I Sveriges fall är t ex kort arbetstid ett val. I Sydkorea är värnplikten tre
 Nedan är arbetsproduktiviteten för några utvalda ekonomier.²
 
 <p align="center">
+<figure>
+<figcaption><b>Figur 1</b></figcaption>
 <img  src="assets/images/s.canback-sweden-productivity-growth-1.svg" width="450" alt="S.Canback - Growth in GDP per working-age population">
 </p>
 
@@ -59,6 +61,9 @@ Tabuleringen täcker 2015-2025. Men start- och slutåren kanske var speciella oc
 
 Nedan syns svensk tillväxt för andra start- och slutår. 2015-2025 ligger obetydligt under medianen. Den lilla skillnaden gör att 2015-2025 ska ses som representativt.  
 
+<p align="center">
+<figure>
+<figcaption><b>Figur 2</b></figcaption>
 <p align="center">
 <img  src="assets/images/s.canback-sweden-productivity-growth-2.svg" width="250" alt="S.Canback - Swedish growth - sensitivity analysis">
 </p>
