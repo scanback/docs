@@ -50,7 +50,7 @@ Nedan är arbetsproduktiviteten för några utvalda ekonomier.²
 <p align="center">
 <figure>
 <figcaption><b>Figur 1</b></figcaption>
-<img  src="assets/images/s.canback-sweden-productivity-growth-1.svg" width="450" alt="S.Canback - Growth in GDP per working-age population">
+<img  src="assets/images/sweden-growth/s.canback-sweden-productivity-growth-1.svg" width="450" alt="S.Canback - Growth in GDP per working-age population">
 </figure>
 </p>
 
@@ -65,7 +65,7 @@ Nedan syns svensk tillväxt för andra start- och slutår. 2015-2025 ligger obet
 <p align="center">
 <figure>
 <figcaption><b>Figur 2</b></figcaption>
-<img  src="assets/images/s.canback-sweden-productivity-growth-2.svg" width="250" alt="S.Canback - Swedish growth - sensitivity analysis">
+<img  src="assets/images/sweden-growth/s.canback-sweden-productivity-growth-2.svg" width="250" alt="S.Canback - Swedish growth - sensitivity analysis">
 </figure>
 </p>
 
@@ -76,7 +76,7 @@ Hur skiljer sig 2015-2025 mot tidigare decennier? Det är den klart sämsta peri
 <p align="center">
 <figure>
 <figcaption><b>Figur 3</b></figcaption>
-<img  src="assets/images/s.canback-sweden-productivity-growth-3.svg" width="400" alt="S.Canback - Swedish growth by decade">
+<img  src="assets/images/sweden-growth/s.canback-sweden-productivity-growth-3.svg" width="400" alt="S.Canback - Swedish growth by decade">
 </figure>
 </p>
 
@@ -91,7 +91,7 @@ Jag uttrycker det som hur många cent av BNP som skapas av en dollar av kapitals
 <p align="center">
 <figure>
 <figcaption><b>Figur 4</b></figcaption>
-<img  src="assets/images/s.canback-sweden-productivity-growth-4.svg" width="400" alt="S.Canback - Swedish capital productivity">
+<img  src="assets/images/sweden-growth/s.canback-sweden-productivity-growth-4.svg" width="400" alt="S.Canback - Swedish capital productivity">
 </figure>
 </p>
 
@@ -114,7 +114,7 @@ Grafen visar Sveriges tillväxt i strukturproduktivitet jämfört med andra ekon
 <p align="center">
 <figure>
 <figcaption><b>Figur 5</b></figcaption>
-<img  src="assets/images/s.canback-sweden-productivity-growth-5.svg" width="400" alt="S.Canback - Swedish total factor productivity">
+<img  src="assets/images/sweden-growth/s.canback-sweden-productivity-growth-5.svg" width="400" alt="S.Canback - Swedish total factor productivity">
 </figure>
 </p>
 
