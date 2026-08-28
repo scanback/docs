@@ -69,7 +69,7 @@ Nedan syns svensk tillväxt för andra start- och slutår. 2015-2025 ligger obet
 </figure>
 </p>
 
-### Svensk arbetsproduktivitet per decennium  
+### Svensk arbetsproduktivitet per decennium   
 
 Hur skiljer sig 2015-2025 mot tidigare decennier? Det är den klart sämsta perioden vilket nedan graf visar.  
 
@@ -80,7 +80,7 @@ Hur skiljer sig 2015-2025 mot tidigare decennier? Det är den klart sämsta peri
 </figure>
 </p>
 
-## 2. Kapitalproduktivitet  
+## 2. Kapitalproduktivitet   
 
 Omkring fyrtio procent av Sveriges BNP kommer från kapital (60% från arbete). Detta är ett mått som få förutom ekonomer följer. Grafen nedan visar att Sveriges kapitalproduktivitet (BNP genererad per dollar kapital), fallit under det senaste decenniet. Mer än i EU, mer än i världen.  
 
@@ -95,7 +95,7 @@ Jag uttrycker det som hur många cent av BNP som skapas av en dollar av kapitals
 </figure>
 </p>
 
-## 3. Strukturproduktivitet  
+## 3. Strukturproduktivitet   
 
 Den viktigaste ekonomiska drivkraften är strukturproduktivitet (ofta kallad Total Factor Productivity (TFP) eller Solow residual).  
 
@@ -119,7 +119,7 @@ Grafen visar Sveriges tillväxt i strukturproduktivitet jämfört med andra ekon
 </p>
 
 
-## Slutsats   
+## *Slutsatser*   
 Det finns ingen ljusglimt i siffrorna. Landet är vanskött. Detta är inte bara en politisk fråga utan även en företags- och medborgarfråga. Alla har bidragit till eländet.  
 
 Jag ger inga svar på varför vi har så svag utveckling men ser några möjliga faktorer: flyktingvågen, brexit, pandemin, Ukrainakriget, amerikanska tariffer, [svag exportutveckling](../articles-posts/sweden-exports.md), misslyckade gröna satsningar. Ingen av dessa kan ses som BNP-höjande. Men det finns säkert djupare skäl som är svåranalyserade.  
@@ -135,7 +135,7 @@ Mer personligt så märker jag en brist på optimism och spänst när jag besök
 - Kapitalstock beräknad från årliga fasta och FoU investeringar, avskrivna över tjugo respektive sju år och kapitaliserade. Rak avskrivning, inte PIM.  
 - Arbete gentemot kapital mixen i varje ekonomi enligt [Penn Tables](https://www.rug.nl/ggdc/productivity/pwt/?lang=en).  
 
-² *Based on IMF research and publications, GDP per working-age population is frequently used as a more precise measure of economic performance than GDP per capita.* ⎼🇬🇵🇹. Detta är det mått jag använt i mina publikationer i åratal.  
+² *Based on IMF research and publications, GDP per working-age population is frequently used as a more precise measure of economic performance than GDP per capita.* Detta är det mått jag använt i mina publikationer i åratal.  
 
 ³  Mer om [strukturell produktivitet = TFP = Solow residual finns här](https://en.wikipedia.org/wiki/Solow_residual).  
 
