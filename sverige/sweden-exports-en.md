@@ -51,7 +51,7 @@ There is, however, one important bright spot. Swedish exports are sophisticated.
 <p align="center">
 <figure>
 <figcaption><b>Figure 2</b></figcaption>
-<img  src="assets/images/sweden-exports/tellusant-sweden-exports-02-en.svg" width="450" alt="Tellusant: Sveriges exportmöjligheter 2"> 
+<img  src="assets/images/sweden-exports/tellusant-sweden-exports-02-en.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 2"> 
 </figure>
 </p>
   
@@ -94,7 +94,7 @@ Which factors determine export success? Five factors turn out to be important, s
 <p align="center">
 <figure>
 <figcaption><b>Figure 5</b></figcaption>
-<img  src="assets/images/sweden-exports/tellusant-sweden-exports-05-en.svg" width="450" alt="Tellusant: Sveriges exportmöjligheter 5"> 
+<img  src="assets/images/sweden-exports/tellusant-sweden-exports-05-en.svg" width="425" alt="Tellusant: Sveriges exportmöjligheter 5"> 
 </figure>
 </p>
   
@@ -188,7 +188,7 @@ Figure 9 puts numbers on the relative export successes.
 <p align="center">
 <figure>
 <figcaption><b>Figure 9</b></figcaption>
-<img  src="assets/images/sweden-exports/tellusant-sweden-exports-09-en.svg" width="450" alt="Tellusant: Sveriges exportmöjligheter 9"> 
+<img  src="assets/images/sweden-exports/tellusant-sweden-exports-09-en.svg" width="550" alt="Tellusant: Sveriges exportmöjligheter 9"> 
 </figure>
 </p>
   
