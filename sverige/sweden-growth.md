@@ -51,6 +51,7 @@ Nedan är arbetsproduktiviteten för några utvalda ekonomier.²
 <figure>
 <figcaption><b>Figur 1</b></figcaption>
 <img  src="assets/images/s.canback-sweden-productivity-growth-1.svg" width="450" alt="S.Canback - Growth in GDP per working-age population">
+</figure>
 </p>
 
 Notera att Sverige ligger under Storbritannien och långt under EU, som ofta ses som problem (EU har demografiska problem, inte ekonomiska).  
@@ -64,8 +65,8 @@ Nedan syns svensk tillväxt för andra start- och slutår. 2015-2025 ligger obet
 <p align="center">
 <figure>
 <figcaption><b>Figur 2</b></figcaption>
-<p align="center">
 <img  src="assets/images/s.canback-sweden-productivity-growth-2.svg" width="250" alt="S.Canback - Swedish growth - sensitivity analysis">
+</figure>
 </p>
 
 ### Svensk arbetsproduktivitet per decennium  
@@ -73,7 +74,10 @@ Nedan syns svensk tillväxt för andra start- och slutår. 2015-2025 ligger obet
 Hur skiljer sig 2015-2025 mot tidigare decennier? Det är den klart sämsta perioden vilket nedan graf visar.  
 
 <p align="center">
+<figure>
+<figcaption><b>Figur 3</b></figcaption>
 <img  src="assets/images/s.canback-sweden-productivity-growth-3.svg" width="400" alt="S.Canback - Swedish growth by decade">
+</figure>
 </p>
 
 ## 2. Kapitalproduktivitet  
@@ -85,7 +89,10 @@ Kapital är här fast kapital (byggnader, maskiner, vägar etc.) och forsknings-
 Jag uttrycker det som hur många cent av BNP som skapas av en dollar av kapitalstock. Detta eftersom kapital skapar BNP, inte tvärtom.  
 
 <p align="center">
+<figure>
+<figcaption><b>Figur 4</b></figcaption>
 <img  src="assets/images/s.canback-sweden-productivity-growth-4.svg" width="400" alt="S.Canback - Swedish capital productivity">
+</figure>
 </p>
 
 ## 3. Strukturproduktivitet  
@@ -105,7 +112,10 @@ Två exempel för att förklara konceptet:
 Grafen visar Sveriges tillväxt i strukturproduktivitet jämfört med andra ekonomier över det senaste decenniet. Som synes är landets utveckling också svag med denna, den viktigaste, måttstocken. Vi blir inte bättre som samhälle, bara något större.  
 
 <p align="center">
+<figure>
+<figcaption><b>Figur 5</b></figcaption>
 <img  src="assets/images/s.canback-sweden-productivity-growth-5.svg" width="400" alt="S.Canback - Swedish total factor productivity">
+</figure>
 </p>
 
 
