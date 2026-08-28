@@ -18,7 +18,7 @@ A country’s productivity can be divided into three components:
 - Capital
 - Structure
 
-[(I have documented the equations underlying the calculations here.)](https://docs.tellusant.com/work-notes/cobb-douglas-decomposition)
+[I have documented the equations underlying the calculations here.](https://docs.tellusant.com/work-notes/cobb-douglas-decomposition)
 
 The most important component is **structural productivity**, discussed in the third section.
 
