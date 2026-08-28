@@ -30,7 +30,7 @@ Swedish export performance has fallen short of expectations over the past 25 yea
 <p align="center">
 <figure>
 <figcaption><b>Figure 1</b></figcaption>
-<img  src="assets/images/sweden-exports/tellusant-sweden-exports-01-en.svg" width="450" alt="Tellusant: Sveriges exportmöjligheter 1"> 
+<img  src="assets/images/sweden-growth/s.canback-sweden-productivity-growth-1.svg" width="450" alt="S.Canback - Growth in GDP per working-age population">
 </figure>
 </p>
 
@@ -51,7 +51,7 @@ There is, however, one important bright spot. Swedish exports are sophisticated.
 <p align="center">
 <figure>
 <figcaption><b>Figure 2</b></figcaption>
-<img  src="assets/images/sweden-exports/tellusant-sweden-exports-02-en.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 2"> 
+<img  src="assets/images/sweden-growth/s.canback-sweden-productivity-growth-2.svg" width="250" alt="S.Canback - Swedish growth - sensitivity analysis">
 </figure>
 </p>
   
@@ -64,7 +64,7 @@ Figure 3 shows where Swedish exports go. Of the ten largest destination countrie
 <p align="center">
 <figure>
 <figcaption><b>Figure 3</b></figcaption>
-<img  src="assets/images/sweden-exports/tellusant-sweden-exports-03-en.svg" width="450" alt="Tellusant: Sveriges exportmöjligheter 3"> 
+<img  src="assets/images/sweden-growth/s.canback-sweden-productivity-growth-3.svg" width="400" alt="S.Canback - Swedish growth by decade">
 </figure>
 </p>
   
@@ -75,9 +75,9 @@ Figure 4 instead shows the more interesting and less familiar view of Sweden’s
 <p align="center">
 <figure>
 <figcaption><b>Figure 4</b></figcaption>
-<img  src="assets/images/sweden-exports/tellusant-sweden-exports-04-en.svg" width="500" alt="Tellusant: Sveriges exportmöjligheter 4">  
+<img  src="assets/images/sweden-growth/s.canback-sweden-productivity-growth-4.svg" width="400" alt="S.Canback - Swedish capital productivity">
 </figure>
-</p> 
+</p>
   
 It is striking how well we export to the NB8 (Nordic-Baltic Eight). These countries occupy the first seven positions (Sweden is, of course, the eighth).  
 
@@ -94,10 +94,10 @@ Which factors determine export success? Five factors turn out to be important, s
 <p align="center">
 <figure>
 <figcaption><b>Figure 5</b></figcaption>
-<img  src="assets/images/sweden-exports/tellusant-sweden-exports-05-en.svg" width="425" alt="Tellusant: Sveriges exportmöjligheter 5"> 
+<img  src="assets/images/sweden-growth/s.canback-sweden-productivity-growth-5.svg" width="400" alt="S.Canback - Swedish total factor productivity">
 </figure>
 </p>
-  
+
 Data for these factors were collected for 209 countries and territories. Some important aspects of these data are discussed below.  
 
 ### Linguistic Distance  
