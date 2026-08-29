@@ -31,6 +31,7 @@ Also in English [Lousy as It Gets: Sweden’s Economic Growth, 2015–2025](swed
 
 ### [Sveriges exportmöjligheter i ett besvärligt handelsklimat](sweden-exports.md)
 Hur ska ett exportberoende land som Sverige agera för att bibehålla och öka sin export? Artikeln ger ett djupt analytiskt perspektiv. 🇸🇪  
+Also in English [Sweden's export opportunities in a difficult trade climate](sweden-exports-en.md) 🇪🇳  
 
 ### [Dagens Industri (2025): *Fly tullkaoset – länderna med störst exportpotential*](https://www.di.se/nyheter/fly-tullkaoset-landerna-med-storst-exportpotential/)
 Intervju med Staffan Canbäck baserat på hans forskning kring Sveriges exportmöjligheter. 🇸🇪  
