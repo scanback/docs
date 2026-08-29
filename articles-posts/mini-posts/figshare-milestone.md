@@ -1,5 +1,11 @@
-!
-
+---
+title: "Figshare 5,000 Downloads Milestone"
+description: "In early 2025, I made the decision to shift focus from LinkedIn to more serious platforms like Figshare."
+image: /assets/social-card-think.png
+---
+<p class="center">
+<img  src="figshare.png" width="500" alt="Tellusant and AI 1">  
+</->
 
 # Figshare 5,000 Downloads Milestone
 In early 2025, I made the decision to shift focus from LinkedIn to more serious platforms like Figshare and SSRN. I also have my own GitHub Pages-hosted platform at 𝗰𝗮𝗻𝗯𝗮𝗰𝗸.𝗻𝗲𝘁. This has paid off beyond my expectations.
