@@ -88,7 +88,7 @@ This pamphlet gives non-math CEOs and others a way to probe the reasoning behind
 
 <br/>
 
-## 3. [Minor Posts](/minor-posts/index.md)
+## [3. Minor Posts](/minor-posts/index.md)
 A secondary log of minor social media posts, kept for record-keeping purposes.
 
 <br/>
