@@ -23,7 +23,3 @@ Beyond Figshare, Tellusant, Inc. passed 50 academic, business and reputable medi
 
 I am proud of this because it demonstrates the credibility we bring. We are serious people with serious audiences. A good thing in B2B.  
 
-
-
-#AcademicResearch #ThoughtLeadership #B2B #ResearchImpact
-
