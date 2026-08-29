@@ -86,8 +86,8 @@ Trade-offs between predictive, explanatory, and understandable models in statist
 ### [Five Insights on Strategic Predictions](assets/pdf/tellusant-five-insights-on-strategic-predictions.pdf)
 This pamphlet gives non-math CEOs and others a way to probe the reasoning behind predictions based on 15 topics.  
 
-## [Minor Posts](minor-posts)
-A secondary log of minor social media posts, kept strictly for record-keeping purposes.
+## [Minor Posts](/minor-posts/index.md)
+A secondary log of minor social media posts, kept for record-keeping purposes.
 
 ## Archive
 tbd
