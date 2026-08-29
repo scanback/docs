@@ -26,7 +26,7 @@ El Niño and La Niña are notoriously unpredictable, almost chaotic. But a never
 How can a previously manual workflow be automated with AI and other components? I use our Fed Beige Book analysis as a case study to show the new automated workflow.
 
 ### [The Nexus Organization: The 4th Wave of Corporate Structure](nexus-organization.md)
-Since the advent of the large corporation in the 1850s, companies have evolved their organizational structures to meet the requirements of higher competencies, globalization, diversification, and automation. This article discusses how this evolution happened, with a focus on the latest innovation, the nexus organization.
+Since the advent of the large corporation in the 1850s, companies have evolved their organizational structures to meet the requirements of higher competencies, globalization, diversification, and automation. This article discusses how this evolution happened, with a focus on the latest innovation, the nexus organization.  
 
 <br/>
 
@@ -86,8 +86,12 @@ Trade-offs between predictive, explanatory, and understandable models in statist
 ### [Five Insights on Strategic Predictions](assets/pdf/tellusant-five-insights-on-strategic-predictions.pdf)
 This pamphlet gives non-math CEOs and others a way to probe the reasoning behind predictions based on 15 topics.  
 
+<br/>
+
 ## 3. [Minor Posts](/minor-posts/index.md)
 A secondary log of minor social media posts, kept for record-keeping purposes.
+
+<br/>
 
 ## 4. Archive
 tbd
