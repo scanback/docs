@@ -84,9 +84,10 @@ Trade-offs between generality, precision, and realism in strategy development.
 Trade-offs between predictive, explanatory, and understandable models in statistical analysis.  
 
 ### [Five Insights on Strategic Predictions](assets/pdf/tellusant-five-insights-on-strategic-predictions.pdf)
-This pamphlet gives non-math CEOs and others a way to probe the reasoning behind predictions based on 15 topics.
+This pamphlet gives non-math CEOs and others a way to probe the reasoning behind predictions based on 15 topics.  
 
-<br/>
+## [Minor Posts](minor-posts)
+A secondary log of minor social media posts, kept strictly for record-keeping purposes.
 
 ## Archive
 tbd
