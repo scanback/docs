@@ -1,6 +1,7 @@
 ---
 title: "Figshare 5,000 Downloads Milestone"
 description: "In early 2025, I made the decision to shift focus from LinkedIn to more serious platforms like Figshare."
+date: 2026-08-29
 image: /assets/social-card-think.png
 ---
 <p class="center">
