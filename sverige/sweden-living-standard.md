@@ -21,19 +21,19 @@ Jag har därför analyserat de svenska hushållens inkomstnivå i detalj. Mitt j
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-1.svg" width="525" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-- Ett bättre mått är Sveriges disponibla hushållsinkomst (DI) som är 53% lägre vid en första anblick. Den 25-procentiga skillnaden mot BNP reflekterar det högre skattetrycket och hög export, men också andra faktorer. Men detta mått håller inte hellet måttet (så att säga). 
+- Ett bättre mått är Sveriges disponibla hushållsinkomst (DI) som är 53% lägre vid en första anblick. Den 25-procentiga skillnaden mot BNP reflekterar det högre skattetrycket och hög export, men också andra faktorer. Men även detta mått håller inte heller måttet (så att säga). 
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-2.svg" width="500" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-- Men varför använda 2025 års marknadsväxelkurs? Växelkurser går upp och ner men den lokala levnadsstandarden rör sig (i stort) inte. Det är därför bättre att använda en stabil kurs. Dessutom måste hänsyn tas till skillnader i kostnadsnivåer.<br/><br/>Dessa två faktorer kräver att "purchasing power parity" (PPP) används. Med detta (efter en synnerligen komplicerad uträkning) hamnar Sverige 47% under USA.  
+- Varför använda 2025 års växelkurs? Växelkurser går upp och ner men den lokala levnadsstandarden rör sig (i stort) inte. Det är därför bättre att använda en stabil kurs. Dessutom måste hänsyn tas till skillnader i kostnadsnivåer.<br/><br/>Dessa två faktorer kräver att "purchasing power parity" (PPP) används. Med detta (efter en synnerligen komplicerad uträkning) hamnar Sverige 47% under USA.  
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-3.svg" width="525" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-- Det är viktigt att göra en STIK justering.¹ Denna innebär att staten (inkl regioner, kommuner) spenderar pengar för medborgarna som inte ingår i disponibel inkomst. T ex skolor och sjukvård. Denna *government spending on behalf of consumers* (som Världsbanken uttrycker det) är 22% av BNP i Sverige gentemot 6% i USA.<br/><br/>Efter denna justering är Sveriges hushållsinkomst 27% lägre än USA:s.  
+- Det är viktigt att göra en STIK justering.¹ Denna innebär att staten (inkl regioner, kommuner) spenderar pengar för medborgarna som inte ingår i disponibel inkomst. T ex på skolor och sjukvård. Denna *government spending on behalf of consumers* (som Världsbanken uttrycker det) är 22% av BNP i Sverige gentemot 6% i USA.<br/><br/>Efter denna justering är Sveriges hushållsinkomst 27% lägre än USA:s.  
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-4.svg" width="500" alt="S.Canback - Swedish vs U.S. material standard of living">
@@ -45,13 +45,13 @@ Jag har därför analyserat de svenska hushållens inkomstnivå i detalj. Mitt j
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-5.svg" width="525" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-- Slutligen, varför jömföra genomsnittsinkomsten? Ett bättre mått är medianinkomsten some bättre reflekterar huer folk is stort har det. Med medianinkomst är Sveriges materiella levnadsstandard 24% under den amerikanska.
+- Slutligen, varför jömföra genomsnittsinkomsten? Ett bättre mått är medianinkomsten some reflekterar hur folk i stort har det. Med medianinkomst är Sveriges materiella levnadsstandard 24% under den amerikanska.
 
 <p align="center">
 <img  src="assets/images/living-standard/s.canback-sweden-living-standard-6.svg" width="500" alt="S.Canback - Swedish vs U.S. material standard of living">
 </p>
 
-Min slutsats är att de svenska hushållens inkomstnivå ligger 20–30% under de amerikanska.  
+Min slutsats är att de svenska hushållens inkomstnivå ligger 20–30% under den amerikanska.  
 
 ## Jämförelse med amerikanska delstater
 
@@ -59,7 +59,7 @@ Går det ett att jämföra ett litet land som Sverige med ett stort land som USA
 
 Om vi använt den naiva metoden i punkt 1, så ligger Sverige sist.
   
-Detta är orimligt. Jag har besökt alla kontinentala 48 delstaterna med en sociologisk blick. Det är omöjligt att Sverige är fattigare än t ex Mississippi.  
+Detta är orimligt. Jag har besökt alla kontinentala 48 delstater med en sociologisk blick. Det är omöjligt att Sverige är fattigare än t ex Mississippi.  
 
 Med mina justeringar ovan hamnar Sverige fortfarande nära botten vilket syns i violingrafen nedan. Detta verkar rimligt baserat på min erfarenhet, men vi undviker sista platsen.  
 
@@ -72,15 +72,15 @@ Med mina justeringar ovan hamnar Sverige fortfarande nära botten vilket syns i 
 
 Sveriges **materiella** levnardsstandard är omkring 20-30% lägre än den amerikanska. Resultatet är robust. Till exempel spelar ändringar i växelkursen ingen roll i analysen.  
 
-Att Europa generellt släpar efter är välkänt. Men det beror inte s[ mucket på sämre ekonomi utan på den demografiska utvecklingen. Sverige skiljer sig fr[n detta genom att det haft en gynnsam demografisk utveckling.
+Att Europa generellt släpar efter är välkänt. Men det beror inte så mucket på sämre ekonomi utan på den demografiska utvecklingen. Sverige skiljer sig från Europa i stort genom att vi haft en gynnsam demografisk utveckling.
 
 Det finns ingen anledning att nå den amerikanska materiella levnadsstandarden. Sverige offrar materiellt för att uppnå högre livskvalitet, bortom krassa pengar. Dessutom ligger landet för geografiskt isolerat för att kunna svinga sig upp mycket.
 
 Men visst borde gapet minskas. Schweiz är både rikt och har hög livskvalitet. Bayern, Lombardiet, Katalonien och Danmark likaså. De är ungeför lika stora som Sverige.
 
-Personligen sitter jag i Massachusetts och ser med förtvivlan på den svenska främlingsfientligheten. Den har bredit ut sig under det senaste decenniet och jag ser en tydlig blåbrun utveckling. Det är kanske en naturlig följd av massinvandringen och den följande brottsvågen, men det finns gränser i respektabel  politik. 
+Personligen sitter jag i Massachusetts och ser med förtvivlan på den svenska främlingsfientligheten. Den har bredit ut sig under det senaste decenniet och jag ser en tydlig blåbrun utveckling. Det är kanske en naturlig följd av massinvandringen och den följande brottsvågen, men det finns gränser i respektabel  politik.Dessutom är det just invandringen som skapat de gynsamma demografiska förhållandena (som jag beskrev ovan).
 
-Kanske vore det bättre att byta denna negativa energi till en positiv levnadsenergi.
+Kanske vore det bättre att byta denna negativa energi till en positiv levnadsstandardenergi.
 
 Som Bertrand Russell sa: "If a philosophy is to bring happiness it should be inspired by ***kindly feelings***." Sverige missar detta.
 
