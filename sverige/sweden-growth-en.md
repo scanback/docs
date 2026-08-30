@@ -121,7 +121,7 @@ The graph shows Sweden’s structural-productivity growth compared with other ec
 ## Conclusion
 There is no bright spot in the figures. The country has been mismanaged. This is not merely a political issue; it is also an issue for businesses and citizens. Everyone has contributed to the misery.
 
-I offer no answers as to why our performance has been so weak, but I see several possible factors: the refugee wave, Brexit, the pandemic, the war in Ukraine, US tariffs, [weak export performance](../sverige/sweden-exports-en.md), and failed green initiatives. None of these can be regarded as boosting GDP. But there are surely deeper reasons that are difficult to analyze.
+I offer no answers as to why our performance has been so weak, but I see several possible factors: the refugee wave, Brexit, the pandemic, the war in Ukraine, US tariffs, [weak export performance](sweden-exports-en.md), and failed green initiatives. None of these can be regarded as boosting GDP. But there are surely deeper reasons that are difficult to analyze.
 
 On a more personal note, I notice a lack of optimism and vitality when I visit twice a year. The country feels sluggish and dull. It lacks verve. But this is opinion, not fact.
 
