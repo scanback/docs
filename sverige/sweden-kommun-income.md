@@ -5,7 +5,7 @@ image: /assets/social-card-sverige.png
 ---
 # Sveriges geografiska inkomstskillnader
 
-*Dr Staffan Canbäck, Tellusant*
+*av dr Staffan Canbäck, Tellusant* | *2022-02-23*
 
 Hur ser de svenska geografiska inkomstskillnaderna ut? Här visar jag de svenska storstäderna och kommunerna.
 
@@ -37,7 +37,7 @@ Ett annat sätt att se på samma data syns nedan. Violingrafen visar inkomstför
 
 Jag hade tänkt inkludera en graf med en Lorenzkurva. Den visar jämlikheten i ett land och utgör grunden för att beräkna Gini-koefficienten.
 
-Sverige är dock så jämlikt från ett spatialt perspektiv att grafen blev meningslös. Spatial Gini är 0,06 —  exceptionellt lågt. 0 är perfekt jämlikhet, 1 är när en person tjänar alla pengar. (De fattigaste kommunerna är så små att de inte påverkar helheten.)
+Sverige är dock så jämlikt från ett spatialt perspektiv att grafen blev meningslös. Spatial Gini är 0,06 —  exceptionellt lågt. 0 är perfekt jämlikhet, 1 är när en person tjänar alla pengar. (De fattigaste kommunerna är så små att de inte påverkar helheten nämnvärt.)
 
 Sveriges totala Gini är omkring 0,35. Detta visar att ojåmlikhet i Sverige är stor inom kommuner, men inte mellan kommuner. De flesta länder har både spatial och intern ojämlikhet.
 

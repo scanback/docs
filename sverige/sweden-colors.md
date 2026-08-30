@@ -5,6 +5,8 @@ image: /assets/social-card-sverige.png
 ---
 # Svenska färgskalor baserade på flaggblått och flaggult
 
+*av dr Staffan Canbäck* | *2026-02-18*
+
 Sverige har två officiella färger enligt grundlagen. Jag behövde flera. Vad göra? Jag konstruerade bredare färgskalor baserade på flaggblått och flaggult. 
 
 Det visar sig vara rätt komplicerad matematik men ChatGPT löste det briljant på fem minuter (den långa tiden visar att detta är icke-trivialt).

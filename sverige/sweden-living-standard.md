@@ -5,7 +5,7 @@ image: /assets/social-card-sverige.png
 ---
 # En komplex fråga: Den svenska levnadsstandarden jämförd med den amerikanska
 
-_Dr Staffan Canbäck, Tellusant_
+* *av dr Staffan Canbäck, Tellusant* | *2025-05-11*
 
 Man ser ofta ytliga jämförelser av den materiella levnadsstandarden i olika länder. Här går jag på djupet.
 
