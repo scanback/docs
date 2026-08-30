@@ -66,7 +66,7 @@ Nedan syns svensk tillväxt för andra start- och slutår. 2015-2025 ligger obet
 <p align="center">
 <figure>
 <figcaption><b>Figur 2</b></figcaption>
-<img  src="assets/images/sweden-growth/s.canback-sweden-productivity-growth-2.svg" width="250" alt="S.Canback - Swedish growth - sensitivity analysis">
+<img  src="assets/images/sweden-growth/s.canback-sweden-productivity-growth-2.svg" width="300" alt="S.Canback - Swedish growth - sensitivity analysis">
 </figure>
 </p>
 
@@ -77,7 +77,7 @@ Hur skiljer sig 2015-2025 mot tidigare decennier? Det är den klart sämsta peri
 <p align="center">
 <figure>
 <figcaption><b>Figur 3</b></figcaption>
-<img  src="assets/images/sweden-growth/s.canback-sweden-productivity-growth-3.svg" width="400" alt="S.Canback - Swedish growth by decade">
+<img  src="assets/images/sweden-growth/s.canback-sweden-productivity-growth-3.svg" width="450" alt="S.Canback - Swedish growth by decade">
 </figure>
 </p>
 
