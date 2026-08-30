@@ -2,11 +2,12 @@
 title: "Uselt så det förslår: Sveriges ekonomiska tillväxt 2015-2025"
 description: "Sveriges tillväxt diskuteras ofta i dramatiska termer.
 Men vad säger de mest grundläggande ekonomiska måtten om utvecklingen de senaste decennierna? 🇸🇪"
+date: 2026-02-18
 image: /assets/social-card-sverige.png
 ---
 # Uselt så det förslår: Sveriges ekonomiska tillväxt 2015–2025
 
-_Dr. Staffan Canbäck, Tellusant_
+*av Dr. Staffan Canbäck, Tellusant* | *2026-02-28*
 
 **Sveriges tillväxt diskuteras ofta i dramatiska termer.
 Men vad säger de mest grundläggande ekonomiska måtten om utvecklingen de senaste decennierna?**
@@ -37,7 +38,7 @@ Jag har mina egna svar men delar dem inte nu.
 ## 1. Arbetsproduktivitet
 I avancerade länder härstammar omkring 60 procent av BNP från arbete, gentemot 50 procent i tillväxtländer.  
 
-Jag mäter arbetsproduktivitet som BNP dividerat med arbetsför befolkning (AFB).² Varför AFB och inte de som faktiskt arbetar?  
+Jag mäter arbetsproduktivitet som BNP dividerat med arbetsför befolkning i arbetsför ålder (WAP).² Varför WAP och inte de som faktiskt arbetar?  
 
 Ett land har en viss mängd arbetsföra. Dessa kan arbeta för lön, studera, vara militärer, vara arbetslösa, arbeta i hemmet, arbeta många eller få timmar, vara oförmögna att arbeta, och annat.  
 
@@ -122,7 +123,7 @@ Grafen visar Sveriges tillväxt i strukturproduktivitet jämfört med andra ekon
 ## *Slutsatser*   
 Det finns ingen ljusglimt i siffrorna. Landet är vanskött. Detta är inte bara en politisk fråga utan även en företags- och medborgarfråga. Alla har bidragit till eländet.  
 
-Jag ger inga svar på varför vi har så svag utveckling men ser några möjliga faktorer: flyktingvågen, brexit, pandemin, Ukrainakriget, amerikanska tariffer, [svag exportutveckling](../articles-posts/sweden-exports.md), misslyckade gröna satsningar. Ingen av dessa kan ses som BNP-höjande. Men det finns säkert djupare skäl som är svåranalyserade.  
+Jag ger inga svar på varför vi har så svag utveckling men ser några möjliga faktorer: flyktingvågen, brexit, pandemin, Ukrainakriget, amerikanska tariffer, [svag exportutveckling](../articles-posts/sweden-exports.md), misslyckade gröna satsningar. Ingen av dessa kan ses som BNP-höjande. Men det finns säkert djupare skäl som är viktigare och dessutom svåranalyserade.  
 
 Mer personligt så märker jag en brist på optimism och spänst när jag besöker två gånger om året. Landet är segt och tråkigt. Det saknas schvung. Men detta är en åsikt och inte fakta.  
 
@@ -131,7 +132,7 @@ Mer personligt så märker jag en brist på optimism och spänst när jag besök
 ---
 ¹ Jag använder fyra dataserier som kombineras till relevanta mått:   
 - Konstant Bruttonationalproduct (BNP) enligt "[Purchasing Power Parity](https://www.worldbank.org/en/programs/icp)" metoden, dynamiskt justerad⁴ så att relationen till konstant BNP i marknadens fasta dollarkurs varierar över tiden.    
-- Arbetsför befolkning (AFB) istället för total befolkning. Det är den arbetsföra befolkningen som kan genera BNP.    
+- Befolkning i arbetsför ålder (WAP efter *working-age population*) istället för total befolkning. Det är den arbetsföra befolkningen som kan genera BNP. 15-65 år efter OECD:s definition.
 - Kapitalstock beräknad från årliga fasta och FoU investeringar, avskrivna över tjugo respektive sju år och kapitaliserade. Rak avskrivning, inte PIM.  
 - Arbete gentemot kapital mixen i varje ekonomi enligt [Penn Tables](https://www.rug.nl/ggdc/productivity/pwt/?lang=en).  
 

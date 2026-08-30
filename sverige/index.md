@@ -27,9 +27,11 @@ Jag intervjuades av Affärsvärlden för denna nationaldagsartikel. Den bygger v
 
 ### [Uselt så det förslår: Sveriges ekonomiska tillväxt 2015-2025](sweden-growth.md)
 Sverige har haft en usel ekonomisk tillväxt de senaste tio åren. Här visar jag enklast möjliga meningsfulla mått på utvecklingen. 🇸🇪  
+Also in English [Lousy as It Gets: Sweden’s Economic Growth, 2015–2025](sweden-growth-en.md) 🇪🇳
 
 ### [Sveriges exportmöjligheter i ett besvärligt handelsklimat](sweden-exports.md)
 Hur ska ett exportberoende land som Sverige agera för att bibehålla och öka sin export? Artikeln ger ett djupt analytiskt perspektiv. 🇸🇪  
+Also in English [Sweden's export opportunities in a difficult trade climate](sweden-exports-en.md) 🇪🇳  
 
 ### [Dagens Industri (2025): *Fly tullkaoset – länderna med störst exportpotential*](https://www.di.se/nyheter/fly-tullkaoset-landerna-med-storst-exportpotential/)
 Intervju med Staffan Canbäck baserat på hans forskning kring Sveriges exportmöjligheter. 🇸🇪  
@@ -41,7 +43,7 @@ The NB8 region is tightly integrated economically and politically and has a GDP 
 Sverige har två officiella färger enligt grundlagen. Jag behövde flera. Vad göra? 🇸🇪  
 
 ---
-## Äldre artiklar
+## Äldre alster
 
 ### [Affärsvärlden (2006): *Strunta i synergierna*](https://www.affarsvarlden.se/artikel/strunta-i-synergierna-6729067)
 Denna extensiva artikel om synergier inom M&A bygger på flera av mina forskningsrapporter. Artikeln är inte helt representativ för mitt tänkande men innehåller trots det många av mina idéer. 🇸🇪  

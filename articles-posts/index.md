@@ -4,11 +4,10 @@ description: "I have hundreds of LinkedIn and Medium articles and posts that are
 image: /assets/social-card-think.png
 ---
 
-
 # Articles and Posts
 I have hundreds of LinkedIn and Medium articles and posts that are lost because of the ephemeral character of social media. I gradually save them for posterity here. This page will be built out during 2026. 
 
-## Recent
+## 1. Recent
 
 ### [Should Finland Emulate Sweden’s Capital Tax Approach?](finland-tax-perspective.md)
 Under development
@@ -26,11 +25,9 @@ El Niño and La Niña are notoriously unpredictable, almost chaotic. But a never
 How can a previously manual workflow be automated with AI and other components? I use our Fed Beige Book analysis as a case study to show the new automated workflow.
 
 ### [The Nexus Organization: The 4th Wave of Corporate Structure](nexus-organization.md)
-Since the advent of the large corporation in the 1850s, companies have evolved their organizational structures to meet the requirements of higher competencies, globalization, diversification, and automation. This article discusses how this evolution happened, with a focus on the latest innovation, the nexus organization.
+Since the advent of the large corporation in the 1850s, companies have evolved their organizational structures to meet the requirements of higher competencies, globalization, diversification, and automation. This article discusses how this evolution happened, with a focus on the latest innovation, the nexus organization.  
 
-<br/>
-
-## Past
+## 2. Past
 
 ### [The Fabric of Executive Teams: Quantified Tenure, Education and Gender Metrics](fabric-of-executive-teams.md)
 What is the composition of executive teams in the United States? A few years ago I took a look at 844 senior executives of the 50 largest U.S. companies.
@@ -86,8 +83,8 @@ Trade-offs between predictive, explanatory, and understandable models in statist
 ### [Five Insights on Strategic Predictions](assets/pdf/tellusant-five-insights-on-strategic-predictions.pdf)
 This pamphlet gives non-math CEOs and others a way to probe the reasoning behind predictions based on 15 topics.  
 
-## [Minor Posts](/minor-posts/index.md)
+## [3. Minor Posts](/minor-posts/index.md)
 A secondary log of minor social media posts, kept for record-keeping purposes.
 
-## Archive
+## 4. Archive
 tbd
