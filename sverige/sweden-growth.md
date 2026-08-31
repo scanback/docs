@@ -19,7 +19,7 @@ Ett lands produktivitet kan delas in i tre produktivitetsdelar:
 - Kapital  
 - Struktur
 
-[`De undeliggande ekvationerna har jag dokumenterat här.`](https://docs.tellusant.com/work-notes/cobb-douglas-decomposition)  
+[`De undeliggande ekvationerna har jag dokumenterat här.`](https://docs.tellusant.com/work-notes/cobb-douglas-decomposition.html)  
 
 Den viktigaste delen är **strukturproduktivitet** i det tredje kapitlet.  
 
