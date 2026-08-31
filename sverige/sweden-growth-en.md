@@ -1,7 +1,7 @@
 ---
 title: "Lousy as It Gets: Sweden’s Economic Growth, 2015–2025"
 description: "Sweden’s growth is often discussed in dramatic terms.
-But what do the most fundamental economic measures tell us about developments over the past few decades? 🇸🇪"
+But what do the most fundamental economic measures tell us about developments over the past few decades?"
 image: /assets/social-card-sverige.png
 ---
 # Lousy as It Gets: Sweden’s Economic Growth, 2015–2025
