@@ -7,7 +7,7 @@ image: /assets/social-card-sverige.png
 ---
 # Uselt så det förslår: Sveriges ekonomiska tillväxt 2015–2025
 
-*av dr Staffan Canbäck, Tellusant* | *2026-02-28*
+*av dr Staffan Canbäck, Tellusant* <span>|</span> *2026-02-28*
 
 **Sveriges tillväxt diskuteras ofta i dramatiska termer.
 Men vad säger de mest grundläggande ekonomiska måtten om utvecklingen de senaste decennierna?**
