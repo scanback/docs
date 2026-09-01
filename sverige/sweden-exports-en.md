@@ -1,3 +1,10 @@
+---
+title: "Sweden’s Export Opportunities in a Difficult Trade Climate"
+description: "How should an export-dependent country such as Sweden act to maintain and increase its exports? The solution must start from the fact that our exports have not been particularly successful over the past quarter century."
+date: 2025-10-18
+image: /assets/social-card-think.png
+---
+
 # Sweden’s Export Opportunities in a Difficult Trade Climate
 
 *By Dr. Staffan Canback, Tellusant* <span>|</span> *2025-10-18*
