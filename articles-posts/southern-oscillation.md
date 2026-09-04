@@ -5,7 +5,7 @@ image: /assets/social-card-think.png
 ---
 # Are We Facing a Strong El Niño? The Southern Oscillation Conundrum
 
-*Updated July 8, 2026 with data till end of June.*  
+*Updated September 3, 2026 with data till end of July.*  
 
 El Niño and La Niña are notoriously unpredictable, almost chaotic. But a new report nevertheless predicts a strong El Niño starting this summer. What do I see?
 
@@ -17,9 +17,7 @@ Agricultural yields and commodity prices are heavily influenced by the Southern 
 
 The recent report by [The World Meteorological Organization (UN)](https://wmo.int/publication-series/el-ninola-nina-updates) suggests a high probability of a new El Niño this northern summer / southern winter.
 
-I track the Southern Oscillation systematically because some of our clients have an intense interest in how it evolves. The graph below shows the trend since 1950. There is emerging evidence of an Niño. There is been a sharp increase in water temperature since November 2025 from −0.55 to +0.98. The rate of change is consistent with an approaching El Niño.  
-
-Note though that temperatures are not yet consistently in El Niño territory which by convention starts at +0.5. We will know four months from now, but it looks likely.
+I track the Southern Oscillation systematically because some of our clients have an intense interest in how it evolves. The graph below shows the trend since 1950. There is emerging evidence of an Niño. There is been a sharp increase in water temperature since February 2026 from −0.21 to +1.80. The rate of change is consistent with an approaching El Niño. The pattern is so far similar to what we saw in 2023.
 
 <p align="center">
 <img  src="assets/images/s.canback-tellusant-southern-oscillation.svg" width="500" alt="S.Canback, Tellusant: Southern oscillation">
