@@ -7,12 +7,14 @@ robots: noindex, nofollow
 Utåtriktade insatser
 
 ## Personer
-- Niklas Truedsson, Cloetta
-- Carlos Brito, Belron
+- Niklas Truedsson, Cloetta, Connect 9/9
+- Carlos Brito, Belron Connect 1 okt.
 - Katarina Tell, Cloetta (omöjlig)
 - ~~Erik Ekudden, Ericsson~~
-- Erika Enfors, Ericsson
+- Erika Enfors, Ericsson, full kontakt, Connect 14 sep.
 - Mikael Staffas, Boliden
+- Magnus Tyreman
+- Per Narvinger, Connect 9/9
 
 ## Alster
 
