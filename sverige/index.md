@@ -10,8 +10,11 @@ Artiklar och annat avsedda för svenskar och finlandssvenskar.
 
 ## Nyare alster
 
+### [Affärsvärlden (2026):*Gott svenskt rykte säljer i Indien*](https://www.affarsvarlden.se/artikel/gott-svenskt-rykte-saljer-i-indien-claes-ohlson-borde-finnas-har)
+Handelshinder har röjts undan och en miljardmarknad hägrar. Fler svenska bolag borde pröva lyckan i Indien, enligt en färsk analys. 🇸🇪  
+
 ### [Affärsvärlden (2026):*Svensk export inget att vara stolt över*](https://www.affarsvarlden.se/intervju/svensk-export-inget-att-vara-stolt-over)
-Sverige är numera inte den lyckade exportnation vi tror. Globala marknadsandelar sjunker och exportpotentialen är långt ifrån realiserad, enligt en ny analys. Men vi har styrkor, menar Staffan Canbäck, som står bakom studien. "Kungafamiljen och Nobel har ett enormt inflytande."  
+Sverige är numera inte den lyckade exportnation vi tror. Globala marknadsandelar sjunker och exportpotentialen är långt ifrån realiserad, enligt en ny analys. Men vi har styrkor, menar Staffan Canbäck, som står bakom studien. "Kungafamiljen och Nobel har ett enormt inflytande." 🇸🇪  
   
 Den bygger vidare på min [Sveriges exportmöjligheter i ett besvärligt handelsklimat](sweden-exports.md) analys. 🇸🇪  
 Also in English [Sweden's export opportunities in a difficult trade climate](sweden-exports-en.md) 🇪🇳
@@ -70,4 +73,4 @@ Informationsteknologi kostar mer än någonsin, betyder mer än någonsin och be
 
 ---
 ### [Staffan Canbäck ([1979] 2026): *Examensarbete i elektrisk effektomvanding: Studium av övertonsförluster hos en asynkronmaskin seriekopplad med en serieinduktor*. Kungliga tekniska högskolan, Sektionen för elektroteknik](exjobb/masters-thesis.md)
-Mitt examensarbete för Civ.ing. på KTH Elektroteknik återfinns här. Dess relevans idag är att det förklarar varför Tellusant kan vara så matematiskt avancerat. Jag och mina kollegor har det i blodet. 🇸🇪 [En fotostatkopia av originalet finns här.](s.canback-masters-thesis.pdf)
+Mitt examensarbete för Civ.ing. på KTH Elektroteknik återfinns här. Dess relevans idag är att det förklarar varför Tellusant kan vara så matematiskt avancerat. Jag och mina kollegor har det i blodet. 🇸🇪 [En fotostatkopia av originalet finns här.](s.canback-masters-thesis.pdf) 🇸🇪
