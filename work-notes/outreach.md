@@ -15,4 +15,5 @@ Utåtriktade insatser
 - Mikael Staffas, Boliden
 
 ## Alster
-- Ideer
+
+## Ideer
