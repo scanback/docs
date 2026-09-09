@@ -20,4 +20,8 @@
 }
 </script>
 
+{% if page.robots %}
+<meta name="robots" content="{{ page.robots }}">
+{% endif %}
+
 <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
