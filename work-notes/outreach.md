@@ -15,6 +15,7 @@ Utåtriktade insatser
   - Mikael Staffas, Boliden
 - Magnus Tyreman
   - Per Narvinger, Connect 9/9
+- Lilian Fossum Biner
 
 ## Alster
 - Change "Figshare test" to something else of low importance
