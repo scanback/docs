@@ -17,7 +17,7 @@ Utåtriktade insatser
   - Per Narvinger, Connect 9/9
 
 ## Alster
-- Change Figshare testto something else (unimportant)
+- Change "Figshare test" to something else of low importance
 - Create paper from 2 Swedish reports
 
 ## Ideas
