@@ -6,7 +6,7 @@ robots: noindex, nofollow
 # Utåt
 Utåtriktade insatser
 
-## Personer
+## People
   - Niklas Truedsson, Cloetta, Connect 9/9
 - Carlos Brito, Belron Connect 1 okt.
 - ~~Katarina Tell, Cloetta (omöjlig)~~
@@ -17,8 +17,9 @@ Utåtriktade insatser
   - Per Narvinger, Connect 9/9
 
 ## Alster
+- Change Figshare testto something else (unimportant)
+- Create paper from 2 Swedish reports
 
-## Idéer
-- Svenska städer
+## Ideas
+- Swedish cities punching above weight
 - EU performance and exports
-- 
