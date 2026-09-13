@@ -1,5 +1,5 @@
 ---
-title: "CANBACK think documents my complete works since 1979"
+title: "CANBACK think"
 description: "Published works by Dr. Staffan Canback from scientific papers and research to commentary and social media posts."
 image: /assets/social-card-think.png
 ---
