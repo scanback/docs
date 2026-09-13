@@ -10,6 +10,6 @@
 |    |    |
 | **Email** | [scanback@outlook.com](mailto:scanback@outlook.com) |
 |    |    |
-| **Timezone**&nbsp;  | Eastern Time |
+| **Timezone**&nbsp;  | U.S. Eastern Time |
 |    |    |
 | **Websites** | [canback.net](https://canback.net) <br/> [Canback on Figshare](https://figshare.com/authors/Staffan_Canback/20547296) <br/> [tellusant.com](https://tellusant.com) <br/> [tellubase.com](https://tellubase.com) <br/> [Tellusant Publications Repository](https://tellusant.github.io/docs/) |
