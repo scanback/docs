@@ -1,5 +1,5 @@
 ---
-title: "My Academic Papers et Plus"
+title: "Academic Papers et Plus"
 description: "This page covers Staffan Canback's academic and management-oriented papers, written since the 1990s"
 image: /assets/social-card-think.png
 ---
