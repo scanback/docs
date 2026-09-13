@@ -1,7 +1,12 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% seo %}
+{% if page.browser_title %}
+  {% seo title=false %}
+  <title>{{ page.browser_title }}</title>
+{% else %}
+  {% seo %}
+{% endif %}
 
 <script type="application/ld+json">
 {
