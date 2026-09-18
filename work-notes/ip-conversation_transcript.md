@@ -1,7 +1,13 @@
+---
+title: "Conversation Transcript"
+description: "Schema Markup & Trademark Fair Use"
+robots: noindex, nofollow
+---
+
 # Conversation Transcript: Schema Markup & Trademark Fair Use
 
 ## Topic 1: Using Competitor Names in JSON-LD Schema
-**User:** in json-ld you put in company bane and alternative company name. What happens if alternative company name is that of a competitor?
+**User:** In json-ld you put in company bane and alternative company name. What happens if alternative company name is that of a competitor?
 
 **AI:** Using a competitor's name as an alternative company name in JSON-LD is a form of keyword stuffing and metadata deception. Search engines view this as a manipulation tactic. It violates structured data guidelines and can lead to a manual penalty or the removal of rich results.
 
