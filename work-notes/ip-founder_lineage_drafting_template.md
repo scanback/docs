@@ -1,3 +1,9 @@
+---
+title: "Legally-Minded Founder Bio & Lineage Drafting Template"
+description: "This template provides legally sound phrasing and structural guidelines for founders referencing prior ventures, acquired companies, or defunct products."
+robots: noindex, nofollow
+---
+
 # Legally-Minded Founder Bio & Lineage Drafting Template
 
 **Document Purpose:** This template provides legally sound phrasing and structural guidelines for founders referencing prior ventures, acquired companies, or defunct products. It is designed to maximize credibility and lineage while minimizing risks related to trademark infringement, nominative fair use challenges, and restrictive covenants.
