@@ -1,3 +1,9 @@
+---
+title: "IP, Non-Compete & Product Development Risk Assessment"
+description: "This document summarizes the legal and intellectual property (IP) risk assessment regarding advising on and developing a new web service."
+robots: noindex, nofollow
+---
+
 # IP, Non-Compete & Product Development Risk Assessment
 
 ## Executive Summary
