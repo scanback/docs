@@ -28,29 +28,35 @@ robots: noindex, nofollow
 <div style="display: flex; align-items: center; gap: 10px;">
   <span><b>SR P1</b></span>
   <audio controls autoplay style="width: 150px;">
-  <source src="https://sverigesradio.se/topsy/direkt/132-hi-mp3.m3u" type="audio/mpeg">
+  <source src="https://live1.sr.se/p1-aac-128" type="audio/aac">
 </audio></div>  
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <span><b>SR P2</b></span>
   <audio controls autoplay style="width: 150px;">
-  <source src="https://live1.sr.se/p2-flac" type="audio/flac"> 
+  <source src="https://live1.sr.se/p2-aac-128" type="audio/aac"> 
 </audio></div>  
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <span><b>SR P3</b></span>
   <audio controls autoplay style="width: 150px;">
-  <source src="https://sverigesradio.se/topsy/direkt/164-hi-mp3.m3u" type="audio/mpeg"> 
+  <source src="https://live1.sr.se/p3-aac-128" type="audio/aac"> 
 </audio></div>  
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <span><b>SR P4</b></span>
   <audio controls autoplay style="width: 150px;">
-  <source src="https://sverigesradio.se/topsy/direkt/207-hi-mp3.m3u" type="audio/mpeg"> 
+  <source src="https://live1.sr.se/p4plus-aac-128" type="audio/aac"> 
 </audio></div>  
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <span><b>SR P6</b></span>
   <audio controls autoplay style="width: 150px;">
-  <source src="https://sverigesradio.se/topsy/direkt/207-hi-mp3.m3u" type="audio/mpeg"> 
-</audio></div>  
+  <source src="https://live1.sr.se/p6-aac-128" type="audio/aac"> 
+</audio></div> 
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <span><b>Ekot</b></span>
+  <audio controls autoplay style="width: 150px;">
+  <source src="https://edge2.sr.se/ekotdirekt-aac-128" type="audio/aac"> 
+</audio></div> 
