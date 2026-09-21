@@ -19,7 +19,9 @@
       </div>
     </main>
 
-    {% include footer.html %}
+           {% unless page.hide_footer %}
+  {% include footer.html %}
+{% endunless %}
 
 <!-- LATEX -->
     <script>
