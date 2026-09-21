@@ -19,7 +19,17 @@ Utåtriktade insatser
 - Lilian Fossum Biner
 - Andre Maciel
 - Ricardo Dalmas
+- Constellation strats + Hank
+- CVH Spirits
+- Mark Luce
+- Richard Rivett-Carnac
+- Lisboa
+- PepsiCo?
+- Bain?
+- BIC
+- Constantino Spas
 - 
+   
 ## Alster
 - Change "Figshare test" to something else of low importance
 - Create papers from 2 Swedish reports
