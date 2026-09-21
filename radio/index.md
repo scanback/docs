@@ -15,7 +15,7 @@ robots: noindex, nofollow
 
 ### BBC W
 <audio controls autoplay>
-  <source src="https://stream.live.vc.bbcmedia.co.uk/bbc_world_service" type="audio/mpeg">
+  <source src="https://stream.live.vc.bbcmedia.co.uk/bbc_world_service" type="audio/mpeg"> bbc w
 </audio>  
 
 <span><b>BBC 6</b>
