@@ -13,9 +13,11 @@ robots: noindex, nofollow
 ### [SR P4 Mö](https://sverigesradio.se/topsy/direkt/207-hi-mp3.m3u)
 ### [SR P6](http://sverigesradio.se/topsy/direkt/166-hi-aac.pls)
 
-### BBC W
-<audio controls autoplay>
-  <source src="https://stream.live.vc.bbcmedia.co.uk/bbc_world_service" type="audio/mpeg"> bbc w
-</audio>  
+<div style="display: flex; align-items: center; gap: 10px;">
+  <span>BBC W</span>
+  <audio controls autoplay>
+  <source src="https://stream.live.vc.bbcmedia.co.uk/bbc_world_service" type="audio/mpeg">
+</audio></div>
+  
 
 <p><b>BBC 6</b><audio controls autoplay><source src="https://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d128000.norewind.m3u8"></audio></p>
