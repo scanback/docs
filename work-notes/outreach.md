@@ -36,3 +36,6 @@ Utåtriktade insatser
 - Swedish cities punching above weight
 - EU performance and exports
 - 1992 comparison in 2027
+
+** Other
+- Times Square billboard
