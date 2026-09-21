@@ -34,7 +34,7 @@ robots: noindex, nofollow
 <div style="display: flex; align-items: center; gap: 10px;">
   <span><b>SR P2</b></span>
   <audio controls autoplay style="width: 150px;">
-  <source src="https://live1.sr.se/p2-flac"> 
+  <source src="https://live1.sr.se/p2-flac" type="audio/flac"> 
 </audio></div>  
 
 <p><b>BBC 6</b><audio controls autoplay><source src="https://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d128000.norewind.m3u8"></audio></p>
