@@ -44,7 +44,13 @@ robots: noindex, nofollow
 </audio></div>  
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <span><b>SR P4</b></span>
+  <span><b>SR P3 Din gata</b></span>
+  <audio controls autoplay style="width: 150px;">
+  <source src="https://live1.sr.se/dingata-aac-128" type="audio/aac"> 
+</audio></div>  
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <span><b>SR P4 Plus</b></span>
   <audio controls autoplay style="width: 150px;">
   <source src="https://live1.sr.se/p4plus-aac-128" type="audio/aac"> 
 </audio></div>  
