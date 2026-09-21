@@ -9,7 +9,7 @@ Utåtriktade insatser
 ## People
 - **Create master list of warm contacts and find best way to contact them**
   - Niklas Truedsson, Cloetta, Connect 9/9
-- Carlos Brito, Belron Connect 1 okt.
+  - Carlos Brito, Belron Connect for 1 oct.
 - ~~Katarina Tell, Cloetta (omöjlig)~~
 - ~~Erik Ekudden, Ericsson~~
 - ~~Erika Enfors, Ericsson, full kontakt, Connect 14 sep.~~
@@ -17,7 +17,9 @@ Utåtriktade insatser
 - Magnus Tyreman
   - Per Narvinger, Connect 9/9
 - Lilian Fossum Biner
-
+- Andre Maciel
+- Ricardo Dalmas
+- 
 ## Alster
 - Change "Figshare test" to something else of low importance
 - Create papers from 2 Swedish reports
@@ -33,3 +35,4 @@ Utåtriktade insatser
 ## Ideas
 - Swedish cities punching above weight
 - EU performance and exports
+- 1992 comparison in 2027
