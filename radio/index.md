@@ -1,6 +1,7 @@
 ---
 title: Radio
 hide_header: true
+hide_footer: true
 ---
 # Radio
 ### [BBC World](http://stream.live.vc.bbcmedia.co.uk/bbc_world_service)
