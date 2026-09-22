@@ -6,7 +6,8 @@ image: /assets/social-card-think.png
 # Are We Facing a Strong El Niño? The Southern Oscillation Conundrum
 
 *Updated September 3, 2026 with data till end of July.*  
-*This is the last update until something material happens. El Niño is happening so there is no point in repeating this fact for now.*
+
+*This is the last update until something material happens again. El Niño is happening so there is no point in repeating this fact for now.*
 
 El Niño and La Niña are notoriously unpredictable, almost chaotic. But a new report nevertheless predicts a strong El Niño starting this summer. What do I see?
 
