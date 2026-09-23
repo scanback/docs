@@ -18,13 +18,13 @@ Utåtriktade insatser
   - Per Narvinger, Connect 9/9
 - Lilian Fossum Biner
 - Andre Maciel (andre.maciel at kraftheinz.com)
-- Ricardo Dalmas (
+- Ricardo Dalmas (ricardo.dalmas at kcc.com)
   - Jason Rood (jason.rood at cbrands.com) & Dave Walter (david.walter at cbrands.com)
 - Garth Hankinson (garth.hankinson at cbrands.com) & Jim Sabia (jim.sabia at cbrands.com)
 - Maheen Ansari (mahansari at coca-cola.com) & Clodagh Forde (cforde at coca-cola.com)
 - Caleb Darsch (cdarsch at coca-cola.com)
 - Ronan O'Rahilly (ronan.orahilly at cvhspirits.com)
-- Mark Luce
+- Mark Luce (mark.luce at gmc2.com)
 - Richard Rivett-Carnac (richard.rivett-carnacat za.ab-inbev.com)
 - Lisboa
 - PepsiCo?
