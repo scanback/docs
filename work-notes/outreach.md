@@ -36,8 +36,8 @@ Utåtriktade insatser
 - ~~Erik Ekudden, Ericsson~~
 - ~~Erika Enfors, Ericsson, full kontakt, Connect 14 sep.~~
 ### FEMSA
-- Constantino Spas (? at femsa.com.mx)
-### Kimberly Clark
+- Constantino Spas (constantino.spas@femsa.com.mx & constantino.spas@femsa.com)
+### Kimberly-Clark
 - Ricardo Dalmas (ricardo.dalmas at kcc.com)
 ### Kraft Heinz
 - Andre Maciel (andre.maciel at kraftheinz.com)
@@ -49,6 +49,7 @@ Utåtriktade insatser
 ### SSE
 - Magnus Tyreman
 ### Other
+#### G=mc<sup>2</sup>
 - Mark Luce (mark.luce at gmc2.com)
 #### Bain
 ?
