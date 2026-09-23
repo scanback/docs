@@ -28,6 +28,7 @@ Utåtriktade insatser
 - Richard Rivett-Carnac (richard.rivett-carnacat za.ab-inbev.com)
 - Lisboa
 - PepsiCo?
+- Nutresa
 - Bain?
 - BIC
 - Constantino Spas
