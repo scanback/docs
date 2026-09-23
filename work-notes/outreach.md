@@ -21,7 +21,7 @@ Utåtriktade insatser
 - Ricardo Dalmas
   - Jason Rood (jason.rood at cbrands.com) & Dave Walter (david.walter at cbrands.com)
 - Garth Hankinson (garth.hankinson at cbrands.com) & Jim Sabia (jim.sabia at cbrands.com)
-- Galeb Darsch
+- Caleb Darsch (cdarsch at coca-cola.com)
 - CVH Spirits
 - Mark Luce
 - Richard Rivett-Carnac
