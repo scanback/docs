@@ -8,31 +8,48 @@ Utåtriktade insatser
 
 ## People
 - **Create master list of warm contacts and find best way to contact them**
+### Cloetta
   - Niklas Truedsson, Cloetta, Connect 9/9
-  - Carlos Brito, Belron Connect for 1 oct.
 - ~~Katarina Tell, Cloetta (omöjlig)~~
+### Belron
+  - Carlos Brito, Belron Connect for 1 oct.
+### Ericsson
+  - Per Narvinger, Connect 9/9
 - ~~Erik Ekudden, Ericsson~~
 - ~~Erika Enfors, Ericsson, full kontakt, Connect 14 sep.~~
+### Boliden
   - Mikael Staffas, Boliden
+### SSE
 - Magnus Tyreman
-  - Per Narvinger, Connect 9/9
+### Carlsberg
 - Lilian Fossum Biner
+### Kraft Heinz
 - Andre Maciel (andre.maciel at kraftheinz.com)
+### Kimberly Clark
 - Ricardo Dalmas (ricardo.dalmas at kcc.com)
+### Constellation
   - Jason Rood (jason.rood at cbrands.com) & Dave Walter (david.walter at cbrands.com)
 - Garth Hankinson (garth.hankinson at cbrands.com) & Jim Sabia (jim.sabia at cbrands.com)
+### Coca-Cola
 - Maheen Ansari (mahansari at coca-cola.com) & Clodagh Forde (cforde at coca-cola.com)
 - Caleb Darsch (cdarsch at coca-cola.com)
+### CVH Spirits
 - Ronan O'Rahilly (ronan.orahilly at cvhspirits.com)
-- Mark Luce (mark.luce at gmc2.com)
-- Richard Rivett-Carnac (richard.rivett-carnacat za.ab-inbev.com)
-- Lisboa
-- PepsiCo?
-- Nutresa
+### PepsiCo
+?
+### Nutresa
+- Jorge Bueno (abueno at chocolates.com.co)
+- Beatriz Lopez (belopez at chocolates.com.co)
 - Bain?
 - BIC
+### FEMSA
 - Constantino Spas
-- 
+### ABI
+- Michel Doukeris & David Almeida
+- Richard Rivett-Carnac (richard.rivett-carnacat za.ab-inbev.com)
+- Lisboa
+### Other
+- Mark Luce (mark.luce at gmc2.com)
    
 ## Alster
 - Change "Figshare test" to something else of low importance
