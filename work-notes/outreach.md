@@ -19,8 +19,8 @@ Utåtriktade insatser
 - Lilian Fossum Biner
 - Andre Maciel
 - Ricardo Dalmas
-  - Jason Rood & Dave Walters
-- Garth Hankinson (garth.hankinson@cbrands.com) & Jim Sabia
+  - Jason Rood (jason.rood at cbrands.com) & Dave Walter (david.walter at cbrands.com)
+- Garth Hankinson (garth.hankinson at cbrands.com) & Jim Sabia (jim.sabia at cbrands.com)
 - Galeb Darsch
 - CVH Spirits
 - Mark Luce
