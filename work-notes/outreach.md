@@ -36,7 +36,7 @@ Utåtriktade insatser
 - ~~Erik Ekudden, Ericsson~~
 - ~~Erika Enfors, Ericsson, full kontakt, Connect 14 sep.~~
 ### FEMSA
-- Constantino Spas
+- Constantino Spas (? at femsa.com.mx)
 ### Kimberly Clark
 - Ricardo Dalmas (ricardo.dalmas at kcc.com)
 ### Kraft Heinz
