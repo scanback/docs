@@ -8,8 +8,8 @@ robots: noindex, nofollow
 # Radio
 |||
 |-|-|
-|
-### [BBC W](https://as-hls-ww-live.akamaized.net/pool_87948813/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d48000.norewind.m3u8)|### [BBC 6](https://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d48000.norewind.m3u8)|
+|<b>[BBC W](https://as-hls-ww-live.akamaized.net/pool_87948813/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d48000.norewind.m3u8)</b>|<b>[BBC 6](https://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d48000.norewind.m3u8)</b>|
+
 
 ### [P1](https://live1.sr.se/p1-aac-32)
 ### [P2](https://live1.sr.se/p2-aac-32)
