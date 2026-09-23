@@ -7,9 +7,8 @@ robots: noindex, nofollow
 ---
 
 ### [P1](https://live1.sr.se/p1-aac-128)
-tps://stream.live.vc.bbcmedia.co.uk/bbc_world_service
-
-tps://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d128000.norewind.m3u8
+### [BBC W](https://stream.live.vc.bbcmedia.co.uk/bbc_world_service)
+### [BBC 6](https://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d128000.norewind.m3u8)
 
 tps://live1.sr.se/p2-aac-128
 
