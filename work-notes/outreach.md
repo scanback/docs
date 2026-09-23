@@ -20,7 +20,7 @@ Utåtriktade insatser
 - Andre Maciel
 - Ricardo Dalmas
   - Jason Rood & Dave Walters
-- Garth Hankinson & Jim Sabia
+- Garth Hankinson (garth.hankinson@cbrands.com) & Jim Sabia
 - Galeb Darsch
 - CVH Spirits
 - Mark Luce
