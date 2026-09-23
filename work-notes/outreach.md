@@ -21,6 +21,7 @@ Utåtriktade insatser
 - Ricardo Dalmas
   - Jason Rood & Dave Walters
 - Garth Hankinson
+- Galeb Darsch
 - CVH Spirits
 - Mark Luce
 - Richard Rivett-Carnac
