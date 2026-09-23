@@ -19,7 +19,8 @@ Utåtriktade insatser
 - Lilian Fossum Biner
 - Andre Maciel
 - Ricardo Dalmas
-- Constellation strats + Hank
+  - Jason Rood & Dave Walters
+- Garth Hankinson
 - CVH Spirits
 - Mark Luce
 - Richard Rivett-Carnac
