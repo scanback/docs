@@ -7,7 +7,7 @@ robots: noindex, nofollow
 Utåtriktade insatser
 
 ## People
-*Create master list of warm contacts and find best way to contact them*
+
 ### ABI
   - Michel Doukeris (michel.doukeris at ab-inbev.com) & David Almeida (david.almeida at ab-inbev.com
 - Paul Donaldson (paul.donaldson at ab-inbev.com)
