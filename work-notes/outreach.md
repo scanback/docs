@@ -46,6 +46,9 @@ Utåtriktade insatser
 - Ricardo Dalmas (ricardo.dalmas at kcc.com)
 ### Kraft Heinz
 - Andre Maciel (andre.maciel at kraftheinz.com)
+### Mondelez
+- Jit Lodd (Jit.Lodd at mdlz.com)
+- Pam Forbus (Pamela.Forbus at mdlz.com)
 ### Nutresa
 - Jorge Bueno (abueno at chocolates.com.co)
 - Beatriz Lopez (belopez at chocolates.com.co)
