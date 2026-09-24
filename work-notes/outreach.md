@@ -8,11 +8,15 @@ Utåtriktade insatser
 
 ## People
 
+### 7-Eleven
+- Mauricio Leyva (? at 7-11.com ?)
 ### ABI
   - Michel Doukeris (michel.doukeris at ab-inbev.com) & David Almeida (david.almeida at ab-inbev.com
 - Paul Donaldson (paul.donaldson at ab-inbev.com)
 - Richard Rivett-Carnac (richard.rivett-carnacat za.ab-inbev.com)
-- Lisboa
+- Fabian Suarez (fabian.suarez at ab-inbev.com)
+- Lisboa (at carlos.lisboa at ambev.com or carlos.lisboa@ab-inbev.com ?)
+- Sergio Rincón (sergio.rincon@ab-inbev.com)
 ### Belron
   - Carlos Brito, Belron Connect for 1 oct.
 ### BIC
