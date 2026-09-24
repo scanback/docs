@@ -42,6 +42,9 @@ Utåtriktade insatser
 - ~~Erika Enfors, Ericsson, full kontakt, Connect 14 sep.~~
 ### FEMSA
 - Constantino Spas (constantino.spas@femsa.com.mx & constantino.spas@femsa.com)
+### Heineken Beverages
+- Johan van Zyl (? @heineken.com ?)
+- Andrea Quaye (? @heineken.com ?)
 ### Kimberly-Clark
 - Ricardo Dalmas (ricardo.dalmas at kcc.com)
 ### Kraft Heinz
