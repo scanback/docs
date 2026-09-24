@@ -71,7 +71,7 @@ hr {
 /* Kramdown to center a table with {: .centered-table} at bottom of table */
 .centered-table th,
 .centered-table td {
-  padding: 4px 15px;
+  padding: 4px 5px;
 }
 /* .centered-table { */
 /*   margin-left: auto; */
