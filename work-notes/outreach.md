@@ -9,7 +9,8 @@ Utåtriktade insatser
 ## People
 *Create master list of warm contacts and find best way to contact them*
 ### ABI
-- Michel Doukeris & David Almeida
+  - Michel Doukeris (michel.doukeris at ab-inbev.com) & David Almeida (david.almeida at ab-inbev.com
+- Paul Donaldson (paul.donaldson at ab-inbev.com)
 - Richard Rivett-Carnac (richard.rivett-carnacat za.ab-inbev.com)
 - Lisboa
 ### Belron
@@ -25,8 +26,8 @@ Utåtriktade insatser
 - Maheen Ansari (mahansari at coca-cola.com) & Clodagh Forde (cforde at coca-cola.com)
 - Caleb Darsch (cdarsch at coca-cola.com)
 ### Constellation
-  - Jason Rood (jason.rood at cbrands.com) & Dave Walter (david.walter at cbrands.com)
-- Garth Hankinson (garth.hankinson at cbrands.com) & Jim Sabia (jim.sabia at cbrands.com)
+  - Jason Rood (jason.rood at cbrands.com) & Dave Walter (david.walter at cbrands.com) 9/23
+  - Garth Hankinson (garth.hankinson at cbrands.com) & Jim Sabia (jim.sabia at cbrands.com) 9/24
 ### CVH Spirits
 - Ronan O'Rahilly (ronan.orahilly at cvhspirits.com)
 ### Boliden
