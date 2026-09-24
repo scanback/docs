@@ -61,6 +61,7 @@ Utåtriktade insatser
 - Magnus Tyreman (li)
 ### Other
 - Richard Rushton (richardmrushton AT yahoo DOT co DOT uk)
+- Kate Rycroft (kate.rycroft AT outlook DOT com)
 #### G=mc<sup>2</sup>
 - Mark Luce (mark.luce AT gmc2 DOT com)
 #### Bain
