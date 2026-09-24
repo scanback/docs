@@ -15,14 +15,14 @@ Utåtriktade insatser
 - Paul Donaldson (paul.donaldson at ab-inbev.com)
 - Richard Rivett-Carnac (richard.rivett-carnacat za.ab-inbev.com)
 - Fabian Suarez (fabian.suarez at ab-inbev.com)
-- Lisboa (at carlos.lisboa at ambev.com or carlos.lisboa@ab-inbev.com ?)
-- Sergio Rincón (sergio.rincon@ab-inbev.com)
+- Lisboa (at carlos.lisboa at ambev.com or carlos.lisboa at ab-inbev.com ?)
+- Sergio Rincón (sergio.rincon at ab-inbev.com)
 ### Belron
   - Carlos Brito, Belron Connect for 1 oct.
 ### BIC
 ?
 ### Carlsberg
-- Lilian Fossum Biner (lilian@fossumbiner.se)
+- Lilian Fossum Biner (lilian at fossumbiner.se)
 ### Cloetta
   - Niklas Truedsson, Cloetta, Connect 9/9
 - ~~Katarina Tell, Cloetta (omöjlig)~~
@@ -41,10 +41,10 @@ Utåtriktade insatser
 - ~~Erik Ekudden, Ericsson~~
 - ~~Erika Enfors, Ericsson, full kontakt, Connect 14 sep.~~
 ### FEMSA
-- Constantino Spas (constantino.spas@femsa.com.mx & constantino.spas@femsa.com)
+- Constantino Spas (constantino.spas at femsa.com.mx & constantino.spas at femsa.com)
 ### Heineken Beverages
-- Johan van Zyl (maybe johan.vanzyl@heineken.com ? jvanzyl.engineer at gmail.com)
-- Andrea Quaye (maybe andrea.quaye@heineken.com ?)
+- Johan van Zyl (maybe johan.vanzyl at heineken.com ? jvanzyl.engineer at gmail.com)
+- Andrea Quaye (maybe andrea.quaye at heineken.com ?)
 ### Kimberly-Clark
 - Ricardo Dalmas (ricardo.dalmas at kcc.com)
 ### Kraft Heinz
@@ -58,9 +58,9 @@ Utåtriktade insatser
 ### PepsiCo
 ?
 ### SSE
-- Magnus Tyreman
+- Magnus Tyreman (li)
 ### Other
-- Richard Rushton
+- Richard Rushton (richardmrushton at yahoo.co.uk)
 #### G=mc<sup>2</sup>
 - Mark Luce (mark.luce at gmc2.com)
 #### Bain
