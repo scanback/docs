@@ -60,6 +60,7 @@ Utåtriktade insatser
 ### SSE
 - Magnus Tyreman
 ### Other
+- Richard Rushton
 #### G=mc<sup>2</sup>
 - Mark Luce (mark.luce at gmc2.com)
 #### Bain
