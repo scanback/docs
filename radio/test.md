@@ -6,6 +6,7 @@ hide_footer: true
 robots: noindex, nofollow
 ---
 # Radio test
+<div style="center">
 
 |||
 |-|-|
@@ -14,3 +15,4 @@ robots: noindex, nofollow
 |<b><span style="font-size: 160%;">[SR P3](https://live1.sr.se/p3-aac-32)</span></b>|<b><span style="font-size: 160%;">[SR Din gata](https://live1.sr.se/dingata-aac-32)</span></b>|
 |<b><span style="font-size: 160%;">[SR P4](https://live1.sr.se/p4plus-aac-32)</span></b>|<b><span style="font-size: 160%;">[SR P6](https://live1.sr.se/p6-aac-32)</span></b>|
 |<b><span style="font-size: 160%;">[Ekot](https://edge2.sr.se/ekotdirekt-aac-32)</span></b>||
+</div>
