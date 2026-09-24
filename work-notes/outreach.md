@@ -18,7 +18,7 @@ Utåtriktade insatser
 ### BIC
 ?
 ### Carlsberg
-- Lilian Fossum Biner
+- Lilian Fossum Biner (lilian@fossumbiner.se)
 ### Cloetta
   - Niklas Truedsson, Cloetta, Connect 9/9
 - ~~Katarina Tell, Cloetta (omöjlig)~~
