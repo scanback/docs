@@ -9,31 +9,31 @@ Utåtriktade insatser
 ## People
 
 ### 7-Eleven
-- Mauricio Leyva (? at 7-11.com ?)
+- Mauricio Leyva (? AT 7-11 DOT com ?)
 ### ABI
-  - Michel Doukeris (michel.doukeris at ab-inbev.com) & David Almeida (david.almeida at ab-inbev.com
-- Paul Donaldson (paul.donaldson at ab-inbev.com)
-- Richard Rivett-Carnac (richard.rivett-carnacat za.ab-inbev.com)
-- Fabian Suarez (fabian.suarez at ab-inbev.com)
-- Lisboa (at carlos.lisboa at ambev.com or carlos.lisboa at ab-inbev.com ?)
-- Sergio Rincón (sergio.rincon at ab-inbev.com)
+  - Michel Doukeris (michel.doukeris AT ab-inbev DOT com) & David Almeida (david.almeida AT ab-inbev DOT com
+- Paul Donaldson (paul.donaldson AT ab-inbev DOT com)
+- Richard Rivett-Carnac (richard.rivett-carnac AT za.ab-inbev DOT com)
+- Fabian Suarez (fabian.suarez AT ab-inbev DOT com)
+- Lisboa (at carlos.lisboa AT ambev DOT com or carlos.lisboa AT ab-inbev DOT com ?)
+- Sergio Rincón (sergio.rincon AT ab-inbev DOT com)
 ### Belron
   - Carlos Brito, Belron Connect for 1 oct.
 ### BIC
 ?
 ### Carlsberg
-- Lilian Fossum Biner (lilian at fossumbiner.se)
+- Lilian Fossum Biner (lilian AT fossumbiner.se)
 ### Cloetta
   - Niklas Truedsson, Cloetta, Connect 9/9
 - ~~Katarina Tell, Cloetta (omöjlig)~~
 ### Coca-Cola
-- Maheen Ansari (mahansari at coca-cola.com) & Clodagh Forde (cforde at coca-cola.com)
-- Caleb Darsch (cdarsch at coca-cola.com)
+- Maheen Ansari (mahansari AT coca-cola DOT com) & Clodagh Forde (cforde AT coca-cola DOT com)
+- Caleb Darsch (cdarsch AT coca-cola DOT com)
 ### Constellation
-  - Jason Rood (jason.rood at cbrands.com) & Dave Walter (david.walter at cbrands.com) 9/23
-  - Garth Hankinson (garth.hankinson at cbrands.com) & Jim Sabia (jim.sabia at cbrands.com) 9/24
+  - Jason Rood (jason.rood AT cbrands DOT com) & Dave Walter (david.walter AT cbrands DOT com) 9/23
+  - Garth Hankinson (garth.hankinson AT cbrands DOT com) & Jim Sabia (jim.sabia AT cbrands DOT com) 9/24
 ### CVH Spirits
-- Ronan O'Rahilly (ronan.orahilly at cvhspirits.com)
+- Ronan O'Rahilly (ronan.orahilly AT cvhspirits DOT com)
 ### Boliden
   - Mikael Staffas, Boliden
 ### Ericsson
@@ -41,28 +41,28 @@ Utåtriktade insatser
 - ~~Erik Ekudden, Ericsson~~
 - ~~Erika Enfors, Ericsson, full kontakt, Connect 14 sep.~~
 ### FEMSA
-- Constantino Spas (constantino.spas at femsa.com.mx & constantino.spas at femsa.com)
+- Constantino Spas (constantino.spas AT femsa DOT com.mx & constantino.spas AT femsa DOT com)
 ### Heineken Beverages
-- Johan van Zyl (maybe johan.vanzyl at heineken.com ? jvanzyl.engineer at gmail.com)
-- Andrea Quaye (maybe andrea.quaye at heineken.com ?)
+- Johan van Zyl (maybe johan.vanzyl AT heineken DOT com ? jvanzyl.engineer AT gmail DOT com)
+- Andrea Quaye (maybe andrea.quaye AT heineken DOT com ?)
 ### Kimberly-Clark
-- Ricardo Dalmas (ricardo.dalmas at kcc.com)
+- Ricardo Dalmas (ricardo.dalmas AT kcc DOT com)
 ### Kraft Heinz
-- Andre Maciel (andre.maciel at kraftheinz.com)
+- Andre Maciel (andre.maciel AT kraftheinz DOT com)
 ### Mondelez
-- Jit Lodd (Jit.Lodd at mdlz.com)
-- Pam Forbus (Pamela.Forbus at mdlz.com)
+- Jit Lodd (Jit.Lodd AT mdlz DOT com)
+- Pam Forbus (Pamela.Forbus AT mdlz DOT com)
 ### Nutresa
-- Jorge Bueno (abueno at chocolates.com.co)
-- Beatriz Lopez (belopez at chocolates.com.co)
+- Jorge Bueno (abueno AT chocolates DOT com DOT co)
+- Beatriz Lopez (belopez AT chocolates DOT com DOT co)
 ### PepsiCo
 ?
 ### SSE
 - Magnus Tyreman (li)
 ### Other
-- Richard Rushton (richardmrushton at yahoo.co.uk)
+- Richard Rushton (richardmrushton AT yahoo DOT co DOT uk)
 #### G=mc<sup>2</sup>
-- Mark Luce (mark.luce at gmc2.com)
+- Mark Luce (mark.luce AT gmc2 DOT com)
 #### Bain
 ?
 #### McKinsey
@@ -85,5 +85,5 @@ Utåtriktade insatser
 - EU performance and exports
 - 1992 comparison in 2027
 
-** Other
+## Other
 - Times Square billboard
