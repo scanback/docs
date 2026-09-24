@@ -43,7 +43,7 @@ Utåtriktade insatser
 ### FEMSA
 - Constantino Spas (constantino.spas@femsa.com.mx & constantino.spas@femsa.com)
 ### Heineken Beverages
-- Johan van Zyl ( @heineken.com ? jvanzyl.engineer at gmail.com)
+- Johan van Zyl (maybe johan.vanzyl@heineken.com ? jvanzyl.engineer at gmail.com)
 - Andrea Quaye (maybe andrea.quaye@heineken.com ?)
 ### Kimberly-Clark
 - Ricardo Dalmas (ricardo.dalmas at kcc.com)
