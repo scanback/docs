@@ -68,6 +68,12 @@ hr {
   margin: 2rem 0;
 }
 
+/* Kramdown to center a table with {: .centered-table} at bottom of table */
+.centered-table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* ---------------------------------------------------------
    HEADER
 --------------------------------------------------------- */
