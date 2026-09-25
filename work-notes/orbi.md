@@ -1,3 +1,8 @@
+---
+robots: noindex, nofollow
+sitemap: false
+---
+
 # Troubleshooting Brave Browser Freezes on Surface (Windows 11)
 
 If your Brave browser and Surface device run perfectly abroad but freeze/sluggishly crash at home in Boston, the issue is likely tied to your local network configuration (Orbi Wi-Fi) or hardware conflicts.
