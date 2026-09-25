@@ -2,6 +2,7 @@
 title: "Conversation Transcript"
 description: "Schema Markup & Trademark Fair Use"
 robots: noindex, nofollow
+sitemap: false
 ---
 
 # Conversation Transcript: Schema Markup & Trademark Fair Use
