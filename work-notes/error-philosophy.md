@@ -1,3 +1,8 @@
+---
+robots: noindex, nofollow
+sitemap: false
+---
+
 # Philosophy of Error
 
 ## Working Thesis
