@@ -1,3 +1,8 @@
+---
+robots: noindex, nofollow
+sitemap: false
+---
+
 # Methods Aid Etc.
 
 ## The General Linear Forecasting Model for Demand  
