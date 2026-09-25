@@ -92,6 +92,22 @@ table.centered-table td {
    HEADER
 --------------------------------------------------------- */
 
+.header-brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.header-logo {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.header-logo img {
+  display: block;
+}
+
 .site-header {
   background: white;
   border-bottom: 4px solid #ddd;
