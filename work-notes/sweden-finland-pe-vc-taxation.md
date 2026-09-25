@@ -1,3 +1,8 @@
+---
+robots: noindex, nofollow
+sitemap: false
+---
+
 # Comparative Tax & Structural Policy: Sweden vs. Finland in Private Equity & Venture Capital
 
 ## Executive Summary
