@@ -4,6 +4,7 @@ description: None
 hide_header: true
 hide_footer: true
 robots: noindex, nofollow
+sitemap: false
 ---
 # Contacts
 
