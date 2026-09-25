@@ -1,3 +1,8 @@
+---
+robots: noindex, nofollow
+sitemap: false
+---
+
 # Production Error vs. Transaction Error
 
 *Work note – June 2026*
