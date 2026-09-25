@@ -1,3 +1,8 @@
+---
+robots: noindex, nofollow
+sitemap: false
+---
+
 # Development History: Designing a Latent Excitement Index
 
 This document compiles the complete discussion, conceptual theory, and mathematical framework developed to construct an alternative global country ranking system that prioritizes dynamic, high-arousal daily experiences over passive institutional stability.
