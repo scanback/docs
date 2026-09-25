@@ -1,15 +1,21 @@
 <header class="site-header">
  
-  <!-- LOGO -->
-  <div align="center"> 
-  <img src="{{ '/assets/images/logo-canback-think-mini.png' | relative_url }}" width="32" alt="Dr. Staffan Canback">
-  </div>
-  
-  <!-- ROW 1 -->
-  <div class="header-row header-row-top">
+ <!-- ROW 1 -->
+<div class="header-row header-row-top">
+
+  <div class="header-brand">
+    <a href="https://tellusant.com" target="_blank" class="header-logo">
+      <img
+        src="{{ '/assets/images/logo-canback-think-mini.png' | relative_url }}"
+        width="32"
+        alt="Dr. Staffan Canback"
+      >
+    </a>
+
     <a class="site-title" href="{{ '/' | relative_url }}">
       {{ site.title }}
     </a>
+  </div> 
 
     <nav class="site-nav">
       <a href="{{ 'about' | relative_url }}">About Me</a>
