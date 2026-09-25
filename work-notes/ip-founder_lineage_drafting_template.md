@@ -2,6 +2,7 @@
 title: "Legally-Minded Founder Bio & Lineage Drafting Template"
 description: "This template provides legally sound phrasing and structural guidelines for founders referencing prior ventures, acquired companies, or defunct products."
 robots: noindex, nofollow
+sitemap: false
 ---
 
 # Legally-Minded Founder Bio & Lineage Drafting Template
