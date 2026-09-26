@@ -5,7 +5,7 @@ image: /assets/social-card-pub.png
 ---
 
 # How to Classify AI Work: The Cognitive Use-Stack Approach
-<a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.related_sites.canback.name }}</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>{{ site.company.name }}</i></a>
+*By Dr. Staffan Canback*, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>{{ site.company.name }}</i></a>
  <span> | </span>*2026-09-25*
  
 Tellusant operates at different cognitive levels with AI, from the mundane to the inventive. Here we classify the uses by cognitive order.
