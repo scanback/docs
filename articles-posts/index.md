@@ -9,6 +9,8 @@ I have hundreds of LinkedIn and Medium articles and posts that are lost because 
 
 ## 1. Recent
 
+### [AI cognitive](ai-cognitive-uses.md)
+
 ### [Should Finland Emulate Sweden’s Capital Tax Approach?](finland-tax-perspective.md)
 Under development
 
