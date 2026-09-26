@@ -4,7 +4,7 @@ description: "Tellusant operates at different cognitive levels with AI, from the
 image: /assets/social-card-pub.png
 ---
 
-# How to Classify AI Work: The Cognitive Use Approach
+# How to Classify AI Work: The Cognitive Use-Stack Approach
 <a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.related_sites.canback.name }}</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>{{ site.company.name }}</i></a>
  <span> | </span>*2026-09-25*
  
