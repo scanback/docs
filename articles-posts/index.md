@@ -9,7 +9,8 @@ I have hundreds of LinkedIn and Medium articles and posts that are lost because 
 
 ## 1. Recent
 
-### [AI cognitive](ai-cognitive-use-stack.md)
+### [How to Classify AI Work: The Cognitive Use-Stack Approach](ai-cognitive-use-stack.md)
+Tellusant operates at different cognitive levels with AI, from the mundane to the inventive. Here we classify the uses by cognition order rather than by task.
 
 ### [Should Finland Emulate Sweden’s Capital Tax Approach?](finland-tax-perspective.md)
 Under development
