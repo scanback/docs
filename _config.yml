@@ -14,6 +14,10 @@ author:
   url: "https://canback.net/docs/about/"
   type: Person
 
+company:
+  name: "Tellusant, Inc."
+  url: "https://tellusant.com/"
+
 social:
   name: "Staffan Canback"
   links:
