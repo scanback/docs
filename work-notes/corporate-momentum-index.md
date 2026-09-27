@@ -10,11 +10,16 @@ sitemap: false
 ## Introductory Front Matter
 > I'm creating a momentum index. Is the company improving or regressing. Based on growth, profitability.
 
-A simple way to quantifiably build this is a weighted composite score (from 0 to 100):Assign 50% weight to Growth Metrics (e.g., 25% Revenue Growth, 25% Market Share/Asset Growth).Assign 50% weight to Profitability Metrics (e.g., 25% Gross/Operating Margin expansion, 25% Return on Invested Capital or FCF).By measuring the rate of change of this composite score quarter-over-quarter, you get a clean positive number for improving (positive momentum) or a negative number for regressing (negative momentum).
+A simple way to quantifiably build this is a weighted composite score (from 0 to 100):Assign 50% weight to Growth Metrics (e.g., 25% Revenue Growth, 25% Market Share/Asset Growth).Assign 50% weight to Profitability Metrics (e.g., 25% Gross/Operating Margin expansion, 25% Return on Invested Capital or FCF).
 
-> I want to be a bit more sophisticated. Growth (v)  will be in gross profit. Profitability (m) will be a PCA analysis of cash flow and EBT and maybe one more. The index weight between m and v will be statistically determined. I will probably use a temporal weight such as zipf to favor more recent quarterly results. Also, I will start with year-over-year because eliminating seasonality effects is too much work in a demo.
+By measuring the rate of change of this composite score quarter-over-quarter, you get a clean positive number for improving (positive momentum) or a negative number for regressing (negative momentum).
 
-That is a highly structured and rigorous approach. Elevating a "momentum index" into a dynamic asset tracking mechanism utilizing Principal Component Analysis (PCA) and Zipf’s law distribution for temporal smoothing moves it into the realm of professional quant research. Using Year-over-Year (YoY) quarterly differences is a smart workaround to perfectly sidestep seasonal adjustments in a demo.Here is how you can mathematically frame and implement this sophisticated framework.
+> I want to be a bit more sophisticated. Growth (v)  will be in gross profit. Profitability (m) will be a PCA analysis of cash flow and EBT and maybe one more. The index weight between m and v will be statistically determined.  
+> I will probably use a temporal weight such as Zipf to favor more recent quarterly results. Also, I will start with year-over-year because eliminating seasonality effects is too much work in a demo.
+
+That is a highly structured and rigorous approach. Elevating a "momentum index" into a dynamic asset tracking mechanism utilizing Principal Component Analysis (PCA) and Zipf’s law distribution for temporal smoothing moves it into the realm of professional quant research. 
+
+Using Year-over-Year (YoY) quarterly differences is a smart workaround to perfectly sidestep seasonal adjustments in a demo.Here is how you can mathematically frame and implement this sophisticated framework.
 
 ## Main Document
 
@@ -24,11 +29,16 @@ To bypass complex seasonal adjustments in a demo setting, all foundational calcu
 
 ---
 
-### 📐 The Mathematical Architecture
+### The Mathematical Architecture
 
 #### 1. Growth Vector ($v_t$)
-Using **Gross Profit Growth** isolates top-line operational expansion while ignoring distortions from changing overhead expenses or tax structures.
-$$v_t = rac{\text{Gross Profit}_t - \text{Gross Profit}_{t-4}}{\text{Gross Profit}_{t-4}}$$
+Using **Gross Profit Growth** isolates top-line operational expansion while ignoring distortions from changing overhead expenses or tax structures.  
+
+$$test$$
+
+$$
+v_t = rac{\text{Gross Profit}_t - \text{Gross Profit}_{t-4}}{\text{Gross Profit}_{t-4}}
+$$
 
 #### 2. Profitability Latent Factor ($m_t$)
 To capture structural earnings quality without injecting multi-collinearity issues, we apply **PCA** across three core measures of margin and efficiency:
@@ -45,23 +55,25 @@ $$W(i) = rac{1 / i^s}{\sum_{j=1}^{N} (1 / j^s)}$$
 
 #### 4. Statistical Index Weighting
 To eliminate arbitrary baseline assumptions, weights are determined via a **variance-maximizing normalization technique**. By setting the weights inversely proportional to each factor's standard deviation, we neutralize volatility imbalances and ensure both growth ($v$) and profitability ($m$) contribute equitably to structural shifts:
+
 $$w_v = rac{1}{\sigma_v}, \quad w_m = rac{1}{\sigma_m}$$
+
 $$Weight_v = rac{w_v}{w_v + w_m}, \quad Weight_m = rac{w_m}{w_v + w_m}$$
 
 ---
 
-### 📊 Trajectory Matrix
+### Trajectory Matrix
 
 | Growth ($v$) | Profitability ($m$) | Momentum Status | Operational Interpretation |
 | :--- | :--- | :--- | :--- |
-| **Accelerating** | **Expanding** | 🚀 **High Traction / Surge** | Dominant scaling; highly efficient business expanding market share. |
-| **Accelerating** | **Compressing** | ⚠️ **High-Burn Expansion** | Buying market share or aggressively expanding at a heavy capital cost. |
-| **Decelerating** | **Expanding** | 💡 **Maturing / Optimizing** | Top-line velocity slowing down, but turning highly efficient/cash-generative. |
-| **Decelerating** | **Compressing** | 📉 **Regression / Stagnation** | Structural decline; losing both market velocity and financial health. |
+| **Accelerating** | **Expanding** | **High Traction / Surge** | Dominant scaling; highly efficient business expanding market share. |
+| **Accelerating** | **Compressing** | **High-Burn Expansion** | Buying market share or aggressively expanding at a heavy capital cost. |
+| **Decelerating** | **Expanding** | **Maturing / Optimizing** | Top-line velocity slowing down, but turning highly efficient/cash-generative. |
+| **Decelerating** | **Compressing** | **Regression / Stagnation** | Structural decline; losing both market velocity and financial health. |
 
 ---
 
-### 💻 Python Reference Implementation
+### Python Reference Implementation
 
 The following production-ready prototype simulates multi-quarter corporate financials, extracts the underlying latent profitability factor, calculates statistical weights, and applies the Zipf temporal smoothing layers.
 
