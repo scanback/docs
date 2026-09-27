@@ -32,8 +32,11 @@ To bypass complex seasonal adjustments in a demo setting, all foundational calcu
 ### The Mathematical Architecture
 
 #### 1. Growth Vector ($v_t$)
-Using **Gross Profit Growth** isolates top-line operational expansion while ignoring distortions from changing overhead expenses or tax structures.
-$$ v_t = rac{\text{Gross Profit}_t - \text{Gross Profit}_{t-4}}{\text{Gross Profit}_{t-4}} $$
+Using **Gross Profit Growth** isolates top-line operational expansion while ignoring distortions from changing overhead expenses or tax structures.  
+
+$$
+v_t = rac{\text{Gross Profit}_t - \text{Gross Profit}_{t-4}}{\text{Gross Profit}_{t-4}} 
+$$
 
 #### 2. Profitability Latent Factor ($m_t$)
 To capture structural earnings quality without injecting multi-collinearity issues, we apply **PCA** across three core measures of margin and efficiency:
