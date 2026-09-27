@@ -14,7 +14,8 @@ A simple way to quantifiably build this is a weighted composite score (from 0 to
 
 By measuring the rate of change of this composite score quarter-over-quarter, you get a clean positive number for improving (positive momentum) or a negative number for regressing (negative momentum).
 
-> I want to be a bit more sophisticated. Growth (v)  will be in gross profit. Profitability (m) will be a PCA analysis of cash flow and EBT and maybe one more. The index weight between m and v will be statistically determined. I will probably use a temporal weight such as Zipf to favor more recent quarterly results. Also, I will start with year-over-year because eliminating seasonality effects is too much work in a demo.
+> I want to be a bit more sophisticated. Growth (v)  will be in gross profit. Profitability (m) will be a PCA analysis of cash flow and EBT and maybe one more. The index weight between m and v will be statistically determined.  
+> I will probably use a temporal weight such as Zipf to favor more recent quarterly results. Also, I will start with year-over-year because eliminating seasonality effects is too much work in a demo.
 
 That is a highly structured and rigorous approach. Elevating a "momentum index" into a dynamic asset tracking mechanism utilizing Principal Component Analysis (PCA) and Zipf’s law distribution for temporal smoothing moves it into the realm of professional quant research. 
 
