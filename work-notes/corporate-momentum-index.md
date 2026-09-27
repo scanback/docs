@@ -34,8 +34,10 @@ To bypass complex seasonal adjustments in a demo setting, all foundational calcu
 #### 1. Growth Vector ($v_t$)
 Using **Gross Profit Growth** isolates top-line operational expansion while ignoring distortions from changing overhead expenses or tax structures.  
 
+$$test$$
+
 $$
-v_t = rac{\text{Gross Profit}_t - \text{Gross Profit}_{t-4}}{\text{Gross Profit}_{t-4}} 
+v_t = rac{\text{Gross Profit}_t - \text{Gross Profit}_{t-4}}{\text{Gross Profit}_{t-4}}
 $$
 
 #### 2. Profitability Latent Factor ($m_t$)
