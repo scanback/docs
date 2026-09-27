@@ -1,16 +1,16 @@
 ---
-title: "How to Classify AI Work: The Cognitive Use Approach"
-description: "We operate daily at different cognitive levels with AI, from the mundane to the inventive. Here we classify the uses by cognition order rather than by task."
+title: "How to Classify AI Work: The Cognitive Use-Stack Approach"
+description: "Tellusant operates at different cognitive levels with AI, from the mundane to the inventive. Here we classify the uses by cognition order rather than by task."
 image: /assets/social-card-pub.png
 ---
 
-# How to Classify AI Work: The Cognitive Use Approach
-<a href="{{ site.related_sites.canback.url }}" target="_blank" style="color: black; text-decoration: none;"><i>By {{ site.related_sites.canback.name }}</i></a>, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>{{ site.company.name }}</i></a>
+# How to Classify AI Work: The Cognitive Use-Stack Approach
+*By Dr. Staffan Canback*, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"><i>{{ site.company.name }}</i></a>
  <span> | </span>*2026-09-25*
  
-Tellusant operates daily at different cognitive levels with AI, from the mundane to the inventive. Here we classify the uses by cognitive order.
+Tellusant operates at different cognitive levels with AI, from the mundane to the inventive. Here we classify the uses by cognitive order.
 
-It has struck me that most people discuss AI in terms of tasks. I have to think that this is a bit [reductive](https://www.merriam-webster.com/simple/reductive). It is straightforward to think about tasks, but what are the underlying cognitive complexities?
+It strikes me that most people discuss AI in terms of tasks. I have to think that this is a bit [reductive](https://www.merriam-webster.com/simple/reductive). It is straightforward to think about tasks, but what are the underlying cognitive complexities?
 
 The graph below serves as a classification of AI use for me and my colleagues. On any given day we work at all four levels. In the long term, levels 3 and 4 are what distinguish us, while levels 1 and 2 are critical for our productivity.
 
