@@ -84,7 +84,7 @@ $$
 
 The following production-ready prototype simulates multi-quarter corporate financials, extracts the underlying latent profitability factor, calculates statistical weights, and applies the Zipf temporal smoothing layers.
 
-```python
+```python  
 import numpy as np
 import pandas as pd
 from sklearn.decomposition import PCA
