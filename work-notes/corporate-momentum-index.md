@@ -34,10 +34,9 @@ To bypass complex seasonal adjustments in a demo setting, all foundational calcu
 #### 1. Growth Vector ($v_t$)
 Using **Gross Profit Growth** isolates top-line operational expansion while ignoring distortions from changing overhead expenses or tax structures.  
 
-$$test$$
-
 $$
-v_t = rac{\text{Gross Profit}_t - \text{Gross Profit}_{t-4}}{\text{Gross Profit}_{t-4}}
+v_t = \frac{\text{Gross Profit}_t - \text{Gross Profit}_{t-4}}
+{\text{Gross Profit}_{t-4}}
 $$
 
 #### 2. Profitability Latent Factor ($m_t$)
@@ -50,15 +49,19 @@ The first principal component ($PC_1$) acts as our unified, uncorrelated **Profi
 
 #### 3. Temporal Decay Layer (Zipf’s Distribution)
 To ensure the index captures immediate forward trajectory without letting historical performance pollute current trends, we apply a Zipf-distributed weight vector over $N$ quarters. The most recent quarter ($i=1$) receives the highest weight, with subsequent weights decaying harmonically ($1/i$):
-$$W(i) = rac{1 / i^s}{\sum_{j=1}^{N} (1 / j^s)}$$
+
+$$
+W(i) = frac{1 / i^s}{\sum_{j=1}^{N} (1 / j^s)}
+$$
+
 *(Where $i$ represents the chronological recency index, and $s \ge 1$ controls the aggressiveness of the decay rate).*
 
 #### 4. Statistical Index Weighting
 To eliminate arbitrary baseline assumptions, weights are determined via a **variance-maximizing normalization technique**. By setting the weights inversely proportional to each factor's standard deviation, we neutralize volatility imbalances and ensure both growth ($v$) and profitability ($m$) contribute equitably to structural shifts:
 
-$$w_v = rac{1}{\sigma_v}, \quad w_m = rac{1}{\sigma_m}$$
+$$w_v = frac{1}{\sigma_v}, \quad w_m = frac{1}{\sigma_m}$$
 
-$$Weight_v = rac{w_v}{w_v + w_m}, \quad Weight_m = rac{w_m}{w_v + w_m}$$
+$$Weight_v = frac{w_v}{w_v + w_m}, \quad Weight_m = frac{w_m}{w_v + w_m}$$
 
 ---
 
