@@ -51,6 +51,10 @@ The first principal component ($PC_1$) acts as our unified, uncorrelated **Profi
 To ensure the index captures immediate forward trajectory without letting historical performance pollute current trends, we apply a Zipf-distributed weight vector over $N$ quarters. The most recent quarter ($i=1$) receives the highest weight, with subsequent weights decaying harmonically ($1/i$):
 
 $$
+W(i) = \frac{1 / i^s}{\sum_{j=1}^{N} (1 / j^s)}
+$$
+
+$$
 W(i) = \frac{1 / i^s}{\sum_{j=1}^{N} (1 / j^s)}
 $$
 
