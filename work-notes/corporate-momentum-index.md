@@ -54,21 +54,17 @@ $$
 W(i) = \frac{1 / i^s}{\sum_{j=1}^{N} (1 / j^s)}
 $$
 
-$$
-W(i) = \frac{1 / i^s}{\sum_{j=1}^{N} (1 / j^s)}
-$$
-
 *(Where $i$ represents the chronological recency index, and $s \ge 1$ controls the aggressiveness of the decay rate).*
 
 #### 4. Statistical Index Weighting
 To eliminate arbitrary baseline assumptions, weights are determined via a **variance-maximizing normalization technique**. By setting the weights inversely proportional to each factor's standard deviation, we neutralize volatility imbalances and ensure both growth ($v$) and profitability ($m$) contribute equitably to structural shifts:
 
 $$
-w_v = \frac{1}{\sigma_v}, \quad w_m = \frac{1}{\sigma_m}
+w_v = \frac{1}{\sigma_v}, \quad w_m = \frac{1}{\sigma_m}
 $$
 
 $$
-Weight_v = \frac{w_v}{w_v + w_m}, \quad Weight_m = \frac{w_m}{w_v + w_m}
+Weight_v = \frac{w_v}{w_v + w_m}, \quad Weight_m = \frac{w_m}{w_v + w_m}
 $$
 
 ---
