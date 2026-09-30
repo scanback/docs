@@ -20,6 +20,7 @@ company:
 
 social:
   name: "Staffan Canback"
+  threads: "https://www.threads.com/@staffan_canback"
   links:
     - "https://www.linkedin.com/in/scanback/"
     - "https://www.threads.com/@staffan_canback"
@@ -28,8 +29,6 @@ social:
     - "https://figshare.com/authors/Staffan_Canback/20547296"
     - "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=370890"
     - "https://ideas.repec.org/e/pca59.html"
-
-threads_username: staffan_canback
 
 plugins:
   - jekyll-seo-tag
