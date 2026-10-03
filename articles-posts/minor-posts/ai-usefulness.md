@@ -1,3 +1,5 @@
+# How AI Works Brilliantly for Me
+
 > I find AI immensely useful. I think most people do. Yet the complainers dominate the discussion. Two years ago it was about hallucinations, now it is about offing humankind. Read my positive perspective building on Annie Get your Gun's song from 1946.
 
 "Anything You Can Do, I Can Do Better." I am the you and I is the AI. So it becomes "Anything I Can Do, AI Can Do Better."
