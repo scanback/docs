@@ -1,8 +1,15 @@
+---
+title: "How AI Works Brilliantly for Me"
+description: "I find AI immensely useful. I think most people do. Yet the complainers dominate the discussion. Read my positive perspective riffing off Annie Get your Gun's song from 1946."
+date: 2026-10-01
+image: /assets/social-card-think.png
+---
+
 # How AI Works Brilliantly for Me
 
-> I find AI immensely useful. I think most people do. Yet the complainers dominate the discussion. Two years ago it was about hallucinations, now it is about offing humankind. Read my positive perspective building on Annie Get your Gun's song from 1946.
+> I find AI immensely useful. I think most people do. Yet the complainers dominate the discussion. Two years ago it was about hallucinations, now it is about offing humankind. Read my positive perspective riffing off *Annie Get Your Gun's* song from 1946.
 
-"Anything You Can Do, I Can Do Better." I am the you and I is the AI. So it becomes "Anything I Can Do, AI Can Do Better."
+"Anything You Can Do, I Can Do Better." I am the you and I is the AI. So it becomes ***"Anything I Can Do, AI Can Do Better."***
 
 I say this because I find almost infinite usefulness in collaborating with AI. My favorites are ChatGPT and Gemini.
 
