@@ -1,6 +1,6 @@
 ---
 title: "Minor Posts"
-description: "A secondary log of minor social media posts, kept for record-keeping purposes."
+description: "A secondary log of minor social media posts, posted for record-keeping purposes."
 date: 2026-08-29
 image: /assets/social-card-think.png
 ---
