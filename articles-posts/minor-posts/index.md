@@ -7,4 +7,7 @@ image: /assets/social-card-think.png
 # Minor Posts
 A secondary log of minor social media posts, kept for record-keeping purposes. [The main posts are here.](../index.md) 
 
+
+#### [How AI Works Brilliantly for Me](ai-usefulness.md))
+
 #### [Figshare 5,000 Downloads Milestone](figshare-milestone.md)  
