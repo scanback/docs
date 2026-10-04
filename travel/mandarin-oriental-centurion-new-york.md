@@ -20,9 +20,9 @@ The six-course dinner featured the best of Asian food crossed with French haute 
 Did I have any favorite? Not the right question. I found each dish perfect in a unique way. What I want to highlight is rather the combination of sensory appeal with the flavors. This overlaid with the visual impact of perfectly presented plates.
 
  
-<p align="center">
-<figcaption><b>Myself with Chef Richard Ekkebus and Chef Daniel Boulud</b></figcaption>
-<img  src="assets/images/centurion/1-centurion.jpg" width="300" alt="Myself with Chef Richard Ekkebus and Chef Daniel Boulud">
+<p align="center" style="font-weight: 1000;">
+<figcaption> Myself with Chef Richard Ekkebus and Chef Daniel Boulud</figcaption></figcaption>
+<img src="assets/images/centurion/1-centurion.jpg" width="300" alt="Myself with Chef Richard Ekkebus and Chef Daniel Boulud">
 </p>  
 <p align="center">
 <figcaption><b>The first course: Aka Uni with Cauliflower</b></figcaption>
