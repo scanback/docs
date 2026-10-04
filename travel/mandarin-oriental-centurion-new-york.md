@@ -21,8 +21,8 @@ Did I have any favorite? Not the right question. I found each dish perfect in a 
 
  
 <p align="center">
-<figcaption>Myself with Chef Richard Ekkebus and Chef Daniel Boulud</figcaption>
-<img  src="assets/images/centurion/centurion-1.jpg" width="500" alt="Myself with Chef Richard Ekkebus and Chef Daniel Boulud">
+<figcaption><b>Myself with Chef Richard Ekkebus and Chef Daniel Boulud</b></figcaption>
+<img  src="assets/images/centurion/1-centurion.jpg" width="500" alt="Myself with Chef Richard Ekkebus and Chef Daniel Boulud">
 </p>  
 3. The first course: Aka Uni with Cauliflower  
 4. The opulent setting fitting for such a gastronomical event  
