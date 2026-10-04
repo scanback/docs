@@ -32,12 +32,12 @@ Did I have any favorite? Not the right question. I found each dish perfect in a 
 
 <figure style="text-align: center;">
 <figcaption style="font-weight: 600; margin-bottom: 8px;">The opulent setting fitting for such a gastronomical event</figcaption>
-<img  src="assets/images/centurion/3-centurion.jpg" width="300" alt="Centurion New York 3">
+<img  src="assets/images/centurion/3-centurion.jpg" width="500" alt="Centurion New York 3">
 </figure>  
 
 <figure style="text-align: center;">
 <figcaption style="font-weight: 600; margin-bottom: 8px;">White alba truffels being masterly prepared by our chefs for the third course</figcaption>
-<img  src="assets/images/centurion/4-centurion.jpg" width="300" alt="Centurion New York 4">
+<img  src="assets/images/centurion/4-centurion.jpg" width="400" alt="Centurion New York 4">
 </figure>    
 
 <figure style="text-align: center;">
@@ -47,7 +47,7 @@ Did I have any favorite? Not the right question. I found each dish perfect in a 
 
 <figure style="text-align: center;">
 <figcaption style="font-weight: 600; margin-bottom: 8px;">The Chrysler building seen from the 55th floor where Centurion New York is located</figcaption>
-<img  src="assets/images/centurion/6-centurion.jpg" width="300" alt="Centurion New York 6">
+<img  src="assets/images/centurion/6-centurion.jpg" width="400" alt="Centurion New York 6">
 </figure>    
 
 This was a most memorable event. The idea to expand American Express's Centurion beyond airport lounges is brilliant. Over the years, I have enjoyed Centurions around the world, such as the ones in Buenos Aires, Mexico City and Stockholm. This location adds to those experiences.
