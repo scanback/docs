@@ -8,3 +8,5 @@ image: /assets/social-card-think.png
 I have worked on the ground in 90 countries and visited over 100. I will document my journeys here.
 
 FORTHCOMING. Not a priority.
+
+[Celebrating](mandarin-oriental-centurion-new-york.md)
