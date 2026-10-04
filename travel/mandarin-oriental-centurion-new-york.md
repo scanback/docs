@@ -1,10 +1,10 @@
 ---
-title: "Mandarin Oriental Presents: Chef Ekkebus & Chef Boulud"
+title: "Mandarin Oriental Presents: Chef Ekkebus and Chef Boulud"
 description: "My wife and I had the pleasure to attend the invitational Mandarin Oriental event at the American Express Centurion New York."
 date: 2026-10-01
 image: /assets/social-card-publ.png
 ---
-# Mandarin Oriental Presents: Chef Ekkebus & Chef Boulud  
+# Mandarin Oriental Presents: Chef Ekkebus and Chef Boulud  
 *By Dr. Staffan Canback* <a href="about.md" target="_blank" style="color: black; text-decoration: none;"></a><span> | </span>*2026-10-01*
 
 My wife and I had the pleasure to attend the invitational **Mandarin Oriental** event at the American Express **Centurion New York** last Thursday night.
