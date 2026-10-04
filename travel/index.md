@@ -9,4 +9,4 @@ I have worked on the ground in 90 countries and visited over 100. I will documen
 
 FORTHCOMING. Not a priority.
 
-[Celebrating](mandarin-oriental-centurion-new-york.md)
+### [Mandarin Oriental Presents: Chef Ekkebus and Chef Boulud](mandarin-oriental-centurion-new-york.md)

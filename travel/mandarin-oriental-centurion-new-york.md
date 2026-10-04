@@ -20,15 +20,35 @@ The six-course dinner featured the best of Asian food crossed with French haute 
 Did I have any favorite? Not the right question. I found each dish perfect in a unique way. What I want to highlight is rather the combination of sensory appeal with the flavors. This overlaid with the visual impact of perfectly presented plates.
 
  
-<p align="center">
-<figcaption>Myself with Chef Richard Ekkebus and Chef Daniel Boulud</figcaption>
-<img  src="assets/images/centurion/centurion-1.jpg" width="500" alt="Myself with Chef Richard Ekkebus and Chef Daniel Boulud">
-</p>  
-3. The first course: Aka Uni with Cauliflower  
-4. The opulent setting fitting for such a gastronomical event  
-5. White alba truffels being masterly prepared by our chefs for the third course  
-6. The printed menu guiding our journey  
-7. The Chrysler building seen from the 55th floor where Centurion New York is located  
+<figure style="text-align: center;">
+  <figcaption style="font-weight: 600; margin-bottom: 8px;">Myself with Chef Richard Ekkebus and Chef Daniel Boulud</figcaption>
+  <img src="assets/images/centurion/1-centurion.jpg" width="300" alt="Myself with Chef Richard Ekkebus and Chef Daniel Boulud">
+</figure>  
+
+<figure style="text-align: center;">
+<figcaption style="font-weight: 600; margin-bottom: 8px;">The first course: Aka Uni with Cauliflower</figcaption>
+<img  src="assets/images/centurion/2-centurion.jpg" width="300" alt="Centurion New York 1">
+</figure>  
+
+<figure style="text-align: center;">
+<figcaption style="font-weight: 600; margin-bottom: 8px;">The opulent setting fitting for such a gastronomical event</figcaption>
+<img  src="assets/images/centurion/3-centurion.jpg" width="300" alt="Centurion New York 3">
+</figure>  
+
+<figure style="text-align: center;">
+<figcaption style="font-weight: 600; margin-bottom: 8px;">White alba truffels being masterly prepared by our chefs for the third course</figcaption>
+<img  src="assets/images/centurion/4-centurion.jpg" width="300" alt="Centurion New York 4">
+</figure>    
+
+<figure style="text-align: center;">
+<figcaption style="font-weight: 600; margin-bottom: 8px;">The printed menu guiding our journey</figcaption>
+<img  src="assets/images/centurion/5-centurion.jpg" width="300" alt="Centurion New York 5">
+</figure>    
+
+<figure style="text-align: center;">
+<figcaption style="font-weight: 600; margin-bottom: 8px;">The Chrysler building seen from the 55th floor where Centurion New York is located</figcaption>
+<img  src="assets/images/centurion/6-centurion.jpg" width="300" alt="Centurion New York 6">
+</figure>    
 
 This was a most memorable event. The idea to expand American Express's Centurion beyond airport lounges is brilliant. Over the years, I have enjoyed Centurions around the world, such as the ones in Buenos Aires, Mexico City and Stockholm. This location adds to those experiences.
 
