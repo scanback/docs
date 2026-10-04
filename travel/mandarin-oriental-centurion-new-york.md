@@ -21,7 +21,7 @@ Did I have any favorite? Not the right question. I found each dish perfect in a 
 
  
 <figure style="text-align: center;">
-  <figcaption style="font-weight: bold; margin-bottom: 8px;">Myself with Chef Richard Ekkebus and Chef Daniel Boulud</figcaption>
+  <figcaption style="font-weight: 600; margin-bottom: 8px;">Myself with Chef Richard Ekkebus and Chef Daniel Boulud</figcaption>
   <img src="assets/images/centurion/1-centurion.jpg" width="300" alt="Myself with Chef Richard Ekkebus and Chef Daniel Boulud">
 </figure>  
 
@@ -31,22 +31,22 @@ Did I have any favorite? Not the right question. I found each dish perfect in a 
 </figure>  
 
 <figure style="text-align: center;">
-<figcaption style="font-weight: 200; margin-bottom: 8px;">The opulent setting fitting for such a gastronomical event</figcaption>
+<figcaption style="font-weight: 600; margin-bottom: 8px;">The opulent setting fitting for such a gastronomical event</figcaption>
 <img  src="assets/images/centurion/3-centurion.jpg" width="300" alt="Centurion New York 3">
 </figure>  
 
 <figure style="text-align: center;">
-<figcaption>White alba truffels being masterly prepared by our chefs for the third course</figcaption>
+<figcaption style="font-weight: 600; margin-bottom: 8px;">White alba truffels being masterly prepared by our chefs for the third course</figcaption>
 <img  src="assets/images/centurion/4-centurion.jpg" width="300" alt="Centurion New York 4">
 </figure>    
 
 <figure style="text-align: center;">
-<figcaption>The printed menu guiding our journey</figcaption>
+<figcaption style="font-weight: 600; margin-bottom: 8px;">The printed menu guiding our journey</figcaption>
 <img  src="assets/images/centurion/5-centurion.jpg" width="300" alt="Centurion New York 5">
 </figure>    
 
 <figure style="text-align: center;">
-<figcaption>The Chrysler building seen from the 55th floor where Centurion New York is located</figcaption>
+<figcaption style="font-weight: 600; margin-bottom: 8px;">The Chrysler building seen from the 55th floor where Centurion New York is located</figcaption>
 <img  src="assets/images/centurion/6-centurion.jpg" width="300" alt="Centurion New York 6">
 </figure>    
 
