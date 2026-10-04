@@ -22,12 +22,12 @@ Did I have any favorite? Not the right question. I found each dish perfect in a 
  
 <figure style="text-align: center;">
   <figcaption style="font-weight: 600; margin-bottom: 8px;">Myself with Chef Richard Ekkebus and Chef Daniel Boulud</figcaption>
-  <img src="assets/images/centurion/1-centurion.jpg" width="300" alt="Myself with Chef Richard Ekkebus and Chef Daniel Boulud">
+  <img src="assets/images/centurion/1-centurion.jpg" width="400" alt="Myself with Chef Richard Ekkebus and Chef Daniel Boulud">
 </figure>  
 
 <figure style="text-align: center;">
 <figcaption style="font-weight: 600; margin-bottom: 8px;">The first course: Aka Uni with Cauliflower</figcaption>
-<img  src="assets/images/centurion/2-centurion.jpg" width="300" alt="Centurion New York 1">
+<img  src="assets/images/centurion/2-centurion.jpg" width="350" alt="Centurion New York 1">
 </figure>  
 
 <figure style="text-align: center;">
