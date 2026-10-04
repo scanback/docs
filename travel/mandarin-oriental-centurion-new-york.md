@@ -36,22 +36,17 @@ Did I have any favorite? Not the right question. I found each dish perfect in a 
 </figure>  
 
 <figure style="text-align: center;">
-<figcaption><b>White alba truffels being masterly prepared by our chefs for the third course</b></figcaption>
+<figcaption>White alba truffels being masterly prepared by our chefs for the third course</figcaption>
 <img  src="assets/images/centurion/4-centurion.jpg" width="300" alt="Centurion New York 4">
 </figure>    
 
 <figure style="text-align: center;">
-<figcaption><b>White alba truffels being masterly prepared by our chefs for the third course</b></figcaption>
+<figcaption>The printed menu guiding our journey</figcaption>
 <img  src="assets/images/centurion/5-centurion.jpg" width="300" alt="Centurion New York 5">
 </figure>    
 
 <figure style="text-align: center;">
-<figcaption><b>The printed menu guiding our journey</b></figcaption>
-<img  src="assets/images/centurion/6-centurion.jpg" width="300" alt="Centurion New York 6">
-</figure>    
-
-<figure style="text-align: center;">
-<figcaption><b>The Chrysler building seen from the 55th floor where Centurion New York is located</b></figcaption>
+<figcaption>The Chrysler building seen from the 55th floor where Centurion New York is located</figcaption>
 <img  src="assets/images/centurion/6-centurion.jpg" width="300" alt="Centurion New York 6">
 </figure>    
 
