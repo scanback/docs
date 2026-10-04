@@ -25,25 +25,26 @@ Did I have any favorite? Not the right question. I found each dish perfect in a 
   <img src="assets/images/centurion/1-centurion.jpg" width="300" alt="Myself with Chef Richard Ekkebus and Chef Daniel Boulud">
 </figure>
 
-<p align="center">
-<figcaption><b>The first course: Aka Uni with Cauliflower</b></figcaption>
+<figure style="text-align: center;">
+<figcaption style="font-weight: 600; margin-bottom: 8px;"><b>The first course: Aka Uni with Cauliflower</figcaption>
 <img  src="assets/images/centurion/2-centurion.jpg" width="300" alt="Centurion New York 1">
-</p>  
+</figure>
+
 <p align="center">
 <figcaption><b>The opulent setting fitting for such a gastronomical event</b></figcaption>
-<img  src="assets/images/centurion/2-centurion.jpg" width="300" alt="Centurion New York 2">
-</p>  
-<p align="center">
-<figcaption><b>White alba truffels being masterly prepared by our chefs for the third course</b></figcaption>
 <img  src="assets/images/centurion/3-centurion.jpg" width="300" alt="Centurion New York 3">
-</p>
+</p>  
 <p align="center">
 <figcaption><b>White alba truffels being masterly prepared by our chefs for the third course</b></figcaption>
 <img  src="assets/images/centurion/4-centurion.jpg" width="300" alt="Centurion New York 4">
 </p>
 <p align="center">
-<figcaption><b>The printed menu guiding our journey</b></figcaption>
+<figcaption><b>White alba truffels being masterly prepared by our chefs for the third course</b></figcaption>
 <img  src="assets/images/centurion/5-centurion.jpg" width="300" alt="Centurion New York 5">
+</p>
+<p align="center">
+<figcaption><b>The printed menu guiding our journey</b></figcaption>
+<img  src="assets/images/centurion/6-centurion.jpg" width="300" alt="Centurion New York 6">
 </p>  
 <p align="center">
 <figcaption><b>The Chrysler building seen from the 55th floor where Centurion New York is located</b></figcaption>
