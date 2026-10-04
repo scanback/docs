@@ -23,33 +23,37 @@ Did I have any favorite? Not the right question. I found each dish perfect in a 
 <figure style="text-align: center;">
   <figcaption style="font-weight: bold; margin-bottom: 8px;">Myself with Chef Richard Ekkebus and Chef Daniel Boulud</figcaption>
   <img src="assets/images/centurion/1-centurion.jpg" width="300" alt="Myself with Chef Richard Ekkebus and Chef Daniel Boulud">
-</figure>
+</figure>  
 
 <figure style="text-align: center;">
-<figcaption style="font-weight: 600; margin-bottom: 8px;"><b>The first course: Aka Uni with Cauliflower</figcaption>
+<figcaption style="font-weight: 400; margin-bottom: 8px;">The first course: Aka Uni with Cauliflower</figcaption>
 <img  src="assets/images/centurion/2-centurion.jpg" width="300" alt="Centurion New York 1">
-</figure>
+</figure>  
 
-<p align="center">
-<figcaption><b>The opulent setting fitting for such a gastronomical event</b></figcaption>
+<figure style="text-align: center;">
+<figcaption style="font-weight: 400; margin-bottom: 8px;">The opulent setting fitting for such a gastronomical event</figcaption>
 <img  src="assets/images/centurion/3-centurion.jpg" width="300" alt="Centurion New York 3">
-</p>  
-<p align="center">
+</figure>  
+
+<figure style="text-align: center;">
 <figcaption><b>White alba truffels being masterly prepared by our chefs for the third course</b></figcaption>
 <img  src="assets/images/centurion/4-centurion.jpg" width="300" alt="Centurion New York 4">
-</p>
-<p align="center">
+</figure>    
+
+<figure style="text-align: center;">
 <figcaption><b>White alba truffels being masterly prepared by our chefs for the third course</b></figcaption>
 <img  src="assets/images/centurion/5-centurion.jpg" width="300" alt="Centurion New York 5">
-</p>
-<p align="center">
+</figure>    
+
+<figure style="text-align: center;">
 <figcaption><b>The printed menu guiding our journey</b></figcaption>
 <img  src="assets/images/centurion/6-centurion.jpg" width="300" alt="Centurion New York 6">
-</p>  
-<p align="center">
+</figure>    
+
+<figure style="text-align: center;">
 <figcaption><b>The Chrysler building seen from the 55th floor where Centurion New York is located</b></figcaption>
 <img  src="assets/images/centurion/6-centurion.jpg" width="300" alt="Centurion New York 6">
-</p>  
+</figure>    
 
 This was a most memorable event. The idea to expand American Express's Centurion beyond airport lounges is brilliant. Over the years, I have enjoyed Centurions around the world, such as the ones in Buenos Aires, Mexico City and Stockholm. This location adds to those experiences.
 
