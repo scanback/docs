@@ -1,13 +1,13 @@
 ---
-title: "How to Classify AI Work: The Cognitive Use-Stack Approach"
-description: "Tellusant operates at different cognitive levels with AI, from the mundane to the inventive. Here we classify the uses by cognition order rather than by task."
+title: "Mandarin Oriental Presents: Chef Ekkebus & Chef Boulud"
+description: "My wife and I had the pleasure to attend the invitational Mandarin Oriental event at the American Express Centurion New York."
 date: 2026-10-01
 image: /assets/social-card-publ.png
 ---
-# eff
+# Mandarin Oriental Presents: Chef Ekkebus & Chef Boulud  
 *By Dr. Staffan Canback* <a href="about.md" target="_blank" style="color: black; text-decoration: none;"></a><span> | </span>*2026-10-01*
 
-My wife and I had the pleasure to attend the invitational Mandarin Oriental event at the American Express 𝗖𝗲𝗻𝘁𝘂𝗿𝗶𝗼𝗻 𝗡𝗲𝘄 𝗬𝗼𝗿𝗸 last Thursday night.
+My wife and I had the pleasure to attend the invitational **Mandarin Oriental** event at the American Express **Centurion New York** last Thursday night.
 
 The occasion was Michelin-starred chefs Richard Ekkebus and Daniel Boulud's celebration of the chain's dual Hong Kong and Thai heritage. 
 
