@@ -26,12 +26,12 @@ Did I have any favorite? Not the right question. I found each dish perfect in a 
 </figure>  
 
 <figure style="text-align: center;">
-<figcaption style="font-weight: 400; margin-bottom: 8px;">The first course: Aka Uni with Cauliflower</figcaption>
+<figcaption style="font-weight: 600; margin-bottom: 8px;">The first course: Aka Uni with Cauliflower</figcaption>
 <img  src="assets/images/centurion/2-centurion.jpg" width="300" alt="Centurion New York 1">
 </figure>  
 
 <figure style="text-align: center;">
-<figcaption style="font-weight: 400; margin-bottom: 8px;">The opulent setting fitting for such a gastronomical event</figcaption>
+<figcaption style="font-weight: 200; margin-bottom: 8px;">The opulent setting fitting for such a gastronomical event</figcaption>
 <img  src="assets/images/centurion/3-centurion.jpg" width="300" alt="Centurion New York 3">
 </figure>  
 
