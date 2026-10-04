@@ -19,12 +19,16 @@ The six-course dinner featured the best of Asian food crossed with French haute 
 
 Did I have any favorite? Not the right question. I found each dish perfect in a unique way. What I want to highlight is rather the combination of sensory appeal with the flavors. This overlaid with the visual impact of perfectly presented plates.
 
-1. Myself with Chef Richard Ekkebus and Chef Daniel Boulud
-2. The first course: Aka Uni with Cauliflower
-3. The opulent setting fitting for such a gastronomical event
-4. White alba truffels being masterly prepared by our chefs for the third course
-5. The printed menu guiding our journey
-6. The Chrysler building seen from the 55th floor where Centurion New York is located 
+ 
+<p align="center">
+<figcaption>Myself with Chef Richard Ekkebus and Chef Daniel Boulud</figcaption>
+<img  src="assets/images/centurion/centurion-1.jpg" width="500" alt="Myself with Chef Richard Ekkebus and Chef Daniel Boulud">
+</p>  
+3. The first course: Aka Uni with Cauliflower  
+4. The opulent setting fitting for such a gastronomical event  
+5. White alba truffels being masterly prepared by our chefs for the third course  
+6. The printed menu guiding our journey  
+7. The Chrysler building seen from the 55th floor where Centurion New York is located  
 
 This was a most memorable event. The idea to expand American Express's Centurion beyond airport lounges is brilliant. Over the years, I have enjoyed Centurions around the world, such as the ones in Buenos Aires, Mexico City and Stockholm. This location adds to those experiences.
 
