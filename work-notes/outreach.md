@@ -72,7 +72,7 @@ Utåtriktade insatser
 - Chris Jung (? or cjejung AT gmail.com)
 - David Schwarz (? or dschwartz AT mba2004.hbs.edu)
 ### Qatar (malomatia)
-
+- Ahmed
 ### Other
 - Richard Rushton (richardmrushton AT yahoo.co.uk)
 - Kate Rycroft (kate.rycroft AT outlook.com)
