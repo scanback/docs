@@ -21,7 +21,7 @@ Utåtriktade insatser
 ### Allied Bernstein
 - Euan
 ### Belron
-  - Carlos Brito, Belron Connect for 1 oct.
+  - Carlos Brito, Belron. Connect request Oct. 5
 ### BIC
 ?
 ### Carlsberg
@@ -45,6 +45,8 @@ Utåtriktade insatser
 - ~~Erika Enfors, Ericsson, full kontakt, Connect 14 sep.~~
 ### FEMSA
 - Constantino Spas (constantino.spas AT femsa.com.mx & constantino.spas AT femsa.com)
+### Heineken
+- Matteo Peccei (matteo.peccei AT heineken.com)
 ### Heineken Beverages
 - Johan van Zyl (maybe johan.vanzyl AT heineken.com ? jvanzyl.engineer AT gmail.com)
 - Andrea Quaye (maybe andrea.quaye AT heineken.com ?)
