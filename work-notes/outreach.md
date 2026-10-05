@@ -67,8 +67,9 @@ Utåtriktade insatser
 ### PepsiCo
 Carl Persson (carl.persson AT pepsico.com)
 Ewa Witkowska (? or ewawit AT yahoo.com)
-Stephan Glans (? or stephangans AT gmail.com)
+Stephan Gans (? or stephangans AT gmail.com)
 Chris Jung (? or cjejung AT gmail.com)
+David Schwarz (dschwartz AT mba2004.hbs.edu)
 
 ### Qatar (malomatia)
 
