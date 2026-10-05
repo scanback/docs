@@ -70,7 +70,7 @@ Utåtriktade insatser
 - Ewa Witkowska (? or ewawit AT yahoo.com)
 - Stephan Gans (? or stephangans AT gmail.com)
 - Chris Jung (? or cjejung AT gmail.com)
-- David Schwarz (dschwartz AT mba2004.hbs.edu)
+- David Schwarz (? or dschwartz AT mba2004.hbs.edu)
 
 ### Qatar (malomatia)
 
@@ -78,7 +78,7 @@ Utåtriktade insatser
 - Richard Rushton (richardmrushton AT yahoo.co.uk)
 - Kate Rycroft (kate.rycroft AT outlook.com)
 - Lucas Verway (lverwey7 AT gmail.com)
-- Mark Fleming (mark.fleming AT ardaghgroup.com)
+- Mark Fleming, Ardagh Group (mark.fleming AT ardaghgroup.com)
 - Max Jonsson, Sida (maximilian.jonsson AT sida.se)
 - Magnus Tyreman, SSE (li)
 - Albert Baladi (ex-Beam Suntory; now BIC and Pernod-Ricard boards) (albert.baladi@gmail.com)
