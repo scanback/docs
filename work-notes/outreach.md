@@ -19,7 +19,7 @@ Utåtriktade insatser
 - Lisboa (at carlos.lisboa AT ambev.com or carlos.lisboa AT ab-inbev.com ?)
 - Sergio Rincón (sergio.rincon AT ab-inbev.com)
 ### Allied Bernstein
-- Euan
+  - Euan McLeish (euan.mcleish AT bernstein.com)
 ### Belron
   - Carlos Brito, Belron. Connect request Oct. 5
 ### BIC
@@ -46,7 +46,7 @@ Utåtriktade insatser
 ### FEMSA
 - Constantino Spas (constantino.spas AT femsa.com.mx & constantino.spas AT femsa.com)
 ### Heineken
-- Matteo Peccei (matteo.peccei AT heineken.com)
+  - Matteo Peccei (matteo.peccei AT heineken.com)
 ### Heineken Beverages
 - Johan van Zyl (maybe johan.vanzyl AT heineken.com ? jvanzyl.engineer AT gmail.com)
 - Andrea Quaye (maybe andrea.quaye AT heineken.com ?)
@@ -64,6 +64,7 @@ Utåtriktade insatser
 - Beatriz Lopez (belopez AT chocolates.com.co)
 ### PepsiCo
 ?
+### Qatar (malomatia)
 
 ### Other
 - Richard Rushton (richardmrushton AT yahoo.co.uk)
