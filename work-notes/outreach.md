@@ -18,6 +18,8 @@ Utåtriktade insatser
 - Fabian Suarez (fabian.suarez AT ab-inbev.com)
 - Lisboa (at carlos.lisboa AT ambev.com or carlos.lisboa AT ab-inbev.com ?)
 - Sergio Rincón (sergio.rincon AT ab-inbev.com)
+### Allied Bernstein
+- Euan
 ### Belron
   - Carlos Brito, Belron Connect for 1 oct.
 ### BIC
