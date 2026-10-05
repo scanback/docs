@@ -24,6 +24,7 @@ Utåtriktade insatser
     - Carlos Brito, Belron. Connect request Oct. 5
 ### BIC
 - Francisco Lobato (francisco.lobato AT bicworld.com)
+- Jérôme Dumont (Jerome.Dumont AT bicworld.com)
 ### Carlsberg
 - Lilian Fossum Biner (lilian AT fossumbiner.se)
 ### Cloetta
