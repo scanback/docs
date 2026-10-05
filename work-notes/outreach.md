@@ -79,7 +79,8 @@ David Schwarz (dschwartz AT mba2004.hbs.edu)
 - Lucas Verway (lverwey7 AT gmail.com)
 - Mark Fleming ()
 - Max Jonsson, Sida (maximilian.jonsson AT sida.se)
-- - Magnus Tyreman, SSE (li)
+- Magnus Tyreman, SSE (li)
+- Albert Baladi (ex-Beam Suntory; now BIC and Pernod-Ricard boards) (albert.baladi@gmail.com)
 #### G=mc<sup>2</sup>
 - Mark Luce (mark.luce AT gmc2.com)
 #### Bain
