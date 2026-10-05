@@ -1,5 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
+# Test of DataTables
+
+<!-- <!DOCTYPE html>
+<html lang="en"> -->
 
 <head>
     <meta charset="UTF-8">
