@@ -10,7 +10,7 @@ Utåtriktade insatser
 ## People
 
 ### 7-Eleven
-- Mauricio Leyva (? AT 7-11.com ?)
+  - Mauricio Leyva (? AT 7-11.com ?)
 ### ABI
   - Michel Doukeris (michel.doukeris AT ab-inbev.com) & David Almeida (david.almeida AT ab-inbev.com
 - Paul Donaldson (paul.donaldson AT ab-inbev.com)
@@ -19,15 +19,15 @@ Utåtriktade insatser
 - Carlos Lisboa (at carlos.lisboa AT ambev.com or carlos.lisboa AT ab-inbev.com ?)
 - Sergio Rincón (sergio.rincon AT ab-inbev.com)
 ### Allied Bernstein
-  - Euan McLeish (euan.mcleish AT bernstein.com)
+    - Euan McLeish (euan.mcleish AT bernstein.com)
 ### Belron
-  - Carlos Brito, Belron. Connect request Oct. 5
+    - Carlos Brito, Belron. Connect request Oct. 5
 ### BIC
 - Francisco Lobato (francisco.lobato AT bicworld.com)
 ### Carlsberg
 - Lilian Fossum Biner (lilian AT fossumbiner.se)
 ### Cloetta
-  - Niklas Truedsson, Cloetta, Connect 9/9
+    - Niklas Truedsson, Cloetta, Connect 9/9
 - ~~Katarina Tell, Cloetta (omöjlig)~~
 ### Coca-Cola
 - Maheen Ansari (mahansari AT coca-cola.com) & Clodagh Forde (cforde AT coca-cola.com)
@@ -48,7 +48,7 @@ Utåtriktade insatser
 ### FEMSA
 - Constantino Spas (constantino.spas AT femsa.com.mx & constantino.spas AT femsa.com)
 ### Heineken
-  - Matteo Peccei (matteo.peccei AT heineken.com)
+    - Matteo Peccei (matteo.peccei AT heineken.com)
 ### Heineken Beverages
 - Johan van Zyl (maybe johan.vanzyl AT heineken.com ? jvanzyl.engineer AT gmail.com)
 - Andrea Quaye (maybe andrea.quaye AT heineken.com ?)
@@ -65,11 +65,11 @@ Utåtriktade insatser
 - Jorge Bueno (abueno AT chocolates.com.co)
 - Beatriz Lopez (belopez AT chocolates.com.co)
 ### PepsiCo
-Carl Persson (carl.persson AT pepsico.com)
-Ewa Witkowska (? or ewawit AT yahoo.com)
-Stephan Gans (? or stephangans AT gmail.com)
-Chris Jung (? or cjejung AT gmail.com)
-David Schwarz (dschwartz AT mba2004.hbs.edu)
+- Carl Persson (carl.persson AT pepsico.com)
+- Ewa Witkowska (? or ewawit AT yahoo.com)
+- Stephan Gans (? or stephangans AT gmail.com)
+- Chris Jung (? or cjejung AT gmail.com)
+- David Schwarz (dschwartz AT mba2004.hbs.edu)
 
 ### Qatar (malomatia)
 
@@ -77,7 +77,7 @@ David Schwarz (dschwartz AT mba2004.hbs.edu)
 - Richard Rushton (richardmrushton AT yahoo.co.uk)
 - Kate Rycroft (kate.rycroft AT outlook.com)
 - Lucas Verway (lverwey7 AT gmail.com)
-- Mark Fleming ()
+- Mark Fleming (mark.fleming AT ardaghgroup.com)
 - Max Jonsson, Sida (maximilian.jonsson AT sida.se)
 - Magnus Tyreman, SSE (li)
 - Albert Baladi (ex-Beam Suntory; now BIC and Pernod-Ricard boards) (albert.baladi@gmail.com)
