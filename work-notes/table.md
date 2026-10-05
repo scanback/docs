@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Interactive Table on GitHub Pages</title>
+<!--     <title>Interactive Table on GitHub Pages</title> -->
 
     <!-- DataTables CSS -->
     <link
