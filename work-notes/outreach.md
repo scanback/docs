@@ -23,7 +23,7 @@ Utåtriktade insatser
 ### Belron
   - Carlos Brito, Belron. Connect request Oct. 5
 ### BIC
-- Francisco Lobato (francisco.lobato@bicworld.com)
+- Francisco Lobato (francisco.lobato AT bicworld.com)
 ### Carlsberg
 - Lilian Fossum Biner (lilian AT fossumbiner.se)
 ### Cloetta
@@ -66,8 +66,9 @@ Utåtriktade insatser
 - Beatriz Lopez (belopez AT chocolates.com.co)
 ### PepsiCo
 Carl Persson (carl.persson AT pepsico.com)
-Ewa Witkowska (? or ewawit@yahoo.com)
-Stephan Glans (? or stephangans@gmail.com)
+Ewa Witkowska (? or ewawit AT yahoo.com)
+Stephan Glans (? or stephangans AT gmail.com)
+Chris Jung (? or cjejung AT gmail.com)
 
 ### Qatar (malomatia)
 
