@@ -16,14 +16,14 @@ Utåtriktade insatser
 - Paul Donaldson (paul.donaldson AT ab-inbev.com)
 - Richard Rivett-Carnac (richard.rivett-carnac AT za.ab-inbev.com)
 - Fabian Suarez (fabian.suarez AT ab-inbev.com)
-- Lisboa (at carlos.lisboa AT ambev.com or carlos.lisboa AT ab-inbev.com ?)
+- Carlos Lisboa (at carlos.lisboa AT ambev.com or carlos.lisboa AT ab-inbev.com ?)
 - Sergio Rincón (sergio.rincon AT ab-inbev.com)
 ### Allied Bernstein
   - Euan McLeish (euan.mcleish AT bernstein.com)
 ### Belron
   - Carlos Brito, Belron. Connect request Oct. 5
 ### BIC
-?
+- Francisco Lobato (francisco.lobato@bicworld.com)
 ### Carlsberg
 - Lilian Fossum Biner (lilian AT fossumbiner.se)
 ### Cloetta
@@ -39,6 +39,8 @@ Utåtriktade insatser
 - Ronan O'Rahilly (ronan.orahilly AT cvhspirits.com)
 ### Boliden
   - Mikael Staffas, Boliden
+### Disney 
+- Sylvia Dong (ex PepsiCo) (? or sdong@mba2006.hbs.edu or LI)
 ### Ericsson
   - Per Narvinger, Connect 9/9
 - ~~Erik Ekudden, Ericsson~~
@@ -59,11 +61,14 @@ Utåtriktade insatser
 ### Mondelez
 - Jit Lodd (Jit.Lodd AT mdlz.com)
 - Pam Forbus (Pamela.Forbus AT mdlz.com)
-### Nutresa
+### Nutresa (Cloetta bilar)
 - Jorge Bueno (abueno AT chocolates.com.co)
 - Beatriz Lopez (belopez AT chocolates.com.co)
 ### PepsiCo
-?
+Carl Persson (carl.persson AT pepsico.com)
+Ewa Witkowska (? or ewawit@yahoo.com)
+Stephan Glans (? or stephangans@gmail.com)
+
 ### Qatar (malomatia)
 
 ### Other
