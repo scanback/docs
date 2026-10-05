@@ -50,6 +50,8 @@ Utåtriktade insatser
 - Ricardo Dalmas (ricardo.dalmas AT kcc.com)
 ### Kraft Heinz
 - Andre Maciel (andre.maciel AT kraftheinz.com)
+### LoveSac
+- Sam Martin (nashvillesky2001 AT yahoo.com)
 ### Mondelez
 - Jit Lodd (Jit.Lodd AT mdlz.com)
 - Pam Forbus (Pamela.Forbus AT mdlz.com)
