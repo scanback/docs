@@ -19,16 +19,16 @@ Utåtriktade insatser
 - Carlos Lisboa (at carlos.lisboa AT ambev.com or carlos.lisboa AT ab-inbev.com ?)
 - Sergio Rincón (sergio.rincon AT ab-inbev.com)
 ### Allied Bernstein
-    - Euan McLeish (euan.mcleish AT bernstein.com)
+  - Euan McLeish (euan.mcleish AT bernstein.com)
 ### Belron
-    - Carlos Brito, Belron. Connect request Oct. 5
+  - Carlos Brito, Belron. Connect request Oct. 5
 ### BIC
 - Francisco Lobato (francisco.lobato AT bicworld.com)
 - Jérôme Dumont (Jerome.Dumont AT bicworld.com)
 ### Carlsberg
 - Lilian Fossum Biner (lilian AT fossumbiner.se)
 ### Cloetta
-    - Niklas Truedsson, Cloetta, Connect 9/9
+  - Niklas Truedsson, Cloetta, Connect 9/9
 - ~~Katarina Tell, Cloetta (omöjlig)~~
 ### Coca-Cola
 - Maheen Ansari (mahansari AT coca-cola.com) & Clodagh Forde (cforde AT coca-cola.com)
@@ -49,7 +49,7 @@ Utåtriktade insatser
 ### FEMSA
 - Constantino Spas (constantino.spas AT femsa.com.mx & constantino.spas AT femsa.com)
 ### Heineken
-    - Matteo Peccei (matteo.peccei AT heineken.com)
+  - Matteo Peccei (matteo.peccei AT heineken.com)
 ### Heineken Beverages
 - Johan van Zyl (maybe johan.vanzyl AT heineken.com ? jvanzyl.engineer AT gmail.com)
 - Andrea Quaye (maybe andrea.quaye AT heineken.com ?)
@@ -71,7 +71,6 @@ Utåtriktade insatser
 - Stephan Gans (? or stephangans AT gmail.com)
 - Chris Jung (? or cjejung AT gmail.com)
 - David Schwarz (? or dschwartz AT mba2004.hbs.edu)
-
 ### Qatar (malomatia)
 
 ### Other
@@ -82,8 +81,7 @@ Utåtriktade insatser
 - Max Jonsson, Sida (maximilian.jonsson AT sida.se)
 - Magnus Tyreman, SSE (li)
 - Albert Baladi (ex-Beam Suntory; now BIC and Pernod-Ricard boards) (albert.baladi@gmail.com)
-#### G=mc<sup>2</sup>
-- Mark Luce (mark.luce AT gmc2.com)
+- Mark Luce, G=mc<sup>2</sup> (mark.luce AT gmc2.com)
 #### Bain
 ?
 #### McKinsey
