@@ -2,10 +2,12 @@
 title: "The Low Productivity of MBB"
 description: "There is a sad state of affairs at the large management consulting firms —
  MBB. Not the quality of deliverables. The lack of productivity is the issue"
+date: 2022-03-12
 image: /assets/social-card-think.png
 ---
 # The Low Productivity of MBB
-*Dr. Staffan Canback*  
+*Dr. Staffan Canback*<span> | </span>*2022-03-12*
+
 
 > *I wrote this piece in March 2022. At the time it was met with some interest. In November AI burst onto the scene with large language models. Since then, it seems like everybody believes they have found the weakness in MBB.*
 
