@@ -14,8 +14,8 @@ Utåtriktade insatser
     
 ### ABI  
   - Michel Doukeris (michel.doukeris AT ab-inbev.com) & David Almeida (david.almeida AT ab-inbev.com  
-* Paul Donaldson (paul.donaldson AT ab-inbev.com)
-+ Richard Rivett-Carnac (richard.rivett-carnac AT za.ab-inbev.com)
+  * Paul Donaldson (paul.donaldson AT ab-inbev.com)
+  + Richard Rivett-Carnac (richard.rivett-carnac AT za.ab-inbev.com)
 - Fabian Suarez (fabian.suarez AT ab-inbev.com)
 - Carlos Lisboa (at carlos.lisboa AT ambev.com or carlos.lisboa AT ab-inbev.com ?)
 - Sergio Rincón (sergio.rincon AT ab-inbev.com)
