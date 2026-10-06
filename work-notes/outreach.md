@@ -1,10 +1,10 @@
 ---
-title: "Utåt"
+title: "Ut"
 description: "Utåtriktade insatser"
 robots: noindex, nofollow
 sitemap: false
 ---
-# Utåt
+# Ut
 Utåtriktade insatser
 
 ## People
