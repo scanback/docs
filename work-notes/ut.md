@@ -21,10 +21,10 @@ Utåtriktade insatser
 - Sergio Rincón (sergio.rincon AT ab-inbev.com)  
   
 ### Allied Bernstein
-```Euan McLeish (euan.mcleish AT bernstein.com```  
+`Euan McLeish (euan.mcleish AT bernstein.com`  
     
 ### Belron  
-```Carlos Brito, Belron. Connect request Oct. 5```  
+`Carlos Brito, Belron. Connect request Oct. 5`  
     
 ### BIC  
 - Francisco Lobato (francisco.lobato AT bicworld.com)  
@@ -34,28 +34,28 @@ Utåtriktade insatser
 - Lilian Fossum Biner (lilian AT fossumbiner.se)  
   
 ### Cloetta  
-```Niklas Truedsson, Cloetta, Connect 9/9```
-```~~Katarina Tell, Cloetta (omöjlig)~~```
+`Niklas Truedsson, Cloetta, Connect 9/9`
+`~~Katarina Tell, Cloetta (omöjlig)~~`
 
 ### Coca-Cola  
 - Maheen Ansari (mahansari AT coca-cola.com) & Clodagh Forde (cforde AT coca-cola.com)  
 - Caleb Darsch (cdarsch AT coca-cola.com)  
 
 ### Constellation  
-```Jason Rood (jason.rood AT cbrands.com) & Dave Walter (david.walter AT cbrands.com) 9/23```
-```Garth Hankinson (garth.hankinson AT cbrands.com) & Jim Sabia (jim.sabia AT cbrands.com) 9/24```
+`Jason Rood (jason.rood AT cbrands.com) & Dave Walter (david.walter AT cbrands.com) 9/23`
+`Garth Hankinson (garth.hankinson AT cbrands.com) & Jim Sabia (jim.sabia AT cbrands.com) 9/24`
 
 ### CVH Spirits  
 - Ronan O'Rahilly (ronan.orahilly AT cvhspirits.com)  
 
 ### Boliden  
-```Mikael Staffas, Boliden```
+`Mikael Staffas, Boliden`
 
 ### Disney  
 - Sylvia Dong (ex PepsiCo) (? or sdong@mba2006.hbs.edu or LI)  
 
 ### Ericsson  
-```Per Narvinger, Connect 9/9```  
+`Per Narvinger, Connect 9/9`  
 - ~~Erik Ekudden, Ericsson~~  
 - ~~Erika Enfors, Ericsson, full kontakt, Connect 14 sep.~~  
 
@@ -63,7 +63,7 @@ Utåtriktade insatser
 - Constantino Spas (constantino.spas AT femsa.com.mx & constantino.spas AT femsa.com)  
 
 ### Heineken  
-```Matteo Peccei (matteo.peccei AT heineken.com)```  
+`Matteo Peccei (matteo.peccei AT heineken.com)`  
 
 ### Heineken Beverages  
 - Johan van Zyl (maybe johan.vanzyl AT heineken.com ? jvanzyl.engineer AT gmail.com)  
