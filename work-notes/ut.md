@@ -63,7 +63,7 @@ Utåtriktade insatser
 - Constantino Spas (constantino.spas AT femsa.com.mx & constantino.spas AT femsa.com)  
 
 ### Heineken  
-`Matteo Peccei (matteo.peccei AT heineken.com)`  
+Matteo Peccei (matteo.peccei AT heineken.com)  
 
 ### Heineken Beverages  
 - Johan van Zyl (maybe johan.vanzyl AT heineken.com ? jvanzyl.engineer AT gmail.com)  
