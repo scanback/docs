@@ -9,7 +9,7 @@ image: /assets/social-card-think.png
 *Dr. Staffan Canback*<span> | </span>*2022-03-12*
 
 
-> *I wrote this piece in March 2022. At the time it was met with some interest. In November AI burst onto the scene with large language models. Since then, it seems like everybody believes they have found the weakness in MBB.*
+> *I wrote this piece in March 2022. At the time it was met with some interest. In November, AI burst onto the scene with large language models. Since then, it seems like everybody believes they have found the weakness in MBB.*
 >
 > *It is easy to be prescient with hindsight. I am proud that I identified the issue before ChatGPT arrived. Then again, given my background, I should be the one to see this.*
 
