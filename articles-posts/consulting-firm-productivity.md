@@ -16,7 +16,7 @@ image: /assets/social-card-think.png
 There is a sad state of affairs at the large management consulting firms —
  MBB.¹  Not the quality of deliverables. The lack of productivity is the issue.
  
-I was a partner at McKinsey & Company and I worked in parallel with all three over the past decade. I am not impressed by how they create their deliverables. Methods are largely stuck in the 20th century. Most work is manual with Excel-PowerPoint-email. The level of automation is low. When I am exposed to their internal processes, they look dysfunctional.
+I was a partner at McKinsey & Company and I have worked in parallel with all three over the past decade. I am not impressed by how they create their deliverables. Methods are largely stuck in the 20th century. Most work is manual with Excel-PowerPoint-email. The level of automation is low. When I am exposed to their internal processes, they look dysfunctional.
  
 This is borne out by the numbers. All three have declining revenue per employee² over the past decade. (I also checked against total consulting in the US which also has a productivity decline.)
  
