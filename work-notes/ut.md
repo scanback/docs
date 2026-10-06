@@ -10,11 +10,11 @@ Utåtriktade insatser
 ## People
 
 ### 7-Eleven  
-```Mauricio Leyva (? AT 7-11.com ?)```   
+`Mauricio Leyva (? AT 7-11.com ?)`   
     
 ### ABI  
-- Fabian Suarez (fabian.suarez AT ab-inbev.com)
-```Michel Doukeris (michel.doukeris AT ab-inbev.com) & David Almeida (david.almeida AT ab-inbev.com```  
+- Fabian Suarez (fabian.suarez AT ab-inbev.com)  
+`Michel Doukeris (michel.doukeris AT ab-inbev.com) & David Almeida (david.almeida AT ab-inbev.com`  
 - Paul Donaldson (paul.donaldson AT ab-inbev.com)   
 - Richard Rivett-Carnac (richard.rivett-carnac AT za.ab-inbev.com)   
 - Carlos Lisboa (at carlos.lisboa AT ambev.com or carlos.lisboa AT ab-inbev.com ?)   
