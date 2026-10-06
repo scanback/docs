@@ -11,7 +11,7 @@ image: /assets/social-card-think.png
 
 > *I wrote this piece in March 2022. At the time it was met with some interest. In November AI burst onto the scene with large language models. Since then, it seems like everybody believes they have found the weakness in MBB.*
 
-> *It is easy to be prescient with hindsight. I am proud that I identified the issue before ChatGPT arrived. Then again, if anyone could see this, it should be me given my background.*
+> *It is easy to be prescient with hindsight. I am proud that I identified the issue before ChatGPT arrived. Then again, given my background, I should be the one to see this.*
 
 There is a sad state of affairs at the large management consulting firms —
  MBB.¹  Not the quality of deliverables. The lack of productivity is the issue.
@@ -46,8 +46,4 @@ Note: *Signals* are in this case information and data.
 ¹ McKinsey, BCG, Bain  
 ² Per consultant is not a relevant metric when one of the firms is majority non-consultant.  
 ³ **is-value** and **wish-value** are from control theory. The terms are my translation of the Swedish terms *är-värde* and *bör-värde*, which have a nice ring to them. Properly called actual value and reference (or setpoint) value in English. See, e.g., [Stefan Simrock: Control Theory](https://cds.cern.ch/record/1100534/files/p73.pdf).  
-
----
-[2022-03-12]  
-[Find more articles and posts](index.md)
 
