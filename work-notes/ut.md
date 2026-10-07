@@ -107,8 +107,9 @@ Utåtriktade insatser
 - Magnus Tyreman, SSE (li)  
 - Tore Myrholt  
 - Albert Baladi (ex-Beam Suntory; now BIC and Pernod-Ricard boards) (albert.baladi@gmail.com)
-- Miguel Patrico
-- Joao M. Castro-Neves
+- Miguel Patricio
+- Joao M. Castro-Neves, 3G (li connect 10/7)
+- Obrad S
 
 #### Bain  
 ?  
