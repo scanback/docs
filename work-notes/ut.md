@@ -14,11 +14,11 @@ Utåtriktade insatser
     
 ### ABI  
 - Fabian Suarez (fabian.suarez AT ab-inbev.com)  
-`Michel Doukeris (michel.doukeris AT ab-inbev.com) & David Almeida (david.almeida AT ab-inbev.com`  
-- Paul Donaldson (paul.donaldson AT ab-inbev.com)   
 - Richard Rivett-Carnac (richard.rivett-carnac AT za.ab-inbev.com)   
 - Carlos Lisboa (at carlos.lisboa AT ambev.com or carlos.lisboa AT ab-inbev.com ?)   
 - Sergio Rincón (sergio.rincon AT ab-inbev.com)  
+`Michel Doukeris (michel.doukeris AT ab-inbev.com) & David Almeida (david.almeida AT ab-inbev.com`  
+`Paul Donaldson (paul.donaldson AT ab-inbev.com) 10/6 mail`   
   
 ### Allied Bernstein
 `Euan McLeish (euan.mcleish AT bernstein.com`  
@@ -34,19 +34,19 @@ Utåtriktade insatser
 - Lilian Fossum Biner (lilian AT fossumbiner.se)  
   
 ### Cloetta  
-`Niklas Truedsson, Cloetta, Connect 9/9`
-`~~Katarina Tell, Cloetta (omöjlig)~~`
+`Niklas Truedsson, Cloetta, Connect 9/9`  
+`~~Katarina Tell, Cloetta (omöjlig)~~`  
 
 ### Coca-Cola  
 - Maheen Ansari (mahansari AT coca-cola.com) & Clodagh Forde (cforde AT coca-cola.com)  
 - Caleb Darsch (cdarsch AT coca-cola.com)  
 
 ### Constellation  
-`Jason Rood (jason.rood AT cbrands.com) & Dave Walter (david.walter AT cbrands.com) 9/23`
-`Garth Hankinson (garth.hankinson AT cbrands.com) & Jim Sabia (jim.sabia AT cbrands.com) 9/24`
+`Jason Rood (jason.rood AT cbrands.com) & Dave Walter (david.walter AT cbrands.com) 9/23`  
+`Garth Hankinson (garth.hankinson AT cbrands.com) & Jim Sabia (jim.sabia AT cbrands.com) 9/24`  
 
 ### CVH Spirits  
-- Ronan O'Rahilly (ronan.orahilly AT cvhspirits.com)  
+`Ronan O'Rahilly (ronan.orahilly AT cvhspirits.com)`  
 
 ### Boliden  
 `Mikael Staffas, Boliden`
@@ -56,18 +56,18 @@ Utåtriktade insatser
 
 ### Ericsson  
 `Per Narvinger, Connect 9/9`  
-- ~~Erik Ekudden, Ericsson~~  
-- ~~Erika Enfors, Ericsson, full kontakt, Connect 14 sep.~~  
+`Erik Ekudden, Ericsson`  
+`Erika Enfors, Ericsson, full kontakt, Connect 14 sep.`  
 
 ### FEMSA  
 - Constantino Spas (constantino.spas AT femsa.com.mx & constantino.spas AT femsa.com)  
 
 ### Heineken  
-Matteo Peccei (matteo.peccei AT heineken.com)  
+`Matteo Peccei 10/6 (matteo.peccei AT heineken.com)`  
 
 ### Heineken Beverages  
-- Johan van Zyl (maybe johan.vanzyl AT heineken.com ? jvanzyl.engineer AT gmail.com)  
 - Andrea Quaye (maybe andrea.quaye AT heineken.com ?)  
+`Johan van Zyl (maybe johan.vanzyl AT heineken.com ? jvanzyl.engineer AT gmail.com) 10/6`  
 
 ### Kimberly-Clark  
 - Ricardo Dalmas (ricardo.dalmas AT kcc.com)  
@@ -99,12 +99,13 @@ Matteo Peccei (matteo.peccei AT heineken.com)
 ### Other  
 - Richard Rushton (richardmrushton AT yahoo.co.uk)  
 - Kate Rycroft (kate.rycroft AT outlook.com)  
-- Lucas Verway (lverwey7 AT gmail.com)  
-- Mark Fleming, Ardagh Group (mark.fleming AT ardaghgroup.com)  
-- Max Jonsson, Sida (maximilian.jonsson AT sida.se)  
-- Magnus Tyreman, SSE (li)  
+- Lucas Verway (lverwey7 AT gmail.com)   
+- Magnus Tyreman, SSE (li)
+- Tore Myrholt
 - Albert Baladi (ex-Beam Suntory; now BIC and Pernod-Ricard boards) (albert.baladi@gmail.com)  
-- Mark Luce, G=mc<sup>2</sup> (mark.luce AT gmc2.com)  
+`Mark Luce, G=mc<sup>2</sup> (mark.luce AT gmc2.com) 10/7`
+`Mark Fleming, Ardagh Group (mark.fleming AT ardaghgroup.com)  10/7`
+`Max Jonsson, Sida (maximilian.jonsson AT sida.se) 10/7`
 
 #### Bain  
 ?  
