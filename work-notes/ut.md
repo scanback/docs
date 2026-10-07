@@ -13,12 +13,13 @@ Utåtriktade insatser
 `Mauricio Leyva (? AT 7-11.com ?)`   
     
 ### ABI  
+`Michel Doukeris (michel.doukeris AT ab-inbev.com) & David Almeida (david.almeida AT ab-inbev.com`  
+`Paul Donaldson (paul.donaldson AT ab-inbev.com) 10/6 mail`   
 - Fabian Suarez (fabian.suarez AT ab-inbev.com)  
 - Richard Rivett-Carnac (richard.rivett-carnac AT za.ab-inbev.com)   
 - Carlos Lisboa (at carlos.lisboa AT ambev.com or carlos.lisboa AT ab-inbev.com ?)   
 - Sergio Rincón (sergio.rincon AT ab-inbev.com)  
-`Michel Doukeris (michel.doukeris AT ab-inbev.com) & David Almeida (david.almeida AT ab-inbev.com`  
-`Paul Donaldson (paul.donaldson AT ab-inbev.com) 10/6 mail`   
+
   
 ### Allied Bernstein
 `Euan McLeish (euan.mcleish AT bernstein.com`  
@@ -66,8 +67,8 @@ Utåtriktade insatser
 `Matteo Peccei 10/6 (matteo.peccei AT heineken.com)`  
 
 ### Heineken Beverages  
-- Andrea Quaye (maybe andrea.quaye AT heineken.com ?)  
 `Johan van Zyl (maybe johan.vanzyl AT heineken.com ? jvanzyl.engineer AT gmail.com) 10/6`  
+- Andrea Quaye (maybe andrea.quaye AT heineken.com ?)  
 
 ### Kimberly-Clark  
 - Ricardo Dalmas (ricardo.dalmas AT kcc.com)  
@@ -94,18 +95,21 @@ Utåtriktade insatser
 - David Schwarz (? or dschwartz AT mba2004.hbs.edu)  
 
 ### Qatar (malomatia)  
-- Ahmed  
+- Ahmed   
 
 ### Other  
+`Mark Luce, G=mc<sup>2</sup> (mark.luce AT gmc2.com) 10/7`  
+`Mark Fleming, Ardagh Group (mark.fleming AT ardaghgroup.com)  10/7`  
+`Max Jonsson, Sida (maximilian.jonsson AT sida.se) 10/7`  
 - Richard Rushton (richardmrushton AT yahoo.co.uk)  
 - Kate Rycroft (kate.rycroft AT outlook.com)  
 - Lucas Verway (lverwey7 AT gmail.com)   
-- Magnus Tyreman, SSE (li)
-- Tore Myrholt
-- Albert Baladi (ex-Beam Suntory; now BIC and Pernod-Ricard boards) (albert.baladi@gmail.com)  
-`Mark Luce, G=mc<sup>2</sup> (mark.luce AT gmc2.com) 10/7`
-`Mark Fleming, Ardagh Group (mark.fleming AT ardaghgroup.com)  10/7`
-`Max Jonsson, Sida (maximilian.jonsson AT sida.se) 10/7`
+- Magnus Tyreman, SSE (li)  
+- Tore Myrholt  
+- Albert Baladi (ex-Beam Suntory; now BIC and Pernod-Ricard boards) (albert.baladi@gmail.com)
+- Miguel Patrico
+- ?? former ABI then chairman of Kraft Heinz
+
 
 #### Bain  
 ?  
