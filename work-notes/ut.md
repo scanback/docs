@@ -35,6 +35,7 @@ Utåtriktade insatser
 - Lilian Fossum Biner (lilian AT fossumbiner.se)  
   
 ### Cloetta  
+'Mads Brinks LI connect 10/7'  
 `Niklas Truedsson, Cloetta, Connect 9/9`  
 `~~Katarina Tell, Cloetta (omöjlig)~~`  
 
