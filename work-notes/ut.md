@@ -108,8 +108,7 @@ Utåtriktade insatser
 - Tore Myrholt  
 - Albert Baladi (ex-Beam Suntory; now BIC and Pernod-Ricard boards) (albert.baladi@gmail.com)
 - Miguel Patrico
-- ?? former ABI then chairman of Kraft Heinz
-
+- Joao M. Castro-Neves
 
 #### Bain  
 ?  
