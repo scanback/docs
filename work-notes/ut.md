@@ -35,7 +35,7 @@ Utåtriktade insatser
 - Lilian Fossum Biner (lilian AT fossumbiner.se)  
   
 ### Cloetta  
-'Mads Brinks LI connect 10/7'  
+`Mads Brinks LI connect 10/7`  
 `Niklas Truedsson, Cloetta, Connect 9/9`  
 `~~Katarina Tell, Cloetta (omöjlig)~~`  
 
@@ -99,6 +99,7 @@ Utåtriktade insatser
 - Ahmed   
 
 ### Other  
+`Pieter Louw, Remgro, LI connect 10/7`  
 `Mark Luce, G=mc<sup>2</sup> (mark.luce AT gmc2.com) 10/7`  
 `Mark Fleming, Ardagh Group (mark.fleming AT ardaghgroup.com)  10/7`  
 `Max Jonsson, Sida (maximilian.jonsson AT sida.se) 10/7`  
