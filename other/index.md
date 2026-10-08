@@ -6,6 +6,9 @@ image: /assets/social-card-think.png
 # Other Materials
 Bits and pieces such as event posters.  
 
+#### [Nobel Prize Survey](nobel-prize-survey.md)
+I saw a survey where people ranked Nobel prizes by their personal interest. The results were interesting, so here is my survey on the subject.
+
 #### [My Personal Memories from the Canback Consulting Era (2004-2020)](canback-consulting.md)
 tbd
 
