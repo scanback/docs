@@ -111,7 +111,7 @@ Utåtriktade insatser
 - Albert Baladi (ex-Beam Suntory; now BIC and Pernod-Ricard boards) (albert.baladi@gmail.com)
 - Miguel Patricio
 - Joao M. Castro-Neves, 3G (li connect 10/7)
-- Obrad S
+- Carlos Onassis Duron, Lacthosa
 
 #### Bain  
 ?  
