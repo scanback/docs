@@ -1,5 +1,6 @@
 ---
 hide_header: true
+hide_footer: true
 ---
 
-# Hide Header and/or Footer
+# Hide Header or Footer
