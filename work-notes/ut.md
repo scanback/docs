@@ -14,7 +14,7 @@ Utåtriktade insatser
     
 ### ABI  
 `Michel Doukeris (michel.doukeris AT ab-inbev.com) & David Almeida (david.almeida AT ab-inbev.com`  
-`Paul Donaldson (paul.donaldson AT ab-inbev.com) 10/6 mail`   
+~~Paul Donaldson (paul.donaldson AT ab-inbev.com) 10/6 mail~~   
 - Fabian Suarez (fabian.suarez AT ab-inbev.com)  
 - Richard Rivett-Carnac (richard.rivett-carnac AT za.ab-inbev.com)   
 - Carlos Lisboa (at carlos.lisboa AT ambev.com or carlos.lisboa AT ab-inbev.com ?)   
@@ -37,7 +37,7 @@ Utåtriktade insatser
 ### Cloetta  
 `Mads Brinks LI connect 10/7`  
 `Niklas Truedsson, Cloetta, Connect 9/9`  
-`~~Katarina Tell, Cloetta (omöjlig)~~`  
+~~Katarina Tell, Cloetta (omöjlig)~~  
 
 ### Coca-Cola  
 - Maheen Ansari (mahansari AT coca-cola.com) & Clodagh Forde (cforde AT coca-cola.com)  
@@ -58,8 +58,8 @@ Utåtriktade insatser
 
 ### Ericsson  
 `Per Narvinger, Connect 9/9`  
-`Erik Ekudden, Ericsson`  
-`Erika Enfors, Ericsson, full kontakt, Connect 14 sep.`  
+~~Erik Ekudden, Ericsson~~  
+~~Erika Enfors, Ericsson, full kontakt, Connect 14 sep.~~  
 
 ### FEMSA  
 - Constantino Spas (constantino.spas AT femsa.com.mx & constantino.spas AT femsa.com)  
