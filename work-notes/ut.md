@@ -112,6 +112,7 @@ Utåtriktade insatser
 - Miguel Patricio
 - Joao M. Castro-Neves, 3G (li connect 10/7)
 - Carlos Onassis Duron, Lacthosa
+- Andrew Woodhouse, Asahi (ex-SABM)
 
 #### Bain  
 ?  
