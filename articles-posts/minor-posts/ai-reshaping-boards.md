@@ -1,6 +1,6 @@
 ---
 title: "How AI Will Reshape supervisory and Management Boards"
-description: "I find AI immensely useful. I think most people do. Yet the complainers dominate the discussion. Read my positive perspective riffing off Annie Get your Gun's song from 1946."
+description: "I'm at Harvard Business Review's Strategy Summit dedicated to AI. To me, the most interesting part is about the impact on organizations and their productivity."
 date: 2026-02-26
 image: /assets/social-card-think.png
 ---
