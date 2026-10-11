@@ -6,6 +6,8 @@ image: /assets/social-card-think.png
 ---
 
 # How AI Will Reshape Supervisory and Management Boards
+*By Dr. Staffan Canback*, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"> <i>{{ site.company.name }}</i>
+ <span> | </span>*2026-02-26*
 
 I'm at [Harvard Business Review's Strategy Summit](https://hbr.org/2026/01/hbr-strategy-summit-2026) dedicated to AI. To me, the most interesting part is about the impact on organizations and their productivity.
 
