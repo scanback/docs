@@ -1,10 +1,10 @@
 ---
 title: "CANBACK think documents my complete works since 1979"
-browser_title: CANBACK think
+browser_title: CANBACK think — Economics, Management & Strategy
 description: "Published works by Dr. Staffan Canback from scientific papers and research to commentary and social media posts."
 image: /assets/social-card-think.png
 ---
-<h1 style="text-align: center;">CANBACK <span style="color: #B00000;"><i>think</i></span></h1>
+<h1 style="text-align: center;">CANBACK <span style="color: #B00000;"><i>think</i></span> — Economics, Management & Strategy</h1>
 
 This personal website contains my published works, ranging from scientific papers to social media posts. They draw on 40 years of management consulting experience, work on the ground in more than 90 countries, and a strong educational and academic research foundation.
 
