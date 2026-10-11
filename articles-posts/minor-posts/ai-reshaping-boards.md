@@ -9,9 +9,9 @@ image: /assets/social-card-think.png
 *By Dr. Staffan Canback*, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"> <i>{{ site.company.name }}</i>
  <span> | </span>*2026-02-26*
 
-I'm at [Harvard Business Review's Strategy Summit](https://hbr.org/2026/01/hbr-strategy-summit-2026) dedicated to AI. To me, the most interesting part is about the impact on organizations and their productivity.
+I'm at <a href="https://hbr.org/2026/01/hbr-strategy-summit-2026"  target="_blank">Harvard Business Review's Strategy Summit</a> dedicated to AI. To me, the most interesting part is about the impact on organizations and their productivity.
 
-I'm particularly intrigued by the 30% rule by **Harvard Business School** professor [Tsedal Neeley](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=438575)). Her twist in today's discussion is that executives do not need to understand AI fully, but they need a 30% understanding. This is arguably far from current state of affairs.
+I'm particularly intrigued by the 30% rule by **Harvard Business School** professor <a href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=438575"  target="_blank"> Tsedal Neeley</a>. Her twist in today's discussion is that executives do not need to understand AI fully, but they need a 30% understanding. This is arguably far from current state of affairs.
 
 My belief is that the first people to be replaced in companies are not front line employees. It is members of the supervisory and management boards (often called board of directors and executive leadership). The boards need members who fully understand AI and old-timers who mainly contribute experience will have to leave.
 
