@@ -10,4 +10,5 @@ A secondary log of minor social media posts that nevertheless are relevant to de
 
 ### [How AI Works Brilliantly for Me](ai-usefulness.md)
 ### [Figshare 5,000 Downloads Milestone](figshare-milestone.md)  
-### [Boards](ai-reshaping-boards.md)
+### [How AI Will Reshape Supervisory and Management Boards](ai-reshaping-boards.md)
+I'm at Harvard Business Review's Strategy Summit dedicated to AI. To me, the most interesting part is about the impact on organizations and their productivity.
