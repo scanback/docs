@@ -8,7 +8,7 @@ image: /assets/social-card-think.png
 
 CANBACK think presents independent research and perspectives on economics, management, strategy, and quantitative analysis by Dr. Staffan Canback.
 
-It draws on 40 years of management consulting experience, work on the ground in more than 90 countries, and a strong educational and academic research foundation.
+It draws on my 40 years of management consulting experience, work on the ground in more than 90 countries, and a strong educational and academic research foundation.
 
 ## [Articles and Posts](articles-posts/index.md)  
 I have hundreds of LinkedIn and Medium articles and posts that are lost because of the ephemeral character of social media. I gradually save them for posterity here. This page will be built out during 2026.  
