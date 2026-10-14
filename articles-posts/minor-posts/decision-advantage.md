@@ -5,7 +5,10 @@ date: 2026-10-14
 image: /assets/social-card-think.png
 ---
 
+<div align="center">
 # Decision Advantage<br>Competitive Decision Advantage<br>Sustainable Decision Advantage
+>/div>
+ 
 *By Dr. Staffan Canback*, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"> <i>{{ site.company.name }}</i>
  <span> | </span>*2026-10-14*
 
