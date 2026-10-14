@@ -8,9 +8,9 @@ image: /assets/social-card-think.png
 I have hundreds of LinkedIn and Medium articles and posts that are lost because of the ephemeral character of social media. I gradually save them for posterity here. This page will be built out during 2026. 
 
 #### [1. Recent](#1-recent)  
-#### [2. Past](#2-past)  
+#### [2. Past](#2-Past)  
 #### [3. Minor Posts](#3-minor-posts)  
-#### [4. Archive](#4-archive)  
+#### [4. Archive](#4-Archive)  
 ---
 ## 1. Recent
 
