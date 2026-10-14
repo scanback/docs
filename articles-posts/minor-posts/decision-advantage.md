@@ -5,7 +5,7 @@ date: 2026-10-14
 image: /assets/social-card-think.png
 ---
 
-# Decision Advantage - Competitive Decision Advantage - Sustainable Decision Advantage
+# Decision Advantage<br>Competitive Decision Advantage<br>Sustainable Decision Advantage
 
 These are the words that the future of management is all about. How to win on decision-making quality. Few companies think like this...yet.
 
