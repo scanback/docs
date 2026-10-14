@@ -7,6 +7,8 @@ image: /assets/social-card-think.png
 # Minor Posts
 A secondary log of minor social media posts that nevertheless are relevant to decision makers. [The main posts are here.](../index.md) 
 
+### [Decision Advantage — Competitive Decision Advantage — Sustainable Decision Advantage](decision-advanteg.md)
+These are the words that the future of management is all about. How to win on decision-making quality. Few companies think like this...yet.
 
 ### [How AI Works Brilliantly for Me](ai-usefulness.md)
 I find AI immensely useful. I think most people do. Yet the complainers dominate the discussion. Read my positive perspective riffing off Annie Get your Gun's song from 1946.
