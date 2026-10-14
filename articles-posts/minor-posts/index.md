@@ -7,7 +7,7 @@ image: /assets/social-card-think.png
 # Minor Posts
 A secondary log of minor social media posts that nevertheless are relevant to decision makers. [The main posts are here.](../index.md) 
 
-### [Decision Advantage — Competitive Decision Advantage — Sustainable Decision Advantage](decision-advanteg.md)
+### [Decision Advantage — Competitive Decision Advantage — Sustainable Decision Advantage](decision-advantage.md)
 These are the words that the future of management is all about. How to win on decision-making quality. Few companies think like this...yet.
 
 ### [How AI Works Brilliantly for Me](ai-usefulness.md)
