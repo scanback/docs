@@ -5,6 +5,7 @@ image: /assets/social-card-think.png
 ---
 
 # The Nexus Organization: The 4th Wave of Corporate Structure
+*By Dr. Staffan Canback*, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"> <i>{{ site.company.name }}</i>
 
 <p align="center">
 <img  src="assets/images/nexus/s.canback-nexus-organization-banner.svg" width="300" alt="Nexus banner">
