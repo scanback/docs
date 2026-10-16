@@ -4,12 +4,11 @@ description: "Since the advent of the large corporation in the 1850s, companies 
 image: /assets/social-card-think.png
 ---
 
+# The Nexus Organization: The 4th Wave of Corporate Structure
 
 <p align="center">
 <img  src="assets/images/nexus/s.canback-nexus-organization-banner.svg" width="300" alt="Nexus banner">
 </p>
-
-# The Nexus Organization: The 4th Wave of Corporate Structure
 
 Since the advent of the large corporation in the 1850s, companies have evolved their organizational structures to meet the requirements of higher competencies, globalization, diversification, and automation.
 
