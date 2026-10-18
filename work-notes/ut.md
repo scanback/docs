@@ -72,7 +72,7 @@ Utåtriktade insatser
 - Andrea Quaye (maybe andrea.quaye AT heineken.com ?)  
 
 ### Kimberly-Clark  
-- Ricardo Dalmas (ricardo.dalmas AT kcc.com)  
+`Ricardo Dalmas (ricardo.dalmas AT kcc.com)  email 10/15`
 
 ### Kraft Heinz  
 - Andre Maciel (andre.maciel AT kraftheinz.com)  
@@ -99,7 +99,7 @@ Utåtriktade insatser
 - Ahmed   
 
 ### Other  
-`Pieter Louw, Remgro, LI connect 10/7`  
+~~Pieter Louw, Remgro, LI connect 10/7~~  
 `Mark Luce, G=mc<sup>2</sup> (mark.luce AT gmc2.com) 10/7`  
 `Mark Fleming, Ardagh Group (mark.fleming AT ardaghgroup.com)  10/7`  
 `Max Jonsson, Sida (maximilian.jonsson AT sida.se) 10/7`  
@@ -110,7 +110,7 @@ Utåtriktade insatser
 - Tore Myrholt  
 - Albert Baladi (ex-Beam Suntory; now BIC and Pernod-Ricard boards) (albert.baladi@gmail.com)
 - Miguel Patricio
-- Joao M. Castro-Neves, 3G (li connect 10/7)
+`Joao M. Castro-Neves, 3G (li connect 10/7)`
 - Carlos Onassis Duron, Lacthosa
 - Andrew Woodhouse, Asahi (ex-SABM)
 

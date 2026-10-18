@@ -5,11 +5,11 @@ date: 2026-10-14
 image: /assets/social-card-think.png
 ---
 
-# Decision Advantage - Competitive Decision Advantage - Sustainable Decision Advantage
+# Decision Advantage<br>Competitive Decision Advantage<br>Sustainable Decision Advantage
+*By Dr. Staffan Canback*, <a href="{{ site.company.url }}" target="_blank" style="color: black; text-decoration: none;"> <i>{{ site.company.name }}</i>
+ <span> | </span>*2026-10-14*
 
 These are the words that the future of management is all about. How to win on decision-making quality. Few companies think like this...yet.
-
-I am not a fan of third variant: "Sustainable Decision Advantage." I have yet to see sustainable advantages in business. Yet the term is probably the one that will catch on.
 
 I do not have an elevator pitch. To summarize a company in 30 seconds is impossible. If it can be done, there is nothing to the company.
 
