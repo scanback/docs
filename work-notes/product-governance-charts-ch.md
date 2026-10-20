@@ -6,7 +6,7 @@ The following two Mermaid diagrams reproduce and organize the two handwritten ch
 
 <div class="mermaid">
     
-flowchart TB
+flowchart LR
     A["Product Governance"]
     B["Science, Logic & Approval"]
     C["Parallel Tracks — Portfolio"]
