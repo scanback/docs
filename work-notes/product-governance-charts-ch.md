@@ -4,7 +4,8 @@ The following two Mermaid diagrams reproduce and organize the two handwritten ch
 
 ## 1. Product Governance
 
-```mermaid
+<div class="mermaid">
+    
 flowchart TB
     A["Product Governance"]
     B["Science, Logic & Approval"]
@@ -30,13 +31,15 @@ flowchart TB
     class A red;
     class B,C,D blue;
     class B1,C1,C2,C3,C4,C5,C6,D1 green;
-```
+
+</div>
 
 ## 2. Dashboard Example: Declining Margin
 
 *Architecture note in the source: Frontend to PoluSim rather than TelluBase.*
 
-```mermaid
+<div class="mermaid">
+    
 flowchart TB
     A["Dashboard: Declining Margin"]
     B["Is it the economy? — Macroeconomic baseline"]
@@ -71,6 +74,7 @@ flowchart TB
     class A red;
     class B,C,D blue;
     class B1,B2,B3,C1,C2,C3,C4,C5,C6,D1,D2,D3,D4,D5,D6 green;
-```
+
+</div>
 
 **Transcription note:** The handwritten source has some ambiguous wording. In particular, the industry branch lists “input cost / fulfillment time / gross margin” beneath pricing strategy; the diagram preserves that visual grouping without asserting a causal relationship. The source also suggests a 70/30 allocation *or* 50/50, not both simultaneously.
