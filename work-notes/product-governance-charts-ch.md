@@ -40,7 +40,7 @@ flowchart LR
 
 <div class="mermaid">
     
-flowchart TB
+flowchart LR
     A["Dashboard: Declining Margin"]
     B["Is it the economy? — Macroeconomic baseline"]
     C["Is it our industry / sector?"]
