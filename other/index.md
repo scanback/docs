@@ -6,6 +6,9 @@ image: /assets/social-card-think.png
 # Other Materials
 Bits and pieces such as event posters.  
 
+#### [How Do you Learn About Business and Management Practices?](management-learning-survey.md)
+If you work for a large company (>20,000 people), how do you learn about new practices? Anonymous responses.
+
 #### [Nobel Prize Survey](nobel-prize-survey.md)
 I saw a survey where people ranked Nobel prizes by their personal interest. The results were interesting, so here is my survey on the subject. Anonymous responses.
 
