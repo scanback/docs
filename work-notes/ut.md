@@ -120,7 +120,7 @@ Utåtriktade insatser
 #### Bain  
 ?  
 #### McKinsey  
-?  
+- Kelly Brennan
    
 ## Alster  
 - Change "Figshare test" to something else of low importance  
