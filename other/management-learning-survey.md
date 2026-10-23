@@ -1,5 +1,5 @@
 ---
-title: "How Do you Learn About Business and Management Practices?"
+title: "How Do you Learn About Management Practices?"
 description: "If you work for a large company (>20,000 people), how do you learn about new practices? "
 date: 2026-10-23
 image: /assets/social-card-management-learning-survey.png
