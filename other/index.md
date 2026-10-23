@@ -1,15 +1,18 @@
 ---
 title: "Other Materials"
-description: "Bits and pieces such as event posters"
+description: "Bits and pieces such as surveys, events, and agendas"
 image: /assets/social-card-think.png
 ---
 # Other Materials
 Bits and pieces such as event posters.  
 
+#### [How Do you Learn About Business and Management Practices?](management-learning-survey.md)
+If you work for a large company (>20,000 people), how do you learn about new practices? Anonymous responses.
+
 #### [Nobel Prize Survey](nobel-prize-survey.md)
 I saw a survey where people ranked Nobel prizes by their personal interest. The results were interesting, so here is my survey on the subject. Anonymous responses.
 
-#### [My Personal Memories from the Canback Consulting Era (2004-2020)](canback-consulting.md)
+#### [My Memories from the Canback Consulting Era (2004-2020)](canback-consulting.md)
 tbd
 
 #### [Poster for "From Greenlands to Tellusant" Presentation](S.Canback-From-Greenlands-to-Tellusant-Academic-Research-Meets-Real-World-Management-Problems-Poster.pdf)
