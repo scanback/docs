@@ -53,6 +53,9 @@ Utåtriktade insatser
 ### Boliden  
 `Mikael Staffas, Boliden`
 
+### Diageo
+- Akani Rodriguez (ex ABI) LI?
+
 ### Disney  
 - Sylvia Dong (ex PepsiCo) (? or sdong@mba2006.hbs.edu or LI)  
 
