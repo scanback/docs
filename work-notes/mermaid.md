@@ -1,3 +1,8 @@
+---
+robots: noindex, nofollow
+sitemap: false
+---
+
 # Test of New Mermaid Features
 
 <div class="mermaid">
