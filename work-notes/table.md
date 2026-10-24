@@ -1,3 +1,8 @@
+---
+robots: noindex, nofollow
+sitemap: false
+---
+
 # Test of DataTables
 
 <!-- <!DOCTYPE html>
