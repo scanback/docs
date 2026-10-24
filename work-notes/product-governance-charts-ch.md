@@ -1,3 +1,8 @@
+---
+robots: noindex, nofollow
+sitemap: false
+---
+
 # Product Governance and Dashboard Diagnostic Framework
 
 The following two Mermaid diagrams reproduce and organize the two handwritten charts from October 19, 2026. Wording has been lightly standardized for readability.
