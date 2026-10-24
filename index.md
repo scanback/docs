@@ -4,7 +4,7 @@ browser_title: CANBACK think — Economics, Management & Strategy
 description: "CANBACK think presents independent research and perspectives on economics, management, strategy, and quantitative analysis by Dr. Staffan Canback."
 image: /assets/social-card-think.png
 ---
-<h1 style="text-align: center;">CANBACK <span style="color: #B00000;"><i>think</i></span> — Economics, Management & Strategy</h1>
+<h1 style="text-align: center;">CANBACK <span style="color: #B00000;"><i>think</i></span><br/> — Economics, Management & Strategy</h1>
 
 CANBACK think presents independent research and perspectives on economics, management, strategy, and quantitative analysis by Dr. Staffan Canback.
 
