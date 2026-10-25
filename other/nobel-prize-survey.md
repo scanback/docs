@@ -2,7 +2,7 @@
 title: "Nobel Prize Survey"
 description: "I saw a survey where people ranked Nobel prizes by their personal interest. Not just this year, but in general. The results were interesting, so here is my survey on the subject."
 date: 2026-10-08
-image: /assets/social-card-nobel-survey.png
+image: /assets/social-survey.png
 hide_header: true
 hide_footer: true
 ---
