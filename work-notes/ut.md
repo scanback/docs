@@ -135,6 +135,7 @@ Nguyen Truong Giang (giangnt AT vnpt.vn)
 `Joao M. Castro-Neves, 3G (li connect 10/7)`
 - Carlos Onassis Duron, Lacthosa
 - Andrew Woodhouse, Asahi (ex-SABM)
+- Pieter Louw, Remgro (pl AT remgro.com confirmed, maybe plouw@remgro.com)
 
 #### Bain  
 ?  
