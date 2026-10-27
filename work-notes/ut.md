@@ -112,6 +112,9 @@ Ahmad El Hakim (ahakim AT malomatia.com)
 ### Qatar (malomatia)  
 - Ahmed
 
+### Sigma Foods
+`Hernan Arizu LI message 10/27`
+
 ### Standard Bank
 - Clive Potter (clive.potter AT standardbank.co.za)
 - Helmut Engelbrecht (helmut.engelbrecht AT standardbank.co.za)
