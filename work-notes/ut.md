@@ -32,7 +32,7 @@ Utåtriktade insatser
 - Jérôme Dumont (Jerome.Dumont AT bicworld.com)  
   
 ### Carlsberg  
-- Lilian Fossum Biner (lilian AT fossumbiner.se)  
+`Lilian Fossum Biner (lilian AT fossumbiner.se)`  
   
 ### Cloetta  
 `Mads Brinks LI connect 10/7`  
@@ -63,7 +63,7 @@ Utåtriktade insatser
 - Sylvia Dong (ex PepsiCo) (? or sdong@mba2006.hbs.edu or LI)  
 
 ### Ericsson  
-`Per Narvinger, Connect 9/9`  
+`Per Narvinger, LI connect 9/9`  
 ~~Erik Ekudden, Ericsson~~  
 ~~Erika Enfors, Ericsson, full kontakt, Connect 14 sep.~~  
 
