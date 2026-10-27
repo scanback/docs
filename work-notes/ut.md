@@ -32,7 +32,7 @@ Utåtriktade insatser
 - Jérôme Dumont (Jerome.Dumont AT bicworld.com)  
   
 ### Carlsberg  
-- Lilian Fossum Biner (lilian AT fossumbiner.se)  
+`Lilian Fossum Biner (lilian AT fossumbiner.se)`  
   
 ### Cloetta  
 `Mads Brinks LI connect 10/7`  
@@ -53,6 +53,9 @@ Utåtriktade insatser
 ### Boliden  
 `Mikael Staffas, Boliden`
 
+### Darnel
+- Mauricio	Restrepo (mrestrepo@darnelgroup.com)
+
 ### Diageo
 - Akani Rodriguez (ex ABI) akani.rodriguezlopez AT diageo.com
   
@@ -60,7 +63,7 @@ Utåtriktade insatser
 - Sylvia Dong (ex PepsiCo) (? or sdong@mba2006.hbs.edu or LI)  
 
 ### Ericsson  
-`Per Narvinger, Connect 9/9`  
+`Per Narvinger, LI connect 9/9`  
 ~~Erik Ekudden, Ericsson~~  
 ~~Erika Enfors, Ericsson, full kontakt, Connect 14 sep.~~  
 
@@ -72,7 +75,11 @@ Utåtriktade insatser
 
 ### Heineken Beverages  
 `Johan van Zyl (maybe johan.vanzyl AT heineken.com ? jvanzyl.engineer AT gmail.com) 10/6`  
-- Andrea Quaye (maybe andrea.quaye AT heineken.com ?)  
+- Andrea Quaye (maybe andrea.quaye AT heineken.com ?)
+
+### Icasa
+- Juan Pablo Caballeros (juancaballeros@icasa.com.gt)
+- Juan Aldana (juanaldana AT icasa.com.gt)	Juan	Juan	Aldana
 
 ### Kimberly-Clark  
 `Ricardo Dalmas (ricardo.dalmas AT kcc.com)  email 10/15`
@@ -81,7 +88,11 @@ Utåtriktade insatser
 - Andre Maciel (andre.maciel AT kraftheinz.com)  
 
 ### LoveSac  
-- Sam Martin (nashvillesky2001 AT yahoo.com)  
+- Sam Martin (nashvillesky2001 AT yahoo.com)
+
+### Malomatia
+Akram Osman (akosman AT malomatia.com)
+Ahmad El Hakim (ahakim AT malomatia.com)
 
 ### Mondelez  
 - Jit Lodd (Jit.Lodd AT mdlz.com)    
@@ -99,7 +110,18 @@ Utåtriktade insatser
 - David Schwarz (? or dschwartz AT mba2004.hbs.edu)  
 
 ### Qatar (malomatia)  
-- Ahmed   
+- Ahmed
+
+### Sigma Foods
+`Hernan Arizu LI message 10/27`
+
+### Standard Bank
+- Clive Potter (clive.potter AT standardbank.co.za)
+- Helmut Engelbrecht (helmut.engelbrecht AT standardbank.co.za)
+
+### VNPT
+Luong Manh Hoang (hoanglm AT vnpt.vn)
+Nguyen Truong Giang (giangnt AT vnpt.vn)	
 
 ### Other  
 ~~Pieter Louw, Remgro, LI connect 10/7~~  
@@ -116,6 +138,7 @@ Utåtriktade insatser
 `Joao M. Castro-Neves, 3G (li connect 10/7)`
 - Carlos Onassis Duron, Lacthosa
 - Andrew Woodhouse, Asahi (ex-SABM)
+- Pieter Louw, Remgro (pl AT remgro.com confirmed, maybe plouw@remgro.com)
 
 #### Bain  
 ?  
