@@ -54,13 +54,13 @@ Utåtriktade insatser
 `Mikael Staffas, Boliden`
 
 ### Darnel
-- Mauricio	Restrepo (mrestrepo@darnelgroup.com)
+- Mauricio	Restrepo (mrestrepo AT darnelgroup.com)
 
 ### Diageo
 - Akani Rodriguez (ex ABI) akani.rodriguezlopez AT diageo.com
   
 ### Disney  
-- Sylvia Dong (ex PepsiCo) (? or sdong@mba2006.hbs.edu or LI)  
+- Sylvia Dong (ex PepsiCo) (? or sdong AT mba2006.hbs.edu or LI)  
 
 ### Ericsson  
 `Per Narvinger, LI connect 9/9`  
@@ -78,7 +78,7 @@ Utåtriktade insatser
 - Andrea Quaye (maybe andrea.quaye AT heineken.com ?)
 
 ### Icasa
-- Juan Pablo Caballeros (juancaballeros@icasa.com.gt)
+- Juan Pablo Caballeros (juancaballeros AT icasa.com.gt)
 - Juan Aldana (juanaldana AT icasa.com.gt)	Juan	Juan	Aldana
 
 ### Kimberly-Clark  
