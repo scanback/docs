@@ -1,10 +1,10 @@
 ---
-title: "Ut"
+title: "Utåt"
 description: "Utåtriktade insatser"
 robots: noindex, nofollow
 sitemap: false
 ---
-# Ut
+# Utåt
 Utåtriktade insatser
 
 ## People
@@ -124,7 +124,7 @@ Luong Manh Hoang (hoanglm AT vnpt.vn)
 Nguyen Truong Giang (giangnt AT vnpt.vn)	
 
 ### Other  
-`Pieter Louw, Remgro, LI connect 10/7 (pl AT remgro.com) email 10/29`
+`Pieter Louw, Remgro, LI connect 10/7 (pl AT remgro.com) email 10/29`  
 `Mark Luce, G=mc<sup>2</sup> (mark.luce AT gmc2.com) 10/7`  
 `Mark Fleming, Ardagh Group (mark.fleming AT ardaghgroup.com)  10/7`  
 `Max Jonsson, Sida (maximilian.jonsson AT sida.se) 10/7`  
@@ -133,15 +133,15 @@ Nguyen Truong Giang (giangnt AT vnpt.vn)
 - Lucas Verway (lverwey7 AT gmail.com)   
 - Magnus Tyreman, SSE (li)  
 - Tore Myrholt  
-- Albert Baladi (ex-Beam Suntory; now BIC and Pernod-Ricard boards) (albert.baladi@gmail.com)
-- Miguel Patricio
-`Joao M. Castro-Neves, 3G (li connect 10/7)`
-- Carlos Onassis Duron, Lacthosa
-- Andrew Woodhouse, Asahi (ex-SABM)
-- Pieter Louw, Remgro (pl AT remgro.com confirmed, maybe plouw@remgro.com)
+- Albert Baladi (ex-Beam Suntory; now BIC and Pernod-Ricard boards) (albert.baladi@gmail.com)  
+- Miguel Patricio  
+`Joao M. Castro-Neves, 3G (li connect 10/7)`  
+- Carlos Onassis Duron, Lacthosa  
+- Andrew Woodhouse, Asahi (ex-SABM)  
+- Pieter Louw, Remgro (pl AT remgro.com confirmed, maybe plouw@remgro.com)  
 
 #### Bain  
-?  
+- Brusselsman
 #### McKinsey  
 - Kelly Brennan
    
