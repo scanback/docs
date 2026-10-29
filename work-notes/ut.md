@@ -133,17 +133,17 @@ Nguyen Truong Giang (giangnt AT vnpt.vn)
 - Lucas Verway (lverwey7 AT gmail.com)   
 - Magnus Tyreman, SSE (li)  
 - Tore Myrholt  
-- Albert Baladi (ex-Beam Suntory; now BIC and Pernod-Ricard boards) (albert.baladi@gmail.com)  
+- Albert Baladi (ex-Beam Suntory; now BIC and Pernod-Ricard boards) (albert.baladi AT gmail.com)  
 - Miguel Patricio  
 `Joao M. Castro-Neves, 3G (li connect 10/7)`  
 - Carlos Onassis Duron, Lacthosa  
 - Andrew Woodhouse, Asahi (ex-SABM)  
-- Pieter Louw, Remgro (pl AT remgro.com confirmed, maybe plouw@remgro.com)  
+- Pieter Louw, Remgro (pl AT remgro.com confirmed, maybe plouw AT remgro.com)  
 
 #### Bain  
-- Brusselsman
+- Brusselsman  
 #### McKinsey  
-- Kelly Brennan
+- Kelly Brennan  
    
 ## Alster  
 - Change "Figshare test" to something else of low importance  
