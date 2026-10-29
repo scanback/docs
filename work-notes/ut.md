@@ -141,7 +141,7 @@ Nguyen Truong Giang (giangnt AT vnpt.vn)
 - Pieter Louw, Remgro (pl AT remgro.com confirmed, maybe plouw AT remgro.com)  
 
 #### Bain  
-- Brusselsman  
+- Guy Brusselsman (guy.brusselmans AT bain.com) & Giancarlo Picchi (giancarlo.picchi AT bain.com)
 #### McKinsey  
 - Kelly Brennan  
    
