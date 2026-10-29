@@ -79,7 +79,7 @@ Utåtriktade insatser
 
 ### Icasa
 - Juan Pablo Caballeros (juancaballeros AT icasa.com.gt)
-- Juan Aldana (juanaldana AT icasa.com.gt)	Juan	Juan	Aldana
+- Juan Aldana (juanaldana AT icasa.com.gt)
 
 ### Kimberly-Clark  
 `Ricardo Dalmas (ricardo.dalmas AT kcc.com)  email 10/15`
