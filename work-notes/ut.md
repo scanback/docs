@@ -124,7 +124,7 @@ Luong Manh Hoang (hoanglm AT vnpt.vn)
 Nguyen Truong Giang (giangnt AT vnpt.vn)	
 
 ### Other  
-~~Pieter Louw, Remgro, LI connect 10/7~~  (pl AT remgro.com) email 10/29
+`Pieter Louw, Remgro, LI connect 10/7 (pl AT remgro.com) email 10/29`
 `Mark Luce, G=mc<sup>2</sup> (mark.luce AT gmc2.com) 10/7`  
 `Mark Fleming, Ardagh Group (mark.fleming AT ardaghgroup.com)  10/7`  
 `Max Jonsson, Sida (maximilian.jonsson AT sida.se) 10/7`  
