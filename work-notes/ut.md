@@ -13,13 +13,13 @@ Utåtriktade insatser
 `Mauricio Leyva (? AT 7-11.com ?)`   
     
 ### ABI  
-`Michel Doukeris (michel.doukeris AT ab-inbev.com) & David Almeida (david.almeida AT ab-inbev.com`  
+`Michel Doukeris (michel.doukeris AT ab-inbev.com) & David Almeida (david.almeida AT ab-inbev.com)`  
 ~~Paul Donaldson (paul.donaldson AT ab-inbev.com) 10/6 mail~~   
 - Fabian Suarez (fabian.suarez AT ab-inbev.com)  
 - Richard Rivett-Carnac (richard.rivett-carnac AT za.ab-inbev.com)   
 - Carlos Lisboa (at carlos.lisboa AT ambev.com or carlos.lisboa AT ab-inbev.com ?)   
-- Sergio Rincón (sergio.rincon AT ab-inbev.com)  
-
+- Sergio Rincón (sergio.rincon AT ab-inbev.com)
+- Ben Verhaert (Western Europe and Expansion)
   
 ### Allied Bernstein
 `Euan McLeish (euan.mcleish AT bernstein.com`  
