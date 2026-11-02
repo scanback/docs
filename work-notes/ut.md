@@ -57,7 +57,7 @@ Utåtriktade insatser
 - Mauricio	Restrepo (mrestrepo AT darnelgroup.com)
 
 ### Diageo
-- Akani Rodriguez (ex ABI) akani.rodriguezlopez AT diageo.com
+`Akani Rodriguez (ex ABI) (akani.rodriguezlopez AT diageo.com) Email 11/2`
   
 ### Disney  
 - Sylvia Dong (ex PepsiCo) (? or sdong AT mba2006.hbs.edu or LI)  
@@ -79,7 +79,7 @@ Utåtriktade insatser
 
 ### Icasa
 - Juan Pablo Caballeros (juancaballeros AT icasa.com.gt)
-- Juan Aldana (juanaldana AT icasa.com.gt)
+`Juan Aldana (juanaldana AT icasa.com.gt)`
 
 ### Kimberly-Clark  
 `Ricardo Dalmas (ricardo.dalmas AT kcc.com)  email 10/15`
@@ -95,7 +95,7 @@ Akram Osman (akosman AT malomatia.com)
 Ahmad El Hakim (ahakim AT malomatia.com)
 
 ### Mondelez  
-- Jit Lodd (Jit.Lodd AT mdlz.com)    
+`Jit Lodd (Jit.Lodd AT mdlz.com) Email 10/15`
 - Pam Forbus (Pamela.Forbus AT mdlz.com)  
 
 ### Nutresa (Cloetta bilar)  
@@ -103,14 +103,11 @@ Ahmad El Hakim (ahakim AT malomatia.com)
 - Beatriz Lopez (belopez AT chocolates.com.co)  
 
 ### PepsiCo  
-- Carl Persson (carl.persson AT pepsico.com)  
+`Carl Persson (carl.persson AT pepsico.com)  Email 10/18`
 - Ewa Witkowska (? or ewawit AT yahoo.com)  
 - Stephan Gans (? or stephangans AT gmail.com)  
 - Chris Jung (? or cjejung AT gmail.com)  
 - David Schwarz (? or dschwartz AT mba2004.hbs.edu)  
-
-### Qatar (malomatia)  
-- Ahmed
 
 ### Sigma Foods
 `Hernan Arizu LI message 10/27`
@@ -138,7 +135,7 @@ Nguyen Truong Giang (giangnt AT vnpt.vn)
 `Joao M. Castro-Neves, 3G (li connect 10/7)`  
 - Carlos Onassis Duron, Lacthosa  
 - Andrew Woodhouse, Asahi (ex-SABM)  
-- Pieter Louw, Remgro (pl AT remgro.com confirmed, maybe plouw AT remgro.com)  
+`Pieter Louw, Remgro (pl AT remgro.com confirmed, maybe plouw AT remgro.com)  Email 10/18`
 
 #### Bain  
 - Guy Brusselsman (guy.brusselmans AT bain.com) & Giancarlo Picchi (giancarlo.picchi AT bain.com)
