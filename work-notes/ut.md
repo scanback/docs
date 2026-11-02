@@ -57,7 +57,7 @@ Utåtriktade insatser
 `Mauricio	Restrepo (mrestrepo AT darnelgroup.com) Email 11/2`
 
 ### Diageo
-`Akani Rodriguez (ex ABI) (akani.rodriguezlopez AT diageo.com) Email 11/2`
+`Akani Rodriguez (ex ABI) (akani.rodriguezlopez AT diageo.com) Email 11/2. Bounced. followed up through LI`
   
 ### Disney  
 - Sylvia Dong (ex PepsiCo) (? or sdong AT mba2006.hbs.edu or LI)  
@@ -121,7 +121,7 @@ Utåtriktade insatser
 - Nguyen Truong Giang (giangnt AT vnpt.vn)	
 
 ### Other  
-`Pieter Louw, Remgro, LI connect 10/7 (pl AT remgro.com) email 10/29`  
+`Pieter Louw, Remgro, LI connect 10/7 (pl AT remgro.com) email 10/29. No response. Followed up through LI`  
 `Mark Luce, G=mc<sup>2</sup> (mark.luce AT gmc2.com) 10/7`  
 `Mark Fleming, Ardagh Group (mark.fleming AT ardaghgroup.com)  10/7`  
 `Max Jonsson, Sida (maximilian.jonsson AT sida.se) 10/7`  
