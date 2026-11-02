@@ -7,12 +7,10 @@ image: /assets/social-card-publ.png
 
 # Sutskever (OpenAI Co-Founder) on the Simplicity of LLM AI
 
-*Being edited*
+"Hinton gave Sutskever some papers to read, which he devoured. He remembers being perplexed by the simplicity of the math, compared to the math and physics of his regular undergrad coursework. He could read these papers on deep learning and understand powerful concepts. 'How can it be that it's so simple…so simple that you can explain it to high school students without too much effort?' he told me. 'I think that's actually miraculous. This is also, to me, an indication that we are probably on the right track. [It can't] be a coincidence that such simple concepts go so far.'"
 
-'Hinton gave Sutskever some papers to read, which he devoured. He remembers bein perplexed by the simplicity of the math, compared to the math and physics of his regular undergrad coursework. He could read these papers on deep learning and understand powerful concepts. "How can it be that it's so simple…so simple that you can explain it to high school students without too much effort?" he told me. "I think that's actually miraculous. This is also, to me, an indication that we are probably on the right track. [it can't] be a coincidence that such simple concepts go so far."'
+<p align="right">In <i>Why Machines Learn: The Elegant Math Behind Modern AI</i> by Anil Ananthaswamy (2024).</p>
 
-<style align="right">In *Why Machines Learn: The Elegant Math Behind Modern AI* by Anil Ananthaswamy (2024).</style>
+<p style="font-size: 80%;">Ilya Sutskever co-founded OpenAI. He was chief scientist and served on the board of directors. He is currently CEO of SSI. Sutskever has 870,000 scientific citations to his name.</p>
 
-Ilya Sutskever co-founded OpenAI. He was chief scientist and served on the board of directors. He is one of the most highly cited computer scientists in history.
-
-
+<p style="font-size: 80%;">Geoffrey Hinton is University Professor Emeritus at the University of Toronto (where modern AI was created under his leadership); Nobel Prize winner in physics; Turing Prize winner. He is referred to as the "godfather of AI."</p>

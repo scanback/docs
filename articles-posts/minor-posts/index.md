@@ -7,6 +7,9 @@ image: /assets/social-card-think.png
 # Minor Posts
 A secondary log of minor social media posts that nevertheless are relevant to decision makers. [The main posts are here.](../index.md) 
 
+### [Sutskever (OpenAI Co-Founder) on the Simplicity of LLM AI](sutskever.md)
+"How can it be that it's so simple…so simple that you can explain it to high school students without too much effort?" from *Why Machines Learn* by Anil Ananthaswamy
+
 ### [Decision Advantage — Competitive Decision Advantage — Sustainable Decision Advantage](decision-advantage.md)
 These are the words that the future of management is all about. How to win on decision-making quality. Few companies think like this...yet.
 
