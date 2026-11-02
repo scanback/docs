@@ -54,7 +54,7 @@ Utåtriktade insatser
 `Mikael Staffas, Boliden`
 
 ### Darnel
-- Mauricio	Restrepo (mrestrepo AT darnelgroup.com)
+`Mauricio	Restrepo (mrestrepo AT darnelgroup.com) Email 11/2`
 
 ### Diageo
 `Akani Rodriguez (ex ABI) (akani.rodriguezlopez AT diageo.com) Email 11/2`
@@ -91,8 +91,8 @@ Utåtriktade insatser
 - Sam Martin (nashvillesky2001 AT yahoo.com)
 
 ### Malomatia
-Akram Osman (akosman AT malomatia.com)
-Ahmad El Hakim (ahakim AT malomatia.com)
+- Akram Osman (akosman AT malomatia.com)
+- Ahmad El Hakim (ahakim AT malomatia.com)
 
 ### Mondelez  
 `Jit Lodd (Jit.Lodd AT mdlz.com) Email 10/15`
@@ -117,8 +117,8 @@ Ahmad El Hakim (ahakim AT malomatia.com)
 - Helmut Engelbrecht (helmut.engelbrecht AT standardbank.co.za)
 
 ### VNPT
-Luong Manh Hoang (hoanglm AT vnpt.vn)
-Nguyen Truong Giang (giangnt AT vnpt.vn)	
+- Luong Manh Hoang (hoanglm AT vnpt.vn)
+- Nguyen Truong Giang (giangnt AT vnpt.vn)	
 
 ### Other  
 `Pieter Louw, Remgro, LI connect 10/7 (pl AT remgro.com) email 10/29`  
