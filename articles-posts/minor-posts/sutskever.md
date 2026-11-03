@@ -11,6 +11,7 @@ image: /assets/social-card-publ.png
 
 <p align="right">In <i>Why Machines Learn: The Elegant Math Behind Modern AI</i> by Anil Ananthaswamy (2024).</p>
 
-<p style="font-size: 80%;">Ilya Sutskever co-founded OpenAI. He was chief scientist and served on the board of directors. He is currently CEO of SSI. Sutskever has 870,000 scientific citations to his name.</p>
+<p style="font-size: 80%;"><a href="https://openai.com"  target="_blank" ><span style="color: black; text-decoration: none">Ilya Sutskever co-founded </span>OpenAI<span style="color: black; text-decoration: none"></span>.</a> He was chief scientist and served on the board of directors. <a href="https://ssi.inc"  target="_blank" ><span style="color: black; text-decoration: none">He is currently CEO of </span>SSI.<span style="color: black; text-decoration: none"></span></a>
+ Sutskever has 870,000 scientific citations to his name.</p>
 
-<p style="font-size: 80%;">Geoffrey Hinton is University Professor Emeritus at the University of Toronto (where modern AI was created under his leadership); Nobel Prize winner in physics; Turing Prize winner. He is referred to as the "godfather of AI."</p>
+<p style="font-size: 80%;"><a href="https://www.utoronto.ca/"  target="_blank" ><span style="color: black; text-decoration: none">Geoffrey Hinton is University Professor Emeritus at the </span>University of Toronto <span style="color: black; text-decoration: none"></span></a> (where modern AI was created under his leadership); Nobel Prize winner in physics; Turing Prize winner. He is referred to as the "godfather of AI."</p>
