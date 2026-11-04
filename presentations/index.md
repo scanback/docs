@@ -18,6 +18,11 @@ The presentation combines **Coasian Transaction Cost Economics**, with **chaos t
 I find some of the thinking dated but w0n't update the deck since the first attempt invariably is the best. Most of my conclusions still hold: *managing is getting easier, ceteris paribus.*
 
 ---
+### [Staffan Canback: How Tellusant Uses AI Beyond Large Language Models: SSA AI vs. LLM AI](ssa-vs-llm.md)
+This is from an internal training session at Tellusant. The topic was that LLMs are not the only AI models. Most people think of LLMs (ChatGPT, Claude etc.) as defining AI, but this is an incorrect view.  
+$\qquad$ *The deck was in part created based on a dialogue with Gemini, [reported verbatim here](ssa-llm-verbatim.md).*
+
+
 ### [Staffan Canback: The Nature of Predictions: Negative Feedback Loops ∧ P.I.D Controllers](S.Canback-Tellusant-The-Nature-of-Predictions.pdf)
 What are predictions and how are they made. Negative feedback loops and P.I.D controllers make life possible. Learn about this from an internal training session.
 
