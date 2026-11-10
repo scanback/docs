@@ -10,6 +10,9 @@ Artiklar och annat avsedda för svenskar och finlandssvenskar.
 
 ## Nyare alster
 
+### [Omni (2026): *Analytiker: Svensk export inget att vara stolt över*](https://omni.se/analytiker-svensk-export-inget-att-vara-stolt-over/a/43XJv6)
+Den ljusa bilden av svensk export är överdriven. Det säger konsultfirman Tellusants grundare Staffan Canbäck. 🇸🇪  
+
 ### [Affärsvärlden (2026):*Gott svenskt rykte säljer i Indien*](https://www.affarsvarlden.se/artikel/gott-svenskt-rykte-saljer-i-indien-claes-ohlson-borde-finnas-har)
 Handelshinder har röjts undan och en miljardmarknad hägrar. Fler svenska bolag borde pröva lyckan i Indien, enligt en färsk analys. 🇸🇪  
 

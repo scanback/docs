@@ -7,6 +7,9 @@ image: /assets/social-card-think.png
 # Minor Posts
 A secondary log of minor social media posts that nevertheless are relevant to decision makers. [The main posts are here.](../index.md) 
 
+### [Can a Non-Statistician Do Valid Statistical Analysis Using AI? No](ai-statistical-analysis.md)
+The results will be meaningless even though they may look good to the untrained eye.
+
 ### [Sutskever (OpenAI Co-Founder) on the Simplicity of LLM AI](sutskever.md)
 "How can it be that it's so simple…so simple that you can explain it to high school students without too much effort?" from *Why Machines Learn* by Anil Ananthaswamy
 
