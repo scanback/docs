@@ -13,9 +13,9 @@ The results will be meaningless even though they may look good to the untrained 
 
 I tested ChatGPT with predicting future market size for beer, spirits, and wine based on a robust dataset for 130 countries and 9 U.S. census divisions, 2000-2024. The goal was to predict future years.
 
-The results arrived and they made little sense, so I dug a bit deeper. First, there was no test of data quality. It took what was given without considering outliers. Second, it paid no attention to heteroscedasticity and normality. Third, it did not transform the data based on differential equations which almost always needed; instead it ran linear regressions straight off. Fourth, it included unimportant explanatory variables.
+The results arrived and they made little sense, so I dug a bit deeper. First, there was no test of data quality. It took what was given without considering outliers. Second, it paid no attention to heteroscedasticity and normality. Third, it did not transform the data based on differential equations, which is almost always needed; instead it ran linear regressions straight off. Fourth, it included unimportant explanatory variables.
 
-ChatGPT showed that a naive model worked best (and it said so explicitly). That is, tomorrow is the same as today. But I know this is not the case. I pointed this out and it then did a linear regression even though the data are highly nonlinear.
+ChatGPT showed that a naive model worked best (and it said so explicitly). That is, tomorrow is the same as today. But I know this is not the case. I pointed this out and it then did a linear regression even though the data are highly nonlinear. It gave me nice (incorrect) graphs but no test statistics.
 
 As an expert, I could have fed it instructions to adjust for the factors above. But that would probably take more time than performing the analysis myself, which for me is a System 1 thinking.
 
