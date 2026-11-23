@@ -9,8 +9,6 @@ Utåtriktade insatser
 
 ## People
 
-Zandovar?
-
 ### 7-Eleven  
 `Mauricio Leyva (? AT 7-11.com ?)`   
     
@@ -136,7 +134,8 @@ Zandovar?
 - Miguel Patricio  
 `Joao M. Castro-Neves, 3G (li connect 10/7)`  
 - Carlos Onassis Duron, Lacthosa  
-- Andrew Woodhouse, Asahi (ex-SABM)  
+- Andrew Woodhouse, Asahi (ex-SABM)
+- Danilo Zaldivar (Central de Ingenios S.A.)
 `Pieter Louw, Remgro (pl AT remgro.com confirmed, maybe plouw AT remgro.com)  Email 10/18`
 
 #### Bain  
