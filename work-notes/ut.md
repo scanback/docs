@@ -135,7 +135,7 @@ Utåtriktade insatser
 `Joao M. Castro-Neves, 3G (li connect 10/7)`  
 - Carlos Onassis Duron, Lacthosa  
 - Andrew Woodhouse, Asahi (ex-SABM)
-- Danilo Zaldivar (Central de Ingenios S.A.)  
+- Danilo Zaldivar (Central de Ingenios S.A.)  dzaldivar AT cisahn.com
 `Pieter Louw, Remgro (pl AT remgro.com confirmed, maybe plouw AT remgro.com)  Email 10/18`
 
 #### Bain  
